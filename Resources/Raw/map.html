@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CCB Mapas</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    html, body, #map {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      width: 100%;
+    }
+
+    .church-marker {
+      background: transparent;
+      border: 0;
+    }
+
+    .church-pin {
+      border: 2px solid #ffffff;
+      border-radius: 50% 50% 50% 0;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+      display: block;
+      height: 22px;
+      transform: rotate(-45deg);
+      width: 22px;
+    }
+
+    .church-pin::after {
+      background: #ffffff;
+      border-radius: 50%;
+      content: "";
+      height: 8px;
+      left: 7px;
+      position: absolute;
+      top: 7px;
+      width: 8px;
+    }
+
+    .church-pin-blue {
+      background: #2563eb;
+    }
+
+    .church-pin-green {
+      background: #16a34a;
+    }
+
+    .church-pin-red {
+      background: #dc2626;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    var map;
+    var churchLayer;
+    var selectedMarker = null;
+
+    function initMap() {
+      if (map || typeof L === 'undefined') {
+        return;
+      }
+
+      map = L.map('map').setView([39.5, -8.0], 6);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+      }).addTo(map);
+
+      churchLayer = L.layerGroup().addTo(map);
+      console.log('map initialized');
+    }
+
+    function decodeBase64Utf8(base64) {
+      var binary = atob(base64);
+      var bytes = new Uint8Array(binary.length);
+
+      for (var i = 0; i < binary.length; i++) {
+        bytes[i] = binary.charCodeAt(i);
+      }
+
+      return new TextDecoder('utf-8').decode(bytes);
+    }
+
+    function escapeHtml(value) {
+      return String(value || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    function buildGoogleMapsRouteUrl(lat, lon) {
+      return 'https://www.google.com/maps/dir/?api=1&destination=' +
+        encodeURIComponent(lat + ',' + lon);
+    }
+
+    function createChurchIcon(color) {
+      return L.divIcon({
+        className: 'church-marker',
+        html: '<span class="church-pin church-pin-' + color + '"></span>',
+        iconSize: [26, 26],
+        iconAnchor: [13, 26],
+        popupAnchor: [0, -26]
+      });
+    }
+
+    function normalizeText(value) {
+      return String(value || '')
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function getTodayName() {
+      var weekDays = [
+        'domingo',
+        'segunda-feira',
+        'terca-feira',
+        'quarta-feira',
+        'quinta-feira',
+        'sexta-feira',
+        'sabado'
+      ];
+
+      return weekDays[new Date().getDay()];
+    }
+
+    function hasCultToday(church) {
+      var agenda = church.Agenda || {};
+      var today = getTodayName();
+      var horarios = agenda.Horarios || {};
+
+      if (Object.keys(horarios).some(function(dia) { return normalizeText(dia) === today; })) {
+        return true;
+      }
+
+      return Array.isArray(agenda.DiasDeCulto) &&
+        agenda.DiasDeCulto.some(function(dia) { return normalizeText(dia) === today; });
+    }
+
+    function setSelectedMarker(marker) {
+      if (selectedMarker && selectedMarker !== marker) {
+        selectedMarker.setIcon(selectedMarker.defaultIcon);
+      }
+
+      selectedMarker = marker;
+      marker.setIcon(createChurchIcon('red'));
+    }
+
+    function formatPopup(church, lat, lon) {
+      var agenda = church.Agenda || {};
+      var horarios = agenda.Horarios || {};
+      var cultos = Object.keys(horarios)
+        .filter(function(dia) { return horarios[dia]; })
+        .map(function(dia) { return escapeHtml(dia) + ': ' + escapeHtml(horarios[dia]); });
+
+      if (cultos.length === 0 && Array.isArray(agenda.DiasDeCulto)) {
+        cultos = agenda.DiasDeCulto.map(function(dia) { return escapeHtml(dia); });
+      }
+
+      return '<strong>' + escapeHtml(church.Nome) + '</strong><br />' +
+        escapeHtml(church.Logradouro) + '<br />' +
+        escapeHtml(church.Cidade) +
+        (cultos.length > 0 ? '<br /><strong>Cultos:</strong><br />' + cultos.join('<br />') : '') +
+        '<br /><a href="' + buildGoogleMapsRouteUrl(lat, lon) + '" target="_blank" rel="noopener">Abrir rota no Google Maps</a>';
+    }
+
+    function loadChurches(churches) {
+      initMap();
+
+      if (!map || !churchLayer || !Array.isArray(churches)) {
+        console.error('invalid church payload');
+        return;
+      }
+
+      churchLayer.clearLayers();
+      var bounds = [];
+
+      churches.forEach(function(church) {
+        var coords = church.Coordenadas || {};
+
+        if (coords.lat == null || coords.lon == null) {
+          return;
+        }
+
+        var lat = Number(coords.lat);
+        var lon = Number(coords.lon);
+
+        if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+          return;
+        }
+
+        var marker = L.marker([lat, lon], {
+          icon: createChurchIcon(hasCultToday(church) ? 'green' : 'blue')
+        }).addTo(churchLayer).bindPopup(formatPopup(church, lat, lon));
+
+        marker.defaultIcon = marker.options.icon;
+        marker.on('popupopen', function() {
+          setSelectedMarker(marker);
+        });
+        marker.on('popupclose', function() {
+          if (selectedMarker === marker) {
+            marker.setIcon(marker.defaultIcon);
+            selectedMarker = null;
+          }
+        });
+
+        bounds.push([lat, lon]);
+      });
+
+      if (bounds.length > 0) {
+        map.fitBounds(bounds, { padding: [24, 24] });
+      }
+
+      console.log('churches loaded: ' + bounds.length);
+    }
+
+    function loadChurchesBase64(base64) {
+      try {
+        loadChurches(JSON.parse(decodeBase64Utf8(base64)));
+        return 'ok';
+      } catch (e) {
+        console.error('loadChurchesBase64 error', e);
+        return 'error';
+      }
+    }
+
+    function receiveDataFromMaui(base64) {
+      return loadChurchesBase64(base64);
+    }
+
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+      setTimeout(initMap, 50);
+    } else {
+      window.addEventListener('DOMContentLoaded', initMap);
+    }
+  </script>
+</body>
+</html>
