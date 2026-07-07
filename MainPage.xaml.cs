@@ -14,6 +14,7 @@ namespace CCB_Mapas_App
 	{
 		private readonly ChurchService _churchService;
 		private bool mapLoaded = false;
+		private static readonly HttpClient _httpClient = new HttpClient { DefaultRequestHeaders = { { "User-Agent", "CCBMapasApp/1.0" } } };
 
 		public MainPage(ChurchService churchService)
 		{
@@ -136,21 +137,29 @@ namespace CCB_Mapas_App
 
 			try
 			{
-				var localidades = await Geocoding.Default.GetLocationsAsync(textoPesquisa);
-				var localidade = localidades?.FirstOrDefault();
+				var url = $"https://nominatim.openstreetmap.org/search?q={Uri.EscapeDataString(textoPesquisa)}&format=json&limit=1";
+				var json = await _httpClient.GetStringAsync(url);
+				var resultados = System.Text.Json.JsonSerializer.Deserialize<List<NominatimResult>>(json, new System.Text.Json.JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+				var localidade = resultados?.FirstOrDefault();
 
-				if (localidade == null)
+				if (localidade == null || !double.TryParse(localidade.Lat, CultureInfo.InvariantCulture, out var lat) || !double.TryParse(localidade.Lon, CultureInfo.InvariantCulture, out var lon))
 				{
 					Debug.WriteLine($"Nenhuma localidade encontrada para: {textoPesquisa}");
 					return;
 				}
 
-				await EnviarPesquisaParaMapaAsync(localidade.Latitude, localidade.Longitude);
+				await EnviarPesquisaParaMapaAsync(lat, lon);
 			}
 			catch (Exception ex)
 			{
 				Debug.WriteLine($"Erro ao pesquisar localidade: {ex.Message}");
 			}
+		}
+
+		private class NominatimResult
+		{
+			public string? Lat { get; set; }
+			public string? Lon { get; set; }
 		}
 
 		private async Task EnviarPesquisaParaMapaAsync(double latitude, double longitude)

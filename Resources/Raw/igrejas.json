@@ -2367,10 +2367,10 @@
         "Logradouro": "Rua das Flores, 31-33",
         "CEP": "2500-170",
         "Cidade": "Caldas da Rainha, LE, Portugal",
-        "Coordenadas": {
-            "lat": 38.7100038,
-            "lon": -9.1435181
-        },
+      "Coordenadas": {
+        "lat": 39.407724831777806,
+        "lon": -9.138415212247688
+      },
         "Agenda": {
             "DiasDeCulto": [
                 "Domingo",
