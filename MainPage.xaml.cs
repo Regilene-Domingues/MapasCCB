@@ -111,6 +111,64 @@ namespace CCB_Mapas_App
 			catch (Exception ex) { Debug.WriteLine("❌ Erro ao carregar HTML: " + ex.Message); }
 		}
 
+		private async void LocationSearchBar_SearchButtonPressed(object sender, EventArgs e)
+		{
+			await PesquisarLocalidadeAsync();
+		}
+
+		private async void LocationSearchBar_TextChanged(object sender, TextChangedEventArgs e)
+		{
+			if (string.IsNullOrWhiteSpace(e.NewTextValue))
+			{
+				await LimparPesquisaNoMapaAsync();
+			}
+		}
+
+		private async Task PesquisarLocalidadeAsync()
+		{
+			var textoPesquisa = LocationSearchBar.Text?.Trim();
+
+			if (string.IsNullOrWhiteSpace(textoPesquisa))
+			{
+				await LimparPesquisaNoMapaAsync();
+				return;
+			}
+
+			try
+			{
+				var localidades = await Geocoding.Default.GetLocationsAsync(textoPesquisa);
+				var localidade = localidades?.FirstOrDefault();
+
+				if (localidade == null)
+				{
+					Debug.WriteLine($"Nenhuma localidade encontrada para: {textoPesquisa}");
+					return;
+				}
+
+				await EnviarPesquisaParaMapaAsync(localidade.Latitude, localidade.Longitude);
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"Erro ao pesquisar localidade: {ex.Message}");
+			}
+		}
+
+		private async Task EnviarPesquisaParaMapaAsync(double latitude, double longitude)
+		{
+			var lat = latitude.ToString(CultureInfo.InvariantCulture);
+			var lon = longitude.ToString(CultureInfo.InvariantCulture);
+			await MapWebView.EvaluateJavaScriptAsync($"setSearchLocation({lat}, {lon})");
+		}
+
+		private async Task LimparPesquisaNoMapaAsync()
+		{
+			if (!mapLoaded)
+			{
+				return;
+			}
+
+			await MapWebView.EvaluateJavaScriptAsync("clearSearchLocation()");
+		}
 		private async Task EnviarDadosParaJS()
 		{
 			try

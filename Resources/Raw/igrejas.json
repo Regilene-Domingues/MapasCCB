@@ -1323,12 +1323,14 @@
             "DiasDeCulto": [
                 "Domingo",
                 "Segunda-feira",
-                "Quarta-feira"
+                "Quarta-feira",
+                "Sexta-feira"
             ],
             "Horarios": {
                 "Domingo": "19:30 / RJM Dom 10:00",
-                "Segunda-feira": "Sex 20:30",
-                "Quarta-feira": "Sex 20:30"
+                "Segunda-feira": "20:30",
+                "Quarta-feira": "20:30",
+                "Sexta-feira" : "20:30"
             },
             "Obs": "Localidade Matosinhos CENTRAL PT-01-0079 Localização Logradouro: Rua Brito e Cunha, 622 - A CEP: 4450-084 Cidade: Matosinhos, PO, Portugal Dias de Culto Dom 19:30 - Seg-Qua-Sex 20:30 (RJM Dom 10:00) Ministério Ancião ARMANDO JOSÉ DIAS Cooperador Ofício Ministerial José Maria Pinto de Pinho Chumbinho Diácono Joaquim Jorge Tavares Marinho Pedro Nuno Oliveira Gonçalves Cooperador de Jovens e Menores Ricardo Miguel Gonçalves Teixeira Silva Telefone(s) +351 (229) 383-901"
         }
@@ -2387,10 +2389,10 @@
         "Logradouro": "Estrada Nacional 114, 125",
         "CEP": "2525-837",
         "Cidade": "Peniche, LE, Portugal",
-        "Coordenadas": {
-            "lat": null,
-            "lon": null
-        },
+      "Coordenadas": {
+        "lat": 39.33033031026257,
+        "lon": -9.283605208030835
+      },
         "Agenda": {
             "DiasDeCulto": [
                 "Domingo",
@@ -3174,10 +3176,10 @@
         "Logradouro": "Largo das Areias, 4",
         "CEP": "2130-259",
         "Cidade": "Benavente, SA, Portugal",
-        "Coordenadas": {
-            "lat": 41.9976643,
-            "lon": -5.6795078
-        },
+      "Coordenadas": {
+        "lat": 38.977590526913346,
+        "lon": -8.81607334061436
+      },
         "Agenda": {
             "DiasDeCulto": [
                 "Terça-feira",

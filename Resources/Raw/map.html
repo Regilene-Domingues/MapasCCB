@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt">
 <head>
   <meta charset="utf-8" />
@@ -63,6 +63,7 @@
     var map;
     var churchLayer;
     var selectedMarker = null;
+    var searchCircle = null;
 
     function initMap() {
       if (map || typeof L === 'undefined') {
@@ -72,7 +73,7 @@
       map = L.map('map').setView([39.5, -8.0], 6);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: '© OpenStreetMap'
+        attribution: 'Â© OpenStreetMap'
       }).addTo(map);
 
       churchLayer = L.layerGroup().addTo(map);
@@ -175,6 +176,39 @@
         '<br /><a href="' + buildGoogleMapsRouteUrl(lat, lon) + '" target="_blank" rel="noopener">Abrir rota no Google Maps</a>';
     }
 
+    function clearSearchLocation() {
+      if (searchCircle && map) {
+        map.removeLayer(searchCircle);
+        searchCircle = null;
+      }
+
+      return 'ok';
+    }
+
+    function setSearchLocation(lat, lon) {
+      initMap();
+
+      lat = Number(lat);
+      lon = Number(lon);
+
+      if (!map || !Number.isFinite(lat) || !Number.isFinite(lon)) {
+        return 'invalid_location';
+      }
+
+      clearSearchLocation();
+
+      var point = [lat, lon];
+      searchCircle = L.circle(point, {
+        color: '#dc2626',
+        fillColor: '#dc2626',
+        fillOpacity: 0.18,
+        radius: 500,
+        weight: 2
+      }).addTo(map);
+
+      map.setView(point, Math.max(map.getZoom(), 15));
+      return 'ok';
+    }
     function loadChurches(churches) {
       initMap();
 
