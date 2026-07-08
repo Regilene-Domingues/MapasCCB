@@ -3,18 +3,43 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CCB_Mapas_App.MainPage">
 
-    <Grid RowDefinitions="Auto,*">
+    <Grid RowDefinitions="Auto,Auto,*">
+
         <SearchBar x:Name="LocationSearchBar"
                    Grid.Row="0"
                    Margin="12,8"
                    Placeholder="Pesquisar localidade"
                    SearchButtonPressed="LocationSearchBar_SearchButtonPressed"
-                   TextChanged="LocationSearchBar_TextChanged" />
+                   TextChanged="LocationSearchBar_TextChanged"/>
 
         <WebView x:Name="MapWebView"
-                 Grid.Row="1"
+                 Grid.Row="2"
                  HorizontalOptions="Fill"
-                 VerticalOptions="Fill" />
+                 VerticalOptions="Fill"/>
+
+        <!--<ImageButton
+            x:Name="LocationButton"
+            Grid.Row="2"
+            Source="my_location.png"
+            BackgroundColor="White"
+            WidthRequest="30"
+            HeightRequest="30"
+            CornerRadius="15"
+            Padding="1"
+            Margin="13,76,0,0"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            Clicked="LocationButton_Clicked">
+
+                    <ImageButton.Shadow>
+                        <Shadow Brush="#000000"
+                        Offset="0,2"
+                        Radius="4"
+                        Opacity="0.18"/>
+                    </ImageButton.Shadow>
+
+        </ImageButton>-->
+
     </Grid>
 
 </ContentPage>

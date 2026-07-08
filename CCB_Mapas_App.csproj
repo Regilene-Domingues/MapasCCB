@@ -26,6 +26,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <MauiCss Remove="Resources\Raw\controls.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
     <PackageReference Include="Microsoft.Maui.Controls.Maps" Version="$(MauiVersion)" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />

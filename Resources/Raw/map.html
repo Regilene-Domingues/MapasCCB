@@ -1,59 +1,60 @@
 ﻿<!DOCTYPE html>
 <html lang="pt">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CCB Mapas</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <style>
-    html, body, #map {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CCB Mapas</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="controls.css" />
+    <style>
+        html, body, #map {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
 
-    #map {
-      width: 100%;
-    }
+        #map {
+            width: 100%;
+        }
 
-    .church-marker {
-      background: transparent;
-      border: 0;
-    }
+        .church-marker {
+            background: transparent;
+            border: 0;
+        }
 
-    .church-pin {
-      border: 2px solid #ffffff;
-      border-radius: 50% 50% 50% 0;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
-      display: block;
-      height: 22px;
-      transform: rotate(-45deg);
-      width: 22px;
-    }
+        .church-pin {
+            border: 2px solid #ffffff;
+            border-radius: 50% 50% 50% 0;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+            display: block;
+            height: 22px;
+            transform: rotate(-45deg);
+            width: 22px;
+        }
 
-    .church-pin::after {
-      background: #ffffff;
-      border-radius: 50%;
-      content: "";
-      height: 8px;
-      left: 7px;
-      position: absolute;
-      top: 7px;
-      width: 8px;
-    }
+            .church-pin::after {
+                background: #ffffff;
+                border-radius: 50%;
+                content: "";
+                height: 8px;
+                left: 7px;
+                position: absolute;
+                top: 7px;
+                width: 8px;
+            }
 
-    .church-pin-blue {
-      background: #2563eb;
-    }
+        .church-pin-blue {
+            background: #2563eb;
+        }
 
-    .church-pin-green {
-      background: #16a34a;
-    }
+        .church-pin-green {
+            background: #16a34a;
+        }
 
-    .church-pin-red {
-      background: #dc2626;
-    }
-  </style>
+        .church-pin-red {
+            background: #dc2626;
+        }
+    </style>
 </head>
 <body>
   <div id="map"></div>
@@ -76,9 +77,84 @@
         attribution: 'Â© OpenStreetMap'
       }).addTo(map);
 
-      churchLayer = L.layerGroup().addTo(map);
-      console.log('map initialized');
+        churchLayer = L.layerGroup().addTo(map);
+        map.addControl(addLocateControl());
+        console.log('map initialized');
     }
+
+      function addLocateControl() {
+
+          var LocateControl = L.Control.extend({
+
+              options: {
+                  position: 'topleft'
+              },
+
+              onAdd: function (map) {
+
+                  // Container do controle
+                  var container = L.DomUtil.create(
+                      'div',
+                      'leaflet-bar'
+                  );
+
+                  // Botão
+                  var button = L.DomUtil.create(
+                      'a',
+                      'locate-control',
+                      container
+                  );
+
+                  button.href = "#";
+                  button.title = "Minha localização";
+                  button.setAttribute("role", "button");
+                  button.setAttribute("aria-label", "Minha localização");
+
+                  button.innerHTML = `
+                        <svg viewBox="0 0 24 24">
+                            <circle cx="12" cy="12" r="5"
+                                    fill="none"
+                                    stroke="#1976D2"
+                                    stroke-width="2"/>
+
+                            <circle cx="12" cy="12" r="2"
+                                    fill="#1976D2"/>
+
+                            <line x1="12" y1="1.5" x2="12" y2="5"
+                                  stroke="#1976D2"
+                                  stroke-width="2"
+                                  stroke-linecap="round"/>
+
+                            <line x1="12" y1="19" x2="12" y2="22.5"
+                                  stroke="#1976D2"
+                                  stroke-width="2"
+                                  stroke-linecap="round"/>
+
+                            <line x1="1.5" y1="12" x2="5" y2="12"
+                                  stroke="#1976D2"
+                                  stroke-width="2"
+                                  stroke-linecap="round"/>
+
+                            <line x1="19" y1="12" x2="22.5" y2="12"
+                                  stroke="#1976D2"
+                                  stroke-width="2"
+                                  stroke-linecap="round"/>
+                        </svg>`;
+
+                  L.DomEvent.disableClickPropagation(container);
+
+                  button.onclick = function (e) {
+                      L.DomEvent.preventDefault(e);
+                      window.location.href = "https://app.local/pegarLocalizacao";
+                  };
+
+                  return container;
+              }
+
+          });
+
+          return new LocateControl();
+      }
 
     function decodeBase64Utf8(base64) {
       var binary = atob(base64);
@@ -182,6 +258,14 @@
         searchCircle = null;
       }
 
+      return 'ok';
+    }
+
+    function centralizarNoUsuario(lat, lon) {
+      if (!map) return;
+      lat = Number(lat);
+      lon = Number(lon);
+      map.setView([lat, lon], 15);
       return 'ok';
     }
 

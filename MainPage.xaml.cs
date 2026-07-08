@@ -24,7 +24,8 @@ namespace CCB_Mapas_App
 			MapWebView.Navigating += (s, e) =>
 			{
              Debug.WriteLine($"MapWebView.Navigating -> {e.Url}");
-				if (e.Url != null && e.Url.StartsWith("app://pegarLocalizacao"))
+				if (e.Url != null &&
+					e.Url.StartsWith("https://app.local/pegarLocalizacao"))
 				{
 					e.Cancel = true;
 					_ = ObterLocalizacaoEEnviarParaMapa();
@@ -110,6 +111,11 @@ namespace CCB_Mapas_App
 #endif
 			}
 			catch (Exception ex) { Debug.WriteLine("❌ Erro ao carregar HTML: " + ex.Message); }
+		}
+		
+		private async void LocationButton_Clicked(object sender, EventArgs e)
+		{
+			await ObterLocalizacaoEEnviarParaMapa();
 		}
 
 		private async void LocationSearchBar_SearchButtonPressed(object sender, EventArgs e)

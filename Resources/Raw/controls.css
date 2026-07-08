@@ -1,0 +1,16 @@
+﻿.locate-control {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;
+    border-top: 1px solid #ccc !important;
+    border-bottom: 0 !important;
+    line-height: 30px;
+}
+
+    .locate-control svg {
+        display: block;
+        width: 28px;
+        height: 28px;
+        margin: auto;
+    }
