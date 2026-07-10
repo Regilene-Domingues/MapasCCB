@@ -54,6 +54,17 @@
         .church-pin-red {
             background: #dc2626;
         }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        .locating {
+            animation: pulse 1s infinite;
+            background-color: #e0e0e0 !important;
+        }
     </style>
 </head>
 <body>
@@ -65,6 +76,8 @@
     var churchLayer;
     var selectedMarker = null;
     var searchCircle = null;
+    var locateButton = null;
+    var hasUserLocation = false;
 
     function initMap() {
       if (map || typeof L === 'undefined') {
@@ -74,7 +87,7 @@
       map = L.map('map').setView([39.5, -8.0], 6);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: 'Â© OpenStreetMap'
+        attribution: '© OpenStreetMap'
       }).addTo(map);
 
         churchLayer = L.layerGroup().addTo(map);
@@ -99,18 +112,18 @@
                   );
 
                   // Botão
-                  var button = L.DomUtil.create(
+                  locateButton = L.DomUtil.create(
                       'a',
                       'locate-control',
                       container
                   );
 
-                  button.href = "#";
-                  button.title = "Minha localização";
-                  button.setAttribute("role", "button");
-                  button.setAttribute("aria-label", "Minha localização");
+                  locateButton.href = "#";
+                  locateButton.title = "Minha localização";
+                  locateButton.setAttribute("role", "button");
+                  locateButton.setAttribute("aria-label", "Minha localização");
 
-                  button.innerHTML = `
+                  locateButton.innerHTML = `
                         <svg viewBox="0 0 24 24">
                             <circle cx="12" cy="12" r="5"
                                     fill="none"
@@ -143,8 +156,9 @@
 
                   L.DomEvent.disableClickPropagation(container);
 
-                  button.onclick = function (e) {
+                  locateButton.onclick = function (e) {
                       L.DomEvent.preventDefault(e);
+                      locateButton.classList.add('locating');
                       window.location.href = "https://app.local/pegarLocalizacao";
                   };
 
@@ -263,9 +277,17 @@
 
     function centralizarNoUsuario(lat, lon) {
       if (!map) return;
+      
+      console.log('🚀 [PERF] Início execução JS: ' + new Date().getTime());
+      
+      // Remove animação visual se ativa
+      if (locateButton) {
+          locateButton.classList.remove('locating');
+      }
+      
       lat = Number(lat);
       lon = Number(lon);
-      map.setView([lat, lon], 15);
+      map.setView([lat, lon], 15, { animate: false });
       return 'ok';
     }
 
@@ -336,7 +358,7 @@
         bounds.push([lat, lon]);
       });
 
-      if (bounds.length > 0) {
+      if (bounds.length > 0 && !hasUserLocation) {
         map.fitBounds(bounds, { padding: [24, 24] });
       }
 

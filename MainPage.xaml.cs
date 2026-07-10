@@ -47,70 +47,107 @@ namespace CCB_Mapas_App
 
 		private async Task ObterLocalizacaoEEnviarParaMapa()
 		{
+			// 1. Solicita permissão na Thread Principal (UI)
+			var status = await Permissions.RequestAsync<Permissions.LocationWhenInUse>();
+			if (status != PermissionStatus.Granted)
+			{
+				Debug.WriteLine("❌ Permissão de localização negada.");
+				return;
+			}
+
 			try
 			{
-				Debug.WriteLine("🔍 Solicitando localização...");
-				var request = new GeolocationRequest(GeolocationAccuracy.Medium, TimeSpan.FromSeconds(30));
+				Debug.WriteLine("🔍 Solicitando localização rápida (cache)...");
+				var cachedLocation = await Geolocation.Default.GetLastKnownLocationAsync();
+				
+				// Se cache existir, centraliza agora (instantâneo)
+				if (cachedLocation != null)
+				{
+					string lat = cachedLocation.Latitude.ToString(CultureInfo.InvariantCulture);
+					string lon = cachedLocation.Longitude.ToString(CultureInfo.InvariantCulture);
+					Debug.WriteLine($"✅ Localização em cache: {lat},{lon}");
+                    Debug.WriteLine($"🚀 [PERF] Início envio JS: {DateTime.Now.Ticks}");
+					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
+				}
+
+				// GPS ATIVO (Main Thread para evitar PermissionException)
+				Debug.WriteLine("🔍 Solicitando localização precisa (GPS)...");
+				var request = new GeolocationRequest(GeolocationAccuracy.Default, TimeSpan.FromSeconds(30));
 				var location = await Geolocation.Default.GetLocationAsync(request);
+				
 				if (location != null)
 				{
 					string lat = location.Latitude.ToString(CultureInfo.InvariantCulture);
 					string lon = location.Longitude.ToString(CultureInfo.InvariantCulture);
-					Debug.WriteLine($"✅ Localização: {lat},{lon}");
+					Debug.WriteLine($"✅ Localização precisa obtida: {lat},{lon}");
+                    Debug.WriteLine($"🚀 [PERF] Início envio JS (GPS): {DateTime.Now.Ticks}");
+					
 					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
 				}
 			}
 			catch (Exception ex)
 			{
-				Debug.WriteLine($"❌ Erro GPS: {ex.Message}");
+				Debug.WriteLine($"❌ Erro inicialização localização: {ex.Message}");
 			}
+		}
+
+		private async Task< (double lat, double lon) > ObterLocalizacaoInicialAsync()
+		{
+			double lat = 39.5;
+			double lon = -8.0;
+
+			try {
+				var status = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
+				if (status == PermissionStatus.Granted)
+				{
+					var location = await Geolocation.Default.GetLastKnownLocationAsync() ?? await Geolocation.Default.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.Default, TimeSpan.FromSeconds(5)));
+					if (location != null)
+					{
+						lat = location.Latitude;
+						lon = location.Longitude;
+					}
+				}
+			} catch (Exception ex) {
+				Debug.WriteLine($"❌ Erro ao obter localização inicial: {ex.Message}");
+			}
+			return (lat, lon);
 		}
 
 		private async Task CarregarDeRecursoEmbutidoAsync()
 		{
 			try
 			{
-				Debug.WriteLine("📄 Carregando HTML (map.html) do recurso...");
-#if WINDOWS
-				Stream? stream = null;
-				try
+				Debug.WriteLine("📄 Carregando HTML (map.html) e assets do FileSystem...");
+				
+				// 1. Obtém localização inicial (sem bloquear UI)
+				var coords = await ObterLocalizacaoInicialAsync();
+				
+				using var htmlStream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/map.html");
+				using var cssStream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/leaflet.css");
+				using var jsStream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/leaflet.js");
+				
+				using var htmlReader = new StreamReader(htmlStream);
+				using var cssReader = new StreamReader(cssStream);
+				using var jsReader = new StreamReader(jsStream);
+				
+				var html = await htmlReader.ReadToEndAsync();
+				var css = await cssReader.ReadToEndAsync();
+				var js = await jsReader.ReadToEndAsync();
+				
+				// 2. Injeta os assets e a localização inicial no HTML
+				html = html.Replace("<link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.css\" />", $"<style>{css}</style>");
+				html = html.Replace("<script src=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.js\"></script>", $"<script>{js}</script>");
+				html = html.Replace("setView([39.5, -8.0], 6)", $"setView([{coords.lat.ToString(CultureInfo.InvariantCulture)}, {coords.lon.ToString(CultureInfo.InvariantCulture)}], 15)");
+				
+				if (coords.lat != 39.5 || coords.lon != -8.0)
 				{
-					stream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/map.html");
+					html = html.Replace("var hasUserLocation = false;", "var hasUserLocation = true;");
 				}
-				catch (FileNotFoundException)
-				{
-					stream = await FileSystem.OpenAppPackageFileAsync("map.html");
-				}
-
-				using (stream)
-				using (var r = new StreamReader(stream))
-				{
-					var html = await r.ReadToEndAsync();
-					MapWebView.Source = new HtmlWebViewSource { Html = html };
-				}
-				Debug.WriteLine("✅ Usando map.html como HtmlWebViewSource no Windows");
-#else
-				try
-				{
-					using var s = await FileSystem.OpenAppPackageFileAsync("map.html");
-					using var r = new StreamReader(s);
-					var html = await r.ReadToEndAsync();
-					MapWebView.Source = new HtmlWebViewSource { Html = html };
-				}
-				catch
-				{} catch (Exception ex) {
-					try
-					{
-						using var s = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/map.html");
-						using var r = new StreamReader(s);
-						var html = await r.ReadToEndAsync();
-						MapWebView.Source = new HtmlWebViewSource { Html = html };
-					}
-					catch (Exception ex) { Debug.WriteLine($"Falha ao carregar map.html: {ex.Message}"); }
-				}
-#endif
+				
+				MapWebView.Source = new HtmlWebViewSource { Html = html };
+				Debug.WriteLine($"✅ Mapa inicializado em: {coords.lat}, {coords.lon}");
 			}
-			catch (Exception ex) { Debug.WriteLine("❌ Erro ao carregar HTML: " + ex.Message); }
+			catch (Exception ex) { Debug.WriteLine("❌ Erro ao carregar recursos via FileSystem: " + ex.Message); }
 		}
 		
 		private async void LocationButton_Clicked(object sender, EventArgs e)
