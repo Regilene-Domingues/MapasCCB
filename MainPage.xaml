@@ -17,29 +17,6 @@
                  HorizontalOptions="Fill"
                  VerticalOptions="Fill"/>
 
-        <!--<ImageButton
-            x:Name="LocationButton"
-            Grid.Row="2"
-            Source="my_location.png"
-            BackgroundColor="White"
-            WidthRequest="30"
-            HeightRequest="30"
-            CornerRadius="15"
-            Padding="1"
-            Margin="13,76,0,0"
-            HorizontalOptions="Start"
-            VerticalOptions="Start"
-            Clicked="LocationButton_Clicked">
-
-                    <ImageButton.Shadow>
-                        <Shadow Brush="#000000"
-                        Offset="0,2"
-                        Radius="4"
-                        Opacity="0.18"/>
-                    </ImageButton.Shadow>
-
-        </ImageButton>-->
-
     </Grid>
 
 </ContentPage>

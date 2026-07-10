@@ -23,7 +23,6 @@ namespace CCB_Mapas_App
 
 			MapWebView.Navigating += (s, e) =>
 			{
-             Debug.WriteLine($"MapWebView.Navigating -> {e.Url}");
 				if (e.Url != null &&
 					e.Url.StartsWith("https://app.local/pegarLocalizacao"))
 				{
@@ -47,31 +46,23 @@ namespace CCB_Mapas_App
 
 		private async Task ObterLocalizacaoEEnviarParaMapa()
 		{
-			// 1. Solicita permissão na Thread Principal (UI)
 			var status = await Permissions.RequestAsync<Permissions.LocationWhenInUse>();
 			if (status != PermissionStatus.Granted)
 			{
-				Debug.WriteLine("❌ Permissão de localização negada.");
 				return;
 			}
 
 			try
 			{
-				Debug.WriteLine("🔍 Solicitando localização rápida (cache)...");
 				var cachedLocation = await Geolocation.Default.GetLastKnownLocationAsync();
 				
-				// Se cache existir, centraliza agora (instantâneo)
 				if (cachedLocation != null)
 				{
 					string lat = cachedLocation.Latitude.ToString(CultureInfo.InvariantCulture);
 					string lon = cachedLocation.Longitude.ToString(CultureInfo.InvariantCulture);
-					Debug.WriteLine($"✅ Localização em cache: {lat},{lon}");
-                    Debug.WriteLine($"🚀 [PERF] Início envio JS: {DateTime.Now.Ticks}");
 					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
 				}
 
-				// GPS ATIVO (Main Thread para evitar PermissionException)
-				Debug.WriteLine("🔍 Solicitando localização precisa (GPS)...");
 				var request = new GeolocationRequest(GeolocationAccuracy.Default, TimeSpan.FromSeconds(30));
 				var location = await Geolocation.Default.GetLocationAsync(request);
 				
@@ -79,9 +70,6 @@ namespace CCB_Mapas_App
 				{
 					string lat = location.Latitude.ToString(CultureInfo.InvariantCulture);
 					string lon = location.Longitude.ToString(CultureInfo.InvariantCulture);
-					Debug.WriteLine($"✅ Localização precisa obtida: {lat},{lon}");
-                    Debug.WriteLine($"🚀 [PERF] Início envio JS (GPS): {DateTime.Now.Ticks}");
-					
 					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
 				}
 			}
