@@ -88,12 +88,24 @@ namespace CCB_Mapas_App
 				var status = await Permissions.CheckStatusAsync<Permissions.LocationWhenInUse>();
 				if (status == PermissionStatus.Granted)
 				{
-					var location = await Geolocation.Default.GetLastKnownLocationAsync() ?? await Geolocation.Default.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.Default, TimeSpan.FromSeconds(5)));
+					Debug.WriteLine("📍 Tentando obter localização (cache)...");
+					var location = await Geolocation.Default.GetLastKnownLocationAsync();
+					
+					if (location == null) {
+						Debug.WriteLine("📍 Cache nulo. Tentando GPS (timeout 15s)...");
+						location = await Geolocation.Default.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.Medium, TimeSpan.FromSeconds(15)));
+					}
+					
 					if (location != null)
 					{
+						Debug.WriteLine($"✅ Localização obtida: {location.Latitude}, {location.Longitude}");
 						lat = location.Latitude;
 						lon = location.Longitude;
+					} else {
+						Debug.WriteLine("⚠️ Nenhuma localização obtida.");
 					}
+				} else {
+					Debug.WriteLine("⚠️ Permissão de localização negada.");
 				}
 			} catch (Exception ex) {
 				Debug.WriteLine($"❌ Erro ao obter localização inicial: {ex.Message}");
@@ -109,6 +121,7 @@ namespace CCB_Mapas_App
 				
 				// 1. Obtém localização inicial (sem bloquear UI)
 				var coords = await ObterLocalizacaoInicialAsync();
+				Debug.WriteLine($"📄 Debug Injeção: Lat={coords.lat}, Lon={coords.lon}, Padrão={coords.lat == 39.5 && coords.lon == -8.0}");
 				
 				using var htmlStream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/map.html");
 				using var cssStream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/leaflet.css");
@@ -125,12 +138,16 @@ namespace CCB_Mapas_App
 				// 2. Injeta os assets e a localização inicial no HTML
 				html = html.Replace("<link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.css\" />", $"<style>{css}</style>");
 				html = html.Replace("<script src=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.js\"></script>", $"<script>{js}</script>");
-				html = html.Replace("setView([39.5, -8.0], 6)", $"setView([{coords.lat.ToString(CultureInfo.InvariantCulture)}, {coords.lon.ToString(CultureInfo.InvariantCulture)}], 15)");
 				
-				if (coords.lat != 39.5 || coords.lon != -8.0)
-				{
-					html = html.Replace("var hasUserLocation = false;", "var hasUserLocation = true;");
-				}
+				// Injeta variáveis de configuração para o initMap ler
+				var jsConfig = $@"
+					<script>
+						var initialLat = {coords.lat.ToString(CultureInfo.InvariantCulture)};
+						var initialLon = {coords.lon.ToString(CultureInfo.InvariantCulture)};
+						var hasUserLocation = {(coords.lat != 39.5 || coords.lon != -8.0 ? "true" : "false")};
+					</script>";
+				
+				html = html.Replace("</head>", jsConfig + "</head>");
 				
 				MapWebView.Source = new HtmlWebViewSource { Html = html };
 				Debug.WriteLine($"✅ Mapa inicializado em: {coords.lat}, {coords.lon}");

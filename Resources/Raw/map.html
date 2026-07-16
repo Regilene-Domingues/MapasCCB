@@ -77,14 +77,18 @@
     var selectedMarker = null;
     var searchCircle = null;
     var locateButton = null;
-    var hasUserLocation = false;
+    var hasUserLocation = (typeof hasUserLocation !== 'undefined') ? hasUserLocation : false;
 
     function initMap() {
       if (map || typeof L === 'undefined') {
         return;
       }
 
-      map = L.map('map').setView([39.5, -8.0], 6);
+      var lat = (typeof initialLat !== 'undefined') ? initialLat : 39.5;
+      var lon = (typeof initialLon !== 'undefined') ? initialLon : -8.0;
+      var zoom = (typeof hasUserLocation !== 'undefined' && hasUserLocation) ? 15 : 6;
+
+      map = L.map('map', { preferCanvas: true }).setView([lat, lon], zoom);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '© OpenStreetMap'
@@ -92,7 +96,7 @@
 
         churchLayer = L.layerGroup().addTo(map);
         map.addControl(addLocateControl());
-        console.log('map initialized');
+        console.log('map initialized at: ' + lat + ', ' + lon);
     }
 
       function addLocateControl() {
