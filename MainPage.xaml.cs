@@ -30,10 +30,32 @@ namespace CCB_Mapas_App
 						e.Cancel = true;
 						_ = ObterLocalizacaoEEnviarParaMapa();
 					}
-					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://"))
+					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://") || e.Url.StartsWith("google.navigation:"))
 					{
 						e.Cancel = true;
-						_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(e.Url));
+						
+						string url = e.Url;
+
+						// Se for Android, já está com o esquema nativo (google.navigation:).
+						// Se for Windows, o esquema deve ser HTTPS.
+						if (DeviceInfo.Platform == DevicePlatform.WinUI && url.StartsWith("google.navigation:"))
+						{
+							url = url.Replace("google.navigation:q=", "https://www.google.com/maps/dir/?api=1&destination=");
+						}
+
+						try
+						{
+							_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(url));
+						}
+						catch (Exception)
+						{
+							// Fallback: Se falhar o esquema nativo (ex: app maps não instalado), tenta abrir via HTTPS
+							if (url.StartsWith("google.navigation:"))
+							{
+								url = url.Replace("google.navigation:q=", "https://www.google.com/maps/dir/?api=1&destination=");
+								_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(url));
+							}
+						}
 					}
 				}
 			};
