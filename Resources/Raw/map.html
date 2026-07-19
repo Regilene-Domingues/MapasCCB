@@ -267,7 +267,7 @@
         escapeHtml(church.Logradouro) + '<br />' +
         escapeHtml(church.Cidade) +
         (cultos.length > 0 ? '<br /><strong>Cultos:</strong><br />' + cultos.join('<br />') : '') +
-        '<br /><a href="' + buildGoogleMapsRouteUrl(lat, lon) + '" target="_blank" rel="noopener">Abrir rota no Google Maps</a>';
+        '<br /><a href="' + buildGoogleMapsRouteUrl(lat, lon) + '">Abrir rota no Google Maps</a>';
     }
 
     function clearSearchLocation() {

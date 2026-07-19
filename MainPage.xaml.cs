@@ -23,11 +23,18 @@ namespace CCB_Mapas_App
 
 			MapWebView.Navigating += (s, e) =>
 			{
-				if (e.Url != null &&
-					e.Url.StartsWith("https://app.local/pegarLocalizacao"))
+				if (e.Url != null)
 				{
-					e.Cancel = true;
-					_ = ObterLocalizacaoEEnviarParaMapa();
+					if (e.Url.StartsWith("https://app.local/pegarLocalizacao"))
+					{
+						e.Cancel = true;
+						_ = ObterLocalizacaoEEnviarParaMapa();
+					}
+					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://"))
+					{
+						e.Cancel = true;
+						_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(e.Url));
+					}
 				}
 			};
 
