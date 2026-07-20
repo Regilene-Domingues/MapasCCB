@@ -55,6 +55,10 @@
             background: #dc2626;
         }
 
+        .church-pin-gray {
+            background: #6b7280;
+        }
+
         @keyframes pulse {
             0% { opacity: 1; }
             50% { opacity: 0.5; }
@@ -78,6 +82,8 @@
     var searchCircle = null;
     var locateButton = null;
     var hasUserLocation = (typeof hasUserLocation !== 'undefined') ? hasUserLocation : false;
+    var userMarker = null;
+    var userAccuracyCircle = null;
 
     function initMap() {
       if (map || typeof L === 'undefined') {
@@ -97,6 +103,10 @@
         churchLayer = L.layerGroup().addTo(map);
         map.addControl(addLocateControl());
         console.log('map initialized at: ' + lat + ', ' + lon);
+
+        if (typeof hasUserLocation !== 'undefined' && hasUserLocation) {
+          desenharPosicaoUsuario(lat, lon);
+        }
     }
 
       function addLocateControl() {
@@ -194,8 +204,12 @@
         .replace(/'/g, '&#039;');
     }
 
-    function buildGoogleMapsRouteUrl(lat, lon) {
-      return 'google.navigation:q=' + lat + ',' + lon;
+    function buildGoogleMapsSearchUrl(lat, lon) {
+      return 'https://www.google.com/maps/search/?api=1&query=' + lat + ',' + lon;
+    }
+
+    function buildWazeUrl(lat, lon) {
+      return 'waze://?ll=' + lat + ',' + lon + '&navigate=yes';
     }
 
     function createChurchIcon(color) {
@@ -262,11 +276,17 @@
         cultos = agenda.DiasDeCulto.map(function(dia) { return escapeHtml(dia); });
       }
 
-      return '<strong>' + escapeHtml(church.Nome) + '</strong><br />' +
+      var html = '<strong>' + escapeHtml(church.Nome) + '</strong><br />' +
         escapeHtml(church.Logradouro) + '<br />' +
         escapeHtml(church.Cidade) +
         (cultos.length > 0 ? '<br /><strong>Cultos:</strong><br />' + cultos.join('<br />') : '') +
-        '<br /><a href="' + buildGoogleMapsRouteUrl(lat, lon) + '">Abrir rota no Google Maps</a>';
+        '<br /><a href="' + buildGoogleMapsSearchUrl(lat, lon) + '">Abrir Maps</a>';
+
+      if (!isWindows) {
+        html += '<br /><a href="' + buildWazeUrl(lat, lon) + '">Abrir Waze</a>';
+      }
+      
+      return html;
     }
 
     function clearSearchLocation() {
@@ -291,7 +311,43 @@
       lat = Number(lat);
       lon = Number(lon);
       map.setView([lat, lon], 15, { animate: false });
+      desenharPosicaoUsuario(lat, lon);
       return 'ok';
+    }
+
+    function desenharPosicaoUsuario(lat, lon) {
+      if (!map) return;
+
+      lat = Number(lat);
+      lon = Number(lon);
+
+      if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+        return;
+      }
+
+      var point = [lat, lon];
+
+      if (userMarker) {
+        userMarker.setLatLng(point);
+      } else {
+        userMarker = L.marker(point, {
+          icon: createChurchIcon('gray'),
+          zIndexOffset: 1000
+        }).addTo(map).bindPopup('<strong>Você está aqui</strong>');
+      }
+
+      if (userAccuracyCircle) {
+        userAccuracyCircle.setLatLng(point);
+      } else {
+        userAccuracyCircle = L.circle(point, {
+          color: '#6b7280',
+          fillColor: '#9ca3af',
+          fillOpacity: 0.15,
+          radius: 100,
+          weight: 1.5,
+          dashArray: '4, 4'
+        }).addTo(map);
+      }
     }
 
     function setSearchLocation(lat, lon) {

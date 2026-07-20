@@ -30,17 +30,16 @@ namespace CCB_Mapas_App
 						e.Cancel = true;
 						_ = ObterLocalizacaoEEnviarParaMapa();
 					}
-					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://") || e.Url.StartsWith("google.navigation:"))
+					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://") || e.Url.StartsWith("google.navigation:") || e.Url.StartsWith("waze://"))
 					{
 						e.Cancel = true;
 						
 						string url = e.Url;
 
-						// Se for Android, já está com o esquema nativo (google.navigation:).
-						// Se for Windows, o esquema deve ser HTTPS.
-						if (DeviceInfo.Platform == DevicePlatform.WinUI && url.StartsWith("google.navigation:"))
+						// Ajuste para busca, não rota
+						if (url.StartsWith("google.navigation:"))
 						{
-							url = url.Replace("google.navigation:q=", "https://www.google.com/maps/dir/?api=1&destination=");
+							url = url.Replace("google.navigation:q=", "https://www.google.com/maps/search/?api=1&query=");
 						}
 
 						try
@@ -49,12 +48,16 @@ namespace CCB_Mapas_App
 						}
 						catch (Exception)
 						{
-							// Fallback: Se falhar o esquema nativo (ex: app maps não instalado), tenta abrir via HTTPS
-							if (url.StartsWith("google.navigation:"))
-							{
-								url = url.Replace("google.navigation:q=", "https://www.google.com/maps/dir/?api=1&destination=");
-								_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(url));
-							}
+                            if (url.StartsWith("waze://"))
+                            {
+                                var latLonMatch = System.Text.RegularExpressions.Regex.Match(url, @"ll=([^&]+)");
+                                if (latLonMatch.Success)
+                                {
+                                    string latLon = latLonMatch.Groups[1].Value;
+                                    string fallbackUrl = $"https://www.google.com/maps/search/?api=1&query={latLon}";
+                                    _ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(fallbackUrl));
+                                }
+                            }
 						}
 					}
 				}
@@ -174,6 +177,7 @@ namespace CCB_Mapas_App
 						var initialLat = {coords.lat.ToString(CultureInfo.InvariantCulture)};
 						var initialLon = {coords.lon.ToString(CultureInfo.InvariantCulture)};
 						var hasUserLocation = {(coords.lat != 39.5 || coords.lon != -8.0 ? "true" : "false")};
+						var isWindows = {(DeviceInfo.Platform == DevicePlatform.WinUI ? "true" : "false")};
 					</script>";
 				
 				html = html.Replace("</head>", jsConfig + "</head>");
