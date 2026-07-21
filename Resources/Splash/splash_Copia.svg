@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="1024"
-    height="1024"
-    viewBox="0 0 1024 1024">
+    width="512"
+    height="512"
+    viewBox="0 0 512 512">
 
     <!-- Fundo -->
     <rect
-        width="1024"
-        height="1024"
+        width="512"
+        height="512"
         fill="#FFFFFF"/>
 
     <!-- Círculo de destaque -->
     <circle
-        cx="512"
-        cy="470"
-        r="340"
+        cx="256"
+        cy="235"
+        r="170"
         fill="#ECECEC"/>
 
     <!-- Corpo lateral esquerdo -->
     <polygon
-        points="190,660 190,500 340,390 340,660"
+        points="95,330 95,250 170,195 170,330"
         fill="#B7B7B7"/>
 
     <!-- Corpo lateral direito -->
     <polygon
-        points="684,390 834,500 834,660 684,660"
+        points="342,195 417,250 417,330 342,330"
         fill="#B7B7B7"/>
 
     <!-- Corpo central -->
     <rect
-        x="340"
-        y="240"
-        width="344"
-        height="420"
+        x="170"
+        y="120"
+        width="172"
+        height="210"
         fill="#C7C7C7"/>
 
     <!-- Telhado central -->
     <polygon
-        points="310,280 512,140 714,280 684,310 512,190 340,310"
+        points="155,140 256,70 357,140 342,155 256,95 170,155"
         fill="#8E8E8E"/>
 
     <!-- Telhado lateral esquerdo -->
     <polygon
-        points="160,500 340,370 340,410 160,540"
+        points="80,250 170,185 170,205 80,270"
         fill="#9A9A9A"/>
 
     <!-- Telhado lateral direito -->
     <polygon
-        points="684,370 864,500 864,540 684,410"
+        points="342,185 432,250 432,270 342,205"
         fill="#9A9A9A"/>
 
     <!-- Colunas -->
-    <rect x="380" y="300" width="36" height="360" fill="#FFFFFF"/>
-    <rect x="492" y="300" width="40" height="360" fill="#FFFFFF"/>
-    <rect x="608" y="300" width="36" height="360" fill="#FFFFFF"/>
+    <rect x="190" y="150" width="18" height="180" fill="#FFFFFF"/>
+    <rect x="246" y="150" width="20" height="180" fill="#FFFFFF"/>
+    <rect x="304" y="150" width="18" height="180" fill="#FFFFFF"/>
 
     <!-- Janela central -->
     <path
-        d="M512 330
-           C476 330 448 358 448 394
-           L448 510
-           L576 510
-           L576 394
-           C576 358 548 330 512 330 Z"
+        d="M256 165
+           C238 165 224 179 224 197
+           L224 255
+           L288 255
+           L288 197
+           C288 179 274 165 256 165 Z"
         fill="#4F4F4F"/>
 
     <!-- Janela esquerda -->
     <path
-        d="M260 410
-           C236 410 216 430 216 454
-           L216 564
-           L304 564
-           L304 454
-           C304 430 284 410 260 410 Z"
+        d="M130 205
+           C118 205 108 215 108 227
+           L108 282
+           L152 282
+           L152 227
+           C152 215 142 205 130 205 Z"
         fill="#4F4F4F"/>
 
     <!-- Janela direita -->
     <path
-        d="M764 410
-           C740 410 720 430 720 454
-           L720 564
-           L808 564
-           L808 454
-           C808 430 788 410 764 410 Z"
+        d="M382 205
+           C370 205 360 215 360 227
+           L360 282
+           L404 282
+           L404 227
+           C404 215 394 205 382 205 Z"
         fill="#4F4F4F"/>
 
     <!-- Base -->
     <rect
-        x="160"
-        y="660"
-        width="704"
-        height="32"
+        x="80"
+        y="330"
+        width="352"
+        height="16"
         fill="#FFFFFF"/>
 
     <!-- Pino -->
     <path
         d="
-            M512 570
-            C428 570 360 638 360 722
-            C360 840 512 960 512 960
-            C512 960 664 840 664 722
-            C664 638 596 570 512 570
+            M256 285
+            C214 285 180 319 180 361
+            C180 420 256 480 256 480
+            C256 480 332 420 332 361
+            C332 319 298 285 256 285
             Z"
         fill="#D62828"/>
 
     <!-- Centro do pino -->
     <circle
-        cx="512"
-        cy="722"
-        r="66"
+        cx="256"
+        cy="361"
+        r="33"
         fill="#FFFFFF"/>   
 		
 	<!-- ========================= -->
@@ -118,29 +118,29 @@
 
     <!-- Linha esquerda -->
     <line
-        x1="190"
-        y1="860"
-        x2="410"
-        y2="860"
+        x1="95"
+        y1="430"
+        x2="205"
+        y2="430"
         stroke="#9A9A9A"
-        stroke-width="4"/>
+        stroke-width="2"/>
 
     <!-- Linha direita -->
     <line
-        x1="614"
-        y1="860"
-        x2="834"
-        y2="860"
+        x1="307"
+        y1="430"
+        x2="417"
+        y2="430"
         stroke="#9A9A9A"
-        stroke-width="4"/>
+        stroke-width="2"/>
 
     <!-- Primeira linha -->
     <text
-        x="512"
-        y="840"
+        x="256"
+        y="420"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="48"
+        font-size="24"
         font-weight="700"
         fill="#111111">
         MAPA
@@ -148,11 +148,11 @@
 
     <!-- "DA" -->
     <text
-        x="512"
-        y="874"
+        x="256"
+        y="437"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="28"
+        font-size="14"
         font-weight="700"
         fill="#111111">
         DA
@@ -160,11 +160,11 @@
 
     <!-- Segunda linha -->
     <text
-        x="512"
-        y="940"
+        x="256"
+        y="470"
         text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="48"
+        font-size="24"
         font-weight="700"
         fill="#111111">
         CONGREGAÇÃO CRISTÃ
