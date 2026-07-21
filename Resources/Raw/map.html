@@ -280,11 +280,7 @@
         escapeHtml(church.Logradouro) + '<br />' +
         escapeHtml(church.Cidade) +
         (cultos.length > 0 ? '<br /><strong>Cultos:</strong><br />' + cultos.join('<br />') : '') +
-        '<br /><a href="' + buildGoogleMapsSearchUrl(lat, lon) + '">Abrir Maps</a>';
-
-      if (!isWindows) {
-        html += '<br /><a href="' + buildWazeUrl(lat, lon) + '">Abrir Waze</a>';
-      }
+        '<br /><a href="https://app.local/rota?lat=' + lat + '&lon=' + lon + '&nome=' + encodeURIComponent(church.Nome) + '">Como Chegar</a>';
       
       return html;
     }

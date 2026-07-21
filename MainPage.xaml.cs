@@ -30,6 +30,11 @@ namespace CCB_Mapas_App
 						e.Cancel = true;
 						_ = ObterLocalizacaoEEnviarParaMapa();
 					}
+					else if (e.Url.StartsWith("https://app.local/rota"))
+					{
+						e.Cancel = true;
+						_ = TratarRota(e.Url);
+					}
 					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://") || e.Url.StartsWith("google.navigation:") || e.Url.StartsWith("waze://"))
 					{
 						e.Cancel = true;
@@ -273,6 +278,91 @@ namespace CCB_Mapas_App
 				Debug.WriteLine("JS send result: " + (res ?? "(null)"));
 			}
 			catch (Exception ex) { Debug.WriteLine($"❌ Erro ao enviar dados: {ex.Message}"); }
+		}
+
+		private async Task TratarRota(string url)
+		{
+			try
+			{
+				var uri = new Uri(url);
+				string lat = "";
+				string lon = "";
+				string nome = "";
+
+				var query = uri.Query.TrimStart('?');
+				foreach (var part in query.Split('&'))
+				{
+					var nv = part.Split('=');
+					if (nv.Length >= 2)
+					{
+						string key = Uri.UnescapeDataString(nv[0]);
+						string val = Uri.UnescapeDataString(nv[1]);
+						if (key == "lat") lat = val;
+						else if (key == "lon") lon = val;
+						else if (key == "nome") nome = val;
+					}
+				}
+
+				if (string.IsNullOrEmpty(lat) || string.IsNullOrEmpty(lon))
+				{
+					return;
+				}
+
+				if (DeviceInfo.Platform == DevicePlatform.WinUI)
+				{
+					string googleMapsUrl = $"https://www.google.com/maps/search/?api=1&query={lat},{lon}";
+					await Launcher.Default.OpenAsync(new Uri(googleMapsUrl));
+				}
+				else if (DeviceInfo.Platform == DevicePlatform.Android)
+				{
+					string geoUri = $"geo:{lat},{lon}?q={lat},{lon}";
+					if (!string.IsNullOrEmpty(nome))
+					{
+						geoUri += $"({Uri.EscapeDataString(nome)})";
+					}
+					await Launcher.Default.OpenAsync(new Uri(geoUri));
+				}
+				else if (DeviceInfo.Platform == DevicePlatform.iOS)
+				{
+					await MostrarSeletorRotaiOS(lat, lon, nome);
+				}
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao tratar rota: {ex.Message}");
+			}
+		}
+
+		private async Task MostrarSeletorRotaiOS(string lat, string lon, string nome)
+		{
+			try
+			{
+				var escolha = await Shell.Current.DisplayActionSheet(
+					"Como Chegar",
+					"Cancelar",
+					null,
+					"Apple Maps",
+					"Google Maps",
+					"Waze"
+				);
+
+				string? url = escolha switch
+				{
+					"Apple Maps" => $"maps://?q={lat},{lon}",
+					"Google Maps" => $"comgooglemaps://?q={lat},{lon}",
+					"Waze" => $"waze://?ll={lat},{lon}&navigate=yes",
+					_ => null
+				};
+
+				if (url != null)
+				{
+					await Launcher.Default.OpenAsync(new Uri(url));
+				}
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao exibir seletor iOS: {ex.Message}");
+			}
 		}
 	}
 }
