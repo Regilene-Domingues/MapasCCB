@@ -392,6 +392,24 @@
       map.setView(point, Math.max(map.getZoom(), 15));
       return 'ok';
     }
+    function atualizarCoresPinos() {
+      if (!churchLayer) return;
+
+      churchLayer.eachLayer(function(marker) {
+        // Assume que o dado da igreja foi armazenado no marker (precisamos garantir isso no loadChurches)
+        if (marker.churchData) {
+          var color = hasCultToday(marker.churchData) 
+            ? (hasOnlyRjmToday(marker.churchData) ? 'orange' : 'green') 
+            : 'blue';
+            
+          var newIcon = createChurchIcon(color);
+          marker.setIcon(newIcon);
+          marker.defaultIcon = newIcon;
+        }
+      });
+      return 'ok';
+    }
+
     function loadChurches(churches) {
       initMap();
 
@@ -417,11 +435,15 @@
           return;
         }
 
+        var color = hasCultToday(church) ? (hasOnlyRjmToday(church) ? 'orange' : 'green') : 'blue';
+        var icon = createChurchIcon(color);
+
         var marker = L.marker([lat, lon], {
-          icon: createChurchIcon(hasCultToday(church) ? (hasOnlyRjmToday(church) ? 'orange' : 'green') : 'blue')
+          icon: icon
         }).addTo(churchLayer).bindPopup(formatPopup(church, lat, lon));
 
-        marker.defaultIcon = marker.options.icon;
+        marker.churchData = church; // Armazena dados da igreja no marker
+        marker.defaultIcon = icon;
         marker.on('popupopen', function() {
           setSelectedMarker(marker);
         });

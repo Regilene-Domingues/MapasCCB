@@ -81,6 +81,21 @@ namespace CCB_Mapas_App
 			_ = CarregarDeRecursoEmbutidoAsync();
 		}
 
+		protected override void OnAppearing()
+		{
+			base.OnAppearing();
+			_ = MapWebView.EvaluateJavaScriptAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
+		}
+
+		public void ForcarAtualizacao()
+		{
+			Dispatcher.Dispatch(async () =>
+			{
+				Debug.WriteLine("🔄 Forçando atualização dos pinos...");
+				await MapWebView.EvaluateJavaScriptAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
+			});
+		}
+
 		private async Task ObterLocalizacaoEEnviarParaMapa()
 		{
 			var status = await Permissions.RequestAsync<Permissions.LocationWhenInUse>();
