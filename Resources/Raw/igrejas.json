@@ -1,10 +1,32 @@
 [
   {
+    "CodigoId": "PT-01-0003",
+    "Nome": "Ponta Delgada",
+    "Logradouro": "Rua Doutor Aníbal Furtado Lima, 22",
+    "CEP": "9500-183",
+    "Cidade": "Ponta Delgada, AC, Portugal",
+    "Coordenadas": {
+      "lat": 37.742810666494286,
+      "lon": -25.68124176705465
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Ponta Delgada PT-01-0003 Localização Logradouro: Rua Doutor Aníbal Furtado Lima, 22 CEP: 9500-183 Cidade: Ponta Delgada, AC, Portugal Dias de Culto Qui 19:30 - Dom 11:00 Ministério Ancião VASCO SILVA FARIA"
+    }
+  },
+  {
     "CodigoId": "PT-01-0004",
     "Nome": "Sete Cidades",
     "Logradouro": "Rua da Cidade, 18",
     "CEP": "9555-201",
-    "Cidade": "Ponta Delgada, AC, Portugal",
+    "Cidade": "Sete Cidades, AC, Portugal",
     "Coordenadas": {
       "lat": 37.855599,
       "lon": -25.792159
@@ -23,7 +45,7 @@
   },
   {
     "CodigoId": "PT-01-0005",
-    "Nome": "Alto Rodes",
+    "Nome": "Alto Rodes - Faro",
     "Logradouro": "Rua das Olarias, 31",
     "CEP": "8000-208",
     "Cidade": "Faro, FA, Portugal",
@@ -159,7 +181,7 @@
   },
   {
     "CodigoId": "PT-01-0013",
-    "Nome": "Conceição",
+    "Nome": "Conceição - Covilhã",
     "Logradouro": "Avenida Frei Heitor Pinto, Lote E - Rés ao chão",
     "CEP": "6200-113",
     "Cidade": "Covilhã, CB, Portugal",
@@ -219,6 +241,28 @@
         "Terça-feira": "20:30/20:00"
       },
       "Obs": "Localidade Carvalhosas PT-01-0015 Localização Logradouro: Estrada dos Palheiros, 33 CEP: 3030-098 Cidade: Coimbra, CO, Portugal Dias de Culto Dom 19:30 - Ter 20:30/20:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PT-00-0000",
+    "Nome": "Coruche",
+    "Logradouro": "Rua do Limoeiro, 2, Bairro da Areia (Estrada da Lamarosa)",
+    "CEP": "3030-098",
+    "Cidade": "Coruche, CO, Portugal",
+    "Coordenadas": {
+      "lat": 38.96671378770674,
+      "lon": -8.525937930639108
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30",
+        "Domingo": "RJM - 2º e 4º Dom 17:00"
+      },
+      "Obs": "Localidade Coruche PT-00-0000 Localização Logradouro: Rua do Limoeiro, 2, Bairro da Areia (Estrada da Lamarosa) CEP: 3030-098 Cidade: Coruche, CO, Portugal Dias de Culto Sáb 19:30 - Dom RJM - 2º e 4º Dom 17:00"
     }
   },
   {
@@ -372,6 +416,26 @@
     }
   },
   {
+    "CodigoId": "PT-00-0000",
+    "Nome": "Mira",
+    "Logradouro": "R. dos Combatentes da Grande Guerra 68",
+    "CEP": "3070-360",
+    "Cidade": "Portomar, CO, Portugal",
+    "Coordenadas": {
+      "lat": 40.470445384392406,
+      "lon": -8.731263607342798
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Mira - Portomar CENTRAL PT-00-0000 Localização Logradouro: R. dos Combatentes da Grande Guerra 68 CEP: 3070-360 Cidade: Portomar, CO, Portugal Dias de Culto Sáb 19:30"
+    }
+  },
+  {
     "CodigoId": "PT-01-0026",
     "Nome": "Turquel",
     "Logradouro": "Estrada Nacional 1 (IC2), Km 87",
@@ -439,7 +503,7 @@
   },
   {
     "CodigoId": "PT-01-0029",
-    "Nome": "Marinha Grande - Albergaria",
+    "Nome": "Marinha Grande",
     "Logradouro": "Travessa do Fagundo",
     "CEP": "2430-078",
     "Cidade": "Marinha Grande, LE, Portugal",
@@ -459,6 +523,26 @@
         "Domingo": "RJM 2º e 4º Dom 17:00"
       },
       "Obs": "Localidade Marinha Grande - Albergaria CENTRAL PT-01-0029 Localização Logradouro: Travessa do Fagundo CEP: 2430-078 Cidade: Marinha Grande, LE, Portugal Dias de Culto Ter 20:30 - Sáb 19:30 (RJM 2º e 4º Dom 17:00) Ministério Cooperador Ofício Ministerial Paulo Henrique Pereira do Espírito Santo Diácono Simei Pereira Campos"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0030",
+    "Nome": "Pombal",
+    "Logradouro": "Rua Doutor José dos Santos, 31",
+    "CEP": "3100-480",
+    "Cidade": "Pombal, LE, Portugal",
+    "Coordenadas": {
+      "lat": 39.91826545008206,
+      "lon": -8.623182111569674
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:30"
+      },
+      "Obs": "Localidade Pombal CENTRAL PT-01-0030 Localização Logradouro: Rua Doutor José dos Santos, 31 CEP: 3100-480 Cidade: Pombal, LE, Portugal Dias de Culto Sex 20:30"
     }
   },
   {
@@ -505,7 +589,7 @@
   },
   {
     "CodigoId": "PT-01-0034",
-    "Nome": "Vale da Pedra",
+    "Nome": "Mortágua - Vale da Pedra",
     "Logradouro": "Rua do Lagar, 51",
     "CEP": "3450-141",
     "Cidade": "Mortágua, VI, Portugal",
@@ -803,7 +887,7 @@
   },
   {
     "CodigoId": "PT-01-0051",
-    "Nome": "Creixomil",
+    "Nome": "Creixomil - Guimarães",
     "Logradouro": "Rua do Colégio Militar, 10 - Rés ao chão esquerdo",
     "CEP": "4810-084",
     "Cidade": "Guimarães, BR, Portugal",
@@ -1031,6 +1115,30 @@
         "Quinta-feira": "20:30"
       },
       "Obs": "Localidade Lordelo de Ouro PT-01-0063 Localização Logradouro: Rua Pedro Olaio, 21 CEP: 4150-384 Cidade: Porto, PO, Portugal Dias de Culto Dom 15:30 - Qui 20:30 Ministério Ancião MANUEL FERNANDO ALVES FARIA Cooperador Ofício Ministerial Vitaliano José Pinto Sousa Barbosa Diácono António Francisco Rosa de Sousa"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0064",
+    "Nome": "Massarelos",
+    "Logradouro": "Calçada sobre o Douro, 8-10",
+    "CEP": "4050-591",
+    "Cidade": "Porto, PO, Portugal",
+    "Coordenadas": {
+      "lat": 41.14562047636318,
+      "lon": -8.629133520890768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 / RJM Dom 10:00",
+        "Quarta-feira": "20:30",
+        "Sexta-feira": "20:30"
+      },
+      "Obs": "Localidade Massarelos PT-01-0064 Localização Logradouro: Calçada sobre o Douro, 8-10 CEP: 4050-591 Cidade: Porto, PO, Portugal Dias de Culto Dom 15:30 - Qua 20:30 - Sex 20:30 (RJM Dom 10:00) Ministério Ancião HENRIQUE FERREIRA DE OLIVEIRA Cooperador Ofício Ministerial Tiago Filipe Barbosa Salgueiro"
     }
   },
   {
@@ -1496,6 +1604,28 @@
     }
   },
   {
+    "CodigoId": "PT-01-0087",
+    "Nome": "Gervide",
+    "Logradouro": "Rua Caetano de Melo, 240",
+    "CEP": "4430-266",
+    "Cidade": "Vila Nova de Gaia, PO, Portugal",
+    "Coordenadas": {
+      "lat": 41.1276496981831,
+      "lon": -8.59151866403091
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 / RJM 1º e 3º Dom 10:00",
+        "Quinta-feira": "20:30"
+      },
+      "Obs": "Localidade Gervide PT-01-0087 Localização Logradouro: Rua Caetano de Melo, 240 CEP: 4430-266 Cidade: Vila Nova de Gaia, PO, Portugal Dias de Culto Dom 15:30 - Qui 20:30 (RJM 1º e 3º Dom 10:00) Ministério Ancião JAIME COELHO DE BARROS Cooperador Ofício Ministerial - José Franclim Dinis dos Santos"
+    }
+  },
+  {
     "CodigoId": "PT-01-0088",
     "Nome": "Laborim",
     "Logradouro": "Rua Nova de Laborim, 135",
@@ -1615,10 +1745,38 @@
     },
     "Agenda": {
       "DiasDeCulto": [
+        "Sábado",
+        "Terça-feira",
         "Domingo"
       ],
-      "Horarios": {},
+      "Horarios": {
+        "Sábado": "19:30",
+        "Terça-feira": "20:30",
+        "Domingo": "RJM 1º e 3º DOM 10:00"
+      },
       "Obs": "Localidade Rebordosa CENTRAL PT-01-0094 Localização Logradouro: Rua do Mastro, 76 CEP: 4585-454 Cidade: Paredes, PO, Portugal Dias de Culto Ter 20:30 - Sáb 19:30 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Domingos Jorge dos Santos Vale Machado"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0095",
+    "Nome": "Termas de São Vicente",
+    "Logradouro": "Avenida São Miguel, 415 - Ponte das Cabras",
+    "CEP": "4575-304",
+    "Cidade": "Penafiel, PO, Portugal",
+    "Coordenadas": {
+      "lat": 41.12373238566261,
+      "lon": -8.294973611622472
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Termas de São Vicente CENTRAL PT-01-0095 Localização Logradouro: Avenida São Miguel, 415 - Ponte das Cabras CEP: 4575-304 Cidade: Penafiel, PO, Portugal Dias de Culto Qua 20:30 - Sáb 19:30 Ministério Cooperador Ofício Ministerial Daniel Fernando Deusdado do Carmo"
     }
   },
   {
@@ -1780,6 +1938,26 @@
     }
   },
   {
+    "CodigoId": "PT-01-0103",
+    "Nome": "Labruge",
+    "Logradouro": "Rua de Calvelhe, 864",
+    "CEP": "4485-314",
+    "Cidade": "Vila Do Conde, PO, Portugal",
+    "Coordenadas": {
+      "lat": 41.271201848833634,
+      "lon": -8.715989977473868
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Labruge CENTRAL PT-01-0103 Localização Logradouro: Rua de Calvelhe, 864 CEP: 4485-314 Cidade: Vila Do Conde, PO, Portugal Dias de Culto Dom 15:30 Ministério Cooperador Ofício Ministerial Marcos Ricardo Rodrigues Maia"
+    }
+  },
+  {
     "CodigoId": "PT-01-0104",
     "Nome": "Vilar de Pinheiro",
     "Logradouro": "Rua Aldeia Nova, 220",
@@ -1844,6 +2022,28 @@
     }
   },
   {
+    "CodigoId": "PT-01-0107",
+    "Nome": "Ponte de Lima",
+    "Logradouro": "Rua Doutor Araújo Lima, 9",
+    "CEP": "4990-022",
+    "Cidade": " Ponte de Lima, VC, Portugal",
+    "Coordenadas": {
+      "lat": 41.76069618347492,
+      "lon": -8.57932524003612
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:30",
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Ponte de Lima CENTRAL PT-01-0107 Localização Logradouro: Rua Doutor Araújo Lima, 9 CEP: 4990-022 Cidade: Ponte de Lima, VC, Portugal Dias de Culto Qua 20:30 - Dom 15:30 Ministério Ancião JOSÉ DA SILVA MAIA Cooperador Ofício Ministerial Eduardo José Coutinho Resende"
+    }
+  },
+  {
     "CodigoId": "PT-01-0108",
     "Nome": "Viana do Castelo",
     "Logradouro": "Rua da Forneira,4 A - Rés ao chão direito",
@@ -1901,6 +2101,26 @@
         "Domingo": "15:30"
       },
       "Obs": "Localidade Peso da Régua CENTRAL PT-01-0111 Localização Logradouro: Rua Pedro Verdial CEP: 5050-283 Cidade: Peso da Régua, VR, Portugal Dias de Culto Dom 15:30 Ministério Ancião JOSÉ ANTÓNIO OLIVEIRA MACHADO Cooperador Ofício Ministerial Xavier Jesus dos Santos Sobral"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0112",
+    "Nome": "Vila Real",
+    "Logradouro": "Avenida 1º de Maio, 199 - Rés ao chão",
+    "CEP": "5000-561",
+    "Cidade": "Vila Real, VR, Portugal",
+    "Coordenadas": {
+      "lat": 41.297377450414736,
+      "lon": -7.743478287162944
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Vila Real CENTRAL PT-01-0112 Localização Logradouro: Avenida 1º de Maio, 199 - Rés ao chão CEP: 5000-561 Cidade: Vila Real, VR, Portugal Dias de Culto Dom 15:30 Ministério Cooperador Ofício Ministerial Miguel Filipe dos Reis Trigo"
     }
   },
   {
@@ -2060,6 +2280,52 @@
     }
   },
   {
+    "CodigoId": "PT-00-0000",
+    "Nome": "Torres Vedras",
+    "Logradouro": "Rua Mouzinho de Albuquerque, 6A",
+    "CEP": "2560-303",
+    "Cidade": "Torres Vedras, LI, Portugal",
+    "Coordenadas": {
+      "lat": 39.0936671573118,
+      "lon": -9.259506702592002
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Sábado": "19:30",
+        "Terça-feira": "20:30"
+      },
+      "Obs": "Localidade Torres Vedras PT-00-0000 Localização Logradouro: Rua Mouzinho de Albuquerque, 6A CEP: 2560-303 Cidade: Torres Vedras, LI, Portugal Dias de Culto Sáb 19:30 - Ter 20:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0122",
+    "Nome": "Sintra",
+    "Logradouro": "Rua Francisco Sá Carneiro, Lote F13, Cave Esquerda",
+    "CEP": "2735-316",
+    "Cidade": "Sintra, LI, Portugal",
+    "Coordenadas": {
+      "lat": 38.79903500361514,
+      "lon": -9.35465317118683
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Segunda-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "RJM - 10:00",
+        "Segunda-feira": "20:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Sintra PT-01-0122 Localização Logradouro: Rua Francisco Sá Carneiro, Lote F13, Cave Esquerda CEP: 2735-316 Cidade: Sintra, LI, Portugal Dias de Culto Dom 19:30 - Seg 20:30 - Sáb 19:30 (RJM Sáb 17:00) Ministério Ancião MANUEL FERNANDO DE JESUS MACIEIRA / RUI ALEXANDRE RIBEIRO CÂNDIDO Cooperador Ofício Ministerial Isaias Rivelli Cândido Pereira"
+    }
+  },
+  {
     "CodigoId": "PT-01-0123",
     "Nome": "Alverca",
     "Logradouro": "Rua Humberto Delgado, 27 - Bom Sucesso",
@@ -2129,7 +2395,7 @@
   },
   {
     "CodigoId": "PT-01-0127",
-    "Nome": "Almada",
+    "Nome": "Almada - Cova da Piedade",
     "Logradouro": "Rua Jaime Rebelo, 14",
     "CEP": "2805-231",
     "Cidade": "Cova da Piedade, SE, Portugal",
@@ -2263,7 +2529,7 @@
   },
   {
     "CodigoId": "PT-01-0136",
-    "Nome": "Alcabideche",
+    "Nome": "Alcabideche - Cascais",
     "Logradouro": "Rua Carlos Anjos, 1387-A",
     "CEP": "2755-277",
     "Cidade": "Cascais, LI, Portugal",
@@ -2570,6 +2836,26 @@
         "Sábado": "RJM - 2º, 3º e 4º Sáb 16:00"
       },
       "Obs": "Localidade São Martinho do Porto PT-01-0025 Localização Logradouro: Rua Manuel Francisco Clérigo,5 CEP: 2460-666 Cidade: São Martinho do Porto, Portugal Dias de Culto Dom 17:00 - Qui 20:30 (RJM 2º e 4º Sáb 16:00)"
+    }
+  },
+  {
+    "CodigoId": "PT-01-0150",
+    "Nome": "Mogadouro",
+    "Logradouro": "Praceta Professor Abílio Esperança, 6",
+    "CEP": "5200-214",
+    "Cidade": "Mogadouro, BA, Portugal",
+    "Coordenadas": {
+      "lat": 41.340261206753375,
+      "lon": -6.708588146971775
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "2º e 4º Dom 15:00 "
+      },
+      "Obs": "Localidade Mogadouro CENTRAL PT-01-0150 Localização Logradouro: Praceta Professor Abílio Esperança, 6 CEP: 5200-214 Cidade: Mogadouro, BA, Portugal Dias de Culto Dom 15:00"
     }
   },
   {
@@ -3205,6 +3491,26 @@
     }
   },
   {
+    "CodigoId": "PT-01-0182",
+    "Nome": "Mértola - Corte Gafo de Baixo",
+    "Logradouro": "Rua dos Lavradores, s/n - Corte Gafo de Baixo",
+    "CEP": "7750-308",
+    "Cidade": "Mértola, BE, Portugal",
+    "Coordenadas": {
+      "lat": 37.72354441325291,
+      "lon": -7.7067857858392514
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00/15:30 (Verão/Inverno)"
+      },
+      "Obs": "Localidade Mértola - Corte Gafo de Baixo CENTRAL PT-01-0182 Localização Logradouro: Rua dos Lavradores, s/n - Corte Gafo de Baixo CEP: 7750-308 Cidade: Mértola, BE, Portugal Dias de Culto Dom 19:00/15:30 (Verão/Inverno)"
+    }
+  },
+  {
     "CodigoId": "PT-01-0183",
     "Nome": "Vendas Novas",
     "Logradouro": "Rua Joaquim Mendonça, 36",
@@ -3421,6 +3727,28 @@
     }
   },
   {
+    "CodigoId": "PT-01-0007",
+    "Nome": "Loulé",
+    "Logradouro": "Rua Sebastião Cordeiro, Entre 44 e 50 - Loja A",
+    "CEP": "8100-628",
+    "Cidade": "Loulé, FA, Portugal",
+    "Coordenadas": {
+      "lat": 37.133402372056544,
+      "lon": -8.016128431879855
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:30",
+        "Domingo": "19:30 / RJM - 10:00"
+      },
+      "Obs": "Localidade Loulé PT-01-0007 Localização Logradouro: Rua Sebastião Cordeiro, Entre 44 e 50 - Loja A CEP: 8100-628 Cidade: Loulé, FA, Portugal Dias de Culto Qui 20:30 - Dom 19:30 / RJM 10:00 Ministério Cooperador Ofício Ministerial Edevaldo Francisco da Silveira Cooperador de Jovens e Menores Willian Junio Alves Pereira"
+    }
+  },
+  {
     "CodigoId": "PT-01-0032",
     "Nome": "Ourém",
     "Logradouro": "Avenida Dom Nuno Álvares Pereira, 50 - Rés ao chão",
@@ -3494,7 +3822,7 @@
   },
   {
     "CodigoId": "PT-01-0113",
-    "Nome": "Macieira de Fornelos",
+    "Nome": "Macieira de Fornelos - Cinfães",
     "Logradouro": "EM556 2051",
     "CEP": "4690-274",
     "Cidade": "São Pedro Do Sul, VI, Portugal",
