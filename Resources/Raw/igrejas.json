@@ -456,7 +456,7 @@
         "Sábado": "19:30",
         "Domingo": "RJM 2º, 3º e 4º Dom 10:00"
       },
-      "Obs": "Localidade Turquel CENTRAL PT-01-0026 Localização Logradouro: Estrada Nacional 1 (IC2), Km 87 CEP: 2460-819 Cidade: Batalha, LE, Portugal Dias de Culto Seg 20:30 - Qua 20:30 - Sáb 19:30 (RJM 2º, 3º e 4º Dom 10:00) Ministério Ancião GUILHERME HENRIQUE BATISTA Cooperador Ofício Ministerial Ednilson Rodrigues de Souza Diácono Luis Carlos de Jesus Gabriel Soares Batista Cooperador de Jovens e Menores Klinger Alves da Mota"
+      "Obs": "Localidade Turquel CENTRAL PT-01-0026 Localização Logradouro: Estrada Nacional 1 (IC2), Km 87 CEP: 2460-819 Cidade: Turquel, LE, Portugal Dias de Culto Seg 20:30 - Qua 20:30 - Sáb 19:30 (RJM 2º, 3º e 4º Dom 10:00) Ministério Ancião GUILHERME HENRIQUE BATISTA Cooperador Ofício Ministerial Ednilson Rodrigues de Souza Diácono Luis Carlos de Jesus Gabriel Soares Batista Cooperador de Jovens e Menores Klinger Alves da Mota"
     }
   },
   {
@@ -514,15 +514,13 @@
     "Agenda": {
       "DiasDeCulto": [
         "Terça-feira",
-        "Sábado",
-        "Domingo"
+        "Sábado"
       ],
       "Horarios": {
         "Terça-feira": "20:30",
-        "Sábado": "19:30",
-        "Domingo": "RJM 2º e 4º Dom 17:00"
+        "Sábado": "19:30 / RJM 2º e 4º Sab 16:30"
       },
-      "Obs": "Localidade Marinha Grande - Albergaria CENTRAL PT-01-0029 Localização Logradouro: Travessa do Fagundo CEP: 2430-078 Cidade: Marinha Grande, LE, Portugal Dias de Culto Ter 20:30 - Sáb 19:30 (RJM 2º e 4º Dom 17:00) Ministério Cooperador Ofício Ministerial Paulo Henrique Pereira do Espírito Santo Diácono Simei Pereira Campos"
+      "Obs": "Localidade Marinha Grande - Albergaria CENTRAL PT-01-0029 Localização Logradouro: Travessa do Fagundo CEP: 2430-078 Cidade: Marinha Grande, LE, Portugal Dias de Culto Ter 20:30 - Sáb 19:30 (RJM 2º e 4º Sab 16:30) Ministério Cooperador Ofício Ministerial Paulo Henrique Pereira do Espírito Santo Diácono Simei Pereira Campos"
     }
   },
   {
@@ -2828,7 +2826,7 @@
     "Agenda": {
       "DiasDeCulto": [
         "Domingo",
-        "Quinta"
+        "Quinta-feira"
       ],
       "Horarios": {
         "Domingo": "16:00",
@@ -3283,13 +3281,13 @@
     "Agenda": {
       "DiasDeCulto": [
         "Domingo",
-        "Quinta-feira"
+        "Sexta-feira"
       ],
       "Horarios": {
         "Domingo": "19:30 / RJM 2º, 3º e 4º Dom 10:00",
-        "Quinta-feira": "20:30"
+        "Sexta-feira": "20:30"
       },
-      "Obs": "Localidade Rio Maior CENTRAL PT-01-0172 Localização Logradouro: Rua Professor Manuel José Ferreira 23 - Rés ao chão CEP: 2040-270 Cidade: Rio Maior, SA, Portugal Dias de Culto Dom 19:30 - Qui 20:30 Ministério Diácono Fernando Rocha Lins"
+      "Obs": "Localidade Rio Maior CENTRAL PT-01-0172 Localização Logradouro: Rua Professor Manuel José Ferreira 23 - Rés ao chão CEP: 2040-270 Cidade: Rio Maior, SA, Portugal Dias de Culto Dom 19:30 - Sex 20:30 Ministério Diácono Fernando Rocha Lins"
     }
   },
   {
