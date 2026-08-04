@@ -1,0 +1,20 @@
+[
+  {
+    "CodigoId": "KI-01-0001",
+    "Nome": "Temaiku - Central",
+    "Logradouro": "Teni Uakai Main Road",
+    "CEP": "Cidade: Tarawa, G, Kiribati",
+    "Cidade": "Tarawa, G, Kiribati",
+    "Coordenadas": {
+      "lat": 1.4845542,
+      "lon": 172.9689648
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Temaiku CENTRAL KI-01-0001 Localização Logradouro: Teni Uakai Main Road CEP: Cidade: Tarawa, G, Kiribati Dias de Culto DM Dom 10:00 Culto Oficial Domingo - Ministério Ancião Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira"
+    }
+  }
+]

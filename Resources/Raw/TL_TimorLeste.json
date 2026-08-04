@@ -1,0 +1,24 @@
+[
+  {
+    "CodigoId": "TL-01-0002",
+    "Nome": "Aldeia 20 de Setembro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Suco Bebonuk, DI, TIMOR-LESTE",
+    "Cidade": "Suco Bebonuk, DI, TIMOR-LESTE",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Aldeia 20 de Setembro CENTRAL TL-01-0002 Localização Logradouro: CEP: Cidade: Suco Bebonuk, DI, TIMOR-LESTE Complemento: Fone Brasil (+55 84) 9 9925-2658 Dias de Culto Dom 10:00 - Qua 18:30 Ministério Ancião Sebastião Pequeno do Nascimento Filho Cooperador Ofício Ministerial Luiz Carlos de Souza"
+    }
+  }
+]

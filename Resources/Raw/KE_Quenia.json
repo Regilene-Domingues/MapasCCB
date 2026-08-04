@@ -1,0 +1,112 @@
+[
+  {
+    "CodigoId": "KE-01-0005",
+    "Nome": "Kagangware",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nairobi, NAROK COUNTY, Quênia",
+    "Cidade": "Nairobi, NAROK COUNTY, Quênia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Kagangware KE-01-0005 Localização Logradouro: CEP: Cidade: Nairobi, NAROK COUNTY, Quênia Dias de Culto Dom 10:00 - Qui 16:00 Ministério Cooperador Ofício Ministerial Wilson Opwoko"
+    }
+  },
+  {
+    "CodigoId": "KE-02-0006",
+    "Nome": "Karatu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kiambu, KIAMBU COUNTY, Quênia",
+    "Cidade": "Kiambu, KIAMBU COUNTY, Quênia",
+    "Coordenadas": {
+      "lat": -1.1663925,
+      "lon": 36.8252791
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Karatu CENTRAL KE-02-0006 Localização Logradouro: CEP: Cidade: Kiambu, KIAMBU COUNTY, Quênia Dias de Culto Dom 10:00 - Qui 16:00 Ministério Cooperador Ofício Ministerial Moses Tembi"
+    }
+  },
+  {
+    "CodigoId": "KE-02-0004",
+    "Nome": "Nairosura - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nairosura, NAROK COUNTY, Quênia",
+    "Cidade": "Nairosura, NAROK COUNTY, Quênia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Nairosura CENTRAL KE-02-0004 Localização Logradouro: CEP: Cidade: Nairosura, NAROK COUNTY, Quênia Dias de Culto Dom 10:00 - Qui 16:00 Ministério Cooperador Ofício Ministerial Jeremiah Tago"
+    }
+  },
+  {
+    "CodigoId": "KE-01-0003",
+    "Nome": "Nutelle - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Narok South, NAROK COUNTY, Quênia",
+    "Cidade": "Narok South, NAROK COUNTY, Quênia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Nutelle CENTRAL KE-01-0003 Localização Logradouro: CEP: Cidade: Narok South, NAROK COUNTY, Quênia Dias de Culto Dom 10:00 - Qui 16:00 Ministério Cooperador Ofício Ministerial Daniel Abiri"
+    }
+  },
+  {
+    "CodigoId": "KE-01-0004",
+    "Nome": "Rotian",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Narok South, NAROK COUNTY, Quênia",
+    "Cidade": "Narok South, NAROK COUNTY, Quênia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Rotian KE-01-0004 Localização Logradouro: CEP: Cidade: Narok South, NAROK COUNTY, Quênia Dias de Culto Dom 10:00 - Qui 16:00 Ministério Cooperador Ofício Ministerial Festus Lekishon"
+    }
+  }
+]

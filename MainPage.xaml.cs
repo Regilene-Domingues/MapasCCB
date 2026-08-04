@@ -7,19 +7,26 @@ using System.Text;
 using System.Reflection;
 using System.Threading.Tasks;
 using CCB_Mapas_App.Services;
+using CCB_Mapas_App.Models;
 
 namespace CCB_Mapas_App
 {
 	public partial class MainPage : ContentPage
 	{
 		private readonly ChurchService _churchService;
+		private readonly PaisService _paisService;
 		private bool mapLoaded = false;
 		private static readonly HttpClient _httpClient = new HttpClient { DefaultRequestHeaders = { { "User-Agent", "CCBMapasApp/1.0" } } };
+		private string ArquivoPaisAtual = "PT_Portugal.json";
+		private List<Pais> _paises = new();
 
-		public MainPage(ChurchService churchService)
+		public MainPage(ChurchService churchService, PaisService paisService)
 		{
 			_churchService = churchService;
+			_paisService = paisService;
+
 			InitializeComponent();
+			_ = CarregarPaisesAsync();
 
 			MapWebView.Navigating += (s, e) =>
 			{
@@ -226,6 +233,19 @@ namespace CCB_Mapas_App
 			}
 		}
 
+		private async Task CarregarPaisesAsync()
+		{
+			try
+			{
+				_paises = await _paisService.GetPaisesAsync();
+				Debug.WriteLine($"🌍 Países carregados: {_paises.Count}");
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao carregar países: {ex.Message}");
+			}
+		}
+
 		private async Task PesquisarLocalidadeAsync()
 		{
 			var textoPesquisa = LocationSearchBar.Text?.Trim();
@@ -284,7 +304,7 @@ namespace CCB_Mapas_App
 			try
 			{
 				Debug.WriteLine("📦 Preparando dados JSON para enviar ao JavaScript...");
-				var churches = await _churchService.GetChurchesAsync();
+				var churches = await _churchService.GetChurchesAsync(ArquivoPaisAtual);
 				if (churches == null || churches.Count == 0) { Debug.WriteLine("⚠️ Nenhuma igreja retornada pelo ChurchService"); return; }
 				var json = System.Text.Json.JsonSerializer.Serialize(churches);
 				var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(json));

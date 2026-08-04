@@ -1,0 +1,236 @@
+[
+  {
+    "CodigoId": "CU-01-0005",
+    "Nome": "Barrio Guayabo - Central",
+    "Logradouro": "Carretera Central, Km 23",
+    "CEP": "Cidade: Jimaguayú, CM, CUBA",
+    "Cidade": "Jimaguayú, CM, CUBA",
+    "Coordenadas": {
+      "lat": 21.2424069,
+      "lon": -77.8266317
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00 (quinzenal"
+      },
+      "Obs": "Localidade Barrio Guayabo CENTRAL CU-01-0005 Localização Logradouro: Carretera Central, Km 23 CEP: Cidade: Jimaguayú, CM, CUBA Dias de Culto Sáb 14:00 (quinzenal) Ministério Telefone(s) +53 () 5226-1369"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0008",
+    "Nome": "Barrio Guisa - Central",
+    "Logradouro": "Calle General Milanés, 122",
+    "CEP": "Cidade: Guisa, GR, CUBA",
+    "Cidade": "Guisa, GR, CUBA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Barrio Guisa CENTRAL CU-01-0008 Localização Logradouro: Calle General Milanés, 122 CEP: Cidade: Guisa, GR, CUBA Dias de Culto Dom 09:30 - Qua 20:00 Ministério Cooperador Ofício Ministerial Carlos Luis Barquín Reyes Telefone(s) +53 () 2339-1401"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0001",
+    "Nome": "Buena Vista - Central",
+    "Logradouro": "Calle 74, nº 1711 - Entre Avenida 17 y Avenida 19",
+    "CEP": "Cidade: La Habana Playa, LH, CUBA",
+    "Cidade": "La Habana Playa, LH, CUBA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 10:30",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Buena Vista CENTRAL CU-01-0001 Localização Logradouro: Calle 74, nº 1711 - Entre Avenida 17 y Avenida 19 CEP: Cidade: La Habana Playa, LH, CUBA Dias de Culto Dom 10:30 - Qua 20:00 (RJM Dom 10:30) Ministério Ancião José Luiz Sanchez José Luiz Sanchez José Luiz Sanchez Cooperador Ofício Ministerial Frank Pérez Pérez Telefone(s) +53 (7) 7207-2921 +53 () 5319-6702"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0010",
+    "Nome": "Gerona - Central",
+    "Logradouro": "Calle 46, Edificio 4306, entre 43 y 45",
+    "CEP": "Cidade: Nueva Gerona, IJ, CUBA",
+    "Cidade": "Nueva Gerona, IJ, CUBA",
+    "Coordenadas": {
+      "lat": 21.884696,
+      "lon": -82.8038411
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Gerona CENTRAL CU-01-0010 Localização Logradouro: Calle 46, Edificio 4306, entre 43 y 45 CEP: Cidade: Nueva Gerona, IJ, CUBA Dias de Culto Dom 10:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial Lucidio Durán Vargas Telefone(s) +53 () 4632-9316"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0015",
+    "Nome": "Guantánamo - Central",
+    "Logradouro": "Calle 9 Oeste, 1114, entre Pintó y Avenida",
+    "CEP": "Cidade: Guantánamo, GT, CUBA",
+    "Cidade": "Guantánamo, GT, CUBA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Culto quinzenal (dias conforme disponibilidade"
+      ],
+      "Horarios": {
+        "Culto quinzenal (dias conforme disponibilidade": "Culto quinzenal (dias conforme disponibilidade"
+      },
+      "Obs": "Localidade Guantánamo CENTRAL CU-01-0015 Localização Logradouro: Calle 9 Oeste, 1114, entre Pintó y Avenida CEP: Cidade: Guantánamo, GT, CUBA Dias de Culto Culto quinzenal (dias conforme disponibilidade) Ministério Telefone(s) +53 () 5220-0375"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0009",
+    "Nome": "Jiguaní - Central",
+    "Logradouro": "Calle José Vázquez, 66A",
+    "CEP": "Cidade: Charco Redondo, GR, CUBA",
+    "Cidade": "Charco Redondo, GR, CUBA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "09:00 (quinzenal"
+      },
+      "Obs": "Localidade Jiguaní CENTRAL CU-01-0009 Localização Logradouro: Calle José Vázquez, 66A CEP: Cidade: Charco Redondo, GR, CUBA Dias de Culto Sáb 09:00 (quinzenal) Ministério Telefone(s) +53 () 5919-9500"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0006",
+    "Nome": "Palmarito - Central",
+    "Logradouro": "Carretera a Puerto Padre, Km 14",
+    "CEP": "Cidade: Las Tunas, LT, CUBA",
+    "Cidade": "Las Tunas, LT, CUBA",
+    "Coordenadas": {
+      "lat": 20.9568858,
+      "lon": -76.9537242
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Palmarito CENTRAL CU-01-0006 Localização Logradouro: Carretera a Puerto Padre, Km 14 CEP: Cidade: Las Tunas, LT, CUBA Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Aristides Lorenzo Guerra Telefone(s) +53 () 5219-9544"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0004",
+    "Nome": "Polígono - Central",
+    "Logradouro": "Calle Abdelio Molina, 4",
+    "CEP": "Cidade: Mayajigua, SS, CUBA",
+    "Cidade": "Mayajigua, SS, CUBA",
+    "Coordenadas": {
+      "lat": 22.2452075,
+      "lon": -79.0724226
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "20:30",
+        "Quinta-feira": "20:30"
+      },
+      "Obs": "Localidade Polígono CENTRAL CU-01-0004 Localização Logradouro: Calle Abdelio Molina, 4 CEP: Cidade: Mayajigua, SS, CUBA Dias de Culto Dom 10:00 - Ter-Qui 20:30 Ministério Cooperador Ofício Ministerial Guzman Agostin Ortiz Montero Telefone(s) +53 () 5428-5022 +53 () 5574-6469 +53 () 6387-9400"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0016",
+    "Nome": "Reparto Camilo Cienfuegos",
+    "Logradouro": "Triplanta 9, apto 6",
+    "CEP": "Cidade: Las Tunas, LT, CUBA",
+    "Cidade": "Las Tunas, LT, CUBA",
+    "Coordenadas": {
+      "lat": 20.9568858,
+      "lon": -76.9537242
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "16:30"
+      },
+      "Obs": "Localidade Reparto Camilo Cienfuegos CU-01-0016 Localização Logradouro: Triplanta 9, apto 6 CEP: Cidade: Las Tunas, LT, CUBA Complemento: Entre calles 35 y Avenida Carlos Juan Finlay Dias de Culto Ter 16:30 Ministério Telefone(s) +53 () 3139-1074 +53 () 5264-8996"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0007",
+    "Nome": "Vázquez - Central",
+    "Logradouro": "Calle 1, nº 308",
+    "CEP": "Cidade: Puerto Padre, LT, CUBA",
+    "Cidade": "Puerto Padre, LT, CUBA",
+    "Coordenadas": {
+      "lat": 21.197504,
+      "lon": -76.6018039
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "16:30",
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Vázquez CENTRAL CU-01-0007 Localização Logradouro: Calle 1, nº 308 CEP: Cidade: Puerto Padre, LT, CUBA Dias de Culto Ter 16:30 - Sáb 10:00 Ministério Ancião JUAN CARLOS DURAÑONA Cooperador Ofício Ministerial Willian Machado Jorge Telefone(s) +53 () 3139-1074"
+    }
+  },
+  {
+    "CodigoId": "CU-01-0014",
+    "Nome": "Zona Camino de Santa Cruz - Central",
+    "Logradouro": "Interior, s/nº",
+    "CEP": "Cidade: Sancti Spíritus, SS, CUBA",
+    "Cidade": "Sancti Spíritus, SS, CUBA",
+    "Coordenadas": {
+      "lat": 21.9275667,
+      "lon": -79.443211
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:30 / RJM Dom 14:30",
+        "Terça-feira": "20:00"
+      },
+      "Obs": "Localidade Zona Camino de Santa Cruz CENTRAL CU-01-0014 Localização Logradouro: Interior, s/nº CEP: Cidade: Sancti Spíritus, SS, CUBA Dias de Culto Dom 14:30 - Ter 20:00 (RJM Dom 14:30) Ministério Cooperador Ofício Ministerial Pedro Luis Hernández Hernández Telefone(s) +53 (5) 4843-7440"
+    }
+  }
+]

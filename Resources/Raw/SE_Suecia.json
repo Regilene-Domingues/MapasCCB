@@ -1,0 +1,62 @@
+[
+  {
+    "CodigoId": "SE-01-0003",
+    "Nome": "Gotemburgo - Central",
+    "Logradouro": "Citrusgatan 16",
+    "CEP": "426 54",
+    "Cidade": "Gotemburgo, O, Suécia",
+    "Coordenadas": {
+      "lat": 57.6539362,
+      "lon": 11.8735612
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:30 () Quinzenais / RJM Sáb 14:30"
+      },
+      "Obs": "Localidade Gotemburgo CENTRAL SE-01-0003 Localização Logradouro: Citrusgatan 16 CEP: 426 54 Cidade: Gotemburgo, O, Suécia Dias de Culto Sáb 14:30 (RJM Sáb 14:30) Quinzenais Ministério Cooperador Ofício Ministerial Gustavo Willian da Luz de Lima Telefone(s) +46 (70) 325 6201"
+    }
+  },
+  {
+    "CodigoId": "SE-01-0002",
+    "Nome": "Huddinge - Central",
+    "Logradouro": "Novavägen 17 - Porta 18",
+    "CEP": "141 44",
+    "Cidade": "Huddinge, AB, Suécia",
+    "Coordenadas": {
+      "lat": 59.2322761,
+      "lon": 17.9580259
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00 / RJM 2º e 4º Sáb 14:00"
+      },
+      "Obs": "Localidade Huddinge CENTRAL SE-01-0002 Localização Logradouro: Novavägen 17 - Porta 18 CEP: 141 44 Cidade: Huddinge, AB, Suécia Dias de Culto Sáb 14:00 (RJM 2º e 4º Sáb 14:00) Ministério Cooperador Ofício Ministerial Rodrigo Alexandre Subtil Caetano Cooperador de Jovens e Menores Paulo Henrique Gabriele Meneleu Telefone(s) +46 (70) 086 92 77"
+    }
+  },
+  {
+    "CodigoId": "SE-01-0001",
+    "Nome": "Landskrona - Central",
+    "Logradouro": "Eriksgatan, 72",
+    "CEP": "26136",
+    "Cidade": "Landskrona, M, Suécia",
+    "Coordenadas": {
+      "lat": 55.8739952,
+      "lon": 12.8313635
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:30 / RJM Dom 11:30"
+      },
+      "Obs": "Localidade Landskrona CENTRAL SE-01-0001 Localização Logradouro: Eriksgatan, 72 CEP: 26136 Cidade: Landskrona, M, Suécia Dias de Culto Dom 11:30 (RJM Dom 11:30) Ministério Ancião AMÉRICO ARMANDO DOS SANTOS MEDEIROS Cooperador Ofício Ministerial Carlino Carvalho de Almeida Diácono André Ferreira Lara Silva Cooperador de Jovens e Menores André Pereira Medeiros Telefone(s) +46 (703) 256-201"
+    }
+  }
+]

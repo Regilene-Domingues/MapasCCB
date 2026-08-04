@@ -1,0 +1,42 @@
+[
+  {
+    "CodigoId": "LK-01-0003",
+    "Nome": "Mahajiawa Kandy - Central",
+    "Logradouro": "96/5 - Mapanawathura - Circular Road",
+    "CEP": "20000",
+    "Cidade": "Kandy, KANDY, Sri Lanka",
+    "Coordenadas": {
+      "lat": 7.3084625,
+      "lon": 80.6299677
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Mahajiawa Kandy CENTRAL LK-01-0003 Localização Logradouro: 96/5 - Mapanawathura - Circular Road CEP: 20000 Cidade: Kandy, KANDY, Sri Lanka Dias de Culto Sáb 16:00 Ministério Cooperador Ofício Ministerial Arokiyam Sebastian Anton Jhonson"
+    }
+  },
+  {
+    "CodigoId": "LK-01-0001",
+    "Nome": "Nagoda Welisara - Central",
+    "Logradouro": "024/66 A - Saint Bridget Mawatha - Church Road",
+    "CEP": "Cidade: Wattala, COLOMBO, Sri Lanka",
+    "Cidade": "Wattala, COLOMBO, Sri Lanka",
+    "Coordenadas": {
+      "lat": 6.9717751,
+      "lon": 79.8941123
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Nagoda Welisara CENTRAL LK-01-0001 Localização Logradouro: 024/66 A - Saint Bridget Mawatha - Church Road CEP: Cidade: Wattala, COLOMBO, Sri Lanka Complemento: Fone Brasil (+55 15) 99757-3339 Dias de Culto Dom 16:00 Ministério Ancião João Carlos da Silva João Carlos da Silva João Carlos da Silva Cooperador Ofício Ministerial Arachchinge Don Sureka Samantha Jayathilakao"
+    }
+  }
+]

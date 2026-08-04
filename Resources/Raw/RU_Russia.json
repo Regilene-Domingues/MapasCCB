@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "RU-01-0001",
+    "Nome": "Ulyanovsk - Central",
+    "Logradouro": "Bulevar Festival, 10 - apto 191",
+    "CEP": "432067",
+    "Cidade": "Ulyanovsk, ULYANOVSK, RÚSSIA",
+    "Coordenadas": {
+      "lat": 54.3729102,
+      "lon": 48.5777897
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Ulyanovsk CENTRAL RU-01-0001 Localização Logradouro: Bulevar Festival, 10 - apto 191 CEP: 432067 Cidade: Ulyanovsk, ULYANOVSK, RÚSSIA Complemento: ??????? ????????????, ?. 10, ?? 191, ?????????, 432067 Dias de Culto Ministério"
+    }
+  }
+]

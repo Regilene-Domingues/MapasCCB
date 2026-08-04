@@ -1,0 +1,446 @@
+[
+  {
+    "CodigoId": "PE-01-0010",
+    "Nome": "AAHH Las Palmeras - Central",
+    "Logradouro": "Calle la Unión, s/nº",
+    "CEP": "17251",
+    "Cidade": "Iberia, MDD, Peru",
+    "Coordenadas": {
+      "lat": -11.4439005,
+      "lon": -69.7209205
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade AAHH Las Palmeras CENTRAL PE-01-0010 Localização Logradouro: Calle la Unión, s/nº CEP: 17251 Cidade: Iberia, MDD, Peru Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Otacilio Alves da Silva"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0027",
+    "Nome": "AAHH Marginal Manuel Pacaya - Central",
+    "Logradouro": "Pasaje San Felipe, Manzana 41, Lote 29",
+    "CEP": "16300",
+    "Cidade": "Nauta, LOR, Peru",
+    "Coordenadas": {
+      "lat": -4.5070455,
+      "lon": -73.5740018
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 18:30",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade AAHH Marginal Manuel Pacaya CENTRAL PE-01-0027 Localização Logradouro: Pasaje San Felipe, Manzana 41, Lote 29 CEP: 16300 Cidade: Nauta, LOR, Peru Dias de Culto Dom 18:30 - Sex 20:00 (RJM Dom 18:30) Ministério Cooperador Ofício Ministerial Santiago Silvano Ahuanari"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0013",
+    "Nome": "Asociación Pro Vivienda Bello Horizonte - Central",
+    "Logradouro": "Calle 17 de Junio, Manzana H, Lote 9",
+    "CEP": "25003",
+    "Cidade": "Yarinacocha, UCA, Peru",
+    "Coordenadas": {
+      "lat": -8.3633198,
+      "lon": -74.5784288
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30 / RJM Sáb 19:30"
+      },
+      "Obs": "Localidade Asociación Pro Vivienda Bello Horizonte CENTRAL PE-01-0013 Localização Logradouro: Calle 17 de Junio, Manzana H, Lote 9 CEP: 25003 Cidade: Yarinacocha, UCA, Peru Complemento: Yendo por Avenida 2 de Mayo, a 2 cuadras de la Plaza La Perla Dias de Culto Ter-Sáb 19:30 (RJM Sáb 19:30) Ministério Cooperador Ofício Ministerial Devis Silver Chavez Fernandez"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0019",
+    "Nome": "Carretera Chiclayo São José - Urbanización California - Central",
+    "Logradouro": "Calle Los Lirios - Manzana 72 - Lotes 21 a 23",
+    "CEP": "14004",
+    "Cidade": "San José, LAM, Peru",
+    "Coordenadas": {
+      "lat": -6.776495,
+      "lon": -79.9429523
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Carretera Chiclayo São José - Urbanización California CENTRAL PE-01-0019 Localização Logradouro: Calle Los Lirios - Manzana 72 - Lotes 21 a 23 CEP: 14004 Cidade: San José, LAM, Peru Complemento: Carretera Chiclayo San José KM 4,5 Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Cooperador Ofício Ministerial Tomas Riojas Sandoval Cooperador de Jovens e Menores Daniel Jim Vicente Ramirez"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0001",
+    "Nome": "Cercado - Central",
+    "Logradouro": "Jirón Paz Soldán, 349",
+    "CEP": "07021",
+    "Cidade": "Callao, CAL, Peru",
+    "Coordenadas": {
+      "lat": -12.064095,
+      "lon": -77.1466027
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 -Qua 20:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Cercado CENTRAL PE-01-0001 Localização Logradouro: Jirón Paz Soldán, 349 CEP: 07021 Cidade: Callao, CAL, Peru Complemento: Altura de la nueva municipalidad del Callao Dias de Culto Dom 10:00 -Qua 20:00 (RJM Dom 10:00) Ministério Ancião CESAR AUGUSTO SABOGAL ÁLVAREZ JORGE FRANCISCO JALCK MIRANDA Diácono Pedro Cesar Buitrón Bruno Gerbes Deniro Orellana Zegarra Cooperador de Jovens e Menores Anderson Joel Cabrera Delgado Telefone(s) +51 (1) 429-4755"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0003",
+    "Nome": "Cercado - Central",
+    "Logradouro": "Prolongación Bruno Terreros, 877",
+    "CEP": "12601",
+    "Cidade": "Jauja, LUN, Peru",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Cercado CENTRAL PE-01-0003 Localização Logradouro: Prolongación Bruno Terreros, 877 CEP: 12601 Cidade: Jauja, LUN, Peru Dias de Culto Dom 14:00 - Qua 19:30 - Sáb 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Henry Guillermo Morales Moya Cooperador de Jovens e Menores Dario Cesar Lopez Aquino"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0037",
+    "Nome": "Cercado - Central",
+    "Logradouro": "Avenida León Velarde, s/nº",
+    "CEP": "17300",
+    "Cidade": "Iñapari, MDD, Peru",
+    "Coordenadas": {
+      "lat": -10.9470805,
+      "lon": -69.5761211
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Cercado CENTRAL PE-01-0037 Localização Logradouro: Avenida León Velarde, s/nº CEP: 17300 Cidade: Iñapari, MDD, Peru Complemento: Frontera con la ciudad de Assis Brasil - AC Dias de Culto Sáb 19:30 Ministério Cooperador Ofício Ministerial Atalides Andrade da Silva"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0006",
+    "Nome": "Cerro El Pino - Central",
+    "Logradouro": "Sector 21, Lote 1",
+    "CEP": "15019",
+    "Cidade": "La Victoria, LIM, Peru",
+    "Coordenadas": {
+      "lat": -12.0654932,
+      "lon": -76.999108
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Cerro El Pino CENTRAL PE-01-0006 Localização Logradouro: Sector 21, Lote 1 CEP: 15019 Cidade: La Victoria, LIM, Peru Dias de Culto Sáb 19:30 Ministério Ancião VALENTIN CABRERA CHUCYA Cooperador Ofício Ministerial Sergio Roberto Delgado Peñarayme"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0045",
+    "Nome": "Distrito Cidade Nueva",
+    "Logradouro": "Asociación de Vivienda 1ro de Mayo, F Lote 16",
+    "CEP": "23002",
+    "Cidade": "Ciudad Nueva, TAC, Peru",
+    "Coordenadas": {
+      "lat": -17.9876936,
+      "lon": -70.2381085
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "18:00",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Distrito Cidade Nueva PE-01-0045 Localização Logradouro: Asociación de Vivienda 1ro de Mayo, F Lote 16 CEP: 23002 Cidade: Ciudad Nueva, TAC, Peru Complemento: altura de la Instrucion Educativa Cesar Cohaila Dias de Culto 4N SN Culto Oficial Quarta-feira - 18:00 Sábado - 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0043",
+    "Nome": "Jesus de Praga - Central",
+    "Logradouro": "Puerto Principal",
+    "CEP": "16231",
+    "Cidade": "San Pablo de Loreto, LOR, Peru",
+    "Coordenadas": {
+      "lat": -4.0204036,
+      "lon": -71.1034362
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Jesus de Praga CENTRAL PE-01-0043 Localização Logradouro: Puerto Principal CEP: 16231 Cidade: San Pablo de Loreto, LOR, Peru Dias de Culto DM Culto Oficial Domingo - 09:00 - es_PY Ministério Cooperador Ofício Ministerial Sadan Jossein Perdomo Anuanari"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0029",
+    "Nome": "Las Piedras - Central",
+    "Logradouro": "Pasaje Víctor Raúl Haya de la Torre, Manzana D, Lote 12",
+    "CEP": "17100",
+    "Cidade": "Las Piedras, MDD, Peru",
+    "Coordenadas": {
+      "lat": -12.2789796,
+      "lon": -69.1508022
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Las Piedras CENTRAL PE-01-0029 Localização Logradouro: Pasaje Víctor Raúl Haya de la Torre, Manzana D, Lote 12 CEP: 17100 Cidade: Las Piedras, MDD, Peru Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Benjamin Zevallos Valdiviezo"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0024",
+    "Nome": "Manantay - Central",
+    "Logradouro": "Jirón Cucarda, Cuadra 1, s/nº",
+    "CEP": "25002",
+    "Cidade": "Manantay, UCA, Peru",
+    "Coordenadas": {
+      "lat": -8.4094312,
+      "lon": -74.5500433
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Manantay CENTRAL PE-01-0024 Localização Logradouro: Jirón Cucarda, Cuadra 1, s/nº CEP: 25002 Cidade: Manantay, UCA, Peru Complemento: A 5 minutos del Grifo Santa Felicia, yendo por Avenida Aviación y entrando por la Calle Río Breo Dias de Culto Sex 19:30 Ministério Cooperador Ofício Ministerial Mario Rubén López Linares"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0012",
+    "Nome": "Pucallpa - Central",
+    "Logradouro": "Jirón Pachitea, 343",
+    "CEP": "25001",
+    "Cidade": "Callería, UCA, Peru",
+    "Coordenadas": {
+      "lat": -8.3818321,
+      "lon": -74.5319192
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Pucallpa CENTRAL PE-01-0012 Localização Logradouro: Jirón Pachitea, 343 CEP: 25001 Cidade: Callería, UCA, Peru Complemento: Altura de la Panadería La Moderna Dias de Culto Dom 17:00 - Qua 19:30 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Carlos Fernandez Perez Telefone(s) +51 (61) 578-706"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0018",
+    "Nome": "Puerto Maldonado - Urbanización Los Pioneros - Central",
+    "Logradouro": "Alameda La Cachuela, 254",
+    "CEP": "17001",
+    "Cidade": "Tambopata, MDD, Peru",
+    "Coordenadas": {
+      "lat": -12.187271,
+      "lon": -69.8479162
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Puerto Maldonado - Urbanización Los Pioneros CENTRAL PE-01-0018 Localização Logradouro: Alameda La Cachuela, 254 CEP: 17001 Cidade: Tambopata, MDD, Peru Dias de Culto Dom 19:00 - Qua 19:30 (RJM Dom 09:00) Ministério Ancião ATENÁGORAS FORTUNATO DE ALMEIDA DE SOUZA Cooperador Ofício Ministerial Cesar Luis Fernandez Pereira"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0034",
+    "Nome": "Río Chontabamba - Central",
+    "Logradouro": "Bajando, margen derecha, a 6 Km de Oxapampa",
+    "CEP": "19210",
+    "Cidade": "Chontabamba, PAS, Peru",
+    "Coordenadas": {
+      "lat": -10.5942702,
+      "lon": -75.4226446
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Río Chontabamba CENTRAL PE-01-0034 Localização Logradouro: Bajando, margen derecha, a 6 Km de Oxapampa CEP: 19210 Cidade: Chontabamba, PAS, Peru Dias de Culto Qua-Sáb 19:30 Ministério Cooperador Ofício Ministerial Jorge Luís Poma Durand"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0044",
+    "Nome": "San Pablo",
+    "Logradouro": "Calle Bolognes",
+    "CEP": "0104",
+    "Cidade": "San Pablo de Loreto, LOR, Peru",
+    "Coordenadas": {
+      "lat": -4.0204036,
+      "lon": -71.1034362
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade San Pablo PE-01-0044 Localização Logradouro: Calle Bolognes CEP: 0104 Cidade: San Pablo de Loreto, LOR, Peru Dias de Culto Ministério Cooperador Ofício Ministerial Carlos Perez Inumar"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0026",
+    "Nome": "Segunda Etapa - Villa Potokar - Central",
+    "Logradouro": "Brisas del Huallaga",
+    "CEP": "10131",
+    "Cidade": "Rupa-rupa, HUC, Peru",
+    "Coordenadas": {
+      "lat": -9.3103531,
+      "lon": -76.003979
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Segunda Etapa - Villa Potokar CENTRAL PE-01-0026 Localização Logradouro: Brisas del Huallaga CEP: 10131 Cidade: Rupa-rupa, HUC, Peru Dias de Culto DM 4N Culto Oficial Domingo - 10:30 Quarta-feira - 19:30 Ministério Cooperador Ofício Ministerial Héctor Elvis Montero Limaco"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0041",
+    "Nome": "Tingo María/Brisas - Comité nº 10 - Central",
+    "Logradouro": "Pasaje Torres, s/nº",
+    "CEP": "10131",
+    "Cidade": "Rupa-rupa, HUC, Peru",
+    "Coordenadas": {
+      "lat": -9.2982032,
+      "lon": -76.0005738
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Tingo María/Brisas - Comité nº 10 CENTRAL PE-01-0041 Localização Logradouro: Pasaje Torres, s/nº CEP: 10131 Cidade: Rupa-rupa, HUC, Peru Dias de Culto DM 4N Culto Oficial Domingo - 10:30 Quarta-feira - 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0007",
+    "Nome": "Urbanización Los Ficus - Central",
+    "Logradouro": "Avenida Los Cipreses, 480",
+    "CEP": "15008",
+    "Cidade": "Santa Anita, LIM, Peru",
+    "Coordenadas": {
+      "lat": -12.0555478,
+      "lon": -76.9742637
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Urbanización Los Ficus CENTRAL PE-01-0007 Localização Logradouro: Avenida Los Cipreses, 480 CEP: 15008 Cidade: Santa Anita, LIM, Peru Complemento: A 2 cuadras del Paradero Corredor Amarillo Puente Azul Dias de Culto Dom 10:00 - Sex 19:30 (RJM Dom 10:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0031",
+    "Nome": "Urbanización San Lorenzo - Central",
+    "Logradouro": "Calle Malecón Zolezzi, 411-A",
+    "CEP": "04006",
+    "Cidade": "Mariano Melgar, ARE, Peru",
+    "Coordenadas": {
+      "lat": -16.4088812,
+      "lon": -71.508901
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00"
+      },
+      "Obs": "Localidade Urbanización San Lorenzo CENTRAL PE-01-0031 Localização Logradouro: Calle Malecón Zolezzi, 411-A CEP: 04006 Cidade: Mariano Melgar, ARE, Peru Complemento: Cerca Feria Altiplano Dias de Culto Dom 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PE-01-0008",
+    "Nome": "Zona del Mercado Modelo - Central",
+    "Logradouro": "Calle Leoncio Prado, 242",
+    "CEP": "16003",
+    "Cidade": "Iquitos, LOR, Peru",
+    "Coordenadas": {
+      "lat": -3.7392056,
+      "lon": -73.2434821
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 18:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Zona del Mercado Modelo CENTRAL PE-01-0008 Localização Logradouro: Calle Leoncio Prado, 242 CEP: 16003 Cidade: Iquitos, LOR, Peru Complemento: Paredón de Electro Oriente Dias de Culto Dom 18:30 - Sex 19:30 (RJM Dom 18:30) Ministério Ancião SALMO FERREIRA SILVA Cooperador Ofício Ministerial Tito Roberto Villegas Acha Telefone(s) +51 (0) 952 673-867"
+    }
+  }
+]

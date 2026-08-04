@@ -1,0 +1,268 @@
+[
+  {
+    "CodigoId": "CA-01-0014",
+    "Nome": "Alta Vista - Central",
+    "Logradouro": "2400 Alta Vista Drive",
+    "CEP": "K1H 7N1",
+    "Cidade": "Ottawa, ON, Canadá",
+    "Coordenadas": {
+      "lat": 45.381885,
+      "lon": -75.6627273
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 18:30"
+      },
+      "Obs": "Localidade Alta Vista CENTRAL CA-01-0014 Localização Logradouro: 2400 Alta Vista Drive CEP: K1H 7N1 Cidade: Ottawa, ON, Canadá Complemento: Salão lateral Dias de Culto Dom 18:30 (RJM Dom 18:30) Ministério Cooperador Ofício Ministerial Fernando Otacilio Caparica Santos Telefone(s) +1 (438) 476-9847"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0018",
+    "Nome": "Burlington - Central",
+    "Logradouro": "2054 Mountainside Drive",
+    "CEP": "L7P 1A8",
+    "Cidade": "Burlington, ON, Canadá",
+    "Coordenadas": {
+      "lat": 43.3465818,
+      "lon": -79.8256127
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Inglês"
+      },
+      "Obs": "Localidade Burlington CENTRAL CA-01-0018 Localização Logradouro: 2054 Mountainside Drive CEP: L7P 1A8 Cidade: Burlington, ON, Canadá Dias de Culto 2º e 4º Sáb 19:30 (Inglês) Ministério Telefone(s) +1 (416) 243-0549"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0015",
+    "Nome": "Calgary - Central",
+    "Logradouro": "520, 27 Avenue NE - Winston Heights Community Association - North Hall",
+    "CEP": "T2E 2A6",
+    "Cidade": "Calgary, AB, Canadá",
+    "Coordenadas": {
+      "lat": 51.0456064,
+      "lon": -114.057541
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30 (Inglês / RJM Dom 09:30 - Inglês"
+      },
+      "Obs": "Localidade Calgary CENTRAL CA-01-0015 Localização Logradouro: 520, 27 Avenue NE - Winston Heights Community Association - North Hall CEP: T2E 2A6 Cidade: Calgary, AB, Canadá Dias de Culto Dom 09:30 (Inglês) (RJM Dom 09:30 - Inglês) Ministério Cooperador Ofício Ministerial Gabriel Araujo Costa Telefone(s) +1 (587) 973-1912"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0005",
+    "Nome": "Central - Central",
+    "Logradouro": "1431 Wilson Avenue",
+    "CEP": "M3M 1H9",
+    "Cidade": "North York (toronto), ON, Canadá",
+    "Coordenadas": {
+      "lat": 43.7221529,
+      "lon": -79.501356
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Inglês)",
+        "Quarta-feira": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Central CENTRAL CA-01-0005 Localização Logradouro: 1431 Wilson Avenue CEP: M3M 1H9 Cidade: North York (toronto), ON, Canadá Dias de Culto Sáb 19:30 (Inglês) - Qua 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião BRUNO DE ANGELIS GIUSEPPE SITA GIOVANNI SITA Cooperador Ofício Ministerial Josias Muniz Diácono Daniel Araujo Vicentini Telefone(s) +1 (416) 243-0549"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0009",
+    "Nome": "Edmonton - Central",
+    "Logradouro": "8401, 114 Avenue NW",
+    "CEP": "T5B 0K2",
+    "Cidade": "Edmonton, AB, Canadá",
+    "Coordenadas": {
+      "lat": 53.5641359,
+      "lon": -113.4705502
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 (Inglês / RJM Dom 19:00 - Inglês"
+      },
+      "Obs": "Localidade Edmonton CENTRAL CA-01-0009 Localização Logradouro: 8401, 114 Avenue NW CEP: T5B 0K2 Cidade: Edmonton, AB, Canadá Dias de Culto Dom 19:00 (Inglês) (RJM Dom 19:00 - Inglês) Ministério Ancião MARCOS DE FREITAS Cooperador Ofício Ministerial Geovani Jacouvatz Diácono Ronaldo Rubinick Telefone(s) +1 (780) 718-9825"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0013",
+    "Nome": "Innis Wood Church - Central",
+    "Logradouro": "460 Yonge Street",
+    "CEP": "L4N 4E2",
+    "Cidade": "Barrie, ON, Canadá",
+    "Coordenadas": {
+      "lat": 44.3628709,
+      "lon": -79.6583402
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Inglês"
+      },
+      "Obs": "Localidade Innis Wood Church CENTRAL CA-01-0013 Localização Logradouro: 460 Yonge Street CEP: L4N 4E2 Cidade: Barrie, ON, Canadá Dias de Culto 1º e 3º Sáb 19:30 (Inglês) Ministério Telefone(s) +1 (416) 782-4793"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0017",
+    "Nome": "Moncton - Central",
+    "Logradouro": "520 River Glade Road, Wheaton Settlement",
+    "CEP": "E4Z 3W3",
+    "Cidade": "Moncton, NB, Canadá",
+    "Coordenadas": {
+      "lat": 46.0829675,
+      "lon": -64.7883592
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Inglês / RJM 2° e 4° Dom 18:30 - Inglês"
+      },
+      "Obs": "Localidade Moncton CENTRAL CA-01-0017 Localização Logradouro: 520 River Glade Road, Wheaton Settlement CEP: E4Z 3W3 Cidade: Moncton, NB, Canadá Dias de Culto 1°, 3° e 5° Dom 18:30 (Inglês) (RJM 2° e 4° Dom 18:30 - Inglês) Ministério Cooperador Ofício Ministerial Antônio Carlos Geraldi Júnior Telefone(s) +1 (506) 874-7427"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0008",
+    "Nome": "Montreal - Central",
+    "Logradouro": "1345 Rue Lapointe",
+    "CEP": "H4L 1K5",
+    "Cidade": "Montreal, QC, Canadá",
+    "Coordenadas": {
+      "lat": 45.5226238,
+      "lon": -73.6908051
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "18:30 (Francês",
+        "Domingo": "RJM 2º e 4º Dom 10:30 - Francês"
+      },
+      "Obs": "Localidade Montreal CENTRAL CA-01-0008 Localização Logradouro: 1345 Rue Lapointe CEP: H4L 1K5 Cidade: Montreal, QC, Canadá Dias de Culto Sáb 18:30 (Francês) (RJM 2º e 4º Dom 10:30 - Francês) Ministério Ancião DANIEL KANAAN LIMA Diácono Jaime Damasceno Silva Cooperador de Jovens e Menores Renato Alvares Baena Telefone(s) +1 (438) 476-9847"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0004",
+    "Nome": "Saint Catharines - Central",
+    "Logradouro": "5 McKay Street",
+    "CEP": "L2S 1E8",
+    "Cidade": "Saint Catharines, ON, Canadá",
+    "Coordenadas": {
+      "lat": 43.137883,
+      "lon": -79.2512587
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês"
+      },
+      "Obs": "Localidade Saint Catharines CENTRAL CA-01-0004 Localização Logradouro: 5 McKay Street CEP: L2S 1E8 Cidade: Saint Catharines, ON, Canadá Dias de Culto Dom 10:30 (Inglês) Ministério Ancião MARIO CECCHI"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0007",
+    "Nome": "Saint James Condominium Corporation - Central",
+    "Logradouro": "201 Cree Place, Unit 108 Ammenities Room",
+    "CEP": "S7K 7Z3",
+    "Cidade": "Saskatoon, SK, Canadá",
+    "Coordenadas": {
+      "lat": 52.1323352,
+      "lon": -106.6711781
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00 (Inglês"
+      },
+      "Obs": "Localidade Saint James Condominium Corporation CENTRAL CA-01-0007 Localização Logradouro: 201 Cree Place, Unit 108 Ammenities Room CEP: S7K 7Z3 Cidade: Saskatoon, SK, Canadá Complemento: Amenities Room Dias de Culto Ter 19:00 (Inglês) Ministério Cooperador Ofício Ministerial Donarino Soares da Silva Cooperador de Jovens e Menores Vinicius Colasso Camargo Telefone(s) +1 (306) 955-4326"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0010",
+    "Nome": "Saint Romuald (Ville de Quebec) - Central",
+    "Logradouro": "1029 Rue de la Prairie",
+    "CEP": "G6Z 2Z4",
+    "Cidade": "Lévis, QC, Canadá",
+    "Coordenadas": {
+      "lat": 46.7291039,
+      "lon": -71.2089603
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:30 (Francês / RJM Sáb 18:30 - Francês"
+      },
+      "Obs": "Localidade Saint Romuald (Ville de Quebec) CENTRAL CA-01-0010 Localização Logradouro: 1029 Rue de la Prairie CEP: G6Z 2Z4 Cidade: Lévis, QC, Canadá Dias de Culto Sáb 18:30 (Francês) (RJM Sáb 18:30 - Francês) Ministério Diácono Roberson Rogério Daminelli Cooperador de Jovens e Menores Thiago Rogério de Oliveira Telefone(s) +1 (438) 476-9847"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0012",
+    "Nome": "Windsor - Tilbury - Central",
+    "Logradouro": "27 Canal Street East",
+    "CEP": "N0P 2L0",
+    "Cidade": "Tilbury, ON, Canadá",
+    "Coordenadas": {
+      "lat": 42.2630389,
+      "lon": -82.4223917
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 (Inglês / RJM 2º e 4º Sáb 19:00 - Inglês"
+      },
+      "Obs": "Localidade Windsor - Tilbury CENTRAL CA-01-0012 Localização Logradouro: 27 Canal Street East CEP: N0P 2L0 Cidade: Tilbury, ON, Canadá Dias de Culto 1º, 3º e 5º Sáb 19:00 (Inglês) (RJM 2º e 4º Sáb 19:00 - Inglês) Ministério Cooperador de Jovens e Menores Evandro Holderbach Telefone(s) +1 (647) 390-6376"
+    }
+  },
+  {
+    "CodigoId": "CA-01-0016",
+    "Nome": "Winnipeg - Central",
+    "Logradouro": "188 Chalmers Avenue",
+    "CEP": "R2L 0E8",
+    "Cidade": "Winnipeg, MB, Canadá",
+    "Coordenadas": {
+      "lat": 49.91438,
+      "lon": -97.1125753
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês"
+      },
+      "Obs": "Localidade Winnipeg CENTRAL CA-01-0016 Localização Logradouro: 188 Chalmers Avenue CEP: R2L 0E8 Cidade: Winnipeg, MB, Canadá Dias de Culto Dom 10:00 (Inglês) Ministério Telefone(s) +1 (431) 788-8394"
+    }
+  }
+]

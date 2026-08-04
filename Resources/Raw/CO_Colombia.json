@@ -1,0 +1,170 @@
+[
+  {
+    "CodigoId": "CO-01-0012",
+    "Nome": "Barrio Caracoli",
+    "Logradouro": "Carrera 74A, 76-20",
+    "CEP": "Cidade: Bogotá, CUNDINAMARCA, Colômbia",
+    "Cidade": "Bogotá, CUNDINAMARCA, Colômbia",
+    "Coordenadas": {
+      "lat": 4.7776371,
+      "lon": -74.117302
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Barrio Caracoli CO-01-0012 Localização Logradouro: Carrera 74A, 76-20 CEP: Cidade: Bogotá, CUNDINAMARCA, Colômbia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Victor Buitrago Jerez"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0005",
+    "Nome": "Barrio Nariño - Central",
+    "Logradouro": "Carrera 44, Calle 45-652",
+    "CEP": "Cidade: Arjona, BOLIVAR, Colômbia",
+    "Cidade": "Arjona, BOLIVAR, Colômbia",
+    "Coordenadas": {
+      "lat": 10.2487304,
+      "lon": -75.3558139
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00"
+      },
+      "Obs": "Localidade Barrio Nariño CENTRAL CO-01-0005 Localização Logradouro: Carrera 44, Calle 45-652 CEP: Cidade: Arjona, BOLIVAR, Colômbia Dias de Culto Dom 17:00 Ministério Cooperador Ofício Ministerial Cristian David Chiquillo Reyes Telefone(s) +57 (305) 450-1514"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0013",
+    "Nome": "Gaitán - Central",
+    "Logradouro": "Carrera 3, nº 18-196",
+    "CEP": "Cidade: Puerto Carreño, VICHADA, Colômbia",
+    "Cidade": "Puerto Carreño, VICHADA, Colômbia",
+    "Coordenadas": {
+      "lat": 6.1837426,
+      "lon": -67.4781724
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gaitán CENTRAL CO-01-0013 Localização Logradouro: Carrera 3, nº 18-196 CEP: Cidade: Puerto Carreño, VICHADA, Colômbia Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0004",
+    "Nome": "La Pradera - Central",
+    "Logradouro": "Calle Manzana 13, nº 3-33",
+    "CEP": "Cidade: Pivijay, MAGDALENA, Colômbia",
+    "Cidade": "Pivijay, MAGDALENA, Colômbia",
+    "Coordenadas": {
+      "lat": 10.4654031,
+      "lon": -74.6169599
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade La Pradera CENTRAL CO-01-0004 Localização Logradouro: Calle Manzana 13, nº 3-33 CEP: Cidade: Pivijay, MAGDALENA, Colômbia Dias de Culto Dom 10:00 - Qua 19:00 Ministério Ancião Pedro Melendéz Morales Telefone(s) +57 (304) 342-0699"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0002",
+    "Nome": "Olaya Herrera - Central",
+    "Logradouro": "Callejón Papa Negro, #23-20",
+    "CEP": "Cidade: Cartagena, BOLIVAR, Colômbia",
+    "Cidade": "Cartagena, BOLIVAR, Colômbia",
+    "Coordenadas": {
+      "lat": 10.4265566,
+      "lon": -75.5441671
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Olaya Herrera CENTRAL CO-01-0002 Localização Logradouro: Callejón Papa Negro, #23-20 CEP: Cidade: Cartagena, BOLIVAR, Colômbia Complemento: Próxima a la Plaza de Toros - Entrando por la Perimetral con Pedro Romero Dias de Culto Dom 10:00 - Qui 19:00 (RJM Dom 09:00) Ministério Ancião PEDRO MELENDÉZ MORALES GREGORIO MIRANDA MARTÍNEZ Diácono Guillermo Jiménez Bravo Cooperador de Jovens e Menores Carlos Rojas Melendéz Telefone(s) +57 (5) 669-9636"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0011",
+    "Nome": "Ospina - Central",
+    "Logradouro": "Carrera 3 - Casa 6 nº 15",
+    "CEP": "025",
+    "Cidade": "Cogua, CUNDINAMARCA, Colômbia",
+    "Coordenadas": {
+      "lat": 5.0601683,
+      "lon": -73.9761942
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Ospina CENTRAL CO-01-0011 Localização Logradouro: Carrera 3 - Casa 6 nº 15 CEP: 025 Cidade: Cogua, CUNDINAMARCA, Colômbia Dias de Culto 2º e 4º Dom 16:00 Ministério Cooperador Ofício Ministerial José Martinez Ruis"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0001",
+    "Nome": "Sevillar - Central",
+    "Logradouro": "Calle 47 B, 16-158",
+    "CEP": "Cidade: Barranquilla, ATLANTICO, Colômbia",
+    "Cidade": "Barranquilla, ATLANTICO, Colômbia",
+    "Coordenadas": {
+      "lat": 10.986304,
+      "lon": -74.78647
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Sevillar CENTRAL CO-01-0001 Localização Logradouro: Calle 47 B, 16-158 CEP: Cidade: Barranquilla, ATLANTICO, Colômbia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Rubens Puga Junior Telefone(s) +57 (312) 666-2818"
+    }
+  },
+  {
+    "CodigoId": "CO-01-0008",
+    "Nome": "Tres Reyes - Segundo Sector - Central",
+    "Logradouro": "Calle 62G Sur, 77A-1",
+    "CEP": "Cidade: Bogotá, CUNDINAMARCA, Colômbia",
+    "Cidade": "Bogotá, CUNDINAMARCA, Colômbia",
+    "Coordenadas": {
+      "lat": 4.7776371,
+      "lon": -74.117302
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sexta-feira": "19:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Tres Reyes - Segundo Sector CENTRAL CO-01-0008 Localização Logradouro: Calle 62G Sur, 77A-1 CEP: Cidade: Bogotá, CUNDINAMARCA, Colômbia Dias de Culto Qua-Sex 19:00 (RJM Dom 10:00) Ministério Ancião DAVID LUCAS AZEVEDO E SOUZA Telefone(s) +57 (323) 321-0378"
+    }
+  }
+]

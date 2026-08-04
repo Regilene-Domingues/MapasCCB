@@ -5,7 +5,7 @@ namespace CCB_Mapas_App.Services
 {
 	public class ChurchService
 	{
-		public async Task<List<Church>> GetChurchesAsync()
+		public async Task<List<Church>> GetChurchesAsync(string arquivoJson)
 		{
 			try
 			{
@@ -13,11 +13,11 @@ namespace CCB_Mapas_App.Services
 				Stream? stream = null;
 				try
 				{
-					stream = await FileSystem.OpenAppPackageFileAsync("Resources/Raw/igrejas.json");
+					stream = await FileSystem.OpenAppPackageFileAsync($"Resources/Raw/{arquivoJson}");
 				}
 				catch (FileNotFoundException)
 				{
-					stream = await FileSystem.OpenAppPackageFileAsync("igrejas.json");
+					stream = await FileSystem.OpenAppPackageFileAsync(arquivoJson);
 				}
 
 				using var selectedStream = stream;

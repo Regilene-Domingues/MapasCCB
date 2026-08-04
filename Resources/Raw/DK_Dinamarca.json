@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "DK-01-0001",
+    "Nome": "BØRKOP - Central",
+    "Logradouro": "Nebbe Møllevej 106",
+    "CEP": "7080",
+    "Cidade": "Fredericia - Região Metropolitana, SYDDANMARK, Dinamarca",
+    "Coordenadas": {
+      "lat": 55.630864,
+      "lon": 9.715232
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00 () Quinzenais / RJM Sáb 15:00"
+      },
+      "Obs": "Localidade BØRKOP CENTRAL DK-01-0001 Localização Logradouro: Nebbe Møllevej 106 CEP: 7080 Cidade: Fredericia - Região Metropolitana, SYDDANMARK, Dinamarca Complemento: (Fone Suécia: +46 70 325-6201) Dias de Culto Sáb 15:00 (RJM Sáb 15:00) Quinzenais Ministério Ancião Américo Armando dos Santos Medeiros"
+    }
+  }
+]

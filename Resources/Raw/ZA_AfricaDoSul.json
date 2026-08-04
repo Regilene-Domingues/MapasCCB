@@ -1,0 +1,42 @@
+[
+  {
+    "CodigoId": "ZA-01-0002",
+    "Nome": "Extension 16 - Phase 1 - Central",
+    "Logradouro": "Indlanzi Street, 15516",
+    "CEP": "1475",
+    "Cidade": "Vosloorus, GT, África Do Sul",
+    "Coordenadas": {
+      "lat": -26.3563889,
+      "lon": 28.2083333
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Extension 16 - Phase 1 CENTRAL ZA-01-0002 Localização Logradouro: Indlanzi Street, 15516 CEP: 1475 Cidade: Vosloorus, GT, África Do Sul Dias de Culto Qua 18:00 Ministério Cooperador Ofício Ministerial William Banga Lona"
+    }
+  },
+  {
+    "CodigoId": "ZA-01-0001",
+    "Nome": "Rosettenville - Central",
+    "Logradouro": "196, 198 and 200 Prairie Street",
+    "CEP": "2197",
+    "Cidade": "Johannesburg, GT, África Do Sul",
+    "Coordenadas": {
+      "lat": -26.2440591,
+      "lon": 28.0915514
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 08:45"
+      },
+      "Obs": "Localidade Rosettenville CENTRAL ZA-01-0001 Localização Logradouro: 196, 198 and 200 Prairie Street CEP: 2197 Cidade: Johannesburg, GT, África Do Sul Dias de Culto Dom 10:00 (RJM Dom 08:45) Ministério Ancião VICTOR MANUEL FERREIRA MAIA Cooperador Ofício Ministerial Manuel Cândido Moreira Maia Diácono Artur João da Cruz Louro Telefone(s) +27 (11) 867-6683"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "FJ-01-0003",
+    "Nome": "Malawai - Votualevu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nadi, W, Fiji",
+    "Cidade": "Nadi, W, Fiji",
+    "Coordenadas": {
+      "lat": -17.7992725,
+      "lon": 177.4178549
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Malawai - Votualevu CENTRAL FJ-01-0003 Localização Logradouro: CEP: Cidade: Nadi, W, Fiji Complemento: Fone: (+64) 2180-2559 Dias de Culto DM Dom 10:30 Culto Oficial Domingo - 10:30 Ministério Ancião Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira LUCIANO TEIXEIRA DO NASCIMENTO Cooperador Ofício Ministerial Maciusela Naqesa Telefone(s) +679 () 729-2949 +679 () 290-6606"
+    }
+  }
+]

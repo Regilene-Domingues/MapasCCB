@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "IL-01-0001",
+    "Nome": "New Gate - Old City - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Jerusalem, DISTRITO DE JERUSALEM, Israel",
+    "Cidade": "Jerusalem, DISTRITO DE JERUSALEM, Israel",
+    "Coordenadas": {
+      "lat": 31.7788472,
+      "lon": 35.2257856
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade New Gate - Old City CENTRAL IL-01-0001 Localização Logradouro: CEP: Cidade: Jerusalem, DISTRITO DE JERUSALEM, Israel Dias de Culto Sáb 16:00 Ministério Ancião Floravante Cortese Floravante Cortese Floravante Cortese Floravante Cortese Cooperador Ofício Ministerial Shafik Tourjmn Telefone(s) +972 (545) 605-236"
+    }
+  }
+]

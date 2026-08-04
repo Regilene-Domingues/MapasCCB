@@ -1,0 +1,678 @@
+[
+  {
+    "CodigoId": "AO-01-0035",
+    "Nome": "Aeroporto",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kambulo, LUANDA NORTE, Angola",
+    "Cidade": "Kambulo, LUANDA NORTE, Angola",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Aeroporto AO-01-0035 Localização Logradouro: CEP: Cidade: Kambulo, LUANDA NORTE, Angola Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0003",
+    "Nome": "Bairro 27 de Março - Zona 8 - Lixeira - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lobito, BENGUELA, Angola",
+    "Cidade": "Lobito, BENGUELA, Angola",
+    "Coordenadas": {
+      "lat": -12.3506867,
+      "lon": 13.5464318
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 08:30",
+        "Quarta-feira": "19:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Bairro 27 de Março - Zona 8 - Lixeira CENTRAL AO-01-0003 Localização Logradouro: CEP: Cidade: Lobito, BENGUELA, Angola Complemento: Junto ao posto policial Dias de Culto Dom 10:30 - Qua-Sex 19:30 (RJM Dom 08:30) Ministério Cooperador Ofício Ministerial Ezequiel Joaquim Diácono Mariano Bento Chongola Cooperador de Jovens e Menores Justino Pina Campos Telefone(s) +244 () 925 016 233"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0004",
+    "Nome": "Bairro 4 de Fevereiro - Central",
+    "Logradouro": "Rua Amaro Tati, 58",
+    "CEP": "Cidade: Cabinda, CABINDA, Angola",
+    "Cidade": "Cabinda, CABINDA, Angola",
+    "Coordenadas": {
+      "lat": -5.5676835,
+      "lon": 12.1818567
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:30"
+      },
+      "Obs": "Localidade Bairro 4 de Fevereiro CENTRAL AO-01-0004 Localização Logradouro: Rua Amaro Tati, 58 CEP: Cidade: Cabinda, CABINDA, Angola Complemento: Zona A Dias de Culto Dom 10:00 - Sex 17:30 Ministério Cooperador Ofício Ministerial João Augusto Venâncio Massanga Telefone(s) +244 () 923 049 211 +244 () 928 417 037"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0025",
+    "Nome": "Bairro Kamalaia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kuito, BIÉ, Angola",
+    "Cidade": "Kuito, BIÉ, Angola",
+    "Coordenadas": {
+      "lat": -12.3849374,
+      "lon": 16.9390022
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sábado": "16:30"
+      },
+      "Obs": "Localidade Bairro Kamalaia CENTRAL AO-01-0025 Localização Logradouro: CEP: Cidade: Kuito, BIÉ, Angola Complemento: Perto das Escolas Dias de Culto Dom 10:00 - Sáb 16:30 Ministério Cooperador de Jovens e Menores Graciano Chitumba Jaime Ndavoca Telefone(s) +244 () 940 282 961"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0027",
+    "Nome": "Bairro Katepa - Central",
+    "Logradouro": "Zona 4",
+    "CEP": "Cidade: Malange, MALANGE, Angola",
+    "Cidade": "Malange, MALANGE, Angola",
+    "Coordenadas": {
+      "lat": -9.5265781,
+      "lon": 16.3188165
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bairro Katepa CENTRAL AO-01-0027 Localização Logradouro: Zona 4 CEP: Cidade: Malange, MALANGE, Angola Dias de Culto Dom 10:00 Ministério Telefone(s) +244 () 912 519 177"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0011",
+    "Nome": "Bairro Kifangondo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kibala, KWANZA SUL, Angola",
+    "Cidade": "Kibala, KWANZA SUL, Angola",
+    "Coordenadas": {
+      "lat": -10.7325439,
+      "lon": 14.9805493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Bairro Kifangondo CENTRAL AO-01-0011 Localização Logradouro: CEP: Cidade: Kibala, KWANZA SUL, Angola Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0029",
+    "Nome": "Bairro Kwanza - Central",
+    "Logradouro": "Rua Principal",
+    "CEP": "Cidade: Kangandala, MALANGE, Angola",
+    "Cidade": "Kangandala, MALANGE, Angola",
+    "Coordenadas": {
+      "lat": -12.786986,
+      "lon": 15.7493736
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "08:00"
+      },
+      "Obs": "Localidade Bairro Kwanza CENTRAL AO-01-0029 Localização Logradouro: Rua Principal CEP: Cidade: Kangandala, MALANGE, Angola Dias de Culto Dom 08:00 Ministério Telefone(s) +244 () 912 519 177"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0032",
+    "Nome": "Bairro Sachindongo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dundo, LUANDA NORTE, Angola",
+    "Cidade": "Dundo, LUANDA NORTE, Angola",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Bairro Sachindongo CENTRAL AO-01-0032 Localização Logradouro: CEP: Cidade: Dundo, LUANDA NORTE, Angola Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Ancião SALOMÃO MUACO Cooperador de Jovens e Menores Palanga Feliciano Fuamba Ngulungu"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0013",
+    "Nome": "Bairro das Ingombotas - Central",
+    "Logradouro": "Rua Dona Antónia Saldanha, 61",
+    "CEP": "Cidade: Luanda, LUANDA, Angola",
+    "Cidade": "Luanda, LUANDA, Angola",
+    "Coordenadas": {
+      "lat": -8.8272699,
+      "lon": 13.2439512
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 08:30",
+        "Quarta-feira": "18:00",
+        "Sexta-feira": "18:00"
+      },
+      "Obs": "Localidade Bairro das Ingombotas CENTRAL AO-01-0013 Localização Logradouro: Rua Dona Antónia Saldanha, 61 CEP: Cidade: Luanda, LUANDA, Angola Dias de Culto Dom 10:30 - Qua-Sex 18:00 (RJM Dom 08:30) Ministério Ancião AUGUSTO QUIANZALA MORAIS MANUEL MENDES COIMBRA DÉRCIO COMBA MORAIS DE BRITO HILACANA AUGUSTO MALÓ MORAIS Diácono Jeremias Jorge Aparicio Antonio Pedro Cooperador de Jovens e Menores Jefferson Carlos Mesquita da Silva Telefone(s) +244 () 222 718 303 +244 () 931 252 728 +244 () 924 324 012"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0001",
+    "Nome": "Bom Jesus - Central",
+    "Logradouro": "Estrada Nacional 101 - Luanda-Catete - Km 36",
+    "CEP": "Cidade: Catete, LUANDA, Angola",
+    "Cidade": "Catete, LUANDA, Angola",
+    "Coordenadas": {
+      "lat": -9.1099855,
+      "lon": 13.6895459
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Bom Jesus CENTRAL AO-01-0001 Localização Logradouro: Estrada Nacional 101 - Luanda-Catete - Km 36 CEP: Cidade: Catete, LUANDA, Angola Dias de Culto Dom 10:00 - Qui 18:00 Ministério Cooperador Ofício Ministerial Sérgio Fulai Corrente Telefone(s) +244 () 922 126 597"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0008",
+    "Nome": "Bunjo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Huambo, HUAMBO, Angola",
+    "Cidade": "Huambo, HUAMBO, Angola",
+    "Coordenadas": {
+      "lat": -12.7772455,
+      "lon": 15.7346713
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00"
+      },
+      "Obs": "Localidade Bunjo AO-01-0008 Localização Logradouro: CEP: Cidade: Huambo, HUAMBO, Angola Dias de Culto Dom 10:00 - Ter 16:00 Ministério Cooperador Ofício Ministerial Paulo Seco Telefone(s) +244 (93) 932 672 865"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0015",
+    "Nome": "Camadeira - Central",
+    "Logradouro": "Rua do Salão Mandimba",
+    "CEP": "Cidade: Viana, LUANDA, Angola",
+    "Cidade": "Viana, LUANDA, Angola",
+    "Coordenadas": {
+      "lat": -8.9053515,
+      "lon": 13.371089
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Camadeira CENTRAL AO-01-0015 Localização Logradouro: Rua do Salão Mandimba CEP: Cidade: Viana, LUANDA, Angola Complemento: Junto à antena da Unitel Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Serafim de Souza Paim Telefone(s) +244 () 923 969 755"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0007",
+    "Nome": "Cambumba",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Huambo, HUAMBO, Angola",
+    "Cidade": "Huambo, HUAMBO, Angola",
+    "Coordenadas": {
+      "lat": -12.7772455,
+      "lon": 15.7346713
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Cambumba AO-01-0007 Localização Logradouro: CEP: Cidade: Huambo, HUAMBO, Angola Dias de Culto Dom 10:00 - Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0020",
+    "Nome": "Chicala 1",
+    "Logradouro": "Estrada do Bié, a 34 Km de Luena",
+    "CEP": "Cidade: Luena, MOXICO, Angola",
+    "Cidade": "Luena, MOXICO, Angola",
+    "Coordenadas": {
+      "lat": -11.7790355,
+      "lon": 19.9122676
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Chicala 1 AO-01-0020 Localização Logradouro: Estrada do Bié, a 34 Km de Luena CEP: Cidade: Luena, MOXICO, Angola Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Ancião ANTÓNIO SIMÃO TENENTE Telefone(s) +244 () 937 066 416"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0006",
+    "Nome": "Kachiungo",
+    "Logradouro": "3ª Rua onde termina a Rua Sete",
+    "CEP": "Cidade: Huambo, HUAMBO, Angola",
+    "Cidade": "Huambo, HUAMBO, Angola",
+    "Coordenadas": {
+      "lat": -12.7772455,
+      "lon": 15.7346713
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Kachiungo AO-01-0006 Localização Logradouro: 3ª Rua onde termina a Rua Sete CEP: Cidade: Huambo, HUAMBO, Angola Dias de Culto Dom 10:00 - Qua 16:00 Ministério Ancião JOSÉ CALIPI Cooperador Ofício Ministerial Marcelino Calinja João Telefone(s) +244 () 936 784 355"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0005",
+    "Nome": "Kakuluvale - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ondjiva, CUNENE, Angola",
+    "Cidade": "Ondjiva, CUNENE, Angola",
+    "Coordenadas": {
+      "lat": -17.0705234,
+      "lon": 15.7280115
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kakuluvale CENTRAL AO-01-0005 Localização Logradouro: CEP: Cidade: Ondjiva, CUNENE, Angola Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0009",
+    "Nome": "Kapango - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Huambo, HUAMBO, Angola",
+    "Cidade": "Huambo, HUAMBO, Angola",
+    "Coordenadas": {
+      "lat": -12.7772455,
+      "lon": 15.7346713
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "17:30",
+        "Sábado": "RJM Sáb 15:00"
+      },
+      "Obs": "Localidade Kapango CENTRAL AO-01-0009 Localização Logradouro: CEP: Cidade: Huambo, HUAMBO, Angola Complemento: Próximo do mercado informal Dias de Culto Dom 10:00 - Ter 17:30 (RJM Sáb 15:00) Ministério Diácono Israel Malemba Safeca Cooperador de Jovens e Menores Bartolomeu Ngongo Telefone(s) +244 () 926 112 276"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0002",
+    "Nome": "Kapiandalo - Central",
+    "Logradouro": "Rua próxima à fábrica Impromar",
+    "CEP": "Cidade: Benguela, BENGUELA, Angola",
+    "Cidade": "Benguela, BENGUELA, Angola",
+    "Coordenadas": {
+      "lat": -12.5790048,
+      "lon": 13.4037117
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Kapiandalo CENTRAL AO-01-0002 Localização Logradouro: Rua próxima à fábrica Impromar CEP: Cidade: Benguela, BENGUELA, Angola Dias de Culto Dom 10:00 - Qua-Sex 19:00 (RJM Dom 08:30) Ministério Ancião DOMINGOS GASPAR Cooperador Ofício Ministerial Marivaldo Gaspar Cooperador de Jovens e Menores Armando Hilário Colitoco Telefone(s) +244 () 927 539 533"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0021",
+    "Nome": "Kawango - Central",
+    "Logradouro": "Estrada do Siac",
+    "CEP": "Cidade: Caxito, BENGO, Angola",
+    "Cidade": "Caxito, BENGO, Angola",
+    "Coordenadas": {
+      "lat": -8.5827504,
+      "lon": 13.6600788
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kawango CENTRAL AO-01-0021 Localização Logradouro: Estrada do Siac CEP: Cidade: Caxito, BENGO, Angola Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Daniel Quianzala Maló Morais Telefone(s) +244 () 912 519 177 +244 () 948 654 300"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0012",
+    "Nome": "Kicolo - Central",
+    "Logradouro": "Estrada do Kicolo",
+    "CEP": "Cidade: Cacuaco, LUANDA, Angola",
+    "Cidade": "Cacuaco, LUANDA, Angola",
+    "Coordenadas": {
+      "lat": -8.8282383,
+      "lon": 13.4337544
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade Kicolo CENTRAL AO-01-0012 Localização Logradouro: Estrada do Kicolo CEP: Cidade: Cacuaco, LUANDA, Angola Complemento: Junto da administração Distrital Dias de Culto Dom 10:00 - Ter 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0019",
+    "Nome": "Kilombo",
+    "Logradouro": "Estrada Huambo-Bié",
+    "CEP": "Cidade: Huambo, HUAMBO, Angola",
+    "Cidade": "Huambo, HUAMBO, Angola",
+    "Coordenadas": {
+      "lat": -12.7772455,
+      "lon": 15.7346713
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Kilombo AO-01-0019 Localização Logradouro: Estrada Huambo-Bié CEP: Cidade: Huambo, HUAMBO, Angola Complemento: A direita - perto da Praça do Corre-Corre Dias de Culto Dom 10:00 - Qua 17:30 (RJM Sáb 15:00) Ministério Ancião ARMANDO DA SILVA NHAMANDULI Cooperador Ofício Ministerial Joaquim Domingos Augusto Cooperador de Jovens e Menores Marcelino Helder de Assis Telefone(s) +244 () 931 252 728"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0033",
+    "Nome": "Lumua",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kambulo, LUANDA NORTE, Angola",
+    "Cidade": "Kambulo, LUANDA NORTE, Angola",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Lumua AO-01-0033 Localização Logradouro: CEP: Cidade: Kambulo, LUANDA NORTE, Angola Dias de Culto Dom 10:00 - Ter-Qua 16:00 Ministério Cooperador Ofício Ministerial Alberto Mondo Kiyoko Cooperador de Jovens e Menores Silva Alberto Mundo"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0026",
+    "Nome": "Lúbia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lúbia, BIÉ, Angola",
+    "Cidade": "Lúbia, BIÉ, Angola",
+    "Coordenadas": {
+      "lat": -11.0217276,
+      "lon": 17.0959496
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Lúbia CENTRAL AO-01-0026 Localização Logradouro: CEP: Cidade: Lúbia, BIÉ, Angola Complemento: Junto da antena da Unitel Dias de Culto Dom 10:00 Ministério Telefone(s) +244 () 940 282 961"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0022",
+    "Nome": "Maquela do Zombo - Bairro 4 de Fevereiro",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Uíge, UÍGE, Angola",
+    "Cidade": "Uíge, UÍGE, Angola",
+    "Coordenadas": {
+      "lat": -7.6117323,
+      "lon": 15.0563515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Maquela do Zombo - Bairro 4 de Fevereiro AO-01-0022 Localização Logradouro: CEP: Cidade: Uíge, UÍGE, Angola Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador de Jovens e Menores Ntequela Ndomi Telefone(s) +244 () 930 755 717"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0028",
+    "Nome": "Nzagi - Bairro Pantanal - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kambulo, LUANDA NORTE, Angola",
+    "Cidade": "Kambulo, LUANDA NORTE, Angola",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nzagi - Bairro Pantanal CENTRAL AO-01-0028 Localização Logradouro: CEP: Cidade: Kambulo, LUANDA NORTE, Angola Complemento: Junto ao Grupo Gerador Dias de Culto Dom 10:00 Ministério Cooperador de Jovens e Menores André Crispin Munecai Telefone(s) +244 () 921 496 964"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0017",
+    "Nome": "Papelão - Central",
+    "Logradouro": "Rua do Café",
+    "CEP": "Cidade: Uíge, UÍGE, Angola",
+    "Cidade": "Uíge, UÍGE, Angola",
+    "Coordenadas": {
+      "lat": -7.6117323,
+      "lon": 15.0563515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 08:30",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Papelão CENTRAL AO-01-0017 Localização Logradouro: Rua do Café CEP: Cidade: Uíge, UÍGE, Angola Complemento: Junto da paragem do Songo Dias de Culto Dom 10:30 - Sex 16:00 (RJM Dom 08:30) Ministério Ancião MPANDA JORGE Diácono Makotela Teodoro Telefone(s) +244 () 931 308 048 +244 () 929 501 027"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0023",
+    "Nome": "Quibocolo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Uíge, UÍGE, Angola",
+    "Cidade": "Uíge, UÍGE, Angola",
+    "Coordenadas": {
+      "lat": -7.6117323,
+      "lon": 15.0563515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Quibocolo AO-01-0023 Localização Logradouro: CEP: Cidade: Uíge, UÍGE, Angola Dias de Culto Dom 10:00 - Qui 16:00 Ministério Telefone(s) +244 () 930 224 299"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0018",
+    "Nome": "Quixicongo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Uíge, UÍGE, Angola",
+    "Cidade": "Uíge, UÍGE, Angola",
+    "Coordenadas": {
+      "lat": -7.6117323,
+      "lon": 15.0563515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Quixicongo AO-01-0018 Localização Logradouro: CEP: Cidade: Uíge, UÍGE, Angola Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Carvalho dos Santos Telefone(s) +244 () 935 802 457"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0010",
+    "Nome": "Rio Capitão - Central",
+    "Logradouro": "Rua Principal",
+    "CEP": "Cidade: Lubango, HUÍLA, Angola",
+    "Cidade": "Lubango, HUÍLA, Angola",
+    "Coordenadas": {
+      "lat": -14.8496838,
+      "lon": 13.5697719
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 08:00",
+        "Quarta-feira": "18:00",
+        "Sexta-feira": "18:00"
+      },
+      "Obs": "Localidade Rio Capitão CENTRAL AO-01-0010 Localização Logradouro: Rua Principal CEP: Cidade: Lubango, HUÍLA, Angola Dias de Culto Dom 10:00 - Qua-Sex 18:00 (RJM Dom 08:00) Ministério Ancião ANTONINO ANTUNES LUSSATE Cooperador de Jovens e Menores Paulino Manuel da Fonseca Telefone(s) +244 () 924 368 778"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0016",
+    "Nome": "Sinai Velho - Central",
+    "Logradouro": "Rua do Aeroporto",
+    "CEP": "Cidade: Luena, MOXICO, Angola",
+    "Cidade": "Luena, MOXICO, Angola",
+    "Coordenadas": {
+      "lat": -11.7790355,
+      "lon": 19.9122676
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 08:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Sinai Velho CENTRAL AO-01-0016 Localização Logradouro: Rua do Aeroporto CEP: Cidade: Luena, MOXICO, Angola Dias de Culto Dom 10:00 - Qua-Sex 06:00 (RJM Dom 08:00) Ministério Ancião COSTA MIGUEL FELINO ANTÓNIO SOCONHI Diácono Itundo Nguza Telefone(s) +244 () 925 330 656 +244 () 940 818 059 +244 () 923 379 020"
+    }
+  },
+  {
+    "CodigoId": "AO-01-0024",
+    "Nome": "Songo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Uíge, UÍGE, Angola",
+    "Cidade": "Uíge, UÍGE, Angola",
+    "Coordenadas": {
+      "lat": -7.6117323,
+      "lon": 15.0563515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Songo AO-01-0024 Localização Logradouro: CEP: Cidade: Uíge, UÍGE, Angola Dias de Culto Dom 10:30 - Qua 16:00 Ministério Telefone(s) +244 () 932 903 453"
+    }
+  }
+]

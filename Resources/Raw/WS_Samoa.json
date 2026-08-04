@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "WS-01-0001",
+    "Nome": "Apia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Apia, UI, Samoa",
+    "Cidade": "Apia, UI, Samoa",
+    "Coordenadas": {
+      "lat": -13.8345235,
+      "lon": -171.7630955
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "DM"
+      ],
+      "Horarios": {
+        "DM": "DM"
+      },
+      "Obs": "Localidade Apia CENTRAL WS-01-0001 Localização Logradouro: CEP: Cidade: Apia, UI, Samoa Dias de Culto DM Ministério Ancião Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira Jaime Lopes Pereira"
+    }
+  }
+]

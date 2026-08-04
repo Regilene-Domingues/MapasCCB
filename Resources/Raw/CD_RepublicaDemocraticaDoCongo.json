@@ -1,0 +1,3734 @@
+[
+  {
+    "CodigoId": "CD-01-0167",
+    "Nome": "#1 - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade #1 CENTRAL CD-01-0167 Localização Logradouro: CEP: Cidade: Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0135",
+    "Nome": "#1 - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade #1 CENTRAL CD-01-0135 Localização Logradouro: CEP: Cidade: Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério Cooperador Ofício Ministerial Bernard Lofulu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0095",
+    "Nome": "#1 - Quartier Mvuangu - Commune de Kalamu - Central",
+    "Logradouro": "Avenue Kinzonzi, 53",
+    "CEP": "Cidade: Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -5.85,
+      "lon": 13.05
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade #1 - Quartier Mvuangu - Commune de Kalamu CENTRAL CD-01-0095 Localização Logradouro: Avenue Kinzonzi, 53 CEP: Cidade: Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Augustin Nzuzi Ngoma"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0174",
+    "Nome": "#2",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade #2 CD-01-0174 Localização Logradouro: CEP: Cidade: Mwanda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0168",
+    "Nome": "#2",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade #2 CD-01-0168 Localização Logradouro: CEP: Cidade: Batua Kembe, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0096",
+    "Nome": "#2 - Quartier Trois Kilomètre - Commune de Kalamu",
+    "Logradouro": "Avenue Boulevard Kabila, 151",
+    "CEP": "Cidade: Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -5.85,
+      "lon": 13.05
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade #2 - Quartier Trois Kilomètre - Commune de Kalamu CD-01-0096 Localização Logradouro: Avenue Boulevard Kabila, 151 CEP: Cidade: Boma, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Complemento: Commune de Kalamu Dias de Culto DM 4T 6T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Espoir Kalemba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0154",
+    "Nome": "#3",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.315252,
+      "lon": 17.3770878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00"
+      },
+      "Obs": "Localidade #3 CD-01-0154 Localização Logradouro: CEP: Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Ter-Qui 05:00 Ministério Cooperador Ofício Ministerial Phillippe Lemba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0108",
+    "Nome": "Awoko - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Awoko CENTRAL CD-01-0108 Localização Logradouro: CEP: Cidade: Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Jules Bakatubwe Ketshindu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0166",
+    "Nome": "Bakuambalayi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Bakuambalayi CD-01-0166 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Andre Ditutu Tshimbalanga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0047",
+    "Nome": "Bakwa-Kanda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bakwa-kanda, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bakwa-kanda, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Bakwa-Kanda CENTRAL CD-01-0047 Localização Logradouro: CEP: Cidade: Bakwa-kanda, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Sex 16:00 Ministério Cooperador Ofício Ministerial Michel Kayembe"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0044",
+    "Nome": "Bakwa-Luzabi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bakwa-luzabi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bakwa-luzabi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "06:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Bakwa-Luzabi CENTRAL CD-01-0044 Localização Logradouro: CEP: Cidade: Bakwa-luzabi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00- Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Ngandu Mubenga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0169",
+    "Nome": "Bandjangele - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bandjangele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bandjangele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Bandjangele CENTRAL CD-01-0169 Localização Logradouro: CEP: Cidade: Bandjangele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial David Lokotela"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0144",
+    "Nome": "Bel Air - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bel Air, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bel Air, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -11.6651536,
+      "lon": 27.5037534
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Bel Air CENTRAL CD-01-0144 Localização Logradouro: CEP: Cidade: Bel Air, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Ambroise Mukadi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0031",
+    "Nome": "Bembele Bushongo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bembele Bushongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bembele Bushongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bembele Bushongo CENTRAL CD-01-0031 Localização Logradouro: CEP: Cidade: Bembele Bushongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5T Culto Oficial Domingo - 10:00 Quinta-feira - 16:00 Ministério Cooperador Ofício Ministerial Nestor Kibete"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0030",
+    "Nome": "Bembele Yassa - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bembele Yassa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bembele Yassa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "16:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Bembele Yassa CENTRAL CD-01-0030 Localização Logradouro: CEP: Cidade: Bembele Yassa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5T Culto Oficial Domingo - 09:30 Quinta-feira - 16:00 Ministério Cooperador Ofício Ministerial Israël Mayele"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0009",
+    "Nome": "Bena-Kabindi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-kabindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-kabindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "05:45",
+        "Sexta-feira": "05:45"
+      },
+      "Obs": "Localidade Bena-Kabindi CENTRAL CD-01-0009 Localização Logradouro: CEP: Cidade: Bena-kabindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 05:45 Ministério Cooperador Ofício Ministerial Faustin Mbaya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0054",
+    "Nome": "Bena-Kalala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-kalala, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-kalala, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00",
+        "Sexta-feira": "15:00"
+      },
+      "Obs": "Localidade Bena-Kalala CENTRAL CD-01-0054 Localização Logradouro: CEP: Cidade: Bena-kalala, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 15:00 Ministério Cooperador Ofício Ministerial Hubert Bantu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0056",
+    "Nome": "Bena-Katumba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-katumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-katumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Bena-Katumba CENTRAL CD-01-0056 Localização Logradouro: CEP: Cidade: Bena-katumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Tshibola Aimery Tumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0077",
+    "Nome": "Bena-Mulamba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-mulamba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-mulamba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Bena-Mulamba CENTRAL CD-01-0077 Localização Logradouro: CEP: Cidade: Bena-mulamba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0114",
+    "Nome": "Bena-Musona - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-musona, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-musona, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00",
+        "Quinta-feira": "15:00"
+      },
+      "Obs": "Localidade Bena-Musona CENTRAL CD-01-0114 Localização Logradouro: CEP: Cidade: Bena-musona, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Qui 15:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0048",
+    "Nome": "Bena-Tshikulu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bena-tshikulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bena-tshikulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Bena-Tshikulu CENTRAL CD-01-0048 Localização Logradouro: CEP: Cidade: Bena-tshikulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Françoi Bamane"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0038",
+    "Nome": "Bulumbu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bulumbu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bulumbu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Bulumbu CENTRAL CD-01-0038 Localização Logradouro: CEP: Cidade: Bulumbu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T Culto Oficial Domingo - 09:30 Quarta-feira - 16:00 Ministério Cooperador Ofício Ministerial Jean Katanga Mwakossa"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0072",
+    "Nome": "Bulungu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bulungu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Bulungu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.3141193,
+      "lon": 17.3766444
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Domingo": "06:30"
+      },
+      "Obs": "Localidade Bulungu CENTRAL CD-01-0072 Localização Logradouro: CEP: Cidade: Bulungu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T Culto Oficial Domingo - 06:30 Quarta-feira - 16:00 Ministério Cooperador Ofício Ministerial Jean Pierre Baboko"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0043",
+    "Nome": "Centrale - Central",
+    "Logradouro": "Avenue Maman Yemo, 31",
+    "CEP": "Cidade: Azda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Azda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.3515596,
+      "lon": 15.2205316
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "Sex 16:00"
+      },
+      "Obs": "Localidade Centrale CENTRAL CD-01-0043 Localização Logradouro: Avenue Maman Yemo, 31 CEP: Cidade: Azda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua Sex 16:00 Ministério Ancião FLORENT TUSHIYE MULABA ALBERT MFUAMBA TSHIALU Diácono Mika Mande Ntumba Elie Banyinga Batena"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0011",
+    "Nome": "Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 08:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Centre CENTRAL CD-01-0011 Localização Logradouro: CEP: Cidade: Tshikanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 (RJM Dom 08:00) Ministério Cooperador Ofício Ministerial Basile Luboya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0053",
+    "Nome": "Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshimbulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshimbulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Centre CENTRAL CD-01-0053 Localização Logradouro: CEP: Cidade: Tshimbulu, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Gregorie Mulamba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0117",
+    "Nome": "Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Idiofa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Idiofa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.3144938,
+      "lon": 17.3795186
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "17:00",
+        "Sexta-feira": "17:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Centre CENTRAL CD-01-0117 Localização Logradouro: CEP: Cidade: Idiofa, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5T 6T Culto Oficial Domingo - 10:00 Quinta-feira - 17:00 Sexta-feira - 17:00 Ministério Cooperador Ofício Ministerial Stanley Kayanda Nkiramosi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0017",
+    "Nome": "Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Centre CENTRAL CD-01-0017 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 Ministério Cooperador Ofício Ministerial Pascal Muyaya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0018",
+    "Nome": "Centre Ville - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lodja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lodja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.4639184,
+      "lon": 23.6158042
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Centre Ville CENTRAL CD-01-0018 Localização Logradouro: CEP: Cidade: Lodja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Pierre Ngonga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0060",
+    "Nome": "Cité - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Cité CENTRAL CD-01-0060 Localização Logradouro: CEP: Cidade: Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0085",
+    "Nome": "Comune de Makiso - Central",
+    "Logradouro": "Rue Kabange, 31",
+    "CEP": "Cidade: Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -11.7001421,
+      "lon": 27.4635494
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Comune de Makiso CENTRAL CD-01-0085 Localização Logradouro: Rue Kabange, 31 CEP: Cidade: Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6T (RJM-6N) Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Reunião de Jovens e Menores Sexta-feira - 18:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0161",
+    "Nome": "Dengamongo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Dengamongo CD-01-0161 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Pierre Kuete Piema"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0170",
+    "Nome": "Dibibele - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dibibele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Dibibele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Dibibele CENTRAL CD-01-0170 Localização Logradouro: CEP: Cidade: Dibibele, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0131",
+    "Nome": "Dibindi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dibindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Dibindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.1227069,
+      "lon": 23.6396685
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Dibindi CENTRAL CD-01-0131 Localização Logradouro: CEP: Cidade: Dibindi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 08:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Jean Marie Kadima"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0051",
+    "Nome": "Diboko Diakalamba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Diboko Diakalamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Diboko Diakalamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Diboko Diakalamba CENTRAL CD-01-0051 Localização Logradouro: CEP: Cidade: Diboko Diakalamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Felix Mbayi Idikayi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0036",
+    "Nome": "Dimbelenge - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dimbelenge, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Dimbelenge, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Dimbelenge CENTRAL CD-01-0036 Localização Logradouro: CEP: Cidade: Dimbelenge, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 16:00 Ministério Cooperador Ofício Ministerial Mathieu Mulumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0007",
+    "Nome": "Dipumba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dipumba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Dipumba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.1383977,
+      "lon": 23.5752221
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Dipumba CENTRAL CD-01-0007 Localização Logradouro: CEP: Cidade: Dipumba, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 08:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Dieudonné Kabeya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0163",
+    "Nome": "Domba",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Domba CD-01-0163 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Jean Mbela"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0069",
+    "Nome": "Ebubu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ebubu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ebubu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "06:30"
+      },
+      "Obs": "Localidade Ebubu CENTRAL CD-01-0069 Localização Logradouro: CEP: Cidade: Ebubu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM Culto Oficial Domingo - 06:30 Ministério Cooperador Ofício Ministerial Anicet Ndasama"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0137",
+    "Nome": "Ehongola - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ehongola, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ehongola, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ehongola CENTRAL CD-01-0137 Localização Logradouro: CEP: Cidade: Ehongola, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Gilbert Amuni Ombeka"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0147",
+    "Nome": "Equateur - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Equateur, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Equateur, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Equateur CENTRAL CD-01-0147 Localização Logradouro: CEP: Cidade: Equateur, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Marc Booto Bokonda"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0116",
+    "Nome": "Feshi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Feshi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Feshi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.3191733,
+      "lon": 17.3794378
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Feshi CENTRAL CD-01-0116 Localização Logradouro: CEP: Cidade: Feshi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Kasiala Kas"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0142",
+    "Nome": "Ifuta Asaka - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ifuta Asaka, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ifuta Asaka, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ifuta Asaka CENTRAL CD-01-0142 Localização Logradouro: CEP: Cidade: Ifuta Asaka, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Bernard Mbomba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0100",
+    "Nome": "Ikela - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ikela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ikela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ikela CENTRAL CD-01-0100 Localização Logradouro: CEP: Cidade: Ikela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Albert Kabwayi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0171",
+    "Nome": "Ikongo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ikongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ikongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ikongo CENTRAL CD-01-0171 Localização Logradouro: CEP: Cidade: Ikongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0070",
+    "Nome": "Ikubi Kanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ikubi Kanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ikubi Kanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "16:00",
+        "Domingo": "06:30"
+      },
+      "Obs": "Localidade Ikubi Kanga CENTRAL CD-01-0070 Localização Logradouro: CEP: Cidade: Ikubi Kanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3T Culto Oficial Domingo - 06:30 Terça-feira - 16:00 Ministério Cooperador Ofício Ministerial Folquin Mangala"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0104",
+    "Nome": "Ikutshu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ikutshu, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ikutshu, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ikutshu CENTRAL CD-01-0104 Localização Logradouro: CEP: Cidade: Ikutshu, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Thomas Ntambwe"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0090",
+    "Nome": "Ilebo - Centre",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Ilebo - Centre CD-01-0090 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Antoine Katamisili"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0175",
+    "Nome": "Inkala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Inkala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Inkala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Inkala CENTRAL CD-01-0175 Localização Logradouro: CEP: Cidade: Inkala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Mulumba Lokeka"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0172",
+    "Nome": "Inkandja - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Inkandja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Inkandja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Inkandja CENTRAL CD-01-0172 Localização Logradouro: CEP: Cidade: Inkandja, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0146",
+    "Nome": "Ipami - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ipami, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ipami, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ipami CENTRAL CD-01-0146 Localização Logradouro: CEP: Cidade: Ipami, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0106",
+    "Nome": "Ishombo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ishombo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ishombo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ishombo CENTRAL CD-01-0106 Localização Logradouro: CEP: Cidade: Ishombo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Albert Djema Womefulu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0101",
+    "Nome": "Itedji - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itedji, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Itedji, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Itedji CENTRAL CD-01-0101 Localização Logradouro: CEP: Cidade: Itedji, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Rigobert Wola Ishako"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0133",
+    "Nome": "Jolie Cite",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -11.6642316,
+      "lon": 27.4826264
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Jolie Cite CD-01-0133 Localização Logradouro: CEP: Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Andre Kamayi Diácono Mike Mpinga Mukendi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0111",
+    "Nome": "Kafumbu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kafumbu, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kafumbu, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Kafumbu CENTRAL CD-01-0111 Localização Logradouro: CEP: Cidade: Kafumbu, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 16:00 Ministério Cooperador Ofício Ministerial Willy Mutombo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0173",
+    "Nome": "Kakenge",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Kakenge CD-01-0173 Localização Logradouro: CEP: Cidade: Kamba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Pombo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0132",
+    "Nome": "Kakona - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kakona, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kakona, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.6065522,
+      "lon": 23.564279
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "05:00",
+        "Sexta-feira": "05:00"
+      },
+      "Obs": "Localidade Kakona CENTRAL CD-01-0132 Localização Logradouro: CEP: Cidade: Kakona, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 05:00 Ministério Cooperador Ofício Ministerial Roger Kaninda"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0071",
+    "Nome": "Kalanganda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kalanganda, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kalanganda, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "17:00",
+        "Domingo": "06:30"
+      },
+      "Obs": "Localidade Kalanganda CENTRAL CD-01-0071 Localização Logradouro: CEP: Cidade: Kalanganda, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T Culto Oficial Domingo - 06:30 Quarta-feira - 17:00 Ministério Cooperador Ofício Ministerial Roland Mubimbi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0093",
+    "Nome": "Kalebuka I - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -11.6642316,
+      "lon": 27.4826264
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Kalebuka I CENTRAL CD-01-0093 Localização Logradouro: CEP: Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Ancião GÉRARD NGOYI KALOLO ANDRE MUBENGA Cooperador Ofício Ministerial Didier Kilua Namatambo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0122",
+    "Nome": "Kamako",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Kamako CD-01-0122 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Pierre Etshindo Wetshay"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0092",
+    "Nome": "Kamalondo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -11.6642316,
+      "lon": 27.4826264
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Kamalondo CD-01-0092 Localização Logradouro: CEP: Cidade: Lubumbashi, KATANGA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0128",
+    "Nome": "Kamba Kakenge",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Kamba Kakenge CD-01-0128 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Modeste Mosomba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0127",
+    "Nome": "Kampungu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Kampungu CD-01-0127 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Jean Bobishanga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0124",
+    "Nome": "Kanga Motema",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Kanga Motema CD-01-0124 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Alphonse Ntumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0079",
+    "Nome": "Kanyik I - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kanyik I, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kanyik I, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Kanyik I CENTRAL CD-01-0079 Localização Logradouro: CEP: Cidade: Kanyik I, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Jean Mukadi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0134",
+    "Nome": "Kanzhi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kanzhi, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kanzhi, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Kanzhi CENTRAL CD-01-0134 Localização Logradouro: CEP: Cidade: Kanzhi, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0076",
+    "Nome": "Kasanzu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Kasanzu CD-01-0076 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Jonas Mutshina"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0066",
+    "Nome": "Kazamba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kazamba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kazamba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "15:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Kazamba CENTRAL CD-01-0066 Localização Logradouro: CEP: Cidade: Kazamba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M 6T Culto Oficial Domingo - 09:30 Quarta-feira - 06:00 Sexta-feira - 15:30 Ministério Cooperador Ofício Ministerial Richard Mwangisa"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0022",
+    "Nome": "Kilembe - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kilembe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kilembe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.3159651,
+      "lon": 17.3751833
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kilembe CENTRAL CD-01-0022 Localização Logradouro: CEP: Cidade: Kilembe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M Culto Oficial Domingo - 09:00 Quarta-feira - 05:00 Ministério Cooperador Ofício Ministerial Bikwase Tombese"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0002",
+    "Nome": "Kimbanseke - Mokali 1",
+    "Logradouro": "Avenue Nkindi, 109",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.32171,
+      "lon": 15.3122511
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "17:00",
+        "Sexta-feira": "17:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kimbanseke - Mokali 1 CD-01-0002 Localização Logradouro: Avenue Nkindi, 109 CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3T 6T Culto Oficial Domingo - 10:00 Terça-feira - 17:00 Sexta-feira - 17:00 Ministério Cooperador Ofício Ministerial Alexis Mukendi Kalonji"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0064",
+    "Nome": "Kina P - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kina P, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kina P, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "06:00",
+        "Domingo": "06:30"
+      },
+      "Obs": "Localidade Kina P CENTRAL CD-01-0064 Localização Logradouro: CEP: Cidade: Kina P, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M Culto Oficial Domingo - 06:30 Quarta-feira - 06:00 Ministério Cooperador Ofício Ministerial Kilundu Kisungu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0087",
+    "Nome": "Kingabwa - Limete",
+    "Logradouro": "Route Poids Lourds",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.32171,
+      "lon": 15.3122511
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Terça-feira": "16:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Kingabwa - Limete CD-01-0087 Localização Logradouro: Route Poids Lourds CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Ter-Sex 16:00 Ministério Cooperador Ofício Ministerial Jean Pierre Kalonji Kalombo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0026",
+    "Nome": "Kinsomi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kinsomi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinsomi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "06:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Kinsomi CENTRAL CD-01-0026 Localização Logradouro: CEP: Cidade: Kinsomi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6M Culto Oficial Domingo - 09:30 Sexta-feira - 06:30 Ministério Cooperador Ofício Ministerial Jean Pierre Biswala"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0024",
+    "Nome": "Kinyangi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kinyangi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinyangi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "06:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Kinyangi CENTRAL CD-01-0024 Localização Logradouro: CEP: Cidade: Kinyangi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6M Culto Oficial Domingo - 09:30 Sexta-feira - 06:30 Ministério Cooperador Ofício Ministerial Pierre Kimbamba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0082",
+    "Nome": "Kipindji - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kipindji, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kipindji, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kipindji CENTRAL CD-01-0082 Localização Logradouro: CEP: Cidade: Kipindji, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M 6M Culto Oficial Domingo - 09:00 Quarta-feira - 06:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial Giova Masasi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0080",
+    "Nome": "Kisenso",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.3854823,
+      "lon": 15.3525191
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kisenso CD-01-0080 Localização Logradouro: CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Complemento: Próximo da linha do trem Dias de Culto DM 4T 6T (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 Culto Oficial Domingo - 10:00 Quarta-feira - 17:00 Sexta-feira - 17:00 Ministério Cooperador Ofício Ministerial Joseph Smith Muanza Kalonji"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0037",
+    "Nome": "Kishiongo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kishiongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kishiongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "06:00",
+        "Domingo": "06:00"
+      },
+      "Obs": "Localidade Kishiongo CENTRAL CD-01-0037 Localização Logradouro: CEP: Cidade: Kishiongo, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM SM Culto Oficial Domingo - 06:00 Sábado - 06:00 Ministério Cooperador Ofício Ministerial Celestin Mbangu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0063",
+    "Nome": "Kiwala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kiwala, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kiwala, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kiwala CENTRAL CD-01-0063 Localização Logradouro: CEP: Cidade: Kiwala, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6N Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Matanda Mupopo Heritier"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0156",
+    "Nome": "Kiyongo Fioti - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kiyongo Fioti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kiyongo Fioti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kiyongo Fioti CENTRAL CD-01-0156 Localização Logradouro: CEP: Cidade: Kiyongo Fioti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3M 5M Culto Oficial Domingo - 09:00 Terça-feira - 05:00 Quinta-feira - 05:00 Ministério Cooperador Ofício Ministerial Paul Makelele"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0027",
+    "Nome": "Kumbi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:30",
+        "Sexta-feira": "06:30",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Kumbi CENTRAL CD-01-0027 Localização Logradouro: CEP: Cidade: Kumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6N Culto Oficial Domingo - 09:00 Quinta-feira - 06:30 Sexta-feira - 06:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0120",
+    "Nome": "Kwenge-bivac - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kwenge-bivac, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kwenge-bivac, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Kwenge-bivac CENTRAL CD-01-0120 Localização Logradouro: CEP: Cidade: Kwenge-bivac, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:30 Quinta-feira - 06:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial David Nzuzi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0115",
+    "Nome": "Lac Mukamba - Central",
+    "Logradouro": "Distrito de Lulua",
+    "CEP": "Cidade: Lac Mukamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lac Mukamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Lac Mukamba CENTRAL CD-01-0115 Localização Logradouro: Distrito de Lulua CEP: Cidade: Lac Mukamba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua 06:00 - Sex 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0107",
+    "Nome": "Lomela - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lomela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lomela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Lomela CENTRAL CD-01-0107 Localização Logradouro: CEP: Cidade: Lomela, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Maurice Nkoso"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0143",
+    "Nome": "Longila - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Longila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Longila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Longila CENTRAL CD-01-0143 Localização Logradouro: CEP: Cidade: Longila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Jean Alowo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0140",
+    "Nome": "Loomba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Loomba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Loomba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Loomba CENTRAL CD-01-0140 Localização Logradouro: CEP: Cidade: Loomba, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Théodor Ngonga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0125",
+    "Nome": "Lowula",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Lowula CD-01-0125 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Sex 17:00 Ministério Cooperador Ofício Ministerial Emile Molondo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0014",
+    "Nome": "Luanyanya - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Luanyanya, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Luanyanya, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Luanyanya CENTRAL CD-01-0014 Localização Logradouro: CEP: Cidade: Luanyanya, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0164",
+    "Nome": "Lubumba",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Lubumba CD-01-0164 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0059",
+    "Nome": "Luenda Basanga",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "07:15",
+        "Sexta-feira": "07:15"
+      },
+      "Obs": "Localidade Luenda Basanga CD-01-0059 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 07:15 Ministério Cooperador Ofício Ministerial André Mbombo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0151",
+    "Nome": "Luhedi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Luhedi, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Luhedi, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Luhedi CENTRAL CD-01-0151 Localização Logradouro: CEP: Cidade: Luhedi, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Emile Inkonga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0003",
+    "Nome": "Lukemi - Quartier Nzundu - Central",
+    "Logradouro": "Avenue Sedibumba, 9",
+    "CEP": "Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.315252,
+      "lon": 17.3770878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Lukemi - Quartier Nzundu CENTRAL CD-01-0003 Localização Logradouro: Avenue Sedibumba, 9 CEP: Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Ancião JEAN NGUZA FEFU Cooperador Ofício Ministerial Hubert Kabwasa Diácono Florent Kimvedi Telefone(s) +243 (81) 3977-3469 +243 (99) 161-5183"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0074",
+    "Nome": "Lukonga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lukonga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lukonga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Lukonga CENTRAL CD-01-0074 Localização Logradouro: CEP: Cidade: Lukonga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Jean Pierre Badibanga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0121",
+    "Nome": "Lumbi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Lumbi CENTRAL CD-01-0121 Localização Logradouro: CEP: Cidade: Lumbi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3M 5M Culto Oficial Domingo - 09:00 Terça-feira - 05:00 Quinta-feira - 05:00 Ministério Cooperador Ofício Ministerial Kakwata Mpoyi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0112",
+    "Nome": "Lunyeka",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Lunyeka CD-01-0112 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Nestor Lukengu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0025",
+    "Nome": "Lwiti - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lwiti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Lwiti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Lwiti CENTRAL CD-01-0025 Localização Logradouro: CEP: Cidade: Lwiti, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:30 Quinta-feira - 06:00 Sexta-feira - 06:00 Ministério Ancião AMOS KONDO PIKAZION"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0052",
+    "Nome": "Mabondo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mabondo CD-01-0052 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Médard Muyaya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0129",
+    "Nome": "Mabundu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Mabundu CD-01-0129 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Thomas Bekashasha"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0098",
+    "Nome": "Madila - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Madila, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Madila, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Madila CENTRAL CD-01-0098 Localização Logradouro: CEP: Cidade: Madila, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Bena Beya Tshibangu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0145",
+    "Nome": "Maduda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Maduda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Maduda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Maduda CENTRAL CD-01-0145 Localização Logradouro: CEP: Cidade: Maduda, KONGO CENTRALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0057",
+    "Nome": "Mayi-Munene Muanda",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mayi-Munene Muanda CD-01-0057 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Justin Ntumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0055",
+    "Nome": "Mayi-Munene Ndongo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:30",
+        "Sexta-feira": "06:30"
+      },
+      "Obs": "Localidade Mayi-Munene Ndongo CD-01-0055 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:30 Ministério Cooperador Ofício Ministerial Moïse Ntumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0008",
+    "Nome": "Mbala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mbala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mbala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.1922448,
+      "lon": 24.1104467
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mbala CENTRAL CD-01-0008 Localização Logradouro: CEP: Cidade: Mbala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 08:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Pierre Kantu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0148",
+    "Nome": "Mbala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mbala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mbala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Mbala CENTRAL CD-01-0148 Localização Logradouro: CEP: Cidade: Mbala, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Jean Elenga Mboyo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0162",
+    "Nome": "Mbangedi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Mbangedi CD-01-0162 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Robert Lupepe Mbuambo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0035",
+    "Nome": "Milabu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Milabu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Milabu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Milabu CENTRAL CD-01-0035 Localização Logradouro: CEP: Cidade: Milabu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M Culto Oficial Domingo - 09:00 Quinta-feira - 06:00 Ministério Cooperador Ofício Ministerial Bayika Tambo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0021",
+    "Nome": "Milanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Milanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Milanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Milanga CENTRAL CD-01-0021 Localização Logradouro: CEP: Cidade: Milanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:30 Quinta-feira - 06:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial Aaron Kumerita"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0088",
+    "Nome": "Mokali 2 - Quartier Kimbunda",
+    "Logradouro": "Avenue Revolution, 154",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.3993843,
+      "lon": 15.2454645
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mokali 2 - Quartier Kimbunda CD-01-0088 Localização Logradouro: Avenue Revolution, 154 CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M 6M Dom 10:00 - Qua-Sex 06:00 Culto Oficial Domingo - 10:00 Quarta-feira - 06:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial Paulin Kiley Lumbawambu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0103",
+    "Nome": "Mongosenge - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mongosenge, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mongosenge, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Mongosenge CENTRAL CD-01-0103 Localização Logradouro: CEP: Cidade: Mongosenge, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Fabien Etshindo Wola"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0141",
+    "Nome": "Mpama - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mpama, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mpama, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Mpama CENTRAL CD-01-0141 Localização Logradouro: CEP: Cidade: Mpama, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0123",
+    "Nome": "Mukaya",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mukaya CD-01-0123 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0033",
+    "Nome": "Munga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Munga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Munga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "06:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Munga CENTRAL CD-01-0033 Localização Logradouro: CEP: Cidade: Munga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6M Culto Oficial Domingo - 09:30 Sexta-feira - 06:30 Ministério Cooperador Ofício Ministerial Wakonda Dieudonne"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0032",
+    "Nome": "Mupanda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mupanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mupanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Mupanda CENTRAL CD-01-0032 Localização Logradouro: CEP: Cidade: Mupanda, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua 06:00 - Sex 16:00 Ministério Cooperador Ofício Ministerial Jean Matata"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0062",
+    "Nome": "Musangangulu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Musangangulu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Musangangulu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "06:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Musangangulu CENTRAL CD-01-0062 Localização Logradouro: CEP: Cidade: Musangangulu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6M Culto Oficial Domingo - 09:30 Sexta-feira - 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0067",
+    "Nome": "Musenge - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Musenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Musenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "06:00",
+        "Quinta-feira": "06:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Musenge CENTRAL CD-01-0067 Localização Logradouro: CEP: Cidade: Musenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3M 5M Culto Oficial Domingo - 09:30 Terça-feira - 06:00 Quinta-feira - 06:00 Ministério Cooperador Ofício Ministerial Josué Kataba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0041",
+    "Nome": "Mushala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mushala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mushala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mushala CENTRAL CD-01-0041 Localização Logradouro: CEP: Cidade: Mushala, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Jean Pierre Kabeya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0091",
+    "Nome": "Mweka - Centre",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mweka - Centre CD-01-0091 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Leonard Mbanza Minga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0126",
+    "Nome": "Mweka Mwampanya",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Mweka Mwampanya CD-01-0126 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério Cooperador Ofício Ministerial Jean Claude Tshitudi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0159",
+    "Nome": "Mwetshi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Mwetshi CD-01-0159 Localização Logradouro: CEP: Cidade: Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Josué Badibanga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0039",
+    "Nome": "Ndesha - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ndesha, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ndesha, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Ndesha CENTRAL CD-01-0039 Localização Logradouro: CEP: Cidade: Ndesha, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Elie Banyinga"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0078",
+    "Nome": "Ndumbi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Ndumbi CD-01-0078 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 06:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0153",
+    "Nome": "Ndunga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ndunga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ndunga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Ndunga CENTRAL CD-01-0153 Localização Logradouro: CEP: Cidade: Ndunga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3M 5M Culto Oficial Domingo - 09:00 Terça-feira - 05:00 Quinta-feira - 05:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0001",
+    "Nome": "Ngaba - Quartier Mukulua - Central",
+    "Logradouro": "Avenue Kianza, 60 Bis",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.3774877,
+      "lon": 15.3272268
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "17:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Ngaba - Quartier Mukulua CENTRAL CD-01-0001 Localização Logradouro: Avenue Kianza, 60 Bis CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 Culto Oficial Domingo - 10:30 Quarta-feira - 17:00 Ministério Ancião Adalberto Chagas Marques Adalberto Chagas Marques Adalberto Chagas Marques Adalberto Chagas Marques Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho MAURICE MUNGANGA MUKE FREDDY KABALA MUKENZA Diácono Emmanoel Kibonge Fati Telefone(s) +243 (81) 157-2230 +243 (81) 223-4634"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0046",
+    "Nome": "Ngala-Bilolo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ngala-bilolo, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ngala-bilolo, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Ngala-Bilolo CENTRAL CD-01-0046 Localização Logradouro: CEP: Cidade: Ngala-bilolo, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Emmanuel Kalulambi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0012",
+    "Nome": "Nganza",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Nganza CD-01-0012 Localização Logradouro: CEP: Cidade: Kananga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial David Lokotela"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0089",
+    "Nome": "Ngiri-Ngiri - Quartier Sao",
+    "Logradouro": "Avenue Panzi, 154",
+    "CEP": "Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -4.3815853,
+      "lon": 15.3211614
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00",
+        "Sexta-feira": "18:00"
+      },
+      "Obs": "Localidade Ngiri-Ngiri - Quartier Sao CD-01-0089 Localização Logradouro: Avenue Panzi, 154 CEP: Cidade: Kinshasa, KINSHASA, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 18:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0019",
+    "Nome": "Ngombe - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ngombe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ngombe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "06:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Ngombe CENTRAL CD-01-0019 Localização Logradouro: CEP: Cidade: Ngombe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6M Culto Oficial Domingo - 09:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial Kanu Kudiakubanza"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0065",
+    "Nome": "Ngondi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ngondi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ngondi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "16:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Ngondi CENTRAL CD-01-0065 Localização Logradouro: CEP: Cidade: Ngondi, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 6T Culto Oficial Domingo - 09:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Manaka Mupopo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0029",
+    "Nome": "Nkutu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nkutu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Nkutu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:30",
+        "Sexta-feira": "06:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Nkutu CENTRAL CD-01-0029 Localização Logradouro: CEP: Cidade: Nkutu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:30 Quinta-feira - 06:30 Sexta-feira - 06:30 Ministério Cooperador Ofício Ministerial Mukienge Kal Alphin"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0097",
+    "Nome": "Ntambua Mulumba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ntambua Mulumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Ntambua Mulumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Ntambua Mulumba CENTRAL CD-01-0097 Localização Logradouro: CEP: Cidade: Ntambua Mulumba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Qua-Sex 17:00 Ministério Cooperador Ofício Ministerial Timothé Ntwite"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0015",
+    "Nome": "Nyindu Kabemba - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nyindu Kabemba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Nyindu Kabemba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:00",
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Nyindu Kabemba CENTRAL CD-01-0015 Localização Logradouro: CEP: Cidade: Nyindu Kabemba, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 08:00 - Qua-Sex 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0149",
+    "Nome": "Okapia Ngongo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Okapia Ngongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Okapia Ngongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Okapia Ngongo CENTRAL CD-01-0149 Localização Logradouro: CEP: Cidade: Okapia Ngongo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0099",
+    "Nome": "Okonga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Okonga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Okonga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Okonga CENTRAL CD-01-0099 Localização Logradouro: CEP: Cidade: Okonga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Celestin Nkinda"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0050",
+    "Nome": "Osanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Osanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Osanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Osanga CENTRAL CD-01-0050 Localização Logradouro: CEP: Cidade: Osanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Ridolphe Boluma"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0138",
+    "Nome": "Owila - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Owila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Owila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Owila CENTRAL CD-01-0138 Localização Logradouro: CEP: Cidade: Owila, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Jean Marie Otomba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0158",
+    "Nome": "Petit Pont",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.315252,
+      "lon": 17.3770878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00",
+        "Domingo": "08:00"
+      },
+      "Obs": "Localidade Petit Pont CD-01-0158 Localização Logradouro: CEP: Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3T 5T (RJM-DM) Dom 09:00 - Ter-Qui 16:00 Reunião de Jovens e Menores Domingo - 08:00 Culto Oficial Domingo - 09:00 Terça-feira - 16:00 Quinta-feira - 16:00 Ministério Cooperador Ofício Ministerial Ngunza Dieudonne"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0084",
+    "Nome": "Pont Kwango - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Pont Kwango, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Pont Kwango, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Pont Kwango CENTRAL CD-01-0084 Localização Logradouro: CEP: Cidade: Pont Kwango, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Ministério Cooperador Ofício Ministerial Luzolo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0028",
+    "Nome": "Poto Poto - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Poto Poto, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Poto Poto, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "07:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Poto Poto CENTRAL CD-01-0028 Localização Logradouro: CEP: Cidade: Poto Poto, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4M Culto Oficial Domingo - 09:30 Quarta-feira - 07:30 Ministério Cooperador Ofício Ministerial Jean Pierre Kawaya"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0157",
+    "Nome": "Prison - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kamayi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kamayi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "06:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade Prison CENTRAL CD-01-0157 Localização Logradouro: CEP: Cidade: Kamayi, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Qua-Sex 06:00 Ministério Cooperador Ofício Ministerial Paulin Mulumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0130",
+    "Nome": "Quartier Congo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Quartier Congo CD-01-0130 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0118",
+    "Nome": "Quartier Lwanga",
+    "Logradouro": "Avenue Kazamba, 2",
+    "CEP": "Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -3.315252,
+      "lon": 17.3770878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Quartier Lwanga CD-01-0118 Localização Logradouro: Avenue Kazamba, 2 CEP: Cidade: Kikwit, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4N 6N Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Jean Mayembi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0006",
+    "Nome": "Quartier Université - Central",
+    "Logradouro": "Avenue Tshikusukusu, 3",
+    "CEP": "Cidade: Mbuji-mayi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Mbuji-mayi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.1258942,
+      "lon": 23.5998111
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:45",
+        "Quarta-feira": "06:30",
+        "Sexta-feira": "06:30"
+      },
+      "Obs": "Localidade Quartier Université CENTRAL CD-01-0006 Localização Logradouro: Avenue Tshikusukusu, 3 CEP: Cidade: Mbuji-mayi, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 08:45 - Qua-Sex 06:30 Ministério Ancião BAVON KADIMA Diácono Leon Mutembo Nsumpi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0013",
+    "Nome": "SNEL (Société Nationale d'Electricité) - Central",
+    "Logradouro": "Avenue Luluabourg, 06",
+    "CEP": "Cidade: Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Sexta-feira": "06:00"
+      },
+      "Obs": "Localidade SNEL (Société Nationale d'Electricité) CENTRAL CD-01-0013 Localização Logradouro: Avenue Luluabourg, 06 CEP: Cidade: Kisangani, ORIENTALE, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:00 - Sex 06:00 Ministério Cooperador Ofício Ministerial Jules Biakane"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0023",
+    "Nome": "Secteur - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kwenge - Kimafu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kwenge - Kimafu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:30",
+        "Sexta-feira": "06:30",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Secteur CENTRAL CD-01-0023 Localização Logradouro: CEP: Cidade: Kwenge - Kimafu, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:30 Quinta-feira - 06:30 Sexta-feira - 06:30 Ministério Cooperador Ofício Ministerial Ugonda Lemba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0165",
+    "Nome": "Shambo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Shambo CD-01-0165 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Marcel Tumiladi Betshindo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0150",
+    "Nome": "Shenga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Shenga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Shenga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Shenga CENTRAL CD-01-0150 Localização Logradouro: CEP: Cidade: Shenga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Mathieu Ongenda Ngenda"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0160",
+    "Nome": "Shome",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Shome CD-01-0160 Localização Logradouro: CEP: Cidade: Tshikapa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Timothe Mieme"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0068",
+    "Nome": "Tebetebe - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tebetebe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tebetebe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "06:00",
+        "Sexta-feira": "06:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Tebetebe CENTRAL CD-01-0068 Localização Logradouro: CEP: Cidade: Tebetebe, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 5M 6M Culto Oficial Domingo - 09:00 Quinta-feira - 06:00 Sexta-feira - 06:00 Ministério Cooperador Ofício Ministerial Jean Claude Ngyombo"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0109",
+    "Nome": "Tshendjo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshendjo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshendjo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Tshendjo CENTRAL CD-01-0109 Localização Logradouro: CEP: Cidade: Tshendjo, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Pierre Mbambe"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0058",
+    "Nome": "Tshinanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshinanga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshinanga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Tshinanga CENTRAL CD-01-0058 Localização Logradouro: CEP: Cidade: Tshinanga, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 09:30 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Emmanuel Tshisuabantu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0034",
+    "Nome": "Tshingana - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshingana, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshingana, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "07:00",
+        "Sexta-feira": "07:00"
+      },
+      "Obs": "Localidade Tshingana CENTRAL CD-01-0034 Localização Logradouro: CEP: Cidade: Tshingana, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 07:00 Ministério Cooperador Ofício Ministerial Gregóire Tshisuabantu"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0049",
+    "Nome": "Tshitempa - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshitempa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshitempa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "06:00 -Sex 16:00"
+      },
+      "Obs": "Localidade Tshitempa CENTRAL CD-01-0049 Localização Logradouro: CEP: Cidade: Tshitempa, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua 06:00 -Sex 16:00 Ministério Cooperador Ofício Ministerial Jean Pierre Kabakodi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0136",
+    "Nome": "Tshitolo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshitolo, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshitolo, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": -6.1979361,
+      "lon": 23.3994775
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "05:00",
+        "Sexta-feira": "05:00"
+      },
+      "Obs": "Localidade Tshitolo CENTRAL CD-01-0136 Localização Logradouro: CEP: Cidade: Tshitolo, KASAI-ORIENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 05:00 Ministério Cooperador Ofício Ministerial Jean Kayembe"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0113",
+    "Nome": "Tshiyole - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tshiyole, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tshiyole, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Tshiyole CENTRAL CD-01-0113 Localização Logradouro: CEP: Cidade: Tshiyole, KASAI-OCCIDENTAL, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério Cooperador Ofício Ministerial Paulin Ntumba"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0110",
+    "Nome": "Tuanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tuanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Tuanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Tuanga CENTRAL CD-01-0110 Localização Logradouro: CEP: Cidade: Tuanga, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Désiré Evula"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0152",
+    "Nome": "Village - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kabeba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kabeba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Village CENTRAL CD-01-0152 Localização Logradouro: CEP: Cidade: Kabeba, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3N 5N Culto Oficial Domingo - 09:00 Terça-feira - 05:00 Quinta-feira - 05:00 Ministério Cooperador Ofício Ministerial Nfumundende Nakasila"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0119",
+    "Nome": "Village - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kindeke, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kindeke, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sexta-feira": "16:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Village CENTRAL CD-01-0119 Localização Logradouro: CEP: Cidade: Kindeke, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 4T 6T Culto Oficial Domingo - 10:00 Quarta-feira - 16:00 Sexta-feira - 16:00 Ministério Cooperador Ofício Ministerial Faustin Kamiaku"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0102",
+    "Nome": "Yango",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Quinta-feira": "16:00"
+      },
+      "Obs": "Localidade Yango CD-01-0102 Localização Logradouro: CEP: Cidade: Kole, LODJA-SANKURU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto Dom 10:00 - Ter-Qui 16:00 Ministério Cooperador Ofício Ministerial Albert Ohoto Ohenyi"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0020",
+    "Nome": "Yelenge - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Yelenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Yelenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "06:00",
+        "Quinta-feira": "06:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Yelenge CENTRAL CD-01-0020 Localização Logradouro: CEP: Cidade: Yelenge, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3M 5M Culto Oficial Domingo - 09:00 Terça-feira - 06:00 Quinta-feira - 06:00 Ministério Cooperador Ofício Ministerial Nestor Mafuka"
+    }
+  },
+  {
+    "CodigoId": "CD-01-0155",
+    "Nome": "Zanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Zanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Cidade": "Zanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "05:00",
+        "Quinta-feira": "05:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Zanga CENTRAL CD-01-0155 Localização Logradouro: CEP: Cidade: Zanga, BANDUNDU, REPÚBLICA DEMOCRÁTICA DO CONGO Dias de Culto DM 3N 5M Culto Oficial Domingo - 09:00 Terça-feira - 05:00 Quinta-feira - 05:00 Ministério Cooperador Ofício Ministerial Pierre Mwaba"
+    }
+  }
+]

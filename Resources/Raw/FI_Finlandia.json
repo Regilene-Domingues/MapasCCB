@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "FI-01-0001",
+    "Nome": "Pajala - Central",
+    "Logradouro": "Seutulantie 3-5B",
+    "CEP": "00004-410",
+    "Cidade": "Järvenpää, UUSIMAA, Finlândia (ee)",
+    "Coordenadas": {
+      "lat": 66.5488692,
+      "lon": 25.6621573
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00 / RJM Sáb 15:00"
+      },
+      "Obs": "Localidade Pajala CENTRAL FI-01-0001 Localização Logradouro: Seutulantie 3-5B CEP: 00004-410 Cidade: Järvenpää, UUSIMAA, Finlândia (ee) Complemento: Segundo andar - (Fone Suécia: +46 70 325-6201) Dias de Culto Sáb 15:00 (RJM Sáb 15:00) Ministério Ancião Américo Armando dos Santos Medeiros Telefone(s) +358 (46) 685-9049"
+    }
+  }
+]

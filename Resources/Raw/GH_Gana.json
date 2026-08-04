@@ -1,0 +1,64 @@
+[
+  {
+    "CodigoId": "GH-01-0003",
+    "Nome": "Amansaman - N'Sakina - Central",
+    "Logradouro": "GA Odumase Road",
+    "CEP": "Cidade: Acra, ACRA, Gana",
+    "Cidade": "Acra, ACRA, Gana",
+    "Coordenadas": {
+      "lat": 5.5571096,
+      "lon": -0.2012376
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Amansaman - N'Sakina CENTRAL GH-01-0003 Localização Logradouro: GA Odumase Road CEP: Cidade: Acra, ACRA, Gana Complemento: Próximo ao cemitério de Oshiuman Dias de Culto Dom 09:30 Ministério Ancião PHILIP LAMPTEY Cooperador Ofício Ministerial Arthur Addison Hayford Telefone(s) +233 (243) 888-651 +233 (249) 813-300"
+    }
+  },
+  {
+    "CodigoId": "GH-01-0004",
+    "Nome": "Close to Ablekuma - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Afuaman, ACRA, Gana",
+    "Cidade": "Afuaman, ACRA, Gana",
+    "Coordenadas": {
+      "lat": 5.635186,
+      "lon": -0.3548804
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Close to Ablekuma CENTRAL GH-01-0004 Localização Logradouro: CEP: Cidade: Afuaman, ACRA, Gana Dias de Culto Qua 19:00 Ministério Cooperador Ofício Ministerial Daniel Amuzu"
+    }
+  },
+  {
+    "CodigoId": "GH-01-0001",
+    "Nome": "West Tanokrom Lay Out - Second Takoradi Metropolitan Assembly - Central",
+    "Logradouro": "Plot, 490",
+    "CEP": "Cidade: Takoradi, TAKORADI, Gana",
+    "Cidade": "Takoradi, TAKORADI, Gana",
+    "Coordenadas": {
+      "lat": 4.9002623,
+      "lon": -1.7596201
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade West Tanokrom Lay Out - Second Takoradi Metropolitan Assembly CENTRAL GH-01-0001 Localização Logradouro: Plot, 490 CEP: Cidade: Takoradi, TAKORADI, Gana Complemento: T.T.I. Bus Stop on top Ridge Dias de Culto Dom 10:00 - Qua 19:00 Ministério Telefone(s) +233 (245) 069-944 +233 (277) 420-015"
+    }
+  }
+]

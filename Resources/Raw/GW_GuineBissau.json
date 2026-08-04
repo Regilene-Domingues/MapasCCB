@@ -1,0 +1,80 @@
+[
+  {
+    "CodigoId": "GW-01-0001",
+    "Nome": "Bairro Lalaquema 2ª Fase - Central",
+    "Logradouro": "Avenida D. Settimeo Arturo Ferrazeta",
+    "CEP": "Cidade: Bissau, BISSAU, Guiné-bissau",
+    "Cidade": "Bissau, BISSAU, Guiné-bissau",
+    "Coordenadas": {
+      "lat": 11.861324,
+      "lon": -15.583055
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Bairro Lalaquema 2ª Fase CENTRAL GW-01-0001 Localização Logradouro: Avenida D. Settimeo Arturo Ferrazeta CEP: Cidade: Bissau, BISSAU, Guiné-bissau Dias de Culto Dom 16:00 Ministério Cooperador de Jovens e Menores Mamadu Balde Telefone(s) +245 () 590-5656 +245 () 696-1142"
+    }
+  },
+  {
+    "CodigoId": "GW-01-0003",
+    "Nome": "Bairro Luanda - Central",
+    "Logradouro": "Rodovia Mansoa-Farim",
+    "CEP": "Cidade: Mansoa, BISSAU, Guiné-bissau",
+    "Cidade": "Mansoa, BISSAU, Guiné-bissau",
+    "Coordenadas": {
+      "lat": 11.9888998,
+      "lon": -15.7573349
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Bairro Luanda CENTRAL GW-01-0003 Localização Logradouro: Rodovia Mansoa-Farim CEP: Cidade: Mansoa, BISSAU, Guiné-bissau Complemento: 150 metros da mãe d'água Dias de Culto Sáb 16:00 Ministério Cooperador Ofício Ministerial Feliciano Sanca Telefone(s) +245 () 610-4183"
+    }
+  },
+  {
+    "CodigoId": "GW-01-0004",
+    "Nome": "Bieio - Central",
+    "Logradouro": "Rodovia para Cachungo",
+    "CEP": "Cidade: Bieio, BISSAU, Guiné-bissau",
+    "Cidade": "Bieio, BISSAU, Guiné-bissau",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Bieio CENTRAL GW-01-0004 Localização Logradouro: Rodovia para Cachungo CEP: Cidade: Bieio, BISSAU, Guiné-bissau Complemento: Ao lado da Tabanca Patacan Dias de Culto Dom 16:00 Ministério Telefone(s) +245 () 661-9445"
+    }
+  },
+  {
+    "CodigoId": "GW-01-0002",
+    "Nome": "Bula - Central",
+    "Logradouro": "Estrada Nova (esquerda) que liga Bula, Incoré e São Domingos",
+    "CEP": "Cidade: Bula, BISSAU, Guiné-bissau",
+    "Cidade": "Bula, BISSAU, Guiné-bissau",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Bula CENTRAL GW-01-0002 Localização Logradouro: Estrada Nova (esquerda) que liga Bula, Incoré e São Domingos CEP: Cidade: Bula, BISSAU, Guiné-bissau Complemento: Próximo à Escola Profissional e do Liceu de Bula - CIFAP Dias de Culto Dom 09:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Mário Coluna da Costa Telefone(s) +245 () 661-9459"
+    }
+  }
+]

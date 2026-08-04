@@ -1,0 +1,634 @@
+[
+  {
+    "CodigoId": "UG-01-0018",
+    "Nome": "Bibuye - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Bibuye, DISTRITO DE KYENJOJO, Uganda",
+    "Cidade": "Bibuye, DISTRITO DE KYENJOJO, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Bibuye CENTRAL UG-01-0018 Localização Logradouro: CEP: Cidade: Bibuye, DISTRITO DE KYENJOJO, Uganda Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Byaruhanga William Telefone(s) +256 (78) 866-6105"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0031",
+    "Nome": "Biharwe Town - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Biharwe Town, DISTRITO DE MBARAARA, Uganda",
+    "Cidade": "Biharwe Town, DISTRITO DE MBARAARA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "14:00",
+        "Sexta-feira": "14:00"
+      },
+      "Obs": "Localidade Biharwe Town CENTRAL UG-01-0031 Localização Logradouro: CEP: Cidade: Biharwe Town, DISTRITO DE MBARAARA, Uganda Dias de Culto Dom 10:00 - Ter-Sex 14:00 Ministério Telefone(s) +256 (78) 268-2413"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0039",
+    "Nome": "Buhumuriro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Buhumuriro, DISTRITO DE KYEGEGWA, Uganda",
+    "Cidade": "Buhumuriro, DISTRITO DE KYEGEGWA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Buhumuriro CENTRAL UG-01-0039 Localização Logradouro: CEP: Cidade: Buhumuriro, DISTRITO DE KYEGEGWA, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Abutungire Yoab"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0034",
+    "Nome": "Buteraniro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Buteraniro, DISTRITO DE KAMWENGE, Uganda",
+    "Cidade": "Buteraniro, DISTRITO DE KAMWENGE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Buteraniro CENTRAL UG-01-0034 Localização Logradouro: CEP: Cidade: Buteraniro, DISTRITO DE KAMWENGE, Uganda Dias de Culto Ministério Cooperador Ofício Ministerial Katamba Vian Telefone(s) +256 (77) 597-7769"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0013",
+    "Nome": "Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kisekende, DISTRITO DE MUBENDE, Uganda",
+    "Cidade": "Kisekende, DISTRITO DE MUBENDE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Central CENTRAL UG-01-0013 Localização Logradouro: CEP: Cidade: Kisekende, DISTRITO DE MUBENDE, Uganda Dias de Culto Dom 10:00 - Qua-Sex 17:00 Ministério Telefone(s) +256 (78) 918-3995"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0041",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mbale, DISTRITO DE MBALE, Uganda",
+    "Cidade": "Mbale, DISTRITO DE MBALE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Centro CENTRAL UG-01-0041 Localização Logradouro: CEP: Cidade: Mbale, DISTRITO DE MBALE, Uganda Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0044",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mubende, DISTRITO DE MUBENDE, Uganda",
+    "Cidade": "Mubende, DISTRITO DE MUBENDE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Centro CENTRAL UG-01-0044 Localização Logradouro: CEP: Cidade: Mubende, DISTRITO DE MUBENDE, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Tumwesigye Leopold"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0029",
+    "Nome": "Ihindiro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ihindiro, DISTRITO DE RUKUNGIRI, Uganda",
+    "Cidade": "Ihindiro, DISTRITO DE RUKUNGIRI, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Ihindiro CENTRAL UG-01-0029 Localização Logradouro: CEP: Cidade: Ihindiro, DISTRITO DE RUKUNGIRI, Uganda Dias de Culto Dom 10:00 Ministério Telefone(s) +256 (78) 799-1835"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0009",
+    "Nome": "Iraramira - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Iraramira, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Iraramira, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00"
+      },
+      "Obs": "Localidade Iraramira CENTRAL UG-01-0009 Localização Logradouro: CEP: Cidade: Iraramira, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 - Qua 15:00 Ministério Ancião BASIIMA PATRICK Telefone(s) +256 (77) 866-5230"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0033",
+    "Nome": "Ishaaka - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kigooma, DISTRITO DE BUSHEINYI, Uganda",
+    "Cidade": "Kigooma, DISTRITO DE BUSHEINYI, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Ishaaka CENTRAL UG-01-0033 Localização Logradouro: CEP: Cidade: Kigooma, DISTRITO DE BUSHEINYI, Uganda Dias de Culto Dom 10:00 Ministério Telefone(s) +256 (77) 941-4246"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0012",
+    "Nome": "Kalege - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kalege, DISTRITO DE NAKASEKE, Uganda",
+    "Cidade": "Kalege, DISTRITO DE NAKASEKE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kalege CENTRAL UG-01-0012 Localização Logradouro: CEP: Cidade: Kalege, DISTRITO DE NAKASEKE, Uganda Dias de Culto Dom 10:00 Ministério Telefone(s) +256 (75) 210-0207"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0037",
+    "Nome": "Kanyenje 1 - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kayenje, DISTRITO DE NTUGAMO, Uganda",
+    "Cidade": "Kayenje, DISTRITO DE NTUGAMO, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kanyenje 1 CENTRAL UG-01-0037 Localização Logradouro: CEP: Cidade: Kayenje, DISTRITO DE NTUGAMO, Uganda Dias de Culto Dom 10:00 Ministério Telefone(s) +256 (77) 293-6369"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0038",
+    "Nome": "Kanyenje 2",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kayenje, DISTRITO DE NTUGAMO, Uganda",
+    "Cidade": "Kayenje, DISTRITO DE NTUGAMO, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kanyenje 2 UG-01-0038 Localização Logradouro: CEP: Cidade: Kayenje, DISTRITO DE NTUGAMO, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Kasirabo John Bosco"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0043",
+    "Nome": "Kasenyi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kasenyi, DISTRITO DE KIBALE, Uganda",
+    "Cidade": "Kasenyi, DISTRITO DE KIBALE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kasenyi CENTRAL UG-01-0043 Localização Logradouro: CEP: Cidade: Kasenyi, DISTRITO DE KIBALE, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Gahutu Fabiano"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0003",
+    "Nome": "Kashenshero - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kashenshero Town, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Kashenshero Town, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "15:00"
+      },
+      "Obs": "Localidade Kashenshero CENTRAL UG-01-0003 Localização Logradouro: CEP: Cidade: Kashenshero Town, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 - Qui 15:00 Ministério Ancião TUMWESIGYE CHARLES Cooperador Ofício Ministerial Kasigaire Johnson Diácono Bafaki Edward Gerevásio Byaruhanga Telefone(s) +256 (77) 293-6369 +256 (78) 537-1013"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0007",
+    "Nome": "Kashongorero - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kashongorero, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Kashongorero, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kashongorero CENTRAL UG-01-0007 Localização Logradouro: CEP: Cidade: Kashongorero, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Tumusiime Johnson Telefone(s) +256 (78) 120-1701"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0006",
+    "Nome": "Katanguemeko - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Katanguemeko, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Katanguemeko, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "16:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Katanguemeko CENTRAL UG-01-0006 Localização Logradouro: CEP: Cidade: Katanguemeko, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 - Ter-Sex 16:00 Ministério Cooperador Ofício Ministerial Bomesereza Pison Telefone(s) +256 (77) 941-4246"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0015",
+    "Nome": "Kihuuna - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kihuuna, DISTRITO DE KYEGEGWA, Uganda",
+    "Cidade": "Kihuuna, DISTRITO DE KYEGEGWA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kihuuna CENTRAL UG-01-0015 Localização Logradouro: CEP: Cidade: Kihuuna, DISTRITO DE KYEGEGWA, Uganda Dias de Culto Dom 10:00 Ministério Telefone(s) +256 (78) 476-0734"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0021",
+    "Nome": "Kikoora - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kakindo, DISTRITO DE KIBALE, Uganda",
+    "Cidade": "Kakindo, DISTRITO DE KIBALE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00"
+      },
+      "Obs": "Localidade Kikoora CENTRAL UG-01-0021 Localização Logradouro: CEP: Cidade: Kakindo, DISTRITO DE KIBALE, Uganda Dias de Culto Dom 10:00 - Qua 15:00 Ministério Cooperador Ofício Ministerial Gahutu Fabian Telefone(s) +256 (77) 781-3317"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0040",
+    "Nome": "Kimuuri - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kimuuri, DISTRITO DE KAMWENGE, Uganda",
+    "Cidade": "Kimuuri, DISTRITO DE KAMWENGE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kimuuri CENTRAL UG-01-0040 Localização Logradouro: CEP: Cidade: Kimuuri, DISTRITO DE KAMWENGE, Uganda Dias de Culto Dom 10:00 Ministério Diácono Bigira Bosco"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0023",
+    "Nome": "Kororo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kororo, DISTRITO DE KAMWENGE, Uganda",
+    "Cidade": "Kororo, DISTRITO DE KAMWENGE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Kororo CENTRAL UG-01-0023 Localização Logradouro: CEP: Cidade: Kororo, DISTRITO DE KAMWENGE, Uganda Dias de Culto Dom 10:00 - Sex 16:00 Ministério Ancião MUGISHA FRED Cooperador Ofício Ministerial Kempime Moses Diácono Mucunguzi Donozio Telefone(s) +256 (78) 268-2413"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0045",
+    "Nome": "Kyamugema - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kyamugema, DISTRITO DE MUBENDE, Uganda",
+    "Cidade": "Kyamugema, DISTRITO DE MUBENDE, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kyamugema CENTRAL UG-01-0045 Localização Logradouro: CEP: Cidade: Kyamugema, DISTRITO DE MUBENDE, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Kato John Kigemuzi"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0001",
+    "Nome": "Mpanga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kololo, DISTRITO DE MPIGI BUTAMBALA, Uganda",
+    "Cidade": "Kololo, DISTRITO DE MPIGI BUTAMBALA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mpanga CENTRAL UG-01-0001 Localização Logradouro: CEP: Cidade: Kololo, DISTRITO DE MPIGI BUTAMBALA, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Kasupaari Warugira Telefone(s) +256 (70) 293-6369"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0008",
+    "Nome": "Nyakagyera - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kabirizi, DISTRITO DE INSINGIRO, Uganda",
+    "Cidade": "Kabirizi, DISTRITO DE INSINGIRO, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00"
+      },
+      "Obs": "Localidade Nyakagyera CENTRAL UG-01-0008 Localização Logradouro: CEP: Cidade: Kabirizi, DISTRITO DE INSINGIRO, Uganda Dias de Culto Dom 10:00 - Qua 15:00 Ministério Telefone(s) +256 (78) 141-1998"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0004",
+    "Nome": "Nyakizinga - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mutara, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Mutara, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "14:00"
+      },
+      "Obs": "Localidade Nyakizinga CENTRAL UG-01-0004 Localização Logradouro: CEP: Cidade: Mutara, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 - Ter 14:00 Ministério Cooperador Ofício Ministerial Berimira Boaz Telefone(s) +256 (77) 443-2128"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0017",
+    "Nome": "Omukako - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Omukako, DISTRITO DE KYEGEGWA, Uganda",
+    "Cidade": "Omukako, DISTRITO DE KYEGEGWA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "15:00"
+      },
+      "Obs": "Localidade Omukako CENTRAL UG-01-0017 Localização Logradouro: CEP: Cidade: Omukako, DISTRITO DE KYEGEGWA, Uganda Dias de Culto Dom 10:00 - Qua 15:00 Ministério Telefone(s) +256 (78) 831-9868"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0016",
+    "Nome": "Omukarama - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Omukarama, DISTRITO DE KYEGEGWA, Uganda",
+    "Cidade": "Omukarama, DISTRITO DE KYEGEGWA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "09:00"
+      },
+      "Obs": "Localidade Omukarama CENTRAL UG-01-0016 Localização Logradouro: CEP: Cidade: Omukarama, DISTRITO DE KYEGEGWA, Uganda Dias de Culto Dom 10:00 - Qua 09:00 Ministério Telefone(s) +256 (77) 738-1165"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0026",
+    "Nome": "Omukatoojo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Omukatoojo, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Omukatoojo, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Omukatoojo CENTRAL UG-01-0026 Localização Logradouro: CEP: Cidade: Omukatoojo, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial Tukamuhabwa Andrew Telefone(s) +256 (77) 838-3803"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0042",
+    "Nome": "Rusoso Vilage - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Rusoso, DISTRITO DE INSINGIRO, Uganda",
+    "Cidade": "Rusoso, DISTRITO DE INSINGIRO, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Rusoso Vilage CENTRAL UG-01-0042 Localização Logradouro: CEP: Cidade: Rusoso, DISTRITO DE INSINGIRO, Uganda Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "UG-01-0022",
+    "Nome": "Trading Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Omukihita, DISTRITO DE MITOOMA, Uganda",
+    "Cidade": "Omukihita, DISTRITO DE MITOOMA, Uganda",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Trading Centre CENTRAL UG-01-0022 Localização Logradouro: CEP: Cidade: Omukihita, DISTRITO DE MITOOMA, Uganda Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Tayebwa George Telefone(s) +256 (78) 740-5372"
+    }
+  }
+]

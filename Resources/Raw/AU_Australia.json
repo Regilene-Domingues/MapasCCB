@@ -1,0 +1,162 @@
+[
+  {
+    "CodigoId": "AU-01-0007",
+    "Nome": "Helensvale - Central",
+    "Logradouro": "31-37 Discovery Drive",
+    "CEP": "QLD 4212",
+    "Cidade": "Gold Coast, QUEENSLAND, Austrália",
+    "Coordenadas": {
+      "lat": -27.915506,
+      "lon": 153.3334938
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Helensvale CENTRAL AU-01-0007 Localização Logradouro: 31-37 Discovery Drive CEP: QLD 4212 Cidade: Gold Coast, QUEENSLAND, Austrália Dias de Culto 1º e 3º Sáb 18:00 Ministério Cooperador Ofício Ministerial Sebastião Arlem Oliveira Silva Telefone(s) +61 () 448 337 993"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0005",
+    "Nome": "Jannali Community Centre",
+    "Logradouro": "15 Jannali Avenue - Entrada pela Mary Street",
+    "CEP": "NSW 2226",
+    "Cidade": "Sydney, NEW SOUTH WALES, Austrália",
+    "Coordenadas": {
+      "lat": -33.9175994,
+      "lon": 151.2312369
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / 10:30 / RJM 1°, 2º, 4º e 5° Dom 10:00"
+      },
+      "Obs": "Localidade Jannali Community Centre AU-01-0005 Localização Logradouro: 15 Jannali Avenue - Entrada pela Mary Street CEP: NSW 2226 Cidade: Sydney, NEW SOUTH WALES, Austrália Complemento: Entrada pela Mary Street Dias de Culto 1º, 2°, 4° e 5º Dom 10:00 - 3º Dom 10:30 (RJM 1°, 2º, 4º e 5° Dom 10:00) Ministério Ancião DIEGO ANTUNES DA SILVA Diácono Weverton Goulart Cooperador de Jovens e Menores Tomás Pagliaroni de Oliveira Telefone(s) +61 () 415 042 177"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0010",
+    "Nome": "Mount Duneed",
+    "Logradouro": "110 Unity Drive",
+    "CEP": "VIC 3217",
+    "Cidade": "Geelong, VICTORIA, Austrália",
+    "Coordenadas": {
+      "lat": -38.2247151,
+      "lon": 144.3272916
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Mount Duneed AU-01-0010 Localização Logradouro: 110 Unity Drive CEP: VIC 3217 Cidade: Geelong, VICTORIA, Austrália Dias de Culto DT Último Dom 15:00 Culto Oficial Domingo - 15:00 Ministério Cooperador Ofício Ministerial Roberto Catena"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0003",
+    "Nome": "Perth - Central",
+    "Logradouro": "Level 1/378 Wellignton Street - Piso Térreo da estação ferroviária Central Perth",
+    "CEP": "WA 6000",
+    "Cidade": "Perth, WESTERN AUSTRALIA, Austrália",
+    "Coordenadas": {
+      "lat": -31.950652,
+      "lon": 115.7978755
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Perth CENTRAL AU-01-0003 Localização Logradouro: Level 1/378 Wellignton Street - Piso Térreo da estação ferroviária Central Perth CEP: WA 6000 Cidade: Perth, WESTERN AUSTRALIA, Austrália Complemento: Piso térreo da estação ferroviária Central Perth Dias de Culto Sáb 19:30 Ministério Cooperador Ofício Ministerial Sérgio Reginaldo Zenatti Filho Cooperador de Jovens e Menores Luis Fernando Palumbro de Oliveira Telefone(s) +61 () 457 240 839"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0001",
+    "Nome": "Preston - Central",
+    "Logradouro": "220 High Street",
+    "CEP": "VIC 3072",
+    "Cidade": "Melbourne, VICTORIA, Austrália",
+    "Coordenadas": {
+      "lat": -37.7736456,
+      "lon": 144.9982831
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00 / 19:30 / RJM 2º, 4° e 5° Sáb 18:00"
+      },
+      "Obs": "Localidade Preston CENTRAL AU-01-0001 Localização Logradouro: 220 High Street CEP: VIC 3072 Cidade: Melbourne, VICTORIA, Austrália Dias de Culto 1°, 2º, 4° e 5° Sáb 18:00 - 3º Sáb 19:30 (RJM 2º, 4° e 5° Sáb 18:00) Ministério Ancião Carlos Augusto Perroni Carlos Augusto Perroni Carlos Augusto Perroni Carlos Augusto Perroni Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli Cooperador Ofício Ministerial Simone Iacono Cooperador de Jovens e Menores Wendeu Marinho da Silva Telefone(s) +61 () 415 042 177"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0008",
+    "Nome": "Saint Peters - Central",
+    "Logradouro": "92 First Avenue",
+    "CEP": "SA 5069",
+    "Cidade": "Adelaide, SOUTH AUSTRALIA, Austrália",
+    "Coordenadas": {
+      "lat": -34.9047617,
+      "lon": 138.6296636
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Saint Peters CENTRAL AU-01-0008 Localização Logradouro: 92 First Avenue CEP: SA 5069 Cidade: Adelaide, SOUTH AUSTRALIA, Austrália Dias de Culto Sáb 18:00 Ministério Ancião ELIO GUGLIELMUCCI Cooperador Ofício Ministerial Luiz Alexandre Barbosa da Silva Telefone(s) +61 () 413 007 018"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0009",
+    "Nome": "Wither - Central",
+    "Logradouro": "95 Hudson Road",
+    "CEP": "WA 6230",
+    "Cidade": "Bunbury, WESTERN AUSTRALIA, Austrália",
+    "Coordenadas": {
+      "lat": -33.3641576,
+      "lon": 115.6330695
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Wither CENTRAL AU-01-0009 Localização Logradouro: 95 Hudson Road CEP: WA 6230 Cidade: Bunbury, WESTERN AUSTRALIA, Austrália Dias de Culto Sex 19:30 Ministério Cooperador Ofício Ministerial Davi Martins Ribeiro Cooperador de Jovens e Menores Richard Marques Correa Telefone(s) +61 (448) 337-993"
+    }
+  },
+  {
+    "CodigoId": "AU-01-0002",
+    "Nome": "Woolloongabba - Central",
+    "Logradouro": "22 Qualtrough Street",
+    "CEP": "QLD 4102",
+    "Cidade": "Brisbane, QUEENSLAND, Austrália",
+    "Coordenadas": {
+      "lat": -27.4916685,
+      "lon": 153.0367999
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Woolloongabba CENTRAL AU-01-0002 Localização Logradouro: 22 Qualtrough Street CEP: QLD 4102 Cidade: Brisbane, QUEENSLAND, Austrália Dias de Culto DM Dom 10:30 (RJM 2º e 4º Sáb 18:00) Culto Oficial Domingo - 10:30 Ministério Ancião DIEGO DAL'MOLIN Diácono Joab Alves do Nascimento Cooperador de Jovens e Menores Anderson Augusto de Carvalho Telefone(s) +61 () 448 337 993"
+    }
+  }
+]

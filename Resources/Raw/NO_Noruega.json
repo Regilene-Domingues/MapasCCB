@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "NO-01-0001",
+    "Nome": "Tofte - Central",
+    "Logradouro": "Fuglebakk 3",
+    "CEP": "3482",
+    "Cidade": "Oslo - Região Metropolitana, AKERSHUS, Noruega",
+    "Coordenadas": {
+      "lat": 59.5633183,
+      "lon": 10.5784588
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00 / RJM Sáb 16:00"
+      },
+      "Obs": "Localidade Tofte CENTRAL NO-01-0001 Localização Logradouro: Fuglebakk 3 CEP: 3482 Cidade: Oslo - Região Metropolitana, AKERSHUS, Noruega Complemento: Fone Suécia: +46 70 325-6201 Dias de Culto Sáb 16:00 (RJM Sáb 16:00) Ministério Ancião Américo Armando dos Santos Medeiros Cooperador Ofício Ministerial Adinan Viana Neto Telefone(s) +47 () 9243-3681"
+    }
+  }
+]

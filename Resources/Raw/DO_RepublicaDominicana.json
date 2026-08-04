@@ -1,0 +1,68 @@
+[
+  {
+    "CodigoId": "DO-01-0004",
+    "Nome": "Arroyo Cano - San Juan de La Maguana - Central",
+    "Logradouro": "Paraje La Calabaza, 85",
+    "CEP": "Cidade: Bohechio, SAN JUAN, República Dominicana",
+    "Cidade": "Bohechio, SAN JUAN, República Dominicana",
+    "Coordenadas": {
+      "lat": 18.9092725,
+      "lon": -71.020838
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Arroyo Cano - San Juan de La Maguana CENTRAL DO-01-0004 Localização Logradouro: Paraje La Calabaza, 85 CEP: Cidade: Bohechio, SAN JUAN, República Dominicana Dias de Culto Dom 15:00 Ministério Telefone(s) +1 (809) 938-8912"
+    }
+  },
+  {
+    "CodigoId": "DO-01-0008",
+    "Nome": "Pica-Piedra - Central",
+    "Logradouro": "Calle 15, casa 31 H",
+    "CEP": "Cidade: La Romana, LA ROMANA, República Dominicana",
+    "Cidade": "La Romana, LA ROMANA, República Dominicana",
+    "Coordenadas": {
+      "lat": 18.4227309,
+      "lon": -68.9663457
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Pica-Piedra CENTRAL DO-01-0008 Localização Logradouro: Calle 15, casa 31 H CEP: Cidade: La Romana, LA ROMANA, República Dominicana Dias de Culto Dom 15:00 - Qua-Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "DO-01-0001",
+    "Nome": "Sector Santa Rosa - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Sabana Grande de Boya, SABANA GRANDE DE BOYA, República Dominicana",
+    "Cidade": "Sabana Grande de Boya, SABANA GRANDE DE BOYA, República Dominicana",
+    "Coordenadas": {
+      "lat": 18.9449489,
+      "lon": -69.8018209
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quinta-feira": "15:00"
+      },
+      "Obs": "Localidade Sector Santa Rosa CENTRAL DO-01-0001 Localização Logradouro: CEP: Cidade: Sabana Grande de Boya, SABANA GRANDE DE BOYA, República Dominicana Dias de Culto Dom-Qui 15:00 Ministério"
+    }
+  }
+]

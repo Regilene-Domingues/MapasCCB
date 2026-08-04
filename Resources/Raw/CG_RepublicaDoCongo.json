@@ -1,0 +1,198 @@
+[
+  {
+    "CodigoId": "CG-01-0001",
+    "Nome": "Bacongo - Central",
+    "Logradouro": "Rue Montaigne, 37",
+    "CEP": "Cidade: Bacongo, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo",
+    "Cidade": "Bacongo, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM 1º Dom 10:00",
+        "Quarta-feira": "16:30"
+      },
+      "Obs": "Localidade Bacongo CENTRAL CG-01-0001 Localização Logradouro: Rue Montaigne, 37 CEP: Cidade: Bacongo, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo Dias de Culto Dom 10:00 - Qua 16:30 (RJM 1º Dom 10:00) Ministério Cooperador Ofício Ministerial Pierre Lembo Esaïe Diandaga Telefone(s) +242 (6) 622-7836 +242 (6) 928-6643"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0004",
+    "Nome": "Centre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Makabana, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Cidade": "Makabana, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Coordenadas": {
+      "lat": -3.4833747,
+      "lon": 12.6067903
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Centre CENTRAL CG-02-0004 Localização Logradouro: CEP: Cidade: Makabana, DEPARTAMENTO DE NIARI, República Do Congo Dias de Culto Dom 10:00 - Qua 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CG-01-0005",
+    "Nome": "Château d'eau - Central",
+    "Logradouro": "Rue Saint Paul, 3",
+    "CEP": "Cidade: Makélékélé, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo",
+    "Cidade": "Makélékélé, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo",
+    "Coordenadas": {
+      "lat": -4.2219023,
+      "lon": 15.2898104
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30 / RJM Dom 08:30",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Château d'eau CENTRAL CG-01-0005 Localização Logradouro: Rue Saint Paul, 3 CEP: Cidade: Makélékélé, DEPARTAMENTO DE BRAZZAVILLE, República Do Congo Dias de Culto Dom 09:30 - Qui 18:00 (RJM Dom 08:30) Ministério Ancião Adalberto Chagas Marques Adalberto Chagas Marques Adalberto Chagas Marques Adalberto Chagas Marques Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Francisco José Nogueira Filho Cooperador Ofício Ministerial Destin Lomami Rufin Wilifrid Louhemba Telefone(s) +242 (6) 931-3416 +242 (6) 803-1498"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0003",
+    "Nome": "Kibangou Poste",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Kibangou, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Cidade": "Kibangou, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Coordenadas": {
+      "lat": -3.4821202,
+      "lon": 12.3177679
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kibangou Poste CG-02-0003 Localização Logradouro: CEP: Cidade: Kibangou, DEPARTAMENTO DE NIARI, República Do Congo Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Jean Claude Mabiala"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0005",
+    "Nome": "Kisanga Mibouba - Central",
+    "Logradouro": "Village Mibouba",
+    "CEP": "Cidade: Missafou, DEPARTAMENTO DE POOL, República Do Congo",
+    "Cidade": "Missafou, DEPARTAMENTO DE POOL, República Do Congo",
+    "Coordenadas": {
+      "lat": -4.2716094,
+      "lon": 14.4872424
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00",
+        "Sábado": "RJM Sáb 18:00"
+      },
+      "Obs": "Localidade Kisanga Mibouba CENTRAL CG-02-0005 Localização Logradouro: Village Mibouba CEP: Cidade: Missafou, DEPARTAMENTO DE POOL, República Do Congo Dias de Culto Dom 10:00 - Qua 18:00 (RJM Sáb 18:00) Ministério Cooperador Ofício Ministerial Job Louhemba"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0006",
+    "Nome": "Louengo",
+    "Logradouro": "Village Louengo",
+    "CEP": "Cidade: Missafou, DEPARTAMENTO DE POOL, República Do Congo",
+    "Cidade": "Missafou, DEPARTAMENTO DE POOL, República Do Congo",
+    "Coordenadas": {
+      "lat": -4.2716094,
+      "lon": 14.4872424
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Louengo CG-02-0006 Localização Logradouro: Village Louengo CEP: Cidade: Missafou, DEPARTAMENTO DE POOL, República Do Congo Dias de Culto Dom 10:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Brice Dilou"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0001",
+    "Nome": "Quartier Bacongo - Central",
+    "Logradouro": "Vers Le Pinaré",
+    "CEP": "Cidade: Dolisie, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Cidade": "Dolisie, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Coordenadas": {
+      "lat": -4.2005398,
+      "lon": 12.6791573
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Quartier Bacongo CENTRAL CG-02-0001 Localização Logradouro: Vers Le Pinaré CEP: Cidade: Dolisie, DEPARTAMENTO DE NIARI, República Do Congo Dias de Culto Dom 10:00 - Qua 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0007",
+    "Nome": "Quartier Tsié-Tsié - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Pointe-noire, DEPARTAMENTO DE POINTE-NOIRE, República Do Congo",
+    "Cidade": "Pointe-noire, DEPARTAMENTO DE POINTE-NOIRE, República Do Congo",
+    "Coordenadas": {
+      "lat": -4.8013888,
+      "lon": 11.8401496
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Quartier Tsié-Tsié CENTRAL CG-02-0007 Localização Logradouro: CEP: Cidade: Pointe-noire, DEPARTAMENTO DE POINTE-NOIRE, República Do Congo Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CG-02-0008",
+    "Nome": "Village Poro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nyanga, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Cidade": "Nyanga, DEPARTAMENTO DE NIARI, República Do Congo",
+    "Coordenadas": {
+      "lat": -2.9142259,
+      "lon": 11.8891986
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Village Poro CENTRAL CG-02-0008 Localização Logradouro: CEP: Cidade: Nyanga, DEPARTAMENTO DE NIARI, República Do Congo Dias de Culto Dom-Qua 19:00 Ministério"
+    }
+  }
+]

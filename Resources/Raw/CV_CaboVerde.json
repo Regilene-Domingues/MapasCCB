@@ -1,0 +1,40 @@
+[
+  {
+    "CodigoId": "CV-01-0002",
+    "Nome": "Ribeirinha - Central",
+    "Logradouro": "Rua atrás da Cadeia Civil de Ribeirinha",
+    "CEP": "Cidade: Mindelo, ILHA DE SÃO VICENTE, Cabo Verde",
+    "Cidade": "Mindelo, ILHA DE SÃO VICENTE, Cabo Verde",
+    "Coordenadas": {
+      "lat": 16.8854038,
+      "lon": -24.9787174
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00"
+      },
+      "Obs": "Localidade Ribeirinha CENTRAL CV-01-0002 Localização Logradouro: Rua atrás da Cadeia Civil de Ribeirinha CEP: Cidade: Mindelo, ILHA DE SÃO VICENTE, Cabo Verde Dias de Culto Dom 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CV-01-0001",
+    "Nome": "Zona Terra Branca - Central",
+    "Logradouro": "Lote 3, Quarteirão 63",
+    "CEP": "Cidade: Praia, ILHA DE SANTIAGO, Cabo Verde",
+    "Cidade": "Praia, ILHA DE SANTIAGO, Cabo Verde",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Zona Terra Branca CENTRAL CV-01-0001 Localização Logradouro: Lote 3, Quarteirão 63 CEP: Cidade: Praia, ILHA DE SANTIAGO, Cabo Verde Dias de Culto Ter-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião DOMINGOS ANASTÁCIO DE OLIVEIRA RAMOS CORREIA Telefone(s) +238 () 261-5499"
+    }
+  }
+]

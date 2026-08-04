@@ -1,0 +1,82 @@
+[
+  {
+    "CodigoId": "CR-01-0001",
+    "Nome": "Central - Central",
+    "Logradouro": "Calle 9, Avenida 22-24",
+    "CEP": "13008-100",
+    "Cidade": "San José, SAN JOSÉ, Costa Rica",
+    "Coordenadas": {
+      "lat": 9.8963838,
+      "lon": -84.0649876
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Central CENTRAL CR-01-0001 Localização Logradouro: Calle 9, Avenida 22-24 CEP: 13008-100 Cidade: San José, SAN JOSÉ, Costa Rica Complemento: Del Liceo de Costa Rica 225 metros al Sur - Fone Brasil (+55 16) 3382-9979 Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Ancião JESUS GERARDO MURILLO DELGADO Diácono Manuel Antonio Ureña Zúñiga Marcos Vinicio Murillo Delgado Telefone(s) +506 () 2282-7892 +506 () 8614-3491 +506 () 2229-2737"
+    }
+  },
+  {
+    "CodigoId": "CR-01-0003",
+    "Nome": "Centro - Central",
+    "Logradouro": "Del MAYCA, 250 metros al Norte",
+    "CEP": "Cidade: Guápiles, LIMÓN, Costa Rica",
+    "Cidade": "Guápiles, LIMÓN, Costa Rica",
+    "Coordenadas": {
+      "lat": 10.2154361,
+      "lon": -83.7913634
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Centro CENTRAL CR-01-0003 Localização Logradouro: Del MAYCA, 250 metros al Norte CEP: Cidade: Guápiles, LIMÓN, Costa Rica Dias de Culto Sáb 15:00 Ministério Cooperador Ofício Ministerial Juan José Álvarez Victores Telefone(s) +506 () 8802-6314"
+    }
+  },
+  {
+    "CodigoId": "CR-01-0006",
+    "Nome": "Guatuso - Central",
+    "Logradouro": "Del Parque de San Rafael de Guatuso, 2,5 Km Noroeste (Moravia Verde). Carretera a Upala",
+    "CEP": "Cidade: Guatuso, ALAJUELA, Costa Rica",
+    "Cidade": "Guatuso, ALAJUELA, Costa Rica",
+    "Coordenadas": {
+      "lat": 10.7035523,
+      "lon": -84.8407651
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Guatuso CENTRAL CR-01-0006 Localização Logradouro: Del Parque de San Rafael de Guatuso, 2,5 Km Noroeste (Moravia Verde). Carretera a Upala CEP: Cidade: Guatuso, ALAJUELA, Costa Rica Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Ancião ALCIBÍADES JIMÉNEZ GARCÍA Telefone(s) +506 () 8890-5787 +506 () 8394-5088"
+    }
+  },
+  {
+    "CodigoId": "CR-01-0002",
+    "Nome": "Santa Ana",
+    "Logradouro": "Del MacDonalds de Río Uruca, 350 metros al Sur, Calle Paso Machete",
+    "CEP": "Cidade: San José, SAN JOSÉ, Costa Rica",
+    "Cidade": "San José, SAN JOSÉ, Costa Rica",
+    "Coordenadas": {
+      "lat": 9.9327707,
+      "lon": -84.0796144
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Santa Ana CR-01-0002 Localização Logradouro: Del MacDonalds de Río Uruca, 350 metros al Sur, Calle Paso Machete CEP: Cidade: San José, SAN JOSÉ, Costa Rica Dias de Culto Qua 19:00 Ministério Telefone(s) +506 () 2282-7892"
+    }
+  }
+]

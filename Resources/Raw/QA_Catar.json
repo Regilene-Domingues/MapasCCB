@@ -1,0 +1,24 @@
+[
+  {
+    "CodigoId": "QA-01-0001",
+    "Nome": "Anglican Centre - Central",
+    "Logradouro": "6G7F+29G - Emmaus C2 hall",
+    "CEP": "Cidade: Doha, AL-DAWHA, Catar (ee)",
+    "Cidade": "Doha, AL-DAWHA, Catar (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "17:00 / RJM Sáb 17:00"
+      },
+      "Obs": "Localidade Anglican Centre CENTRAL QA-01-0001 Localização Logradouro: 6G7F+29G - Emmaus C2 hall CEP: Cidade: Doha, AL-DAWHA, Catar (ee) Complemento: Telefonar para confirmação de cultos - Fones Brasil (+55 11 99166 7511 e +55 11 97475 2334) Dias de Culto 1º e 3º Qua 19:00 - Sáb 17:00 (RJM Sáb 17:00) Ministério Telefone(s) +974 () 6672-7459"
+    }
+  }
+]

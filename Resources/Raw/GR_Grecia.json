@@ -1,0 +1,68 @@
+[
+  {
+    "CodigoId": "GR-01-0002",
+    "Nome": "Analipsi - Central",
+    "Logradouro": "Rua Athinon, 114 B",
+    "CEP": "85100",
+    "Cidade": "Rhodes, GRÉCIA, Grécia",
+    "Coordenadas": {
+      "lat": 36.4258437,
+      "lon": 28.2181359
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Analipsi CENTRAL GR-01-0002 Localização Logradouro: Rua Athinon, 114 B CEP: 85100 Cidade: Rhodes, GRÉCIA, Grécia Dias de Culto Dom-Qua 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial João Chacon Telefone(s) +30 (22) 4103-1159"
+    }
+  },
+  {
+    "CodigoId": "GR-01-0003",
+    "Nome": "Corinto - Central",
+    "Logradouro": "Odos Damaskinou, 66-68",
+    "CEP": "TK 20100",
+    "Cidade": "Corinto, GRÉCIA, Grécia",
+    "Coordenadas": {
+      "lat": 37.9385413,
+      "lon": 22.9273768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Corinto CENTRAL GR-01-0003 Localização Logradouro: Odos Damaskinou, 66-68 CEP: TK 20100 Cidade: Corinto, GRÉCIA, Grécia Dias de Culto Dom 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GR-01-0001",
+    "Nome": "Paleó Fáliro - Central",
+    "Logradouro": "Rua Eantos, 97",
+    "CEP": "TK 17563",
+    "Cidade": "Athenas, GRÉCIA, Grécia",
+    "Coordenadas": {
+      "lat": 37.4554802,
+      "lon": 22.4203967
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00 / RJM Sáb 19:00"
+      },
+      "Obs": "Localidade Paleó Fáliro CENTRAL GR-01-0001 Localização Logradouro: Rua Eantos, 97 CEP: TK 17563 Cidade: Athenas, GRÉCIA, Grécia Dias de Culto Dom 19:00 - Qua 19:30 - Sáb 19:00 (RJM Sáb 19:00) Ministério Ancião STELIOS ZANAKIS Cooperador Ofício Ministerial Nikolaos Dimitrios Koskolos Cooperador de Jovens e Menores Anderson Abreu de Souza Telefone(s) +30 (210) 493-6034 +30 (69) 7969-3863"
+    }
+  }
+]

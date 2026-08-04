@@ -1,0 +1,870 @@
+[
+  {
+    "CodigoId": "IT-01-0012",
+    "Nome": "Altedo - Central",
+    "Logradouro": "Via Chiavicone, 12",
+    "CEP": "40051",
+    "Cidade": "Altedo (bologna), EMILIA ROMAGNA, Itália",
+    "Coordenadas": {
+      "lat": 44.6647943,
+      "lon": 11.4867107
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Sábado": "19:00",
+        "Domingo": "RJM 2º, 3º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade Altedo CENTRAL IT-01-0012 Localização Logradouro: Via Chiavicone, 12 CEP: 40051 Cidade: Altedo (bologna), EMILIA ROMAGNA, Itália Dias de Culto Qui 19:30 - Sáb 19:00 (RJM 2º, 3º e 4º Dom 10:30) Ministério Ancião GIOVANNI SERRINO Cooperador Ofício Ministerial Matheus Tudela de Sá Cooperador de Jovens e Menores Daniel Boschetti Junior Telefone(s) +39 (328) 829-4709 +39 (338) 627 3431"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0031",
+    "Nome": "Aosta - Central",
+    "Logradouro": "Via Monte Emilius, 2",
+    "CEP": "11100",
+    "Cidade": "Aosta, VALLE D´AOSTA, Itália",
+    "Coordenadas": {
+      "lat": 45.7391403,
+      "lon": 7.3299209
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM último Dom 10:00"
+      },
+      "Obs": "Localidade Aosta CENTRAL IT-01-0031 Localização Logradouro: Via Monte Emilius, 2 CEP: 11100 Cidade: Aosta, VALLE D´AOSTA, Itália Dias de Culto Qui 20:00 - Sáb 19:00 (RJM último Dom 10:00) Ministério Cooperador Ofício Ministerial Antonio Barbosa Diácono Nilson Carvalho de Cristo Telefone(s) +39 (349) 176-2475"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0063",
+    "Nome": "Barberino Val D´Elsa",
+    "Logradouro": "Via Cristoforo Colombo, 1 - Primo Piano",
+    "CEP": "50028",
+    "Cidade": "Barberino Val D´elsa (siena), TOSCANA, Itália",
+    "Coordenadas": {
+      "lat": 43.5586531,
+      "lon": 11.1754196
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Barberino Val D´Elsa IT-01-0063 Localização Logradouro: Via Cristoforo Colombo, 1 - Primo Piano CEP: 50028 Cidade: Barberino Val D´elsa (siena), TOSCANA, Itália Dias de Culto 1º e 3º Sáb 19:00 Ministério Cooperador Ofício Ministerial Robert Ribeiro Telefone(s) +39 (388) 467-1177"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0011",
+    "Nome": "Baronissi - Central",
+    "Logradouro": "Via San Severino Tommaso, 2",
+    "CEP": "84081",
+    "Cidade": "Baronissi (salerno), CAMPANIA, Itália",
+    "Coordenadas": {
+      "lat": 40.746441,
+      "lon": 14.7772326
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM 2º, 3º e 4º Dom 10:30",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Baronissi CENTRAL IT-01-0011 Localização Logradouro: Via San Severino Tommaso, 2 CEP: 84081 Cidade: Baronissi (salerno), CAMPANIA, Itália Dias de Culto Dom 18:30 - Qua 20:00 (RJM 2º, 3º e 4º Dom 10:30) Ministério Cooperador Ofício Ministerial Gerardo Signorelli Alexsandro Lara Dias Cooperador de Jovens e Menores Daniel Elias dos Santos Telefone(s) +39 (347) 587-5564"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0022",
+    "Nome": "Beinette - Central",
+    "Logradouro": "Via del Pascale, 2",
+    "CEP": "12081",
+    "Cidade": "Beinette (mondovi), PIEMONTE, Itália",
+    "Coordenadas": {
+      "lat": 44.4004027,
+      "lon": 7.8059379
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade Beinette CENTRAL IT-01-0022 Localização Logradouro: Via del Pascale, 2 CEP: 12081 Cidade: Beinette (mondovi), PIEMONTE, Itália Dias de Culto Ter 20:00 - Sáb 19:00 (RJM Dom 10:30) Ministério Ancião NELSON GONÇALVES FERNANDO Cooperador Ofício Ministerial Wallace Aparecido da Silva Cooperador de Jovens e Menores Gesley Augusto Campelo Telefone(s) +39 (392) 634-0789"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0002",
+    "Nome": "Belvedere Marittimo - Central",
+    "Logradouro": "Via Antonio Pepe",
+    "CEP": "87021",
+    "Cidade": "Belvedere Marittimo, CALABRIA, Itália",
+    "Coordenadas": {
+      "lat": 39.6288208,
+      "lon": 15.8515435
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quinta-feira": "19:30/20:00 (Inverno/verão",
+        "Sábado": "RJM Sáb 18:00/18:30"
+      },
+      "Obs": "Localidade Belvedere Marittimo CENTRAL IT-01-0002 Localização Logradouro: Via Antonio Pepe CEP: 87021 Cidade: Belvedere Marittimo, CALABRIA, Itália Dias de Culto Dom 18:30 - Qui 19:30/20:00 (Inverno/verão) (RJM Sáb 18:00/18:30) Ministério Ancião FRANCESCO D'ALIA PIETRO D'ALIA Cooperador Ofício Ministerial Eliseo Barone Diácono Ciriaco Sangineto Giovanni Sangineto Silvano Impieri Giacobbe Filiberto Pasquale Mazzei Cooperador de Jovens e Menores Rogério Martins Sales Telefone(s) +39 () 0945 84-196"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0058",
+    "Nome": "Biella - Central",
+    "Logradouro": "Viale Macallé, 10",
+    "CEP": "13900",
+    "Cidade": "Biella, PIEMONTE, Itália",
+    "Coordenadas": {
+      "lat": 45.5552028,
+      "lon": 8.0608396
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º e 3º Dom 15:30",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Biella CENTRAL IT-01-0058 Localização Logradouro: Viale Macallé, 10 CEP: 13900 Cidade: Biella, PIEMONTE, Itália Dias de Culto Dom 18:00 - Sex 20:00 (RJM 1º e 3º Dom 15:30) Ministério Cooperador Ofício Ministerial José Gonçalves Fane Cooperador de Jovens e Menores Elieder Glauber Correa Telefone(s) +39 (371) 460-4610"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0042",
+    "Nome": "Busto Arsizio - Central",
+    "Logradouro": "Vicolo Carpi, 5",
+    "CEP": "21052",
+    "Cidade": "Busto Arsizio, LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.6042958,
+      "lon": 8.8418963
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade Busto Arsizio CENTRAL IT-01-0042 Localização Logradouro: Vicolo Carpi, 5 CEP: 21052 Cidade: Busto Arsizio, LOMBARDIA, Itália Dias de Culto Qui 20:00 - Sáb 19:00 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Marcus Vinicius Leite da Silva Diácono Gide José Fernandes Cooperador de Jovens e Menores Vagner Estevão Macedo Telefone(s) +39 (329) 118-4387"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0055",
+    "Nome": "Cerenzia - Central",
+    "Logradouro": "Strada 107 - Km 98,5 - Palazzina C4",
+    "CEP": "88833",
+    "Cidade": "Cerenzia, CALABRIA, Itália",
+    "Coordenadas": {
+      "lat": 39.243168,
+      "lon": 16.7936248
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Cerenzia CENTRAL IT-01-0055 Localização Logradouro: Strada 107 - Km 98,5 - Palazzina C4 CEP: 88833 Cidade: Cerenzia, CALABRIA, Itália Dias de Culto Dom 10:30 Ministério Ancião ELISEO SANGINETO Cooperador Ofício Ministerial Luca Barone Telefone(s) +39 (348) 084-1255"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0007",
+    "Nome": "Chorio - Central",
+    "Logradouro": "Via Ravazzana, 42",
+    "CEP": "89060",
+    "Cidade": "Chorio, CALABRIA, Itália",
+    "Coordenadas": {
+      "lat": 37.9855645,
+      "lon": 15.8125628
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Chorio CENTRAL IT-01-0007 Localização Logradouro: Via Ravazzana, 42 CEP: 89060 Cidade: Chorio, CALABRIA, Itália Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Domenico Candido Telefone(s) +39 (348) 892-1880"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0014",
+    "Nome": "Codogno - Central",
+    "Logradouro": "Via Terracini, 1",
+    "CEP": "26845",
+    "Cidade": "Codogno, LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.1555555,
+      "lon": 9.6855174
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM 2º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade Codogno CENTRAL IT-01-0014 Localização Logradouro: Via Terracini, 1 CEP: 26845 Cidade: Codogno, LOMBARDIA, Itália Dias de Culto Ter 20:00 - Sáb 19:00 (RJM 2º e 4º Dom 10:30) Ministério Cooperador Ofício Ministerial Fabio Riccio Diácono Leocir Fornaza Cooperador de Jovens e Menores Danilo Zanesco da Silva Bortolaia Telefone(s) +39 (320) 367-2553"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0013",
+    "Nome": "Collecchio - Central",
+    "Logradouro": "Via 8 de Marzo",
+    "CEP": "43044",
+    "Cidade": "Collecchio (parma), EMILIA ROMAGNA, Itália",
+    "Coordenadas": {
+      "lat": 44.7630884,
+      "lon": 10.2381818
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00",
+        "Domingo": "RJM 1º, 2º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Collecchio CENTRAL IT-01-0013 Localização Logradouro: Via 8 de Marzo CEP: 43044 Cidade: Collecchio (parma), EMILIA ROMAGNA, Itália Dias de Culto Qua 19:30 - Sáb 19:00 (RJM 1º, 2º e 3º Dom 10:30) Ministério Ancião EVANDRO LUÍS ROBERTO Cooperador Ofício Ministerial Marcelo Ruiz de Andrade Diácono Silvério Pena Cooperador de Jovens e Menores Eduardo Roedel da Silva Telefone(s) +39 (320) 367-2553"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0035",
+    "Nome": "Dueville - Central",
+    "Logradouro": "Via Arrigo Boito, 18",
+    "CEP": "36031",
+    "Cidade": "Dueville, VENETO, Itália",
+    "Coordenadas": {
+      "lat": 45.6270723,
+      "lon": 11.5668172
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Dueville CENTRAL IT-01-0035 Localização Logradouro: Via Arrigo Boito, 18 CEP: 36031 Cidade: Dueville, VENETO, Itália Dias de Culto Qua-Sáb 19:30 (RJM 1º e 3º Dom 10:30) Ministério Ancião GENIVAL RIBEIRO Cooperador Ofício Ministerial Jefferson Ribeiro Diácono Rafael Motta Fernandes Cooperador de Jovens e Menores Carlos Eduardo Bassani Telefone(s) +39 (329) 315-6065"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0066",
+    "Nome": "Ferrara - Central",
+    "Logradouro": "Via Renata Viganó, 1",
+    "CEP": "44124",
+    "Cidade": "Ferrara, EMILIA ROMAGNA, Itália",
+    "Coordenadas": {
+      "lat": 44.8139202,
+      "lon": 11.6277491
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Ferrara CENTRAL IT-01-0066 Localização Logradouro: Via Renata Viganó, 1 CEP: 44124 Cidade: Ferrara, EMILIA ROMAGNA, Itália Dias de Culto Dom 18:00 - Qua 20:00 Ministério Cooperador Ofício Ministerial Adriano Mascolo Telefone(s) +39 (331) 946-1383"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0030",
+    "Nome": "Firenze - Central",
+    "Logradouro": "Via Valdichiana, 54",
+    "CEP": "50127",
+    "Cidade": "Firenze, TOSCANA, Itália",
+    "Coordenadas": {
+      "lat": 43.7964755,
+      "lon": 11.2166268
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 18:00"
+      },
+      "Obs": "Localidade Firenze CENTRAL IT-01-0030 Localização Logradouro: Via Valdichiana, 54 CEP: 50127 Cidade: Firenze, TOSCANA, Itália Dias de Culto 1º e 3º Dom 18:00 (RJM 2º e 4º Dom 18:00) Ministério Cooperador Ofício Ministerial Elioenai da Silva Soares Cooperador de Jovens e Menores Briam Gallai Telefone(s) +39 (391) 455-8191"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0067",
+    "Nome": "Frosinone - Central",
+    "Logradouro": "Via Fedele Calvosa, 62",
+    "CEP": "03100",
+    "Cidade": "Frosinone, LAZIO, Itália",
+    "Coordenadas": {
+      "lat": 41.6410131,
+      "lon": 13.3271008
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Frosinone CENTRAL IT-01-0067 Localização Logradouro: Via Fedele Calvosa, 62 CEP: 03100 Cidade: Frosinone, LAZIO, Itália Dias de Culto SN Sáb 19:30 Culto Oficial Sábado - 19:30 - it_IT Ministério Telefone(s) +39 (329) 626-8223"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0017",
+    "Nome": "Genova - Central",
+    "Logradouro": "Via Germano Jori, 189 R",
+    "CEP": "16 159",
+    "Cidade": "Genova, LIGURIA, Itália",
+    "Coordenadas": {
+      "lat": 44.4295372,
+      "lon": 8.8927462
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Genova CENTRAL IT-01-0017 Localização Logradouro: Via Germano Jori, 189 R CEP: 16 159 Cidade: Genova, LIGURIA, Itália Dias de Culto 2º e último Dom 16:00 Ministério Cooperador Ofício Ministerial Carlos Edison Espinosa Sarango Telefone(s) +39 (340) 529-3121"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0062",
+    "Nome": "Guardia Piemontese - Central",
+    "Logradouro": "SS 18 - Tirrena Inferiore, 271",
+    "CEP": "87020",
+    "Cidade": "Guardia Piemontese, CALABRIA, Itália",
+    "Coordenadas": {
+      "lat": 39.4713002,
+      "lon": 15.9795034
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Guardia Piemontese CENTRAL IT-01-0062 Localização Logradouro: SS 18 - Tirrena Inferiore, 271 CEP: 87020 Cidade: Guardia Piemontese, CALABRIA, Itália Complemento: Hotel Zilema Dias de Culto 2º e 4º Dom 10:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0060",
+    "Nome": "Inverigo - Central",
+    "Logradouro": "Via Roma, 91",
+    "CEP": "22044",
+    "Cidade": "Inverigo, LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.7349007,
+      "lon": 9.2069665
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM 2º Dom 10:30"
+      },
+      "Obs": "Localidade Inverigo CENTRAL IT-01-0060 Localização Logradouro: Via Roma, 91 CEP: 22044 Cidade: Inverigo, LOMBARDIA, Itália Dias de Culto 1º e 4º Dom 10:30 (RJM 2º Dom 10:30) Ministério Cooperador Ofício Ministerial Paulo Sérgio Destefani Cooperador de Jovens e Menores Leonardo Gabriel Francis Lee de Oliveira Zanon Telefone(s) +39 (328) 972-7915"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0009",
+    "Nome": "Lioni - Central",
+    "Logradouro": "Via Grosseto",
+    "CEP": "83047",
+    "Cidade": "Lioni, CAMPANIA, Itália",
+    "Coordenadas": {
+      "lat": 40.8769184,
+      "lon": 15.1943227
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM 1º Dom 18:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Lioni CENTRAL IT-01-0009 Localização Logradouro: Via Grosseto CEP: 83047 Cidade: Lioni, CAMPANIA, Itália Dias de Culto Dom 10:30 - Qua 19:30 (RJM 1º Dom 18:00) Ministério Ancião PIETRO SORIANO Diácono Pietro Armando Casale Cooperador de Jovens e Menores Sidnei Moretti da Luz Telefone(s) +39 (339) 319-6913"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0003",
+    "Nome": "Malafarina",
+    "Logradouro": "Contrada Malafarina, 61",
+    "CEP": "87021",
+    "Cidade": "Belvedere Marittimo, CALABRIA, Itália",
+    "Coordenadas": {
+      "lat": 39.6288208,
+      "lon": 15.8515435
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00"
+      },
+      "Obs": "Localidade Malafarina IT-01-0003 Localização Logradouro: Contrada Malafarina, 61 CEP: 87021 Cidade: Belvedere Marittimo, CALABRIA, Itália Dias de Culto Ter 20:00 Ministério Cooperador Ofício Ministerial Giovanni D'alia Telefone(s) +39 () 0945 84-196"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0061",
+    "Nome": "Palermo",
+    "Logradouro": "Via Fichi D'India, 45/b",
+    "CEP": "90124",
+    "Cidade": "Palermo, SICILIA, Itália",
+    "Coordenadas": {
+      "lat": 38.0953564,
+      "lon": 13.369357
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Palermo IT-01-0061 Localização Logradouro: Via Fichi D'India, 45/b CEP: 90124 Cidade: Palermo, SICILIA, Itália Dias de Culto DM Dom 10:30 Culto Oficial Domingo - 10:30 - it_IT Ministério Cooperador Ofício Ministerial Rodrigo Batista Bergamo Telefone(s) +39 (335) 785-6851"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0020",
+    "Nome": "Petrella Tifernina - Central",
+    "Logradouro": "Via Corso Vittorio Emanuele III, 12 C",
+    "CEP": "86024",
+    "Cidade": "Campobasso, MOLISE, Itália",
+    "Coordenadas": {
+      "lat": 41.6920713,
+      "lon": 14.6976033
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Petrella Tifernina CENTRAL IT-01-0020 Localização Logradouro: Via Corso Vittorio Emanuele III, 12 C CEP: 86024 Cidade: Campobasso, MOLISE, Itália Dias de Culto 1º Dom 10:30 Ministério Cooperador Ofício Ministerial Erico Henrique Basso Telefone(s) +39 (392) 820-7563"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0045",
+    "Nome": "Piacenza - Central",
+    "Logradouro": "Via Cornélio Musso, 5",
+    "CEP": "29122",
+    "Cidade": "Piacenza, EMILIA ROMAGNA, Itália",
+    "Coordenadas": {
+      "lat": 45.0380838,
+      "lon": 9.7204627
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Piacenza CENTRAL IT-01-0045 Localização Logradouro: Via Cornélio Musso, 5 CEP: 29122 Cidade: Piacenza, EMILIA ROMAGNA, Itália Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Davide Bonanno Telefone(s) +39 (328) 203-2434 +39 (320) 367-2553"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0023",
+    "Nome": "Pianezza - Central",
+    "Logradouro": "Via Druento, 131",
+    "CEP": "10044",
+    "Cidade": "Pianezza (torino), PIEMONTE, Itália",
+    "Coordenadas": {
+      "lat": 45.1210825,
+      "lon": 7.5618471
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 10:30",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Pianezza CENTRAL IT-01-0023 Localização Logradouro: Via Druento, 131 CEP: 10044 Cidade: Pianezza (torino), PIEMONTE, Itália Dias de Culto Dom 18:00 - Qua 20:00 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Giuseppe Caputo Diácono Gabriel Tebaldi Santos Cooperador de Jovens e Menores Salvatore Daniele Spatafora Telefone(s) +39 (392) 634-0789"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0050",
+    "Nome": "Portoferraio - Central",
+    "Logradouro": "Via Teseo Tesei, 51",
+    "CEP": "57033",
+    "Cidade": "Portoferraio (isola D`elba), TOSCANA, Itália",
+    "Coordenadas": {
+      "lat": 43.8116955,
+      "lon": 10.6685824
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Portoferraio CENTRAL IT-01-0050 Localização Logradouro: Via Teseo Tesei, 51 CEP: 57033 Cidade: Portoferraio (isola D`elba), TOSCANA, Itália Dias de Culto Dom 10:30 Ministério Cooperador Ofício Ministerial Enrico Trombini Telefone(s) +39 (377) 596-4361"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0038",
+    "Nome": "Ragusa - Central",
+    "Logradouro": "Contrada Pennino del Monaco",
+    "CEP": "97100",
+    "Cidade": "Ragusa, SICILIA, Itália",
+    "Coordenadas": {
+      "lat": 36.9224622,
+      "lon": 14.7272417
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 11:00"
+      },
+      "Obs": "Localidade Ragusa CENTRAL IT-01-0038 Localização Logradouro: Contrada Pennino del Monaco CEP: 97100 Cidade: Ragusa, SICILIA, Itália Dias de Culto Qua 20:00 - Sáb 19:30 (RJM Dom 11:00) Ministério Ancião LUIZ CLÁUDIO DE CAMPOS Diácono Salvatore Iacono Natan Beri Gois Rodrigues Cooperador de Jovens e Menores Kauan Bueno de Campos Telefone(s) +39 (329) 202-4677"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0015",
+    "Nome": "Roma - Central",
+    "Logradouro": "Via Gian Bistolfi, 66",
+    "CEP": "00100",
+    "Cidade": "Roma, LAZIO, Itália",
+    "Coordenadas": {
+      "lat": 41.9142198,
+      "lon": 12.5471851
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 / RJM último Dom 09:30",
+        "Quinta-feira": "20:00"
+      },
+      "Obs": "Localidade Roma CENTRAL IT-01-0015 Localização Logradouro: Via Gian Bistolfi, 66 CEP: 00100 Cidade: Roma, LAZIO, Itália Dias de Culto Dom 11:00 - Qui 20:00 (RJM último Dom 09:30) Ministério Ancião DANIEL ROSATELLA Cooperador Ofício Ministerial Laudionor Barbosa de Araújo Cooperador de Jovens e Menores Zenildo Barbosa de Araújo Telefone(s) +39 (329) 626-8223"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0059",
+    "Nome": "Roncade - Central",
+    "Logradouro": "Via Cà Morelli, 10B",
+    "CEP": "31056",
+    "Cidade": "Roncade, VENETO, Itália",
+    "Coordenadas": {
+      "lat": 45.6347857,
+      "lon": 12.373345
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 10:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Roncade CENTRAL IT-01-0059 Localização Logradouro: Via Cà Morelli, 10B CEP: 31056 Cidade: Roncade, VENETO, Itália Dias de Culto Dom 19:00 - Qui 19:30 (RJM 2º e 4º Dom 10:30) Ministério Cooperador Ofício Ministerial Luiz Fernando Benichel Cooperador de Jovens e Menores Tiago Roberto dos Santos Telefone(s) +39 (351) 760-5558"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0049",
+    "Nome": "Roseto Degli Abruzzi - Central",
+    "Logradouro": "Localitá Piana Grande, 5",
+    "CEP": "64026",
+    "Cidade": "Roseto Degli Abruzzi, ABRUZZO, Itália",
+    "Coordenadas": {
+      "lat": 42.6727259,
+      "lon": 14.0104839
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Roseto Degli Abruzzi CENTRAL IT-01-0049 Localização Logradouro: Localitá Piana Grande, 5 CEP: 64026 Cidade: Roseto Degli Abruzzi, ABRUZZO, Itália Dias de Culto Sex 20:00 (RJM 1º e 3º Dom 10:30) Ministério Cooperador Ofício Ministerial Angel Tavella Gonçalves Telefone(s) +39 (392) 820-7563"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0018",
+    "Nome": "San Giorgio Bigarello - Central",
+    "Logradouro": "Via della Libertà, 10",
+    "CEP": "46051",
+    "Cidade": "San Giorgio Bigarello (mantova), LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.159714,
+      "lon": 10.8405911
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sexta-feira": "19:30",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade San Giorgio Bigarello CENTRAL IT-01-0018 Localização Logradouro: Via della Libertà, 10 CEP: 46051 Cidade: San Giorgio Bigarello (mantova), LOMBARDIA, Itália Dias de Culto DN 4N 6N (RJM-DM) Dom 18:30 - Qua 20:00 - Sex 19:30 Reunião de Jovens e Menores Domingo - 10:30 - it_IT Culto Oficial Domingo - 18:30 - it_IT Quarta-feira - 20:00 - it_IT Sexta-feira - 19:30 - it_IT Ministério Ancião RAFAEL MALENTAQUI DA SILVA Cooperador Ofício Ministerial Luiz José da Silva Sobrinho Diácono Elias de Souza Lemos Gianfranco Barone Cleber Luciano Catarin Cooperador de Jovens e Menores Roberto Barone Telefone(s) +39 (320) 899-1473"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0019",
+    "Nome": "Sesto San Giovanni - Central",
+    "Logradouro": "Via Giorgio Enrico Falck, 5",
+    "CEP": "20099",
+    "Cidade": "Sesto San Giovanni (milano), LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.5371852,
+      "lon": 9.2380243
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Sesto San Giovanni CENTRAL IT-01-0019 Localização Logradouro: Via Giorgio Enrico Falck, 5 CEP: 20099 Cidade: Sesto San Giovanni (milano), LOMBARDIA, Itália Dias de Culto Dom 18:00 - Qua 20:00 - Sáb 19:00 (RJM 1º, 3º, 4º e 5º Dom 15:30) Ministério Ancião AENES DOMINGOS VIEIRA Cooperador Ofício Ministerial Joel Pontes de Aguiar Cooperador de Jovens e Menores Jefter Alaor Silva Telefone(s) +39 (347) 717-9207 +39 (327) 246-7783"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0021",
+    "Nome": "Spinetta Marengo - Central",
+    "Logradouro": "Via Tortona, 52",
+    "CEP": "15047",
+    "Cidade": "Spinetta Marengo (alessandria), PIEMONTE, Itália",
+    "Coordenadas": {
+      "lat": 44.8826977,
+      "lon": 8.6953257
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 15:30",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Spinetta Marengo CENTRAL IT-01-0021 Localização Logradouro: Via Tortona, 52 CEP: 15047 Cidade: Spinetta Marengo (alessandria), PIEMONTE, Itália Dias de Culto Dom 18:00 - Sex 20:00 (RJM 2º e 4º Dom 15:30) Ministério Cooperador Ofício Ministerial Isaias Manzano de Oliveira Diácono Alirio Cleison Franco Bezerra Cooperador de Jovens e Menores Carmelo Sorce Telefone(s) +39 (392) 634-0789"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0001",
+    "Nome": "Spoltore - Central",
+    "Logradouro": "Via Italia, 131",
+    "CEP": "65010",
+    "Cidade": "Spoltore (pescara), ABRUZZO, Itália",
+    "Coordenadas": {
+      "lat": 42.4591139,
+      "lon": 14.1815001
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM 2º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade Spoltore CENTRAL IT-01-0001 Localização Logradouro: Via Italia, 131 CEP: 65010 Cidade: Spoltore (pescara), ABRUZZO, Itália Dias de Culto Qua-Sáb 19:30 (RJM 2º e 4º Dom 10:30) Ministério Ancião DOMENICO CRUPI FIGLIO Cooperador Ofício Ministerial Raffaele Parete Cooperador de Jovens e Menores Vitor Momesso Lopes de Carvalho Telefone(s) +39 (389) 996 -8493"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0041",
+    "Nome": "Statte - Central",
+    "Logradouro": "Via Giuseppe Baini, 10",
+    "CEP": "74010",
+    "Cidade": "Statte (taranto), PUGLIA, Itália",
+    "Coordenadas": {
+      "lat": 40.5641974,
+      "lon": 17.2344227
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade Statte CENTRAL IT-01-0041 Localização Logradouro: Via Giuseppe Baini, 10 CEP: 74010 Cidade: Statte (taranto), PUGLIA, Itália Dias de Culto Sáb 18:30 Ministério Cooperador Ofício Ministerial Marcos Antônio Monteiro Telefone(s) +39 (389) 512-1202"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0048",
+    "Nome": "Torre Boldone - Central",
+    "Logradouro": "Via Largo delle Industrie, 21",
+    "CEP": "24020",
+    "Cidade": "Torre Boldone (bergamo), LOMBARDIA, Itália",
+    "Coordenadas": {
+      "lat": 45.7223187,
+      "lon": 9.7007579
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade Torre Boldone CENTRAL IT-01-0048 Localização Logradouro: Via Largo delle Industrie, 21 CEP: 24020 Cidade: Torre Boldone (bergamo), LOMBARDIA, Itália Dias de Culto Ter 19:30 - Sáb 19:00 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Rodrigo Aguiar Santos Diácono Valter Rodrigues Leite Cooperador de Jovens e Menores Eliel Guedes Pinheiro Telefone(s) +39 (370) 310-3921"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0068",
+    "Nome": "Trento - Central",
+    "Logradouro": "Via Verruca, 1",
+    "CEP": "38122",
+    "Cidade": "Trento, TRENTINO - ALTO ADIGE, Itália",
+    "Coordenadas": {
+      "lat": 46.0702621,
+      "lon": 11.11345
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Trento CENTRAL IT-01-0068 Localização Logradouro: Via Verruca, 1 CEP: 38122 Cidade: Trento, TRENTINO - ALTO ADIGE, Itália Dias de Culto 3º Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0010",
+    "Nome": "Trentola Ducenta - Central",
+    "Logradouro": "Secondo Vico Volpe, 2 A",
+    "CEP": "81038",
+    "Cidade": "Trentola Ducenta (aversa), CAMPANIA, Itália",
+    "Coordenadas": {
+      "lat": 40.9705606,
+      "lon": 14.1753357
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Trentola Ducenta CENTRAL IT-01-0010 Localização Logradouro: Secondo Vico Volpe, 2 A CEP: 81038 Cidade: Trentola Ducenta (aversa), CAMPANIA, Itália Dias de Culto Qui 20:00 - 1º e 3º Sáb 19:00 Ministério Cooperador Ofício Ministerial Adelmo Fante Michele Bove Telefone(s) +39 (348) 090-8197"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0065",
+    "Nome": "Trieste",
+    "Logradouro": "Via Giovanni Pascoli, 31",
+    "CEP": "34141",
+    "Cidade": "Trieste, FRIULI VENEZIA GIULIA, Itália",
+    "Coordenadas": {
+      "lat": 45.6469455,
+      "lon": 13.7843493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Trieste IT-01-0065 Localização Logradouro: Via Giovanni Pascoli, 31 CEP: 34141 Cidade: Trieste, FRIULI VENEZIA GIULIA, Itália Dias de Culto 1º Dom 10:00 Ministério Cooperador Ofício Ministerial Esteban Gabriel Alayo Telefone(s) +39 (351) 760-5558"
+    }
+  },
+  {
+    "CodigoId": "IT-01-0051",
+    "Nome": "Téramo - Central",
+    "Logradouro": "Bivio Nepezzano, 1",
+    "CEP": "64100",
+    "Cidade": "Téramo, ABRUZZO, Itália",
+    "Coordenadas": {
+      "lat": 42.6664314,
+      "lon": 13.7187361
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Téramo CENTRAL IT-01-0051 Localização Logradouro: Bivio Nepezzano, 1 CEP: 64100 Cidade: Téramo, ABRUZZO, Itália Dias de Culto DN 3N Dom 18:30 - Ter 20:00 Culto Oficial Domingo - 18:30 - it_IT Terça-feira - 20:00 - it_IT Ministério Ancião DOMENICO CRUPI NETO Cooperador Ofício Ministerial Marco Silverj Diácono Luigi Crupi Simone Taraschi Telefone(s) +39 (392) 820-7563"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "CodigoId": "BW-01-0002",
+    "Nome": "Mahalapye - Central",
+    "Logradouro": "Plot 3268",
+    "CEP": "Cidade: Mahalapye, CE, Botsuana",
+    "Cidade": "Mahalapye, CE, Botsuana",
+    "Coordenadas": {
+      "lat": -23.0997176,
+      "lon": 26.8572101
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "2º Sáb"
+      },
+      "Obs": "Localidade Mahalapye CENTRAL BW-01-0002 Localização Logradouro: Plot 3268 CEP: Cidade: Mahalapye, CE, Botsuana Complemento: Moko Motel - P.O. Box 1983 Dias de Culto 2º Sáb Ministério"
+    }
+  },
+  {
+    "CodigoId": "BW-01-0001",
+    "Nome": "Tlokeweng - Central",
+    "Logradouro": "Sefoke Road, Sefoke Ward",
+    "CEP": "Cidade: Gaborone, SE, Botsuana",
+    "Cidade": "Gaborone, SE, Botsuana",
+    "Coordenadas": {
+      "lat": -24.6407835,
+      "lon": 25.9595857
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "2º Dom"
+      },
+      "Obs": "Localidade Tlokeweng CENTRAL BW-01-0001 Localização Logradouro: Sefoke Road, Sefoke Ward CEP: Cidade: Gaborone, SE, Botsuana Complemento: Tsodilo Lodge - P.O. Box 1105 Dias de Culto 2º Dom Ministério"
+    }
+  }
+]

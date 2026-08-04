@@ -1,0 +1,46 @@
+[
+  {
+    "CodigoId": "NG-01-0001",
+    "Nome": "Eti-Osa Local Government Area - Central",
+    "Logradouro": "Km 6 Addo Road",
+    "CEP": "Cidade: Addo Town, LAGOS, Nigéria",
+    "Cidade": "Addo Town, LAGOS, Nigéria",
+    "Coordenadas": {
+      "lat": 6.4836328,
+      "lon": 3.5737094
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Eti-Osa Local Government Area CENTRAL NG-01-0001 Localização Logradouro: Km 6 Addo Road CEP: Cidade: Addo Town, LAGOS, Nigéria Complemento: Church Bus-Stop, Ajah Dias de Culto Dom 10:00 - Qui 19:30 Ministério Cooperador Ofício Ministerial Antony Odunze Ikechukwu Onyegbule Telefone(s) +234 () 704 595-8803"
+    }
+  },
+  {
+    "CodigoId": "NG-01-0002",
+    "Nome": "Obeama Ariam - Ikwuano Local Government Area - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Umuahia, ABIA STATE, Nigéria",
+    "Cidade": "Umuahia, ABIA STATE, Nigéria",
+    "Coordenadas": {
+      "lat": 5.5324032,
+      "lon": 7.4924165
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Obeama Ariam - Ikwuano Local Government Area CENTRAL NG-01-0002 Localização Logradouro: CEP: Cidade: Umuahia, ABIA STATE, Nigéria Dias de Culto Dom 09:00 - Qua 19:30 Ministério Ancião IBEKWE UZODINMA THOMAS Cooperador Ofício Ministerial Willians Udenze Nneji Telefone(s) +234 () 807 510-0861 +234 () 814 995-4362"
+    }
+  }
+]
