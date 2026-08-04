@@ -5,12 +5,27 @@
 
     <Grid RowDefinitions="Auto,Auto,*">
 
-        <SearchBar x:Name="LocationSearchBar"
-                   Grid.Row="0"
-                   Margin="12,8"
-                   Placeholder="Pesquisar localidade"
-                   SearchButtonPressed="LocationSearchBar_SearchButtonPressed"
-                   TextChanged="LocationSearchBar_TextChanged"/>
+        <!-- Barra superior -->
+        <Grid Grid.Row="0"
+              Margin="12,8"
+              ColumnDefinitions="*,Auto">
+
+            <!-- Pesquisa -->
+            <SearchBar x:Name="LocationSearchBar"
+                       Grid.Column="0"
+                       Placeholder="Pesquisar localidade"
+                       SearchButtonPressed="LocationSearchBar_SearchButtonPressed"
+                       TextChanged="LocationSearchBar_TextChanged"/>
+
+            <!-- Seleção de país -->
+            <Button x:Name="CountryButton"
+                    Grid.Column="1"
+                    Margin="8,0,0,0"
+                    WidthRequest="48"
+                    Text="🌍"
+                    Clicked="CountryButton_Clicked"/>
+
+        </Grid>
 
         <WebView x:Name="MapWebView"
                  Grid.Row="2"
