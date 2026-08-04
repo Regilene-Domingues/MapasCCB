@@ -1,0 +1,62 @@
+[
+  {
+    "CodigoId": "GF-01-0002",
+    "Nome": "Crique Onozo - Central",
+    "Logradouro": "Village Pecheur, 31 B",
+    "CEP": "Cidade: São Jorge Do Oiapoque, GUIANA FRANCESA, Guiana Francesa",
+    "Cidade": "São Jorge Do Oiapoque, GUIANA FRANCESA, Guiana Francesa",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Crique Onozo CENTRAL GF-01-0002 Localização Logradouro: Village Pecheur, 31 B CEP: Cidade: São Jorge Do Oiapoque, GUIANA FRANCESA, Guiana Francesa Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Cooperador Ofício Ministerial Osvaldo Moura Mendes Filho"
+    }
+  },
+  {
+    "CodigoId": "GF-01-0003",
+    "Nome": "Guyane Hotel - Central",
+    "Logradouro": "160 Route du Camp du Tigre",
+    "CEP": "97300",
+    "Cidade": "Cayenne, GUIANA FRANCESA, Guiana Francesa",
+    "Coordenadas": {
+      "lat": 4.9338633,
+      "lon": -52.3169176
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "DT quinzenal"
+      ],
+      "Horarios": {
+        "DT quinzenal": "DT quinzenal"
+      },
+      "Obs": "Localidade Guyane Hotel CENTRAL GF-01-0003 Localização Logradouro: 160 Route du Camp du Tigre CEP: 97300 Cidade: Cayenne, GUIANA FRANCESA, Guiana Francesa Dias de Culto DT quinzenal Ministério Telefone(s) +594 () 6949-08228"
+    }
+  },
+  {
+    "CodigoId": "GF-01-0001",
+    "Nome": "Zone Industrielle de Pariacabo - Central",
+    "Logradouro": "nº 19, Rue Zénobé Grammes",
+    "CEP": "97310",
+    "Cidade": "Kourou, GUIANA FRANCESA, Guiana Francesa",
+    "Coordenadas": {
+      "lat": 4.9336179,
+      "lon": -52.7659352
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Zone Industrielle de Pariacabo CENTRAL GF-01-0001 Localização Logradouro: nº 19, Rue Zénobé Grammes CEP: 97310 Cidade: Kourou, GUIANA FRANCESA, Guiana Francesa Dias de Culto Sáb 19:00 Ministério Ancião VALDECI DONIZETI DE SOUZA Cooperador Ofício Ministerial Alecson Barbosa Martins Telefone(s) +594 () 908-228 +594 () 220-422"
+    }
+  }
+]

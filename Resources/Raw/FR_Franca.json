@@ -1,0 +1,514 @@
+[
+  {
+    "CodigoId": "FR-01-0009",
+    "Nome": "ANGERS - Brissac-Loire-Aubance - Central",
+    "Logradouro": "891, Route de Mozé",
+    "CEP": "49320",
+    "Cidade": "Maine-et-loire (49), PAYS-DE-LA-LOIRE, França",
+    "Coordenadas": {
+      "lat": 47.3527054,
+      "lon": -0.453641
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM 1º e 3º Dom 10:30",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade ANGERS - Brissac-Loire-Aubance CENTRAL FR-01-0009 Localização Logradouro: 891, Route de Mozé CEP: 49320 Cidade: Maine-et-loire (49), PAYS-DE-LA-LOIRE, França Complemento: Zone d´activités Les Martignolles, D 130 Dias de Culto Dom 15:00 - Ter 19:00 (RJM 1º e 3º Dom 10:30) Ministério Cooperador Ofício Ministerial Miguel Caldas Cooperador de Jovens e Menores Nelson Fontes Telefone(s) +33 (241) 433-740"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0015",
+    "Nome": "ANGOULEME - Central",
+    "Logradouro": "98, Rue de Saintes",
+    "CEP": "16000",
+    "Cidade": "Charente (16), NOUVELLE-AQUITAINE, França",
+    "Coordenadas": {
+      "lat": 45.6583635,
+      "lon": 0.1448995
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00 / RJM 4º Sáb 17:00"
+      },
+      "Obs": "Localidade ANGOULEME CENTRAL FR-01-0015 Localização Logradouro: 98, Rue de Saintes CEP: 16000 Cidade: Charente (16), NOUVELLE-AQUITAINE, França Dias de Culto Sáb 17:00 (RJM 4º Sáb 17:00) Ministério Cooperador Ofício Ministerial Rodrigo Samuel Bueno Gavira Telefone(s) +33 (645) 817-410"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0022",
+    "Nome": "BERGERAC - Central",
+    "Logradouro": "5, Rue Sully Prudhomme",
+    "CEP": "24100",
+    "Cidade": "Dordogne (24), NOUVELLE-AQUITAINE, França",
+    "Coordenadas": {
+      "lat": 44.8573535,
+      "lon": 0.4950897
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade BERGERAC CENTRAL FR-01-0022 Localização Logradouro: 5, Rue Sully Prudhomme CEP: 24100 Cidade: Dordogne (24), NOUVELLE-AQUITAINE, França Complemento: (Culto de Evangelização) Dias de Culto 1º e 3º Sáb 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0018",
+    "Nome": "BORDEAUX - Bègles - Central",
+    "Logradouro": "4, Rue Charles Domercq",
+    "CEP": "33130",
+    "Cidade": "Gironde (33), NOUVELLE-AQUITAINE, França",
+    "Coordenadas": {
+      "lat": 44.8289335,
+      "lon": -0.5553249
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM 2º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade BORDEAUX - Bègles CENTRAL FR-01-0018 Localização Logradouro: 4, Rue Charles Domercq CEP: 33130 Cidade: Gironde (33), NOUVELLE-AQUITAINE, França Dias de Culto Dom 16:00 (RJM 2º e 4º Dom 10:30) Ministério Cooperador Ofício Ministerial Paulo Tomas Cooperador de Jovens e Menores Pierre Tomas Telefone(s) +33 (630) 494-845"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0020",
+    "Nome": "CAGNES-SUR-MER - Central",
+    "Logradouro": "Centre Comercial, 2 Dom. du Loup",
+    "CEP": "06800",
+    "Cidade": "Alpes-maritimes (06), PROVENCE-ALPES-CÔTE D'AZUR, França",
+    "Coordenadas": {
+      "lat": 43.6721729,
+      "lon": 7.1524132
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade CAGNES-SUR-MER CENTRAL FR-01-0020 Localização Logradouro: Centre Comercial, 2 Dom. du Loup CEP: 06800 Cidade: Alpes-maritimes (06), PROVENCE-ALPES-CÔTE D'AZUR, França Complemento: (Culto de Evangelização) Dias de Culto Dom 10:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0023",
+    "Nome": "CASTRES - Central",
+    "Logradouro": "25, Rue du Petit Creusot",
+    "CEP": "81100",
+    "Cidade": "Tarn (81), OCCITANIE, França",
+    "Coordenadas": {
+      "lat": 43.5986954,
+      "lon": 2.2334687
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade CASTRES CENTRAL FR-01-0023 Localização Logradouro: 25, Rue du Petit Creusot CEP: 81100 Cidade: Tarn (81), OCCITANIE, França Complemento: (Culto de Evangelização) Dias de Culto 1º Sáb 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0014",
+    "Nome": "DOUAI -Flers-en-Escrebieux",
+    "Logradouro": "13,Rue Jean Moulin",
+    "CEP": "595128",
+    "Cidade": "Nord (59), HAUTS-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 50.9677814,
+      "lon": 2.3237245
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade DOUAI -Flers-en-Escrebieux FR-01-0014 Localização Logradouro: 13,Rue Jean Moulin CEP: 595128 Cidade: Nord (59), HAUTS-DE-FRANCE, França Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Daniel Domingos Telefone(s) +33 (745) 023-617"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0006",
+    "Nome": "HAYANGE - Central",
+    "Logradouro": "14, Rue Jean Jaurès",
+    "CEP": "57700",
+    "Cidade": "Moselle (57), GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 49.317051,
+      "lon": 6.1095711
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 / RJM 1º e 3º Dom 15:30",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade HAYANGE CENTRAL FR-01-0006 Localização Logradouro: 14, Rue Jean Jaurès CEP: 57700 Cidade: Moselle (57), GRAND-EST, França Dias de Culto Dom 15:30 - Qua 19:30 (RJM 1º e 3º Dom 15:30) Ministério Ancião Antônio Joaquim de Almeida Cardoso Cooperador Ofício Ministerial Antônio Gomes da Costa Diácono Celso Almeida de Oliveira Isaac Medeiros Telefone(s) +33 (382) 852-745"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0010",
+    "Nome": "LYON - Saint-Priest - Central",
+    "Logradouro": "17, Rue du Lyonnais",
+    "CEP": "69800",
+    "Cidade": "Rhône (69), AUVERGNE-RHÔNE-ALPES, França",
+    "Coordenadas": {
+      "lat": 45.7019328,
+      "lon": 4.8978429
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:30 / RJM Dom 10:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade LYON - Saint-Priest CENTRAL FR-01-0010 Localização Logradouro: 17, Rue du Lyonnais CEP: 69800 Cidade: Rhône (69), AUVERGNE-RHÔNE-ALPES, França Dias de Culto Dom 16:30 - Sáb 18:30 (RJM Dom 10:30) Ministério Ancião JOSÉ MANUEL RIBEIRO ALVES JOSÉ MANUEL RIBEIRO ALVES Diácono Rafael Chaves Rafael Chaves Cooperador de Jovens e Menores Saul Lucio Dias"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0013",
+    "Nome": "MARSEILLE - Central",
+    "Logradouro": "16 Boulevard des Alpes",
+    "CEP": "13012",
+    "Cidade": "Bouches-du-rhône (13), PROVENCE-ALPES-CÔTE D'AZUR, França",
+    "Coordenadas": {
+      "lat": 43.2983902,
+      "lon": 5.4165618
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 / RJM 2º e 4º Sáb 17:00"
+      },
+      "Obs": "Localidade MARSEILLE CENTRAL FR-01-0013 Localização Logradouro: 16 Boulevard des Alpes CEP: 13012 Cidade: Bouches-du-rhône (13), PROVENCE-ALPES-CÔTE D'AZUR, França Dias de Culto Sáb 19:00 (RJM 2º e 4º Sáb 17:00) Ministério Ancião PEDRO JOEL FERREIRA ROCHA"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0001",
+    "Nome": "MULHOUSE - Heckn - Central",
+    "Logradouro": "5 Impasse de La Scierie",
+    "CEP": "68210",
+    "Cidade": "Haut-rhin (68), GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 47.6947593,
+      "lon": 7.1226169
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 / RJM 2º e 4º Dom 15:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade MULHOUSE - Heckn CENTRAL FR-01-0001 Localização Logradouro: 5 Impasse de La Scierie CEP: 68210 Cidade: Haut-rhin (68), GRAND-EST, França Dias de Culto Dom 11:00 - Qua 19:30 (RJM 2º e 4º Dom 15:00) Ministério Ancião CARLOS MANUEL DE SOUSA Cooperador Ofício Ministerial Garcia Melo Ferreira Cooperador de Jovens e Menores Alexis Melo Telefone(s) +33 (624) 522-743"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0021",
+    "Nome": "NANTES",
+    "Logradouro": "69 bis,Rue du Bêle",
+    "CEP": "44300",
+    "Cidade": "Loire-atlantique (44), PAYS-DE-LA-LOIRE, França",
+    "Coordenadas": {
+      "lat": 47.269394,
+      "lon": -1.51895
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade NANTES FR-01-0021 Localização Logradouro: 69 bis,Rue du Bêle CEP: 44300 Cidade: Loire-atlantique (44), PAYS-DE-LA-LOIRE, França Dias de Culto 1º e 3º Sáb 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0019",
+    "Nome": "NIMES - Hotel Abalone - Central",
+    "Logradouro": "23, Avenue Feuchères",
+    "CEP": "30000",
+    "Cidade": "Gard (30), OCCITANIE, França",
+    "Coordenadas": {
+      "lat": 43.8329186,
+      "lon": 4.366145
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade NIMES - Hotel Abalone CENTRAL FR-01-0019 Localização Logradouro: 23, Avenue Feuchères CEP: 30000 Cidade: Gard (30), OCCITANIE, França Complemento: (Culto de Evangelização) Dias de Culto Dom 15:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0025",
+    "Nome": "Oberhausbergen - Central",
+    "Logradouro": "15 Rue de Parc",
+    "CEP": "62705",
+    "Cidade": "Bas-rhin (67) - Strasbourg, GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 48.6679923,
+      "lon": 7.8099085
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:30"
+      },
+      "Obs": "Localidade Oberhausbergen CENTRAL FR-01-0025 Localização Logradouro: 15 Rue de Parc CEP: 62705 Cidade: Bas-rhin (67) - Strasbourg, GRAND-EST, França Complemento: Culto de Evangelização Dias de Culto 1º Sáb 16:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0005",
+    "Nome": "PARIS - REGIÃO METROPOLITANA - ERMONT - Central",
+    "Logradouro": "26, Rue Du Maréchal Foch",
+    "CEP": "95120",
+    "Cidade": "Val-d´oise (95), ÎLE-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 48.9918796,
+      "lon": 2.2607191
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade PARIS - REGIÃO METROPOLITANA - ERMONT CENTRAL FR-01-0005 Localização Logradouro: 26, Rue Du Maréchal Foch CEP: 95120 Cidade: Val-d´oise (95), ÎLE-DE-FRANCE, França Dias de Culto Dom 16:00 - Qua 20:00 - Sáb 19:00 (RJM Dom 10:00) Ministério Ancião AVELINO AZEVEDO CARLOS ALBERTO DOMINGOS Cooperador Ofício Ministerial Jean Manuel Teixeira Diácono Carlos dos Santos Antunes Fernand José Domingos Manuel Dias Cooperador de Jovens e Menores Alessandro Fabrício Galera Telefone(s) +33 (134) 152-148 +33 (950) 149-335"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0012",
+    "Nome": "PARIS - REGIÃO METROPOLITANA - MORANGIS - Central",
+    "Logradouro": "23, Rue Gustave Eiffel",
+    "CEP": "91420",
+    "Cidade": "Essonne (91), ÎLE-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 48.6996177,
+      "lon": 2.3409401
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 10:00",
+        "Quinta-feira": "20:00"
+      },
+      "Obs": "Localidade PARIS - REGIÃO METROPOLITANA - MORANGIS CENTRAL FR-01-0012 Localização Logradouro: 23, Rue Gustave Eiffel CEP: 91420 Cidade: Essonne (91), ÎLE-DE-FRANCE, França Dias de Culto Dom 17:00 - Qui 20:00 (RJM Dom 10:00) Ministério Ancião JEAN LUC ALBERTO Cooperador Ofício Ministerial Alan Alberto Cooperador de Jovens e Menores Samuel David Nunes Figueiredo Telefone(s) +33 (783) 138-776"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0017",
+    "Nome": "PERPIGNAN - Central",
+    "Logradouro": "9, Rue Galceran de Villaseca",
+    "CEP": "66000",
+    "Cidade": "Pyrenees-orientales (66), OCCITANIE, França",
+    "Coordenadas": {
+      "lat": 42.6976136,
+      "lon": 2.8841296
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade PERPIGNAN CENTRAL FR-01-0017 Localização Logradouro: 9, Rue Galceran de Villaseca CEP: 66000 Cidade: Pyrenees-orientales (66), OCCITANIE, França Complemento: (Culto de Evangelização) Dias de Culto 4º Sáb 18:00 Ministério Telefone(s) +33 (468) 734-391"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0024",
+    "Nome": "PIERRERUE - Central",
+    "Logradouro": "267, La Promenade",
+    "CEP": "04300",
+    "Cidade": "Alpes-de-haute-provence (04), PROVENCE-ALPES-CÔTE D'AZUR, França",
+    "Coordenadas": {
+      "lat": 43.9362871,
+      "lon": 5.8385372
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade PIERRERUE CENTRAL FR-01-0024 Localização Logradouro: 267, La Promenade CEP: 04300 Cidade: Alpes-de-haute-provence (04), PROVENCE-ALPES-CÔTE D'AZUR, França Complemento: (Culto de Evangelização) Dias de Culto 2º e 4º Dom 15:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0004",
+    "Nome": "REIMS - Central",
+    "Logradouro": "3, Impasse Baussonnet",
+    "CEP": "51100",
+    "Cidade": "Marne (51), GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 49.2596407,
+      "lon": 4.0129229
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:30 / RJM 2º e 4º Dom 10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade REIMS CENTRAL FR-01-0004 Localização Logradouro: 3, Impasse Baussonnet CEP: 51100 Cidade: Marne (51), GRAND-EST, França Dias de Culto Dom 16:30 - Qua 19:00 (RJM 2º e 4º Dom 10:00) Ministério Ancião ANTÔNIO DOS ANJOS SOARES ANTÓNIO AUGUSTO REIS DA SILVA ANTÓNIO AUGUSTO REIS DA SILVA Cooperador Ofício Ministerial Samson Alves Diácono Carlos Eduardo da Cruz Cooperador de Jovens e Menores Philippe Parente Afonso Telefone(s) +33 (326) 405-571"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0007",
+    "Nome": "ROUBAIX",
+    "Logradouro": "13, Rue Condorcet",
+    "CEP": "59100",
+    "Cidade": "Nord (59), HAUTS-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 50.697218,
+      "lon": 3.186965
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade ROUBAIX FR-01-0007 Localização Logradouro: 13, Rue Condorcet CEP: 59100 Cidade: Nord (59), HAUTS-DE-FRANCE, França Dias de Culto Qua-Sáb 19:00 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial António Soares Diácono Emerson dos Santos Telefone(s) +33 (767) 11-0198"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0011",
+    "Nome": "SAINT-OUEN-L'AUMÔNE",
+    "Logradouro": "1, Rue Boris Vian",
+    "CEP": "95310",
+    "Cidade": "Val-d´oise (95), ÎLE-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 49.0539833,
+      "lon": 2.114308
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade SAINT-OUEN-L'AUMÔNE FR-01-0011 Localização Logradouro: 1, Rue Boris Vian CEP: 95310 Cidade: Val-d´oise (95), ÎLE-DE-FRANCE, França Dias de Culto Dom 19:00 Ministério Ancião JOSÉ JOAQUIM MORAIS Cooperador Ofício Ministerial Victor Lopes Victor Lopes Telefone(s) +33 (624) 298-536"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0016",
+    "Nome": "TOULOUSE - REGIÃO METROPOLITANA - CORNEBARRIEU - Central",
+    "Logradouro": "62, Route de Pibrac - Local nº 1",
+    "CEP": "31700",
+    "Cidade": "Haute-garonne (31), OCCITANIE, França",
+    "Coordenadas": {
+      "lat": 43.6601325,
+      "lon": 1.3194794
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM 1º e 3º Dom 10:00"
+      },
+      "Obs": "Localidade TOULOUSE - REGIÃO METROPOLITANA - CORNEBARRIEU CENTRAL FR-01-0016 Localização Logradouro: 62, Route de Pibrac - Local nº 1 CEP: 31700 Cidade: Haute-garonne (31), OCCITANIE, França Dias de Culto Dom 17:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Bruno Joel Gomes Rodrigues Diácono Luis Lopes Cooperador de Jovens e Menores Diones dos Santos Pereira"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0008",
+    "Nome": "TOURCOING - Central",
+    "Logradouro": "106, Rue de Gand",
+    "CEP": "59200",
+    "Cidade": "Nord (59), HAUTS-DE-FRANCE, França",
+    "Coordenadas": {
+      "lat": 50.729909,
+      "lon": 3.15875
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade TOURCOING CENTRAL FR-01-0008 Localização Logradouro: 106, Rue de Gand CEP: 59200 Cidade: Nord (59), HAUTS-DE-FRANCE, França Dias de Culto Dom 18:00 - Ter-Sáb 19:00 (RJM Dom 10:30) Ministério Ancião JOAQUIM SANTOS MOREIRA BERTRAND CHARLES LECONTE Cooperador Ofício Ministerial Álvaro da Fonte Diácono António Domingos da Silva Pascoal Rui Manuel Pereira Cooperador de Jovens e Menores Thomas Leconte Telefone(s) +33 (320) 250-483"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0002",
+    "Nome": "TROYES - Pont-Sainte-Marie - Central",
+    "Logradouro": "6 bis, Rue Marc Verdier",
+    "CEP": "10150",
+    "Cidade": "Aube (10), GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 48.3255881,
+      "lon": 4.1128414
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM 1º e 3º Dom 10:00",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade TROYES - Pont-Sainte-Marie CENTRAL FR-01-0002 Localização Logradouro: 6 bis, Rue Marc Verdier CEP: 10150 Cidade: Aube (10), GRAND-EST, França Dias de Culto Dom 16:00 - Sex 19:30 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Jean Carlo Rodrigues Araújo Cooperador de Jovens e Menores Willian Santos Nochely"
+    }
+  },
+  {
+    "CodigoId": "FR-01-0003",
+    "Nome": "ÈPERNAY",
+    "Logradouro": "5, Square Léo Delibes",
+    "CEP": "51200",
+    "Cidade": "Marne (51), GRAND-EST, França",
+    "Coordenadas": {
+      "lat": 49.0369894,
+      "lon": 3.9316904
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:30"
+      },
+      "Obs": "Localidade ÈPERNAY FR-01-0003 Localização Logradouro: 5, Square Léo Delibes CEP: 51200 Cidade: Marne (51), GRAND-EST, França Dias de Culto Sáb 15:30 Ministério"
+    }
+  }
+]

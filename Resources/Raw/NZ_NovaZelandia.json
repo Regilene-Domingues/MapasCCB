@@ -1,0 +1,88 @@
+[
+  {
+    "CodigoId": "NZ-01-0003",
+    "Nome": "Aranui - Central",
+    "Logradouro": "107A Marlow Road",
+    "CEP": "8061",
+    "Cidade": "Christchurch, CANTERBURY, Nova Zelândia",
+    "Coordenadas": {
+      "lat": -43.5146701,
+      "lon": 172.7067152
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Aranui CENTRAL NZ-01-0003 Localização Logradouro: 107A Marlow Road CEP: 8061 Cidade: Christchurch, CANTERBURY, Nova Zelândia Dias de Culto 3N SN (RJM-DM) Reunião de Jovens e Menores Domingo - 10:00 Culto Oficial Terça-feira - 19:30 Sábado - 19:30 Ministério Cooperador Ofício Ministerial Alessandro Fernandes Faria Lucas de Freitas Lopes Cooperador de Jovens e Menores Andrés Lopez de Faria Telefone(s) +64 (21) 143-5512"
+    }
+  },
+  {
+    "CodigoId": "NZ-01-0001",
+    "Nome": "Blockhouse Bay - Central",
+    "Logradouro": "504 Blockhouse Bay Road",
+    "CEP": "0600",
+    "Cidade": "Auckland, AUCKLAND, Nova Zelândia",
+    "Coordenadas": {
+      "lat": -36.9204068,
+      "lon": 174.7022029
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Blockhouse Bay CENTRAL NZ-01-0001 Localização Logradouro: 504 Blockhouse Bay Road CEP: 0600 Cidade: Auckland, AUCKLAND, Nova Zelândia Complemento: Lower Hall entrada pelo estacionamento Dias de Culto 4N SN RJM 1º, 3º e 5º Sáb 17:00 Culto Oficial Quarta-feira - 20:00 Sábado - 19:00 Ministério Ancião Carlos Augusto Perroni Carlos Augusto Perroni Carlos Augusto Perroni Carlos Augusto Perroni Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli Edmilson Garcia Rubinelli ALEXANDRE CASIMIRO DA SILVA Cooperador Ofício Ministerial Guilherme Corrêa Bezerra Telefone(s) +64 (21) 590-033"
+    }
+  },
+  {
+    "CodigoId": "NZ-01-0002",
+    "Nome": "Frankton - Central",
+    "Logradouro": "10 Douglas Street",
+    "CEP": "9300",
+    "Cidade": "Queenstown, OTAGO, Nova Zelândia",
+    "Coordenadas": {
+      "lat": -45.023124,
+      "lon": 168.7349238
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Frankton CENTRAL NZ-01-0002 Localização Logradouro: 10 Douglas Street CEP: 9300 Cidade: Queenstown, OTAGO, Nova Zelândia Complemento: Training Room 2 Dias de Culto Qua 19:30 - Último sábado 19:30 Ministério Cooperador Ofício Ministerial Javier Zacarias"
+    }
+  },
+  {
+    "CodigoId": "NZ-01-0004",
+    "Nome": "Welcome Bay - Central",
+    "Logradouro": "244 Welcome Bay Road",
+    "CEP": "3112",
+    "Cidade": "Tauranga, BAY OF PLENTY, Nova Zelândia",
+    "Coordenadas": {
+      "lat": -37.7255678,
+      "lon": 176.1913385
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:30"
+      },
+      "Obs": "Localidade Welcome Bay CENTRAL NZ-01-0004 Localização Logradouro: 244 Welcome Bay Road CEP: 3112 Cidade: Tauranga, BAY OF PLENTY, Nova Zelândia Dias de Culto 2º, 4º e 5º Dom 14:30 Ministério Cooperador Ofício Ministerial Helder Barbosa de Oliveira"
+    }
+  }
+]

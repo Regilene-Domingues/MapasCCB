@@ -1,0 +1,82 @@
+[
+  {
+    "CodigoId": "GY-01-0005",
+    "Nome": "Katoonarib Village - South Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Katoonarib, REGIÃO #9, Guiana (inglesa)",
+    "Cidade": "Katoonarib, REGIÃO #9, Guiana (inglesa)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30 / RJM Dom 09:30"
+      },
+      "Obs": "Localidade Katoonarib Village - South Central CENTRAL GY-01-0005 Localização Logradouro: CEP: Cidade: Katoonarib, REGIÃO #9, Guiana (inglesa) Dias de Culto Dom 09:30 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Desmas John Andrew"
+    }
+  },
+  {
+    "CodigoId": "GY-01-0004",
+    "Nome": "Sophia - Central",
+    "Logradouro": "491, C. Field",
+    "CEP": "Cidade: Georgetown, REGIÃO #4, Guiana (inglesa)",
+    "Cidade": "Georgetown, REGIÃO #4, Guiana (inglesa)",
+    "Coordenadas": {
+      "lat": 6.8011769,
+      "lon": -58.1228283
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Sophia CENTRAL GY-01-0004 Localização Logradouro: 491, C. Field CEP: Cidade: Georgetown, REGIÃO #4, Guiana (inglesa) Dias de Culto DM (RJM-DM) Dom 09:30 (RJM Dom 09:30) Reunião de Jovens e Menores Domingo - 09:30 Culto Oficial Domingo - 09:30 - en_US Ministério Cooperador Ofício Ministerial Jonathan Rodrigo Kryzozun Correa"
+    }
+  },
+  {
+    "CodigoId": "GY-01-0001",
+    "Nome": "South Rupununi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Aishalton, REGIÃO #9, Guiana (inglesa)",
+    "Cidade": "Aishalton, REGIÃO #9, Guiana (inglesa)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "09:30"
+      },
+      "Obs": "Localidade South Rupununi CENTRAL GY-01-0001 Localização Logradouro: CEP: Cidade: Aishalton, REGIÃO #9, Guiana (inglesa) Dias de Culto 3º Sáb 09:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GY-01-0002",
+    "Nome": "Upper Essequibo - Central",
+    "Logradouro": "Lot 07, Park Avenue",
+    "CEP": "Cidade: Lethem, REGIÃO #9, Guiana (inglesa)",
+    "Cidade": "Lethem, REGIÃO #9, Guiana (inglesa)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Upper Essequibo CENTRAL GY-01-0002 Localização Logradouro: Lot 07, Park Avenue CEP: Cidade: Lethem, REGIÃO #9, Guiana (inglesa) Complemento: Upper Takutu - Upper Essequibo Dias de Culto DM (RJM-DM) Dom 09:30 (RJM Dom 09:30) Reunião de Jovens e Menores Domingo - 09:30 Culto Oficial Domingo - 09:30 Ministério Ancião STANLEY GERRARD LEWIS REBEIRO Telefone(s) +592 () 662-8901"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "CodigoId": "HN-01-0001",
+    "Nome": "Aldea Coyolar",
+    "Logradouro": "Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "CEP": "Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Cidade": "Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "15:00 (Quinzenal"
+      },
+      "Obs": "Localidade Aldea Coyolar HN-01-0001 Localização Logradouro: CEP: Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras Dias de Culto Qui 15:00 (Quinzenal) Ministério"
+    }
+  },
+  {
+    "CodigoId": "HN-01-0004",
+    "Nome": "Aldea Soledad - Central",
+    "Logradouro": "Jocón, DEPARTAMENTO DE YORO, Honduras",
+    "CEP": "Cidade: Jocón, DEPARTAMENTO DE YORO, Honduras",
+    "Cidade": "Jocón, DEPARTAMENTO DE YORO, Honduras",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "15:00 (Quinzenal"
+      },
+      "Obs": "Localidade Aldea Soledad CENTRAL HN-01-0004 Localização Logradouro: CEP: Cidade: Jocón, DEPARTAMENTO DE YORO, Honduras Dias de Culto Qui 15:00 (Quinzenal) Ministério"
+    }
+  },
+  {
+    "CodigoId": "HN-01-0003",
+    "Nome": "Colonia La Libertad Sur",
+    "Logradouro": "Una cuadra antes de la Sago",
+    "CEP": "Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Cidade": "Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Colonia La Libertad Sur HN-01-0003 Localização Logradouro: Una cuadra antes de la Sago CEP: Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras Dias de Culto Ter-Sex 18:30 Ministério Cooperador Ofício Ministerial Félix Armando Martínez Flores"
+    }
+  },
+  {
+    "CodigoId": "HN-01-0002",
+    "Nome": "Colonia Los Laureles - Central",
+    "Logradouro": "Una cuadra al Norte de la Escuela Joaquim Reyes Tejeda",
+    "CEP": "Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Cidade": "Olanchito, DEPARTAMENTO DE YORO, Honduras",
+    "Coordenadas": {
+      "lat": 15.487286170533865,
+      "lon": -86.57257036782354
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 10:30",
+        "Quarta-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade Colonia Los Laureles CENTRAL HN-01-0002 Localização Logradouro: Una cuadra al Norte de la Escuela Joaquim Reyes Tejeda CEP: Cidade: Olanchito, DEPARTAMENTO DE YORO, Honduras Complemento: Fone Brasil (+55 17) 9 9704-6719 Dias de Culto Dom-Qua-Sáb 18:30 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Oscar Barbosa Humberto Ulises Echenique Pérez Telefone(s) +504 () 2446-3431"
+    }
+  }
+]

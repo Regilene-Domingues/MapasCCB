@@ -1,0 +1,178 @@
+[
+  {
+    "CodigoId": "BE-01-0001",
+    "Nome": "Anderlecht - Central",
+    "Logradouro": "15, Rue Bollinckx",
+    "CEP": "1070",
+    "Cidade": "Anderlecht, BRU, Bélgica",
+    "Coordenadas": {
+      "lat": 50.8209708,
+      "lon": 4.305311
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Anderlecht CENTRAL BE-01-0001 Localização Logradouro: 15, Rue Bollinckx CEP: 1070 Cidade: Anderlecht, BRU, Bélgica Dias de Culto Dom 18:00 - Qua-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião ELDER MANCINI Cooperador Ofício Ministerial Eliel Barbeta Diácono Ademar de Souza Lima Edson Roberto dos Santos Cooperador de Jovens e Menores Orisan Xavier Dias"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0005",
+    "Nome": "Central",
+    "Logradouro": "Oliestraat, 8",
+    "CEP": "9000",
+    "Cidade": "Gent, VLG, Bélgica",
+    "Coordenadas": {
+      "lat": 51.056793,
+      "lon": 3.7296358
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "18:00",
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade CENTRAL BE-01-0005 Localização Logradouro: Oliestraat, 8 CEP: 9000 Cidade: Gent, VLG, Bélgica Dias de Culto DT SN (RJM-DT) Reunião de Jovens e Menores Domingo - 15:00 Culto Oficial Domingo - 17:30 Sábado - 18:00 Ministério Cooperador Ofício Ministerial Thiago César Moraz de Souza Cooperador de Jovens e Menores Leonardo Rodrigues Baroca"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0007",
+    "Nome": "Central",
+    "Logradouro": "Fond de Malonne, 95",
+    "CEP": "5020",
+    "Cidade": "Malonne (namur), WAL, Bélgica",
+    "Coordenadas": {
+      "lat": 50.4391236,
+      "lon": 4.795844
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade CENTRAL BE-01-0007 Localização Logradouro: Fond de Malonne, 95 CEP: 5020 Cidade: Malonne (namur), WAL, Bélgica Dias de Culto 3N SN Ter-Sáb 19:30 Culto Oficial Terça-feira - 19:30 Sábado - 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0006",
+    "Nome": "Geel - Central",
+    "Logradouro": "Dokter Van de Perrestraat, 109",
+    "CEP": "2440",
+    "Cidade": "Antuérpia - Geel, VLG, Bélgica",
+    "Coordenadas": {
+      "lat": 51.1664956,
+      "lon": 4.9847766
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Geel CENTRAL BE-01-0006 Localização Logradouro: Dokter Van de Perrestraat, 109 CEP: 2440 Cidade: Antuérpia - Geel, VLG, Bélgica Dias de Culto 1º e 3º Qua 19:00 - Sáb 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0002",
+    "Nome": "Jemeppe Sur Meuse - Central",
+    "Logradouro": "28, Rue Alexandre Raick",
+    "CEP": "4101",
+    "Cidade": "Liège, WAL, Bélgica",
+    "Coordenadas": {
+      "lat": 50.6081021,
+      "lon": 5.4866982
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 10:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Jemeppe Sur Meuse CENTRAL BE-01-0002 Localização Logradouro: 28, Rue Alexandre Raick CEP: 4101 Cidade: Liège, WAL, Bélgica Dias de Culto Dom 17:00 - Qui 19:00 (RJM Dom 10:00) Ministério Ancião GIUSEPPE GIGLIA GIUSEPPE GIGLIA FILHO GIOVANE MIGUEL GOBO Diácono Matheus Cardoso de Oliveira Cooperador de Jovens e Menores Lucas Rodrigues de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0004",
+    "Nome": "Opwijk - Central",
+    "Logradouro": "Stationstraat, 36a",
+    "CEP": "1745",
+    "Cidade": "Opwijk, VLG, Bélgica",
+    "Coordenadas": {
+      "lat": 50.962485,
+      "lon": 4.1807815
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "20:00",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade Opwijk CENTRAL BE-01-0004 Localização Logradouro: Stationstraat, 36a CEP: 1745 Cidade: Opwijk, VLG, Bélgica Dias de Culto Sáb 20:00 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Kleber da Silva Galves Lobato Cooperador de Jovens e Menores Wigles Boa Ventura de Souza"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0003",
+    "Nome": "Quaregnon - Central",
+    "Logradouro": "117, Rue César Depaepe",
+    "CEP": "7390",
+    "Cidade": "Hainaut, WAL, Bélgica",
+    "Coordenadas": {
+      "lat": 50.4335059,
+      "lon": 3.8589361
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Quaregnon CENTRAL BE-01-0003 Localização Logradouro: 117, Rue César Depaepe CEP: 7390 Cidade: Hainaut, WAL, Bélgica Dias de Culto Sáb 16:00 Ministério Cooperador Ofício Ministerial Ricardo Teles do Nascimento"
+    }
+  },
+  {
+    "CodigoId": "BE-01-0008",
+    "Nome": "Tubize - Central",
+    "Logradouro": "Grand´Place,23",
+    "CEP": "1480",
+    "Cidade": "Tubize, WAL, Bélgica",
+    "Coordenadas": {
+      "lat": 50.693508,
+      "lon": 4.2045936
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 15:30",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Tubize CENTRAL BE-01-0008 Localização Logradouro: Grand´Place,23 CEP: 1480 Cidade: Tubize, WAL, Bélgica Dias de Culto Dom 18:00 - Sex 20:00 (RJM Dom 15:30) Ministério Ancião ELTON DE SOUZA Cooperador Ofício Ministerial João Bosco Vieira dos Santos Diácono Agnaldo Patric Correa Oliveira Cooperador de Jovens e Menores Phrancisco Heduardo Leda Orellana"
+    }
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "CodigoId": "EC-01-0011",
+    "Nome": "Barrio 5 de junio - Vía a la Loma - Central",
+    "Logradouro": "Avenida Clorinda Carrasco Palomino",
+    "CEP": "Cidade: El Guabo, EO, Equador",
+    "Cidade": "El Guabo, EO, Equador",
+    "Coordenadas": {
+      "lat": -3.1629001,
+      "lon": -79.7584498
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "Sáb 19:30",
+        "Quarta-feira": "Sáb 19:30"
+      },
+      "Obs": "Localidade Barrio 5 de junio - Vía a la Loma CENTRAL EC-01-0011 Localização Logradouro: Avenida Clorinda Carrasco Palomino CEP: Cidade: El Guabo, EO, Equador Dias de Culto Seg-Qua-Sáb 19:30 Ministério Ancião JESÚS ABEL NAVARRETE PEÑA Telefone(s) +593 (9) 8142-3815 +593 (9) 7966-4914"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0010",
+    "Nome": "Barrio Chilcapamba - Central",
+    "Logradouro": "Vía a El Valle",
+    "CEP": "Cidade: Cuenca, AZ, Equador",
+    "Cidade": "Cuenca, AZ, Equador",
+    "Coordenadas": {
+      "lat": -2.9286649,
+      "lon": -78.9956519
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Barrio Chilcapamba CENTRAL EC-01-0010 Localização Logradouro: Vía a El Valle CEP: Cidade: Cuenca, AZ, Equador Complemento: Detrás de la Escuela Eloy Alfaro Dias de Culto Ter-Sáb 19:30 Ministério Cooperador Ofício Ministerial Jorge Wilson Guerrón Reinoso Telefone(s) +593 (7) 414-0793 +593 (9) 8642-4601"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0002",
+    "Nome": "Barrio El Astillero - Central",
+    "Logradouro": "Calle Ambato, 1109 entre García Goyena y Bolivia",
+    "CEP": "Cidade: Guayaquil, GU, Equador",
+    "Cidade": "Guayaquil, GU, Equador",
+    "Coordenadas": {
+      "lat": -2.1900572,
+      "lon": -79.8868669
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Barrio El Astillero CENTRAL EC-01-0002 Localização Logradouro: Calle Ambato, 1109 entre García Goyena y Bolivia CEP: Cidade: Guayaquil, GU, Equador Dias de Culto Qua 20:00 - Sáb 19:00 (RJM Dom 10:00) Ministério Ancião JORGE IVÁN NOBOA SALVATIERRA Cooperador de Jovens e Menores Douglas Gabriel Vivas Angulo Telefone(s) +593 (9) 9919-8684"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0013",
+    "Nome": "Barrio El Cisne - Central",
+    "Logradouro": "Calle Chile, entre 11 de Julio y Río Aguarico",
+    "CEP": "Cidade: Shushufindi, SU, Equador",
+    "Cidade": "Shushufindi, SU, Equador",
+    "Coordenadas": {
+      "lat": -0.2885051,
+      "lon": -76.5906945
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Barrio El Cisne CENTRAL EC-01-0013 Localização Logradouro: Calle Chile, entre 11 de Julio y Río Aguarico CEP: Cidade: Shushufindi, SU, Equador Dias de Culto Qui-Sáb 19:30 Ministério Telefone(s) +593 (9) 9833-9619 +593 (9) 9211-6676"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0001",
+    "Nome": "Ciudadela 18 de noviembre - Central",
+    "Logradouro": "Calle Tungurahua, entre Piñas y Pasaje",
+    "CEP": "Cidade: Huaquillas, EO, Equador",
+    "Cidade": "Huaquillas, EO, Equador",
+    "Coordenadas": {
+      "lat": -3.475623,
+      "lon": -80.184453
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 20:00 / RJM Dom 10:00",
+        "Quarta-feira": "Sáb 20:00"
+      },
+      "Obs": "Localidade Ciudadela 18 de noviembre CENTRAL EC-01-0001 Localização Logradouro: Calle Tungurahua, entre Piñas y Pasaje CEP: Cidade: Huaquillas, EO, Equador Complemento: Subcentro de Salud 18 de Noviembre Dias de Culto Dom-Qua-Sáb 20:00 (RJM Dom 10:00) Ministério Ancião DARWIN ORLAND JARA SAN MARTIN Cooperador Ofício Ministerial Carlos Edison Espinosa Soto Luís Pérez Diácono Willian Alberto Jaramillo Herrera Telefone(s) +593 (9) 9549-9897"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0004",
+    "Nome": "Ciudadela 23 de mayo - Barrio Chillogallo - Central",
+    "Logradouro": "Calle Carlos Silva, 222 y Calle Víctor Valencia",
+    "CEP": "Cidade: Quito, PI, Equador",
+    "Cidade": "Quito, PI, Equador",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 / RJM Dom 09:30",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Ciudadela 23 de mayo - Barrio Chillogallo CENTRAL EC-01-0004 Localização Logradouro: Calle Carlos Silva, 222 y Calle Víctor Valencia CEP: Cidade: Quito, PI, Equador Dias de Culto Dom 11:00 - Sáb 19:00 (RJM Dom 09:30) Ministério Ancião JORGE EDUARDO REINOSO PRADO Diácono Juan Enrique Bustillos Caseres Juan Carlos Morejon Armas Telefone(s) +593 (2) 267-7865 +593 (2) 268-6123 +593 (2) 262-5168"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0005",
+    "Nome": "Ciudadela Atahualpa - Sector Tribuna del Sur",
+    "Logradouro": "Calle Capitán Ramón Morán, OE2-604 y Calle Mayor Galo Molina",
+    "CEP": "Cidade: Quito, PI, Equador",
+    "Cidade": "Quito, PI, Equador",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Ciudadela Atahualpa - Sector Tribuna del Sur EC-01-0005 Localização Logradouro: Calle Capitán Ramón Morán, OE2-604 y Calle Mayor Galo Molina CEP: Cidade: Quito, PI, Equador Complemento: A 2 cuadras del Redondel de la Atahualpa - tras la Tribuna del Sur Dias de Culto Qua 19:30 Ministério Ancião CARLOS PATRICIO REINOSO PRADO Telefone(s) +593 (9) 8743-9512 +593 (9) 9530-1965 +593 (2) 264-6139"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0015",
+    "Nome": "Ciudadela Unidad Nacional - Central",
+    "Logradouro": "Calle Paquisha, Manzana 49, Solar 3",
+    "CEP": "Cidade: Durán, GU, Equador",
+    "Cidade": "Durán, GU, Equador",
+    "Coordenadas": {
+      "lat": -2.1688548,
+      "lon": -79.8340647
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:30",
+        "Sexta-feira": "20:30"
+      },
+      "Obs": "Localidade Ciudadela Unidad Nacional CENTRAL EC-01-0015 Localização Logradouro: Calle Paquisha, Manzana 49, Solar 3 CEP: Cidade: Durán, GU, Equador Dias de Culto Ter-Sex 20:30 Ministério Cooperador Ofício Ministerial Jorge Luis Miranda Briones Telefone(s) +593 (9) 8805-8367"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0008",
+    "Nome": "Conocoto",
+    "Logradouro": "Entre Calles José Joaquín Olmedo y Juan José Flores, SA-55",
+    "CEP": "Cidade: Quito, PI, Equador",
+    "Cidade": "Quito, PI, Equador",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Conocoto EC-01-0008 Localização Logradouro: Entre Calles José Joaquín Olmedo y Juan José Flores, SA-55 CEP: Cidade: Quito, PI, Equador Dias de Culto Ter 19:30 Ministério Telefone(s) +593 (2) 267-7865 +593 (2) 268-6123"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0017",
+    "Nome": "Nueva Israel - Central",
+    "Logradouro": "Calle Klever Pazmiño y Avenida Chone",
+    "CEP": "Cidade: Santo Domingo de Los Colorados, SD, Equador",
+    "Cidade": "Santo Domingo de Los Colorados, SD, Equador",
+    "Coordenadas": {
+      "lat": -0.2566801,
+      "lon": -79.1873467
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Nueva Israel CENTRAL EC-01-0017 Localização Logradouro: Calle Klever Pazmiño y Avenida Chone CEP: Cidade: Santo Domingo de Los Colorados, SD, Equador Dias de Culto Sex 19:30 Ministério Cooperador Ofício Ministerial Marciano Martins Morais Telefone(s) +593 (9) 8693-0446"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0007",
+    "Nome": "Parroquia la Providencia - Central",
+    "Logradouro": "Pasaje 38 NE y Calicuchima esquina",
+    "CEP": "Cidade: Machala, EO, Equador",
+    "Cidade": "Machala, EO, Equador",
+    "Coordenadas": {
+      "lat": -3.3148937,
+      "lon": -79.9512804
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "19:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Parroquia la Providencia CENTRAL EC-01-0007 Localização Logradouro: Pasaje 38 NE y Calicuchima esquina CEP: Cidade: Machala, EO, Equador Dias de Culto Dom 10:00 - Ter-Qui 19:30 Ministério Cooperador Ofício Ministerial Cesar Orley Zurita Gualli Telefone(s) +593 (7) 251-0316 +593 (9) 8203-3242"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0003",
+    "Nome": "Sector La Corona - Central",
+    "Logradouro": "Cruzando el puente de caña",
+    "CEP": "Cidade: Junquillal, GU, Equador",
+    "Cidade": "Junquillal, GU, Equador",
+    "Coordenadas": {
+      "lat": -1.7159656,
+      "lon": -79.8651558
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "15:00",
+        "Quinta-feira": "15:00",
+        "Sábado": "13:00"
+      },
+      "Obs": "Localidade Sector La Corona CENTRAL EC-01-0003 Localização Logradouro: Cruzando el puente de caña CEP: Cidade: Junquillal, GU, Equador Complemento: A 10 minutos de la ciudad Dias de Culto Ter-Qui 15:00 - Sáb 13:00 Ministério Cooperador Ofício Ministerial Pedro Pascual Morán Alvarado Telefone(s) +593 (9) 8619-0729"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0014",
+    "Nome": "Sector Plaza 18 de octubre - Central",
+    "Logradouro": "Calle Abdón Calderón y Calle Carchi esquina",
+    "CEP": "Cidade: Saquisili, CO, Equador",
+    "Cidade": "Saquisili, CO, Equador",
+    "Coordenadas": {
+      "lat": -0.2427277,
+      "lon": -78.5032046
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "19:30"
+      },
+      "Obs": "Localidade Sector Plaza 18 de octubre CENTRAL EC-01-0014 Localização Logradouro: Calle Abdón Calderón y Calle Carchi esquina CEP: Cidade: Saquisili, CO, Equador Complemento: A dos cuadras del Parque Central de Saquisili Dias de Culto Seg 19:30 Ministério Telefone(s) +593 (9) 8743-9512 +593 (9) 9530-1965"
+    }
+  },
+  {
+    "CodigoId": "EC-01-0012",
+    "Nome": "Urbanización María Luisa - 4ª Etapa - Central",
+    "Logradouro": "Vía a El Carmen",
+    "CEP": "Cidade: Pedernales, MA, Equador",
+    "Cidade": "Pedernales, MA, Equador",
+    "Coordenadas": {
+      "lat": 0.0701577,
+      "lon": -80.0546784
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Urbanización María Luisa - 4ª Etapa CENTRAL EC-01-0012 Localização Logradouro: Vía a El Carmen CEP: Cidade: Pedernales, MA, Equador Complemento: Entrada por la secadora de cacao Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Leonardo Josué Pether Cañola Telefone(s) +593 (9) 9506-3180"
+    }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "CodigoId": "ST-01-0013",
+    "Nome": "Caixão Grande",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: São Tomé, IS, São Tomé E Príncipe",
+    "Cidade": "São Tomé, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Caixão Grande ST-01-0013 Localização Logradouro: CEP: Cidade: São Tomé, IS, São Tomé E Príncipe Dias de Culto Dom 08:00 - Qui 18:30 Ministério Cooperador Ofício Ministerial Wilson Mascarenhas Almeida Costa Alex Pontes Pinto Gomes do Espírito"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0005",
+    "Nome": "Fazenda Colónia Açoriana - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colónia Açoriana, IS, São Tomé E Príncipe",
+    "Cidade": "Colónia Açoriana, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "13:00"
+      },
+      "Obs": "Localidade Fazenda Colónia Açoriana CENTRAL ST-01-0005 Localização Logradouro: CEP: Cidade: Colónia Açoriana, IS, São Tomé E Príncipe Dias de Culto Sáb 13:00 Ministério Cooperador Ofício Ministerial Adamy Cristian Dória de Sousa Andrade"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0002",
+    "Nome": "Fazenda Água Izé - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Água Izé, IS, São Tomé E Príncipe",
+    "Cidade": "Água Izé, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Fazenda Água Izé CENTRAL ST-01-0002 Localização Logradouro: CEP: Cidade: Água Izé, IS, São Tomé E Príncipe Dias de Culto Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0014",
+    "Nome": "Ganda - Central",
+    "Logradouro": "Rua Ganda, s/nº",
+    "CEP": "Cidade: São Tomé, IS, São Tomé E Príncipe",
+    "Cidade": "São Tomé, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quinta-feira": "18:30",
+        "Sábado": "RJM Sáb 14:30"
+      },
+      "Obs": "Localidade Ganda CENTRAL ST-01-0014 Localização Logradouro: Rua Ganda, s/nº CEP: Cidade: São Tomé, IS, São Tomé E Príncipe Dias de Culto Dom 08:30 - Qui 18:30 (RJM Sáb 14:30) Ministério Ancião CARLOS CARVALHO DOS SANTOS Cooperador Ofício Ministerial Lucrécio Dias Leal Diácono Gika da Conceição Carvalho"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0016",
+    "Nome": "Praia Cruz",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: São Tomé, IS, São Tomé E Príncipe",
+    "Cidade": "São Tomé, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Praia Cruz ST-01-0016 Localização Logradouro: CEP: Cidade: São Tomé, IS, São Tomé E Príncipe Dias de Culto Dom 08:30 - Qua 19:00 Ministério Cooperador Ofício Ministerial Daltom da Trindade Soares"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0010",
+    "Nome": "Santa Luzia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Luzia, IS, São Tomé E Príncipe",
+    "Cidade": "Santa Luzia, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "14:00",
+        "Sexta-feira": "14:00"
+      },
+      "Obs": "Localidade Santa Luzia CENTRAL ST-01-0010 Localização Logradouro: CEP: Cidade: Santa Luzia, IS, São Tomé E Príncipe Dias de Culto Seg-Sex 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0017",
+    "Nome": "Vila Malanza - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Vila Malanza, IS, São Tomé E Príncipe",
+    "Cidade": "Vila Malanza, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quinta-feira": "08:00"
+      },
+      "Obs": "Localidade Vila Malanza CENTRAL ST-01-0017 Localização Logradouro: CEP: Cidade: Vila Malanza, IS, São Tomé E Príncipe Dias de Culto Dom 08:30 - Qui 08:00 Ministério Cooperador Ofício Ministerial Olímpio Adriano"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0019",
+    "Nome": "Vila Santo António - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Príncipe, IP, São Tomé E Príncipe",
+    "Cidade": "Príncipe, IP, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": 0.3254427,
+      "lon": 6.7347562
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quinta-feira": "08:30"
+      },
+      "Obs": "Localidade Vila Santo António CENTRAL ST-01-0019 Localização Logradouro: CEP: Cidade: Príncipe, IP, São Tomé E Príncipe Complemento: Atrás da Central Térmica Dias de Culto Dom-Qui 08:30 Ministério Cooperador Ofício Ministerial Nelson Carvalho Soares"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0012",
+    "Nome": "Água Crioula",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: São Tomé, IS, São Tomé E Príncipe",
+    "Cidade": "São Tomé, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "RJM Sáb 14:00"
+      },
+      "Obs": "Localidade Água Crioula ST-01-0012 Localização Logradouro: CEP: Cidade: São Tomé, IS, São Tomé E Príncipe Dias de Culto Dom 10:00 - Qua 19:00 (RJM Sáb 14:00) Ministério Ancião MANUEL LOPES DA CRUZ DE SOUSA BASTOS Cooperador Ofício Ministerial Adilson Thomas Fernandes Osvaldo Varela"
+    }
+  },
+  {
+    "CodigoId": "ST-01-0007",
+    "Nome": "Ôbo Izaquente - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ôbo Izaquente, IS, São Tomé E Príncipe",
+    "Cidade": "Ôbo Izaquente, IS, São Tomé E Príncipe",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:00",
+        "Sábado": "15:00",
+        "Domingo": "RJM Dom 08:00"
+      },
+      "Obs": "Localidade Ôbo Izaquente CENTRAL ST-01-0007 Localização Logradouro: CEP: Cidade: Ôbo Izaquente, IS, São Tomé E Príncipe Dias de Culto Ter 18:00 - Sáb 15:00 (RJM Dom 08:00) Ministério Cooperador Ofício Ministerial Euclídes da Conceição"
+    }
+  }
+]

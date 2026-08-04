@@ -1,0 +1,642 @@
+[
+  {
+    "CodigoId": "MW-01-0002",
+    "Nome": "Bangula",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bangula MW-01-0002 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Amoss Hamuza"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0039",
+    "Nome": "Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Blantyre, BLANTYRE, Malawi",
+    "Cidade": "Distrito de Blantyre, BLANTYRE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Central CENTRAL MW-01-0039 Localização Logradouro: CEP: Cidade: Distrito de Blantyre, BLANTYRE, Malawi Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0063",
+    "Nome": "Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Lilongwe, LILONGWE, Malawi",
+    "Cidade": "Distrito de Lilongwe, LILONGWE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Central CENTRAL MW-01-0063 Localização Logradouro: CEP: Cidade: Distrito de Lilongwe, LILONGWE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Felix Mbazo"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0001",
+    "Nome": "Central - NSange - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Central - NSange CENTRAL MW-01-0001 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Ancião HENRY KHENI ZONGOLOTI Cooperador Ofício Ministerial Geraldo Mabvuto"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0041",
+    "Nome": "Chapananga",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Chapananga MW-01-0041 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Jamson January"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0064",
+    "Nome": "Chinsapo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Lilongwe, LILONGWE, Malawi",
+    "Cidade": "Distrito de Lilongwe, LILONGWE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Chinsapo MW-01-0064 Localização Logradouro: CEP: Cidade: Distrito de Lilongwe, LILONGWE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Vincent Galimoto"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0011",
+    "Nome": "Fargo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Fargo MW-01-0011 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Samuel Phindu"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0043",
+    "Nome": "Gulumba",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gulumba MW-01-0043 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial John Petro"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0042",
+    "Nome": "Gulumba I",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gulumba I MW-01-0042 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Karim Usen"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0009",
+    "Nome": "Gulumba II",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gulumba II MW-01-0009 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Lenard Mailosi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0044",
+    "Nome": "Gulumba III",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gulumba III MW-01-0044 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Gamulanje January"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0045",
+    "Nome": "Gulumba IV",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Gulumba IV MW-01-0045 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Fred David"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0046",
+    "Nome": "Guta",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Guta MW-01-0046 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Maude Multiply"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0047",
+    "Nome": "Kalula",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Kalula MW-01-0047 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Stenala Dango"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0022",
+    "Nome": "Konzere",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Konzere MW-01-0022 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Nelson Ngilazi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0048",
+    "Nome": "Lulwe",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Lulwe MW-01-0048 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial George Mose"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0049",
+    "Nome": "Makhanga",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Makhanga MW-01-0049 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Chasiya Seleman"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0050",
+    "Nome": "Mdeka",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mdeka MW-01-0050 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Tchale Richard"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0051",
+    "Nome": "Mkuzaduka",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mkuzaduka MW-01-0051 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial David Geofrey"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0054",
+    "Nome": "Mtemadalo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mtemadalo MW-01-0054 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Keyson Sozinyo"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0052",
+    "Nome": "Muyanganira I",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Muyanganira I MW-01-0052 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Hendrex Khafasi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0053",
+    "Nome": "Muyanganira II",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Muyanganira II MW-01-0053 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Maeford Nyelezelani"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0055",
+    "Nome": "Nchalo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nchalo MW-01-0055 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial John Peter"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0056",
+    "Nome": "Ngabu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Ngabu MW-01-0056 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Tomas Gomasi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0057",
+    "Nome": "Njovu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Njovu MW-01-0057 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Petro Harry"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0058",
+    "Nome": "Nsusa",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nsusa MW-01-0058 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Evason Nkhakamia"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0059",
+    "Nome": "Ntowe",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Ntowe MW-01-0059 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial David Miliasi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0060",
+    "Nome": "Nyaika",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nyaika MW-01-0060 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Vincent Juga"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0061",
+    "Nome": "Nyamatchelenga",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nyamatchelenga MW-01-0061 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Dyson Katandika"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0031",
+    "Nome": "Nyambiro",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nyambiro MW-01-0031 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Peter Bonjesi"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0037",
+    "Nome": "Tengani",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Tengani MW-01-0037 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Peterson Study"
+    }
+  },
+  {
+    "CodigoId": "MW-01-0062",
+    "Nome": "Tizola",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Nsanje, NSANJE, Malawi",
+    "Cidade": "Distrito de Nsanje, NSANJE, Malawi",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Tizola MW-01-0062 Localização Logradouro: CEP: Cidade: Distrito de Nsanje, NSANJE, Malawi Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Robert Zuze"
+    }
+  }
+]

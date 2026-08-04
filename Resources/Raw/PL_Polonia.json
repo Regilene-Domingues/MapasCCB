@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "PL-01-0001",
+    "Nome": "Wroclaw - Central",
+    "Logradouro": "Partynicka 29-37",
+    "CEP": "53-031",
+    "Cidade": "Breslávia (wroclaw), BAIXA SILÉSIA (Dolnoslaski), Polônia (ee)",
+    "Coordenadas": {
+      "lat": 51.0642703,
+      "lon": 16.9940505
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00 (Wroclaw) / 15:00 (Varsóvia) / 15:00 (Cracóvia"
+      },
+      "Obs": "Localidade Wroclaw CENTRAL PL-01-0001 Localização Logradouro: Partynicka 29-37 CEP: 53-031 Cidade: Breslávia (wroclaw), BAIXA SILÉSIA (Dolnoslaski), Polônia (ee) Dias de Culto 1º Sáb 15:00 (Wroclaw) - 3º Sáb 15:00 (Varsóvia) - 4º Sáb 15:00 (Cracóvia) Ministério Cooperador Ofício Ministerial Juliano Antônio Dourado Malaquias Telefone(s) +48 () 730 285 901"
+    }
+  }
+]

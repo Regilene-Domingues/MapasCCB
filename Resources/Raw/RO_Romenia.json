@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "RO-01-0001",
+    "Nome": "Sector 3 - Central",
+    "Logradouro": "Strada Anton Pann, nr 54, et 1, ap 2, sector 3",
+    "CEP": "Cidade: Bucharest (bucareste), B, Romênia (ee)",
+    "Cidade": "Bucharest (bucareste), B, Romênia (ee)",
+    "Coordenadas": {
+      "lat": 44.42721974076946,
+      "lon": 26.115135449911918
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Sector 3 CENTRAL RO-01-0001 Localização Logradouro: Strada Anton Pann, nr 54, et 1, ap 2, sector 3 CEP: Cidade: Bucharest (bucareste), B, Romênia (ee) Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Carlos Henrique Correia Cabral Telefone(s) +40 (749) 093-358"
+    }
+  }
+]

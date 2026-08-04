@@ -1,0 +1,42 @@
+[
+  {
+    "CodigoId": "LB-01-0001",
+    "Nome": "Baalchmai",
+    "Logradouro": "Rua Zuhur, s/nº",
+    "CEP": "Cidade: Baabda, MONTE LÍBANO, LÍBANO (EE)",
+    "Cidade": "Baabda, MONTE LÍBANO, LÍBANO (EE)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Baalchmai LB-01-0001 Localização Logradouro: Rua Zuhur, s/nº CEP: Cidade: Baabda, MONTE LÍBANO, LÍBANO (EE) Dias de Culto 1º e 3º Dom 10:30 Ministério Cooperador Ofício Ministerial Antoine Edisson Haddad Antoine Edisson Haddad Telefone(s) +961 (71) 058-620"
+    }
+  },
+  {
+    "CodigoId": "LB-01-0002",
+    "Nome": "Ebeeia - Central",
+    "Logradouro": "Rua 704 com Rua 7, 428",
+    "CEP": "Cidade: Aley, MONTE LÍBANO, LÍBANO (EE)",
+    "Cidade": "Aley, MONTE LÍBANO, LÍBANO (EE)",
+    "Coordenadas": {
+      "lat": 33.6386856,
+      "lon": 35.4301812
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério Ancião Adib Abdalla Saulo Husni Alouan"
+      ],
+      "Horarios": {
+        "Ministério Ancião Adib Abdalla Saulo Husni Alouan": "Ministério Ancião Adib Abdalla Saulo Husni Alouan"
+      },
+      "Obs": "Localidade Ebeeia CENTRAL LB-01-0002 Localização Logradouro: Rua 704 com Rua 7, 428 CEP: Cidade: Aley, MONTE LÍBANO, LÍBANO (EE) Dias de Culto Ministério Ancião Adib Abdalla Saulo Husni Alouan"
+    }
+  }
+]

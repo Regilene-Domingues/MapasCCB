@@ -21,6 +21,7 @@ public static class MauiProgram
 		// ======= REGISTRO DE DEPENDÊNCIAS (Adicione estas linhas) =======
 		builder.Services.AddSingleton<ChurchService>();
 		builder.Services.AddTransient<MainPage>();
+		builder.Services.AddSingleton<PaisService>();
 		// ================================================================
 
 #if DEBUG

@@ -1,0 +1,162 @@
+[
+  {
+    "CodigoId": "ZM-01-0010",
+    "Nome": "Bairro Boss-boss",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lusaka, LS, Zâmbia",
+    "Cidade": "Lusaka, LS, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bairro Boss-boss ZM-01-0010 Localização Logradouro: CEP: Cidade: Lusaka, LS, Zâmbia Dias de Culto 1º e 2º Dom 10:00 Ministério Cooperador Ofício Ministerial Awiya James Chipepo"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0001",
+    "Nome": "Bairro Los Angeles - Central",
+    "Logradouro": "Plotter 11450 Road Makeni Khongal",
+    "CEP": "Cidade: Lusaka, LS, Zâmbia",
+    "Cidade": "Lusaka, LS, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bairro Los Angeles CENTRAL ZM-01-0001 Localização Logradouro: Plotter 11450 Road Makeni Khongal CEP: Cidade: Lusaka, LS, Zâmbia Dias de Culto 3º e 4º Dom 10:00 Ministério Ancião JONAS NGONGA"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0008",
+    "Nome": "Mianba Lake Tanganica - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mpolungo, NO, Zâmbia",
+    "Cidade": "Mpolungo, NO, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mianba Lake Tanganica CENTRAL ZM-01-0008 Localização Logradouro: CEP: Cidade: Mpolungo, NO, Zâmbia Complemento: (Culto de Evangelização) Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0002",
+    "Nome": "Mpande Aroud Kafue - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Chipapa Court, LS, Zâmbia",
+    "Cidade": "Chipapa Court, LS, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mpande Aroud Kafue CENTRAL ZM-01-0002 Localização Logradouro: CEP: Cidade: Chipapa Court, LS, Zâmbia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Edson Sanson Siwo Diácono Edson Kapemba Sinyangwe"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0004",
+    "Nome": "Mponqwe District - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ybenga, CO, Zâmbia",
+    "Cidade": "Ybenga, CO, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Mponqwe District CENTRAL ZM-01-0004 Localização Logradouro: CEP: Cidade: Ybenga, CO, Zâmbia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Percy Mizy Cooperador de Jovens e Menores Dominic Nguza Mizy"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0007",
+    "Nome": "Pamoze",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ndola, CO, Zâmbia",
+    "Cidade": "Ndola, CO, Zâmbia",
+    "Coordenadas": {
+      "lat": -12.9693056,
+      "lon": 28.6365894
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Pamoze ZM-01-0007 Localização Logradouro: CEP: Cidade: Ndola, CO, Zâmbia Dias de Culto Dom 10:00 Ministério Diácono Federico Khomeni"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0006",
+    "Nome": "Rufunsa Zone",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nyangwena, LS, Zâmbia",
+    "Cidade": "Nyangwena, LS, Zâmbia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Rufunsa Zone ZM-01-0006 Localização Logradouro: CEP: Cidade: Nyangwena, LS, Zâmbia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Luciane Kamawe"
+    }
+  },
+  {
+    "CodigoId": "ZM-01-0005",
+    "Nome": "Twapia - Central",
+    "Logradouro": "9 Twapia Road",
+    "CEP": "Cidade: Ndola, CO, Zâmbia",
+    "Cidade": "Ndola, CO, Zâmbia",
+    "Coordenadas": {
+      "lat": -12.9693056,
+      "lon": 28.6365894
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Twapia CENTRAL ZM-01-0005 Localização Logradouro: 9 Twapia Road CEP: Cidade: Ndola, CO, Zâmbia Dias de Culto Dom 10:00 Ministério Ancião WESLEY SIAME"
+    }
+  }
+]

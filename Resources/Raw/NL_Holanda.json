@@ -1,0 +1,104 @@
+[
+  {
+    "CodigoId": "NL-01-0009",
+    "Nome": "Almere - Central",
+    "Logradouro": "Parkwijklaan, 44",
+    "CEP": "1326 AS",
+    "Cidade": "Almere, FL, Holanda",
+    "Coordenadas": {
+      "lat": 52.3746171,
+      "lon": 5.243715
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30 (Português"
+      },
+      "Obs": "Localidade Almere CENTRAL NL-01-0009 Localização Logradouro: Parkwijklaan, 44 CEP: 1326 AS Cidade: Almere, FL, Holanda Complemento: (Reunião de Evangelização) Dias de Culto 2ª Sex 19:30 (Português) Ministério Telefone(s) +31 () 684 431 749"
+    }
+  },
+  {
+    "CodigoId": "NL-01-0002",
+    "Nome": "De Molenwerf",
+    "Logradouro": "De Molenwerfslaan, 11",
+    "CEP": "2103 TC",
+    "Cidade": "Heemstede, NH, Holanda",
+    "Coordenadas": {
+      "lat": 52.3440834,
+      "lon": 4.6268382
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 (Português) 4º Dom 15:00 (Holandês/Português) / RJM 2º Dom 15:00"
+      },
+      "Obs": "Localidade De Molenwerf NL-01-0002 Localização Logradouro: De Molenwerfslaan, 11 CEP: 2103 TC Cidade: Heemstede, NH, Holanda Dias de Culto 1º e 2º Dom 15:00 (Português) 4º Dom 15:00 (Holandês/Português) - (RJM 2º Dom 15:00) Ministério Cooperador Ofício Ministerial Daniel Braga de Andrade Araujo Telefone(s) +31 () 684 431 749"
+    }
+  },
+  {
+    "CodigoId": "NL-01-0003",
+    "Nome": "Liskwartier",
+    "Logradouro": "Lisplein 31",
+    "CEP": "3037 AS",
+    "Cidade": "Rotterdam, ZH, Holanda",
+    "Coordenadas": {
+      "lat": 51.9395543,
+      "lon": 4.4741852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30 (Português) / RJM 2º e 4º Sex 19:30 - Português"
+      },
+      "Obs": "Localidade Liskwartier NL-01-0003 Localização Logradouro: Lisplein 31 CEP: 3037 AS Cidade: Rotterdam, ZH, Holanda Dias de Culto Sex 19:30 (Português) - (RJM 2º e 4º Sex 19:30 - Português) Ministério Ancião BALBINO CAETANO NETO Cooperador Ofício Ministerial José Walbério Rabelo Diácono Claudio Sérgio da Silva Oliveira Cooperador de Jovens e Menores Felipe Meris Santos Telefone(s) +31 () 684 431 749"
+    }
+  },
+  {
+    "CodigoId": "NL-01-0001",
+    "Nome": "Osdorp-Oost (Oeste) - Central",
+    "Logradouro": "Tussen Meer 68",
+    "CEP": "1069 DS",
+    "Cidade": "Amsterdam, NH, Holanda",
+    "Coordenadas": {
+      "lat": 52.3580788,
+      "lon": 4.7978174
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 (Português) / 19:00 (Holandês/Português",
+        "Domingo": "RJM 3º Dom 15:00 - 1º Sáb 19:00"
+      },
+      "Obs": "Localidade Osdorp-Oost (Oeste) CENTRAL NL-01-0001 Localização Logradouro: Tussen Meer 68 CEP: 1069 DS Cidade: Amsterdam, NH, Holanda Dias de Culto Sáb 19:00 (Português) - 3º Sáb 19:00 (Holandês/Português) (RJM 3º Dom 15:00 - 1º Sáb 19:00) Ministério Ancião SALOMÃO COSTA FARIAS LUIZ CLAUDIO SIMÕES Cooperador Ofício Ministerial Thiago Alves Brizolla Diácono Francisco Pinheiro da Silva Junior Cooperador de Jovens e Menores Wellington Henrique Matias da Silva Telefone(s) +31 () 684 431 749"
+    }
+  },
+  {
+    "CodigoId": "NL-01-0006",
+    "Nome": "Oss",
+    "Logradouro": "Vianenstraat 102",
+    "CEP": "5342 AJ",
+    "Cidade": "Oss, NB, Holanda",
+    "Coordenadas": {
+      "lat": 51.7618761,
+      "lon": 5.5225382
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM 1º e 3º Dom 15:00"
+      },
+      "Obs": "Localidade Oss NL-01-0006 Localização Logradouro: Vianenstraat 102 CEP: 5342 AJ Cidade: Oss, NB, Holanda Complemento: (ao fundo da igreja Paaskerk) Dias de Culto Dom 15:00 (RJM 1º e 3º Dom 15:00) Ministério Cooperador Ofício Ministerial Jônatas Lucas Nicolini Caetano Telefone(s) +31 () 684 431 749"
+    }
+  }
+]

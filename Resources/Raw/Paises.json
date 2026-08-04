@@ -1,0 +1,634 @@
+[
+  {
+    "Codigo": "AE",
+    "Nome": "Emirados Arabes Unidos",
+    "Arquivo": "AE_EmiradosArabesUnidos.json",
+    "Bandeira": "🇦🇪",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "AO",
+    "Nome": "Angola",
+    "Arquivo": "AO_Angola.json",
+    "Bandeira": "🇦🇴",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "AR",
+    "Nome": "Argentina",
+    "Arquivo": "AR_Argentina.json",
+    "Bandeira": "🇦🇷",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "AT",
+    "Nome": "Austria",
+    "Arquivo": "AT_Austria.json",
+    "Bandeira": "🇦🇹",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "AU",
+    "Nome": "Australia",
+    "Arquivo": "AU_Australia.json",
+    "Bandeira": "🇦🇺",
+    "Continente": "Oceania",
+    "Ativo": false
+  },
+  {
+    "Codigo": "BE",
+    "Nome": "Belgica",
+    "Arquivo": "BE_Belgica.json",
+    "Bandeira": "🇧🇪",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "BO",
+    "Nome": "Bolivia",
+    "Arquivo": "BO_Bolivia.json",
+    "Bandeira": "🇧🇴",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "BW",
+    "Nome": "Botsuana",
+    "Arquivo": "BW_Botsuana.json",
+    "Bandeira": "🇧🇼",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CA",
+    "Nome": "Canada",
+    "Arquivo": "CA_Canada.json",
+    "Bandeira": "🇨🇦",
+    "Continente": "América do Norte",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CG",
+    "Nome": "Republica do Congo",
+    "Arquivo": "CG_RepublicaDoCongo.json",
+    "Bandeira": "🇨🇬",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CD",
+    "Nome": "Republica Democratica do Congo",
+    "Arquivo": "CD_RepublicaDemocraticaDoCongo.json",
+    "Bandeira": "🇨🇩",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CH",
+    "Nome": "Suica",
+    "Arquivo": "CH_Suica.json",
+    "Bandeira": "🇨🇭",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CI",
+    "Nome": "Costa do Marfim",
+    "Arquivo": "CI_CostaDoMarfim.json",
+    "Bandeira": "🇨🇮",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CL",
+    "Nome": "Chile",
+    "Arquivo": "CL_Chile.json",
+    "Bandeira": "🇨🇱",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CO",
+    "Nome": "Colombia",
+    "Arquivo": "CO_Colombia.json",
+    "Bandeira": "🇨🇴",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CR",
+    "Nome": "Costa Rica",
+    "Arquivo": "CR_CostaRica.json",
+    "Bandeira": "🇨🇷",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CU",
+    "Nome": "Cuba",
+    "Arquivo": "CU_Cuba.json",
+    "Bandeira": "🇨🇺",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "CV",
+    "Nome": "Cabo Verde",
+    "Arquivo": "CV_CaboVerde.json",
+    "Bandeira": "🇨🇻",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "DE",
+    "Nome": "Alemanha",
+    "Arquivo": "DE_Alemanha.json",
+    "Bandeira": "🇩🇪",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "DK",
+    "Nome": "Dinamarca",
+    "Arquivo": "DK_Dinamarca.json",
+    "Bandeira": "🇩🇰",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "DO",
+    "Nome": "RepublicaDominicana",
+    "Arquivo": "DO_RepublicaDominicana.json",
+    "Bandeira": "🇩🇴",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "EC",
+    "Nome": "Equador",
+    "Arquivo": "EC_Equador.json",
+    "Bandeira": "🇪🇨",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "ES",
+    "Nome": "Espanha",
+    "Arquivo": "ES_Espanha.json",
+    "Bandeira": "🇪🇸",
+    "Continente": "Europa",
+    "Ativo": true
+  },
+  {
+    "Codigo": "FI",
+    "Nome": "Finlandia",
+    "Arquivo": "FI_Finlandia.json",
+    "Bandeira": "🇫🇮",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "FJ",
+    "Nome": "Fiji",
+    "Arquivo": "FJ_Fiji.json",
+    "Bandeira": "🇫🇯",
+    "Continente": "Oceania",
+    "Ativo": false
+  },
+  {
+    "Codigo": "FR",
+    "Nome": "Franca",
+    "Arquivo": "FR_Franca.json",
+    "Bandeira": "🇫🇷",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GB",
+    "Nome": "Reino Unido",
+    "Arquivo": "GB_Reino_Unido.json",
+    "Bandeira": "🇬🇧",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GF",
+    "Nome": "GuianaFrancesa",
+    "Arquivo": "GF_GuianaFrancesa.json",
+    "Bandeira": "🇬🇫",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GH",
+    "Nome": "Gana",
+    "Arquivo": "GH_Gana.json",
+    "Bandeira": "🇬🇭",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GR",
+    "Nome": "Grecia",
+    "Arquivo": "GR_Grecia.json",
+    "Bandeira": "🇬🇷",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GT",
+    "Nome": "Guatemala",
+    "Arquivo": "GT_Guatemala.json",
+    "Bandeira": "🇬🇹",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GW",
+    "Nome": "GuineBissau",
+    "Arquivo": "GW_GuineBissau.json",
+    "Bandeira": "🇬🇼",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "GY",
+    "Nome": "Guiana",
+    "Arquivo": "GY_Guiana.json",
+    "Bandeira": "🇬🇾",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "HT",
+    "Nome": "Haiti",
+    "Arquivo": "HT_Haiti.json",
+    "Bandeira": "🇭🇹",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "HN",
+    "Nome": "Honduras",
+    "Arquivo": "HN_Honduras.json",
+    "Bandeira": "🇭🇳",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "IE",
+    "Nome": "Irlanda",
+    "Arquivo": "IE_Irlanda.json",
+    "Bandeira": "🇮🇪",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "IL",
+    "Nome": "Israel",
+    "Arquivo": "IL_Israel.json",
+    "Bandeira": "🇮🇱",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "IN",
+    "Nome": "India",
+    "Arquivo": "IN_India.json",
+    "Bandeira": "🇮🇳",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "IT",
+    "Nome": "Italia",
+    "Arquivo": "IT_Italia.json",
+    "Bandeira": "🇮🇹",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "JP",
+    "Nome": "Japao",
+    "Arquivo": "JP_Japao.json",
+    "Bandeira": "🇯🇵",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "KE",
+    "Nome": "Quenia",
+    "Arquivo": "KE_Quenia.json",
+    "Bandeira": "🇰🇪",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "KI",
+    "Nome": "Kiribati",
+    "Arquivo": "KI_Kiribati.json",
+    "Bandeira": "🇰🇮",
+    "Continente": "Oceania",
+    "Ativo": false
+  },
+  {
+    "Codigo": "KR",
+    "Nome": "CoreiaDoSul",
+    "Arquivo": "KR_CoreiaDoSul.json",
+    "Bandeira": "🇰🇷",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "LB",
+    "Nome": "Libano",
+    "Arquivo": "LB_Libano.json",
+    "Bandeira": "🇱🇧",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "LK",
+    "Nome": "SriLanka",
+    "Arquivo": "LK_SriLanka.json",
+    "Bandeira": "🇱🇰",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "LU",
+    "Nome": "Luxemburgo",
+    "Arquivo": "LU_Luxemburgo.json",
+    "Bandeira": "🇱🇺",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "MT",
+    "Nome": "Malta",
+    "Arquivo": "MT_Malta.json",
+    "Bandeira": "🇲🇹",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "MW",
+    "Nome": "Malawi",
+    "Arquivo": "MW_Malawi.json",
+    "Bandeira": "🇲🇼",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "MX",
+    "Nome": "Mexico",
+    "Arquivo": "MX_Mexico.json",
+    "Bandeira": "🇲🇽",
+    "Continente": "América do Norte",
+    "Ativo": false
+  },
+  {
+    "Codigo": "MZ",
+    "Nome": "Mocambique",
+    "Arquivo": "MZ_Mocambique.json",
+    "Bandeira": "🇲🇿",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "NG",
+    "Nome": "Nigeria",
+    "Arquivo": "NG_Nigeria.json",
+    "Bandeira": "🇳🇬",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "NI",
+    "Nome": "Nicaragua",
+    "Arquivo": "NI_Nicaragua.json",
+    "Bandeira": "🇳🇮",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "NL",
+    "Nome": "Holanda",
+    "Arquivo": "NL_Holanda.json",
+    "Bandeira": "🇳🇱",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "NO",
+    "Nome": "Noruega",
+    "Arquivo": "NO_Noruega.json",
+    "Bandeira": "🇳🇴",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "NZ",
+    "Nome": "NovaZelandia",
+    "Arquivo": "NZ_NovaZelandia.json",
+    "Bandeira": "🇳🇿",
+    "Continente": "Oceania",
+    "Ativo": false
+  },
+  {
+    "Codigo": "PA",
+    "Nome": "Panama",
+    "Arquivo": "PA_Panama.json",
+    "Bandeira": "🇵🇦",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "PE",
+    "Nome": "Peru",
+    "Arquivo": "PE_Peru.json",
+    "Bandeira": "🇵🇪",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "PH",
+    "Nome": "Filipinas",
+    "Arquivo": "PH_Filipinas.json",
+    "Bandeira": "🇵🇭",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "PL",
+    "Nome": "Polonia",
+    "Arquivo": "PL_Polonia.json",
+    "Bandeira": "🇵🇱",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "PT",
+    "Nome": "Portugal",
+    "Arquivo": "PT_Portugal.json",
+    "Bandeira": "🇵🇹",
+    "Continente": "Europa",
+    "Ativo": true
+  },
+  {
+    "Codigo": "PY",
+    "Nome": "Paraguai",
+    "Arquivo": "PY_Paraguai.json",
+    "Bandeira": "🇵🇾",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "QA",
+    "Nome": "Catar",
+    "Arquivo": "QA_Catar.json",
+    "Bandeira": "🇶🇦",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "RO",
+    "Nome": "Romenia",
+    "Arquivo": "RO_Romenia.json",
+    "Bandeira": "🇷🇴",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "RU",
+    "Nome": "Russia",
+    "Arquivo": "RU_Russia.json",
+    "Bandeira": "🇷🇺",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "RW",
+    "Nome": "Ruanda",
+    "Arquivo": "RW_Ruanda.json",
+    "Bandeira": "🇷🇼",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "SE",
+    "Nome": "Suecia",
+    "Arquivo": "SE_Suecia.json",
+    "Bandeira": "🇸🇪",
+    "Continente": "Europa",
+    "Ativo": false
+  },
+  {
+    "Codigo": "SR",
+    "Nome": "Suriname",
+    "Arquivo": "SR_Suriname.json",
+    "Bandeira": "🇸🇷",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "ST",
+    "Nome": "SaoTomeePrincipe",
+    "Arquivo": "ST_SaoTomeEPrincipe.json",
+    "Bandeira": "🇸🇹",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "SV",
+    "Nome": "ElSalvador",
+    "Arquivo": "SV_ElSalvador.json",
+    "Bandeira": "🇸🇻",
+    "Continente": "América Central",
+    "Ativo": false
+  },
+  {
+    "Codigo": "SY",
+    "Nome": "Siria",
+    "Arquivo": "SY_Siria.json",
+    "Bandeira": "🇸🇾",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "TL",
+    "Nome": "TimorLeste",
+    "Arquivo": "TL_TimorLeste.json",
+    "Bandeira": "🇹🇱",
+    "Continente": "Ásia",
+    "Ativo": false
+  },
+  {
+    "Codigo": "TZ",
+    "Nome": "Tanzania",
+    "Arquivo": "TZ_Tanzania.json",
+    "Bandeira": "🇹🇿",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "UG",
+    "Nome": "Uganda",
+    "Arquivo": "UG_Uganda.json",
+    "Bandeira": "🇺🇬",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "US",
+    "Nome": "EstadosUnidos",
+    "Arquivo": "US_EstadosUnidos.json",
+    "Bandeira": "🇺🇸",
+    "Continente": "América do Norte",
+    "Ativo": false
+  },
+  {
+    "Codigo": "UY",
+    "Nome": "Uruguai",
+    "Arquivo": "UY_Uruguai.json",
+    "Bandeira": "🇺🇾",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "VE",
+    "Nome": "Venezuela",
+    "Arquivo": "VE_Venezuela.json",
+    "Bandeira": "🇻🇪",
+    "Continente": "América do Sul",
+    "Ativo": false
+  },
+  {
+    "Codigo": "WS",
+    "Nome": "Samoa",
+    "Arquivo": "WS_Samoa.json",
+    "Bandeira": "🇼🇸",
+    "Continente": "Oceania",
+    "Ativo": false
+  },
+  {
+    "Codigo": "ZA",
+    "Nome": "AfricaDoSul",
+    "Arquivo": "ZA_AfricaDoSul.json",
+    "Bandeira": "🇿🇦",
+    "Continente": "África",
+    "Ativo": false
+  },
+  {
+    "Codigo": "ZM",
+    "Nome": "Zambia",
+    "Arquivo": "ZM_Zambia.json",
+    "Bandeira": "🇿🇲",
+    "Continente": "África",
+    "Ativo": false
+  }
+]

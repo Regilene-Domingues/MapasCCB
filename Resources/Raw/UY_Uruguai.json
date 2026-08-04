@@ -1,0 +1,378 @@
+[
+  {
+    "CodigoId": "UY-01-0001",
+    "Nome": "Barrio 25 de agosto",
+    "Logradouro": "Calle 20 de Setiembre, 722",
+    "CEP": "Cidade: Artigas, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Cidade": "Artigas, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Barrio 25 de agosto UY-01-0001 Localização Logradouro: Calle 20 de Setiembre, 722 CEP: Cidade: Artigas, DEPARTAMENTO ARTIGAS, Uruguai Dias de Culto Sex 19:30 Ministério Cooperador Ofício Ministerial João Araujo dos Santos"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0030",
+    "Nome": "Barrio El Pozo",
+    "Logradouro": "Calle Zelmar Michelini, 518",
+    "CEP": "Cidade: Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai",
+    "Cidade": "Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai",
+    "Coordenadas": {
+      "lat": -34.4163109,
+      "lon": -57.4485391
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Barrio El Pozo UY-01-0030 Localização Logradouro: Calle Zelmar Michelini, 518 CEP: Cidade: Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai Dias de Culto Dom 18:30 Ministério Cooperador Ofício Ministerial Sidiney Martins Gomes Telefone(s) +598 () 9901-7345"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0031",
+    "Nome": "Barrio Godoy - Central",
+    "Logradouro": "Calle Chiquito Saraiva, 1617",
+    "CEP": "Cidade: Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai",
+    "Cidade": "Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:30 / RJM Sáb 18:30"
+      },
+      "Obs": "Localidade Barrio Godoy CENTRAL UY-01-0031 Localização Logradouro: Calle Chiquito Saraiva, 1617 CEP: Cidade: Tacuarembó, DEPARTAMENTO TACUAREMBÓ, Uruguai Dias de Culto Sáb 18:30 (RJM Sáb 18:30) Ministério Ancião WILTON NERIEL GRANADA CUADRO Telefone(s) +598 () 9929-2176"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0002",
+    "Nome": "Barrio Industrial - Central",
+    "Logradouro": "Calle Celiar López, 935",
+    "CEP": "Cidade: Artigas, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Cidade": "Artigas, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quarta-feira": "19:30",
+        "Sábado": "RJM 1º e 3º Sáb 17:00"
+      },
+      "Obs": "Localidade Barrio Industrial CENTRAL UY-01-0002 Localização Logradouro: Calle Celiar López, 935 CEP: Cidade: Artigas, DEPARTAMENTO ARTIGAS, Uruguai Dias de Culto Dom 18:30 - Qua 19:30 (RJM 1º e 3º Sáb 17:00) Ministério Cooperador Ofício Ministerial Julio Santo Morán Luzardo Diácono Pablo Roberto Millán Montes Telefone(s) +598 () 9585-7627 +598 () 9662-2823"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0011",
+    "Nome": "Brazo Oriental - Central",
+    "Logradouro": "Calle Doctor Magested, 1683",
+    "CEP": "Cidade: Montevideo, DEPARTAMENTO MONTEVIDEO, Uruguai",
+    "Cidade": "Montevideo, DEPARTAMENTO MONTEVIDEO, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "16:30"
+      },
+      "Obs": "Localidade Brazo Oriental CENTRAL UY-01-0011 Localização Logradouro: Calle Doctor Magested, 1683 CEP: Cidade: Montevideo, DEPARTAMENTO MONTEVIDEO, Uruguai Complemento: Entre Darwin y Mariano Soler Dias de Culto DN 5N (RJM-DT) Dom 18:30 - Qui 19:30 (RJM Dom 16:30) Reunião de Jovens e Menores Domingo - 16:30 - es_UY Culto Oficial Domingo - 18:30 - es_UY Quinta-feira - 19:30 - es_UY Ministério Ancião SILVANDER LOPES DE FARIA Cooperador Ofício Ministerial Fermin Aurelio González Diácono Ramon Dario Roldan Zamit Telefone(s) +598 () 9750-6250"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0014",
+    "Nome": "Central - Central",
+    "Logradouro": "Calle Montecaseros, 435",
+    "CEP": "Cidade: Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Cidade": "Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:30 / RJM 4º Sáb 16:30"
+      },
+      "Obs": "Localidade Central CENTRAL UY-01-0014 Localização Logradouro: Calle Montecaseros, 435 CEP: Cidade: Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai Dias de Culto Sáb 18:30 (RJM 4º Sáb 16:30) Ministério Ancião PABLO ALBERTO MEDINA JULIO CESAR SILVA OBISPO Cooperador Ofício Ministerial Fernando Daniel Vázquez Rivero Diácono Miguel Angel Re Moscón Telefone(s) +598 () 4723-8548"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0020",
+    "Nome": "Centro - Central",
+    "Logradouro": "Calle Paysandú, 742",
+    "CEP": "Cidade: Rivera, DEPARTAMENTO RIVERA, Uruguai",
+    "Cidade": "Rivera, DEPARTAMENTO RIVERA, Uruguai",
+    "Coordenadas": {
+      "lat": -32.3728886,
+      "lon": -57.6064702
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Centro CENTRAL UY-01-0020 Localização Logradouro: Calle Paysandú, 742 CEP: Cidade: Rivera, DEPARTAMENTO RIVERA, Uruguai Dias de Culto Dom 16:00 - Sex 19:30 Ministério Cooperador Ofício Ministerial Luis Claudio Vieira dos Santos Moreira Diácono Matheus Santos Moreira"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0022",
+    "Nome": "Centro - Central",
+    "Logradouro": "Calle José Hernández y Dinegri, s/nº",
+    "CEP": "Cidade: Rocha, DEPARTAMENTO ROCHA, Uruguai",
+    "Cidade": "Rocha, DEPARTAMENTO ROCHA, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:30"
+      },
+      "Obs": "Localidade Centro CENTRAL UY-01-0022 Localização Logradouro: Calle José Hernández y Dinegri, s/nº CEP: Cidade: Rocha, DEPARTAMENTO ROCHA, Uruguai Dias de Culto Dom 14:30 Ministério Telefone(s) +598 () 9766-8497"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0028",
+    "Nome": "Cerca del hormigón - Central",
+    "Logradouro": "Calle Convención, Manzana B9, Solar 32",
+    "CEP": "Cidade: El Pinar, DEPARTAMENTO CANELONES, Uruguai",
+    "Cidade": "El Pinar, DEPARTAMENTO CANELONES, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Cerca del hormigón CENTRAL UY-01-0028 Localização Logradouro: Calle Convención, Manzana B9, Solar 32 CEP: Cidade: El Pinar, DEPARTAMENTO CANELONES, Uruguai Complemento: Entre 17 metros y Mallorca Dias de Culto Sex 19:30 Ministério Ancião HUGO JONAHATAN BAUTISTA SILVA Telefone(s) +598 () 9796-4395"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0015",
+    "Nome": "Chaplin",
+    "Logradouro": "Calle Éxodo y Joaquín Suárez",
+    "CEP": "Cidade: Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Cidade": "Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30",
+        "Domingo": "RJM 1º e 3º Dom 10:00"
+      },
+      "Obs": "Localidade Chaplin UY-01-0015 Localização Logradouro: Calle Éxodo y Joaquín Suárez CEP: Cidade: Paysandú, DEPARTAMENTO PAYSANDÚ, Uruguai Dias de Culto Sex 19:30 (RJM 1º e 3º Dom 10:00) Ministério Ancião MARIO HECTOR VAZQUEZ Cooperador Ofício Ministerial Alejandro Isasa Diácono Eliseo De Los Santos Bicca Martin Vasquez Cooperador de Jovens e Menores Mario Andres Atienza Cardozo Telefone(s) +598 () 9551-4353"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0021",
+    "Nome": "Chuy - Central",
+    "Logradouro": "Calle Río Olimar, 431",
+    "CEP": "Cidade: Chuy, DEPARTAMENTO ROCHA, Uruguai",
+    "Cidade": "Chuy, DEPARTAMENTO ROCHA, Uruguai",
+    "Coordenadas": {
+      "lat": -34.8410332,
+      "lon": -55.9795878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Chuy CENTRAL UY-01-0021 Localização Logradouro: Calle Río Olimar, 431 CEP: Cidade: Chuy, DEPARTAMENTO ROCHA, Uruguai Dias de Culto Dom 18:30 Ministério Cooperador Ofício Ministerial Elcio José da Silva Telefone(s) +598 () (53)95433-3314"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0007",
+    "Nome": "El Empuje - Central",
+    "Logradouro": "Calle Manuel Oribe",
+    "CEP": "Cidade: Tarariras, DEPARTAMENTO COLONIA, Uruguai",
+    "Cidade": "Tarariras, DEPARTAMENTO COLONIA, Uruguai",
+    "Coordenadas": {
+      "lat": -34.7629303,
+      "lon": -55.7250084
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade El Empuje CENTRAL UY-01-0007 Localização Logradouro: Calle Manuel Oribe CEP: Cidade: Tarariras, DEPARTAMENTO COLONIA, Uruguai Complemento: Entre 25 de Agosto y San Luís Dias de Culto Dom 16:00 - Qui 19:30 Ministério Cooperador Ofício Ministerial Dardo Javier Martínez Duarte Telefone(s) +598 () 9864-9622"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0013",
+    "Nome": "Guichón - Central",
+    "Logradouro": "Calle 18 de Julio, 269",
+    "CEP": "Cidade: Guichón, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Cidade": "Guichón, DEPARTAMENTO PAYSANDÚ, Uruguai",
+    "Coordenadas": {
+      "lat": -32.3730952,
+      "lon": -57.6077615
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Guichón CENTRAL UY-01-0013 Localização Logradouro: Calle 18 de Julio, 269 CEP: Cidade: Guichón, DEPARTAMENTO PAYSANDÚ, Uruguai Dias de Culto Ministério Cooperador Ofício Ministerial Nelson Lopes"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0006",
+    "Nome": "Justo - Central",
+    "Logradouro": "Calle Manuel Oribe y Publica 3",
+    "CEP": "Cidade: Rio Branco, DEPARTAMENTO CERRO LARGO, Uruguai",
+    "Cidade": "Rio Branco, DEPARTAMENTO CERRO LARGO, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Justo CENTRAL UY-01-0006 Localização Logradouro: Calle Manuel Oribe y Publica 3 CEP: Cidade: Rio Branco, DEPARTAMENTO CERRO LARGO, Uruguai Dias de Culto Ter 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0004",
+    "Nome": "Pueblo Las Piedras - Central",
+    "Logradouro": "Calle A2, 3156",
+    "CEP": "Cidade: Bella Unión, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Cidade": "Bella Unión, DEPARTAMENTO ARTIGAS, Uruguai",
+    "Coordenadas": {
+      "lat": -30.4343633,
+      "lon": -56.4631432
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Pueblo Las Piedras CENTRAL UY-01-0004 Localização Logradouro: Calle A2, 3156 CEP: Cidade: Bella Unión, DEPARTAMENTO ARTIGAS, Uruguai Dias de Culto Dom 18:30 Ministério Cooperador Ofício Ministerial Ananias Viera Telefone(s) +598 () 9148-3568"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0009",
+    "Nome": "San Antonio 1 - Central",
+    "Logradouro": "Calle Juana Cárdena esquina con Josefa Luiz",
+    "CEP": "Cidade: Maldonado, DEPARTAMENTO MALDONADO, Uruguai",
+    "Cidade": "Maldonado, DEPARTAMENTO MALDONADO, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade San Antonio 1 CENTRAL UY-01-0009 Localização Logradouro: Calle Juana Cárdena esquina con Josefa Luiz CEP: Cidade: Maldonado, DEPARTAMENTO MALDONADO, Uruguai Dias de Culto Dom 18:30 - Qui 19:30 Ministério Cooperador Ofício Ministerial Luis Alberto Márquez Bevenuto Diácono Omar Fernando Faira Núñez Telefone(s) +598 () 4222-9990 +598 () 4223-3873"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0019",
+    "Nome": "San Javier - Central",
+    "Logradouro": "Calle 27 de Julio entre Lavalleja y 25 de Agosto",
+    "CEP": "Cidade: San Javier, DEPARTAMENTO RÍO NEGRO, Uruguai",
+    "Cidade": "San Javier, DEPARTAMENTO RÍO NEGRO, Uruguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "17:30/19:30"
+      },
+      "Obs": "Localidade San Javier CENTRAL UY-01-0019 Localização Logradouro: Calle 27 de Julio entre Lavalleja y 25 de Agosto CEP: Cidade: San Javier, DEPARTAMENTO RÍO NEGRO, Uruguai Dias de Culto Ter 17:30/19:30 Ministério Cooperador Ofício Ministerial Juan Ramon Diaz Facio"
+    }
+  },
+  {
+    "CodigoId": "UY-01-0037",
+    "Nome": "Tres Ombúes",
+    "Logradouro": "Calle Sergipe esq. Agustín Muñoz",
+    "CEP": "11900",
+    "Cidade": "Montevideo, DEPARTAMENTO MONTEVIDEO, Uruguai",
+    "Coordenadas": {
+      "lat": -34.8494235,
+      "lon": -56.2461519
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Tres Ombúes UY-01-0037 Localização Logradouro: Calle Sergipe esq. Agustín Muñoz CEP: 11900 Cidade: Montevideo, DEPARTAMENTO MONTEVIDEO, Uruguai Dias de Culto 3N SN Ter-Sáb 19:30 Culto Oficial Terça-feira - 19:30 - es_UY Sábado - 19:30 - es_UY Ministério Cooperador Ofício Ministerial Milton Rene Mora Pinto"
+    }
+  }
+]

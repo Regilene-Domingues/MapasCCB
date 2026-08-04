@@ -1,0 +1,166 @@
+[
+  {
+    "CodigoId": "SY-01-0005",
+    "Nome": "Al Arman - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Al Arman, HOMS, SÍRIA",
+    "Cidade": "Al Arman, HOMS, SÍRIA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Al Arman CENTRAL SY-01-0005 Localização Logradouro: CEP: Cidade: Al Arman, HOMS, SÍRIA Dias de Culto Sáb 14:00 Ministério Ancião Adib Abdalla Saulo Husni Alouan Cooperador Ofício Ministerial Karim Zakhour Telefone(s) +963 (955) 175-510"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0004",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Zabadani, DAMASCO, SÍRIA",
+    "Cidade": "Zabadani, DAMASCO, SÍRIA",
+    "Coordenadas": {
+      "lat": 33.7244465,
+      "lon": 36.100194
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "18:00"
+      },
+      "Obs": "Localidade Centro CENTRAL SY-01-0004 Localização Logradouro: CEP: Cidade: Zabadani, DAMASCO, SÍRIA Dias de Culto 1ª Sex 18:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0008",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Haba, TARTUS, SÍRIA",
+    "Cidade": "Haba, TARTUS, SÍRIA",
+    "Coordenadas": {
+      "lat": 34.8030355,
+      "lon": 36.205153
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Centro CENTRAL SY-01-0008 Localização Logradouro: CEP: Cidade: Haba, TARTUS, SÍRIA Dias de Culto Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0006",
+    "Nome": "Im Alzeitoun - Central",
+    "Logradouro": "Próximo a Chahba",
+    "CEP": "Cidade: Im Alzeitoun, SWEDA - BASÃ, SÍRIA",
+    "Cidade": "Im Alzeitoun, SWEDA - BASÃ, SÍRIA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Im Alzeitoun CENTRAL SY-01-0006 Localização Logradouro: Próximo a Chahba CEP: Cidade: Im Alzeitoun, SWEDA - BASÃ, SÍRIA Dias de Culto 3ª Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0002",
+    "Nome": "Kirayatt",
+    "Logradouro": "Haret Kirbaj",
+    "CEP": "Cidade: Jaramana, DAMASCO, SÍRIA",
+    "Cidade": "Jaramana, DAMASCO, SÍRIA",
+    "Coordenadas": {
+      "lat": 33.4863893,
+      "lon": 36.3482783
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Quinta-feira": "19:00",
+        "Sábado": "RJM Sáb 18:00"
+      },
+      "Obs": "Localidade Kirayatt SY-01-0002 Localização Logradouro: Haret Kirbaj CEP: Cidade: Jaramana, DAMASCO, SÍRIA Dias de Culto Dom-Qui 19:00 (RJM Sáb 18:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0003",
+    "Nome": "Massakem - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Rehebe, DAMASCO, SÍRIA",
+    "Cidade": "Rehebe, DAMASCO, SÍRIA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Massakem CENTRAL SY-01-0003 Localização Logradouro: CEP: Cidade: Rehebe, DAMASCO, SÍRIA Dias de Culto 4ª Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0007",
+    "Nome": "Micherfe - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Micherfe, HOMS, SÍRIA",
+    "Cidade": "Micherfe, HOMS, SÍRIA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "17:00 (Quinzenal"
+      },
+      "Obs": "Localidade Micherfe CENTRAL SY-01-0007 Localização Logradouro: CEP: Cidade: Micherfe, HOMS, SÍRIA Dias de Culto Sex 17:00 (Quinzenal) Ministério"
+    }
+  },
+  {
+    "CodigoId": "SY-01-0001",
+    "Nome": "Sehnaia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Achrafief, DAMASCO, SÍRIA",
+    "Cidade": "Achrafief, DAMASCO, SÍRIA",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Sehnaia CENTRAL SY-01-0001 Localização Logradouro: CEP: Cidade: Achrafief, DAMASCO, SÍRIA Dias de Culto 1º Sáb 18:00 Ministério Ancião Adib Abdalla Saulo Husni Alouan"
+    }
+  }
+]

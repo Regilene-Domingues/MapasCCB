@@ -1,0 +1,352 @@
+[
+  {
+    "CodigoId": "TZ-01-0003",
+    "Nome": "Bugogo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Bugogo TZ-01-0003 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Emmanuel Peter Mandalu"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0016",
+    "Nome": "Bulambila",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Bulambila TZ-01-0016 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0012",
+    "Nome": "Busangwa",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Busangwa TZ-01-0012 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Simon Magaka"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0024",
+    "Nome": "Chekereni - Kahe",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Vunjo, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Cidade": "Distrito de Vunjo, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Chekereni - Kahe TZ-01-0024 Localização Logradouro: CEP: Cidade: Distrito de Vunjo, PROVÍNCIA DE KILIMANJARO, Tanzânia Dias de Culto Dom 09:30 - Qua 16:00 Ministério Cooperador Ofício Ministerial Allenson Alfayo Kiwelu"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0022",
+    "Nome": "Isela",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Isela TZ-01-0022 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 09:30 - Qua 16:00 Ministério Cooperador Ofício Ministerial Kashinje Masanja Malimi"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0021",
+    "Nome": "Kimochi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Cidade": "Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Kimochi CENTRAL TZ-01-0021 Localização Logradouro: CEP: Cidade: Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia Dias de Culto Dom 09:30 - Qua 16:00 Ministério Cooperador Ofício Ministerial Gilbert Hubart Tenga"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0020",
+    "Nome": "Kinyerezi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Ilala, PROVÍNCIA DE DAR ES SALAAM, Tanzânia",
+    "Cidade": "Distrito de Ilala, PROVÍNCIA DE DAR ES SALAAM, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Kinyerezi CENTRAL TZ-01-0020 Localização Logradouro: CEP: Cidade: Distrito de Ilala, PROVÍNCIA DE DAR ES SALAAM, Tanzânia Dias de Culto Dom 09:30 - Qua 16:00 Ministério Cooperador Ofício Ministerial Karani Dominick Mbawambo"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0006",
+    "Nome": "Mwamadilanha",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Mwamadilanha TZ-01-0006 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Sex 16:00 Ministério Cooperador Ofício Ministerial Lameck Elias"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0015",
+    "Nome": "Mwamala",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Mwamala TZ-01-0015 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Marko Mboje"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0005",
+    "Nome": "Mwamassololo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "16:00"
+      },
+      "Obs": "Localidade Mwamassololo TZ-01-0005 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Sex 16:00 Ministério Cooperador Ofício Ministerial Josseph Mangwengwe"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0017",
+    "Nome": "Mwang'osha",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:30"
+      },
+      "Obs": "Localidade Mwang'osha TZ-01-0017 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 09:30 - Qua 16:30 Ministério Cooperador Ofício Ministerial Bundala Alex Sahani"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0001",
+    "Nome": "Negezi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:30"
+      },
+      "Obs": "Localidade Negezi CENTRAL TZ-01-0001 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 09:30 - Qua 16:30 Ministério Ancião PETER FARESS MUNUO Cooperador Ofício Ministerial Bernard Tungu Kaji Diácono Samwel Maige Kalonga"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0023",
+    "Nome": "Njia Panda",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Cidade": "Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Njia Panda TZ-01-0023 Localização Logradouro: CEP: Cidade: Distrito de Moshi, PROVÍNCIA DE KILIMANJARO, Tanzânia Dias de Culto Dom 09:30 - Qua 16:00 Ministério Cooperador Ofício Ministerial Yozabadi Ezekiel Shita"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0008",
+    "Nome": "Nyamagwangala - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Bukombe, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Bukombe, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Nyamagwangala CENTRAL TZ-01-0008 Localização Logradouro: CEP: Cidade: Distrito de Bukombe, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Patrick John Maganga"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0004",
+    "Nome": "Sayo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Sayo TZ-01-0004 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério Cooperador Ofício Ministerial Piter Jiteleja"
+    }
+  },
+  {
+    "CodigoId": "TZ-01-0002",
+    "Nome": "Shilabela",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Cidade": "Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Shilabela TZ-01-0002 Localização Logradouro: CEP: Cidade: Distrito de Shinyanga, PROVÍNCIA DE SHINYANGA, Tanzânia Dias de Culto Dom 10:00 - Qua 16:00 Ministério"
+    }
+  }
+]

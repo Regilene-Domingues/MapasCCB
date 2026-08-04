@@ -1,0 +1,251 @@
+[
+  {
+    "CodigoId": "DE-01-0003",
+    "Nome": "Altenkirchen - Central",
+    "Logradouro": "Leuzbacher Weg, 2",
+    "CEP": "57610",
+    "Cidade": "Altenkirchen, RP, Alemanha",
+    "Coordenadas": {
+      "lat": 50.6851341,
+      "lon": 7.6348231
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 1º Dom 17:00",
+        "Domingo": "RJM 2º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade Altenkirchen CENTRAL DE-01-0003 Localização Logradouro: Leuzbacher Weg, 2 CEP: 57610 Cidade: Altenkirchen, RP, Alemanha Dias de Culto Sáb 19:30 1º Dom 17:00 (RJM 2º e 4º Dom 10:30) Ministério Ancião MIGUEL TRINDADE Cooperador Ofício Ministerial Fabricio Bráz Castrequini Diácono Filipe Trindade Cooperador de Jovens e Menores Josué Osório Telefone(s) +49 (157) 5176-0274 +49 (173) 539-3603 +49 (162) 731-9917"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0004",
+    "Nome": "Backnang - Central",
+    "Logradouro": "Theodor-Koernerstraße, 1",
+    "CEP": "71522",
+    "Cidade": "Backnang, BW, Alemanha",
+    "Coordenadas": {
+      "lat": 48.9441894,
+      "lon": 9.421532
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM 2º e 4º Dom 15:00"
+      },
+      "Obs": "Localidade Backnang CENTRAL DE-01-0004 Localização Logradouro: Theodor-Koernerstraße, 1 CEP: 71522 Cidade: Backnang, BW, Alemanha Dias de Culto Dom 15:00 (RJM 2º e 4º Dom 15:00) Ministério Ancião JAN HEUSER Cooperador Ofício Ministerial Marcos Paulo Coutinho Diácono Renan Fusco da Silva Cooperador de Jovens e Menores Rafael Ferreira Vitoriano Telefone(s) +49 (178) 601-6871 +49 (172) 710-8804 +49 (151) 4413-7849"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0009",
+    "Nome": "Berlin - Central",
+    "Logradouro": "Christburger Straße, 48",
+    "CEP": "10405",
+    "Cidade": "Berlin, BE, Alemanha",
+    "Coordenadas": {
+      "lat": 52.5369048,
+      "lon": 13.4240801
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Berlin CENTRAL DE-01-0009 Localização Logradouro: Christburger Straße, 48 CEP: 10405 Cidade: Berlin, BE, Alemanha Dias de Culto Dom 15:00 Ministério Cooperador Ofício Ministerial Jürgen Dreier Telefone(s) +49 (177) 310-4808 +49 (151) 4413-7849 +49 (151) 1556-8900"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0015",
+    "Nome": "Bremen - Central",
+    "Logradouro": "Godehardstraße, 4",
+    "CEP": "28309",
+    "Cidade": "Bremen, HB, Alemanha",
+    "Coordenadas": {
+      "lat": 53.0583294,
+      "lon": 8.8873305
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "13:00"
+      },
+      "Obs": "Localidade Bremen CENTRAL DE-01-0015 Localização Logradouro: Godehardstraße, 4 CEP: 28309 Cidade: Bremen, HB, Alemanha Dias de Culto 2º Sáb 13:00 Ministério Telefone(s) +49 (151) 1556-8900 +49 (157) 5731-5656 +49 (151) 1556-8900"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0011",
+    "Nome": "Dresden - Central",
+    "Logradouro": "Bayrische Straße, 8",
+    "CEP": "01069",
+    "Cidade": "Dresden, SN, Alemanha",
+    "Coordenadas": {
+      "lat": 51.0399417,
+      "lon": 13.7291073
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:30"
+      },
+      "Obs": "Localidade Dresden CENTRAL DE-01-0011 Localização Logradouro: Bayrische Straße, 8 CEP: 01069 Cidade: Dresden, SN, Alemanha Dias de Culto 1º e 3º Sáb 15:30 Ministério Telefone(s) +49 (173) 452-2769 +49 (177) 310-4808 +49 (151) 4413-7849"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0013",
+    "Nome": "Erlangen - Central",
+    "Logradouro": "Weisendorfer Straße, 2A",
+    "CEP": "91-056",
+    "Cidade": "Erlangen, BY, Alemanha",
+    "Coordenadas": {
+      "lat": 49.6270533,
+      "lon": 10.9372185
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Erlangen CENTRAL DE-01-0013 Localização Logradouro: Weisendorfer Straße, 2A CEP: 91-056 Cidade: Erlangen, BY, Alemanha Dias de Culto Dom 15:00 Ministério Cooperador Ofício Ministerial Hélio Mazzei Junior Telefone(s) +49 (162) 938-6239"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0006",
+    "Nome": "Friedrichsdorf - Central",
+    "Logradouro": "Max-Planck-Straße, 16",
+    "CEP": "61381",
+    "Cidade": "Friedrichsdorf, HE, Alemanha",
+    "Coordenadas": {
+      "lat": 50.259299,
+      "lon": 8.6544772
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Friedrichsdorf CENTRAL DE-01-0006 Localização Logradouro: Max-Planck-Straße, 16 CEP: 61381 Cidade: Friedrichsdorf, HE, Alemanha Dias de Culto 6N Sex 19:30 (RJM 1º e 3º Dom 10:30) Culto Oficial Sexta-feira - 19:30 Ministério Cooperador Ofício Ministerial Antero Domingos Vieira da Silva Diácono Micael Zirondi Cooperador de Jovens e Menores Daniel da Silva Telefone(s) +49 (179) 240-1048 +49 (152) 0684-9557 +49 (179) 2971979"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0008",
+    "Nome": "Hamburg - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Hamburg, HH, Alemanha",
+    "Cidade": "Hamburg, HH, Alemanha",
+    "Coordenadas": {
+      "lat": 53.5909051,
+      "lon": 9.9753758
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Hamburg CENTRAL DE-01-0008 Localização Logradouro: CEP: Cidade: Hamburg, HH, Alemanha Dias de Culto 2º Sáb 18:00 Ministério Telefone(s) +49 (151) 1556-8900 +49 (157) 5731-5656 +49 (151) 1556-8900"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0010",
+    "Nome": "Hannover - Central",
+    "Logradouro": "Thie, 6 - Stadtteilzentrum Krojus",
+    "CEP": "30539",
+    "Cidade": "Hannover, NI, Alemanha",
+    "Coordenadas": {
+      "lat": 52.3294228,
+      "lon": 9.8421109
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Hannover CENTRAL DE-01-0010 Localização Logradouro: Thie, 6 - Stadtteilzentrum Krojus CEP: 30539 Cidade: Hannover, NI, Alemanha Dias de Culto Dom 14:00 Ministério Ancião ELISEU JUNIO ROCHA Cooperador Ofício Ministerial Paulo Marcos Neves Telefone(s) +49 (157) 5731-5656"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0014",
+    "Nome": "Heidenheim An Der Brenz - Central",
+    "Logradouro": "Sudetenstraße, 9",
+    "CEP": "89518",
+    "Cidade": "Heidenheim An Der Brenz, BW, Alemanha",
+    "Coordenadas": {
+      "lat": 48.6906024,
+      "lon": 10.1376802
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Heidenheim An Der Brenz CENTRAL DE-01-0014 Localização Logradouro: Sudetenstraße, 9 CEP: 89518 Cidade: Heidenheim An Der Brenz, BW, Alemanha Dias de Culto Sex 19:30 (RJM 1º e 3º Dom 10:30) Ministério Cooperador Ofício Ministerial Fernando Pereira Telefone(s) +49 (175) 717-6037"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0007",
+    "Nome": "Munchen - Central",
+    "Logradouro": "CEP: 82008",
+    "CEP": "82008",
+    "Cidade": "Munchen, BY, Alemanha",
+    "Coordenadas": {
+      "lat": 48.0663107,
+      "lon": 11.6190974
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "18:30",
+        "Domingo": "RJM 2º e 4º Dom 10:30"
+      },
+      "Obs": "Localidade Munchen CENTRAL DE-01-0007 Localização Logradouro: CEP: 82008 Cidade: Munchen, BY, Alemanha Dias de Culto Sáb 18:30 (RJM 2º e 4º Dom 10:30) Ministério Ancião ISMAEL DA SILVA CHUMBINHO Cooperador Ofício Ministerial Jeferson Lucas da Costa Santana Cooperador de Jovens e Menores Fabio de Oliveira Lopes Telefone(s) +49 (173) 452-2769 +49 (176) 6480-0880 +49 (162) 217-0596"
+    }
+  },
+  {
+    "CodigoId": "DE-01-0002",
+    "Nome": "Wermelskirchen - Central",
+    "Logradouro": "Friedrichstraße, 34",
+    "CEP": "42929",
+    "Cidade": "Wermelskirchen, NW, Alemanha",
+    "Coordenadas": {
+      "lat": 51.1350426,
+      "lon": 7.2033383
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "16:00",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Wermelskirchen CENTRAL DE-01-0002 Localização Logradouro: Friedrichstraße, 34 CEP: 42929 Cidade: Wermelskirchen, NW, Alemanha Dias de Culto Sáb 16:00 (RJM 1º e 3º Dom 10:30) Ministério Ancião JÚLIO JOSÉ DA COSTA GONÇALVES Cooperador Ofício Ministerial Marc Rasche Diácono Israel Fernando Vieira Osório Cooperador de Jovens e Menores Daniel Gonçalves Telefone(s) +49 (245) 2670-7184 +49 (219) 6882-2011 +49 (151) 1556-8900"
+    }
+  }
+]

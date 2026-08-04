@@ -1,0 +1,62 @@
+[
+  {
+    "CodigoId": "NI-01-0003",
+    "Nome": "Barrio del Laborío - Central",
+    "Logradouro": "Del costado Norte de la Iglesia del Laborio, 350 metros al Este, mano izquierda",
+    "CEP": "Cidade: León, LEÓN, Nicarágua",
+    "Cidade": "León, LEÓN, Nicarágua",
+    "Coordenadas": {
+      "lat": 12.3021275,
+      "lon": -86.9679698
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Barrio del Laborío CENTRAL NI-01-0003 Localização Logradouro: Del costado Norte de la Iglesia del Laborio, 350 metros al Este, mano izquierda CEP: Cidade: León, LEÓN, Nicarágua Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Ángel Alfonso Vargas Vargas Telefone(s) +505 (8) 359-2112"
+    }
+  },
+  {
+    "CodigoId": "NI-01-0001",
+    "Nome": "Primero de Mayo - Central",
+    "Logradouro": "Del Supermercado La Colonia - una cuadra al Sur y una cuadra al Este",
+    "CEP": "Cidade: Managua, MANAGUA, Nicarágua",
+    "Cidade": "Managua, MANAGUA, Nicarágua",
+    "Coordenadas": {
+      "lat": 12.1547116,
+      "lon": -86.273725
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Primero de Mayo CENTRAL NI-01-0001 Localização Logradouro: Del Supermercado La Colonia - una cuadra al Sur y una cuadra al Este CEP: Cidade: Managua, MANAGUA, Nicarágua Complemento: Costado Noreste del Minsa - Fone Brasil (+55 17) 3691-1168 Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial José Elvis Carrillo López"
+    }
+  },
+  {
+    "CodigoId": "NI-01-0002",
+    "Nome": "San Cayetano - Central",
+    "Logradouro": "Del colegio de San Cayetano - dos cuadras al Este - 20 metros al Norte",
+    "CEP": "Cidade: San Rafael Del Sur, SAN RAFAEL DEL SUR, Nicarágua",
+    "Cidade": "San Rafael Del Sur, SAN RAFAEL DEL SUR, Nicarágua",
+    "Coordenadas": {
+      "lat": 11.846482,
+      "lon": -86.4388639
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00 (quinzenal"
+      },
+      "Obs": "Localidade San Cayetano CENTRAL NI-01-0002 Localização Logradouro: Del colegio de San Cayetano - dos cuadras al Este - 20 metros al Norte CEP: Cidade: San Rafael Del Sur, SAN RAFAEL DEL SUR, Nicarágua Dias de Culto Sáb 14:00 (quinzenal) Ministério Cooperador Ofício Ministerial Julio Cesar Fernández Espinoza"
+    }
+  }
+]

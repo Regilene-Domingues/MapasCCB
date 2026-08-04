@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "RW-01-0001",
+    "Nome": "Kimironko Sector - Central",
+    "Logradouro": "KG 22 Street",
+    "CEP": "Cidade: Kigali, KV, Ruanda",
+    "Cidade": "Kigali, KV, Ruanda",
+    "Coordenadas": {
+      "lat": -1.9534357,
+      "lon": 30.1140089
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Kimironko Sector CENTRAL RW-01-0001 Localização Logradouro: KG 22 Street CEP: Cidade: Kigali, KV, Ruanda Complemento: Fone Tanzânia (+255) 684-699 Dias de Culto Ministério Cooperador Ofício Ministerial Innocent Nkubiri Telefone(s) +250 () 788-409"
+    }
+  }
+]

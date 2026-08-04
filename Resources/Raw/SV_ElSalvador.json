@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "SV-01-0002",
+    "Nome": "Lotificación El Limón - Colonia Argentina - Central",
+    "Logradouro": "Calle Principal Polígono 2 - Lotes 16 y 18",
+    "CEP": "Cidade: Soyapango, SAN SALVADOR, El Salvador",
+    "Cidade": "Soyapango, SAN SALVADOR, El Salvador",
+    "Coordenadas": {
+      "lat": 13.7037442,
+      "lon": -89.1500703
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Lotificación El Limón - Colonia Argentina CENTRAL SV-01-0002 Localização Logradouro: Calle Principal Polígono 2 - Lotes 16 y 18 CEP: Cidade: Soyapango, SAN SALVADOR, El Salvador Dias de Culto Sáb 18:00 Ministério Cooperador Ofício Ministerial Jorge Efraín Pérez Sánchez"
+    }
+  }
+]

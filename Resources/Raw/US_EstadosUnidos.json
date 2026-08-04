@@ -1,0 +1,1818 @@
+[
+  {
+    "CodigoId": "US-01-0001",
+    "Nome": "Alhambra (Los Angeles) - Central",
+    "Logradouro": "2877 West Valley Boulevard",
+    "CEP": "91803",
+    "Cidade": "Alhambra, CA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 34.0766966,
+      "lon": -118.1557021
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00 (Espanhol)",
+        "Quinta-feira": "20:00 (Português)",
+        "Sábado": "20:00 (Inglês",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Alhambra (Los Angeles) CENTRAL US-01-0001 Localização Logradouro: 2877 West Valley Boulevard CEP: 91803 Cidade: Alhambra, CA, Estados Unidos Dias de Culto Ter 20:00 (Espanhol) - Qui 20:00 (Português) - Sáb 20:00 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião BASILIO SAMUEL PENDERIS RAUL VILLANUEVA Cooperador Ofício Ministerial Andreo Marcos Gonçalves dos Santos Diácono Edwin Rene Abundis Alfonso Alberto Settecase Cooperador de Jovens e Menores Thiago Luiz do Valle Pereira Telefone(s) +1 (626) 281-4400"
+    }
+  },
+  {
+    "CodigoId": "US-01-0018",
+    "Nome": "Arlington Heights (Chicago) - Central",
+    "Logradouro": "555 Central Road",
+    "CEP": "60005",
+    "Cidade": "Arlington Heights, IL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.0664113,
+      "lon": -87.9756629
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "19:00 (Inglês",
+        "Sexta-feira": "RJM Sex 19:00 - Inglês"
+      },
+      "Obs": "Localidade Arlington Heights (Chicago) CENTRAL US-01-0018 Localização Logradouro: 555 Central Road CEP: 60005 Cidade: Arlington Heights, IL, Estados Unidos Dias de Culto Dom 10:00 - Qua 19:00 (Inglês) (RJM Sex 19:00 - Inglês) Ministério Ancião SALVATORE SAM CALABRESE JAMES CHARLES AMODEO Cooperador Ofício Ministerial Tyler Amodeo Diácono David Mulé Telefone(s) +1 (224) 900-7607"
+    }
+  },
+  {
+    "CodigoId": "US-01-0047",
+    "Nome": "Austin (Texas) - Central",
+    "Logradouro": "1715 South Mays Street",
+    "CEP": "78664",
+    "Cidade": "Round Rock, TX, Estados Unidos",
+    "Coordenadas": {
+      "lat": 30.4943378,
+      "lon": -97.6756598
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM Dom 10:30 - Inglês",
+        "Sábado": "19:30 (Português/Inglês"
+      },
+      "Obs": "Localidade Austin (Texas) CENTRAL US-01-0047 Localização Logradouro: 1715 South Mays Street CEP: 78664 Cidade: Round Rock, TX, Estados Unidos Complemento: Suite C Dias de Culto Dom 10:30 (Inglês) - Sáb 19:30 (Português/Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião VITÓRIO ROSSI PIMENTEL Telefone(s) +1 (512) 763-0477"
+    }
+  },
+  {
+    "CodigoId": "US-01-0085",
+    "Nome": "Birmingham (Alabama) - Central",
+    "Logradouro": "400 Patton Chapel Lane",
+    "CEP": "35226",
+    "Cidade": "Hoover, AL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.387497,
+      "lon": -86.827092
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Português/Inglês"
+      },
+      "Obs": "Localidade Birmingham (Alabama) CENTRAL US-01-0085 Localização Logradouro: 400 Patton Chapel Lane CEP: 35226 Cidade: Hoover, AL, Estados Unidos Complemento: Patton Creek Clubhouse Dias de Culto Dom 10:30 (Português/Inglês) Ministério Cooperador Ofício Ministerial Felipe Massicano Diácono Marcelo Frazato Telefone(s) +1 (205) 643-7164"
+    }
+  },
+  {
+    "CodigoId": "US-01-0092",
+    "Nome": "Brandon - Central",
+    "Logradouro": "137 South Parsons Avenue",
+    "CEP": "33511",
+    "Cidade": "Brandon, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 27.9361865,
+      "lon": -82.285244
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Brandon CENTRAL US-01-0092 Localização Logradouro: 137 South Parsons Avenue CEP: 33511 Cidade: Brandon, FL, Estados Unidos Dias de Culto Qui 20:00 (Português) Ministério Cooperador Ofício Ministerial Fabio Rogerio de Carvalho Telefone(s) +1 (321) 900-5685"
+    }
+  },
+  {
+    "CodigoId": "US-01-0038",
+    "Nome": "Buffalo - Central",
+    "Logradouro": "4855 Main Street",
+    "CEP": "14226",
+    "Cidade": "Snyder, NY, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.9593821,
+      "lon": -78.7716907
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM Dom 10:30 - Inglês",
+        "Sexta-feira": "19:30 (Inglês"
+      },
+      "Obs": "Localidade Buffalo CENTRAL US-01-0038 Localização Logradouro: 4855 Main Street CEP: 14226 Cidade: Snyder, NY, Estados Unidos Dias de Culto Dom 10:30 (Inglês) - Sex 19:30 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião ANTHONY BOLEA LARRY GENE TERRAGNOLI Cooperador Ofício Ministerial Ardeean Scoccia Mark Terragnoli Telefone(s) +1 (716) 839-3473"
+    }
+  },
+  {
+    "CodigoId": "US-01-0082",
+    "Nome": "Champaign - Central",
+    "Logradouro": "1401 West John Street",
+    "CEP": "61821",
+    "Cidade": "Champaign, IL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.108852,
+      "lon": -88.269482
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM 2º e 4º Dom 10:00 - Inglês",
+        "Sábado": "18:30 (Inglês"
+      },
+      "Obs": "Localidade Champaign CENTRAL US-01-0082 Localização Logradouro: 1401 West John Street CEP: 61821 Cidade: Champaign, IL, Estados Unidos Dias de Culto 2º e 4º Dom 10:00 - Sáb 18:30 (Inglês) (RJM 2º e 4º Dom 10:00 - Inglês) Ministério Ancião ANDERSON NASCIMENTO Cooperador Ofício Ministerial Herculano Borges da Silva Junior Cooperador de Jovens e Menores Juliano Pereira Telefone(s) +1 (574) 345-1198"
+    }
+  },
+  {
+    "CodigoId": "US-01-0058",
+    "Nome": "Charlotte - Central",
+    "Logradouro": "1503 Waxhaw Indian Trail Road",
+    "CEP": "28079",
+    "Cidade": "Indian Trail, NC, Estados Unidos",
+    "Coordenadas": {
+      "lat": 35.0653425,
+      "lon": -80.6803859
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês) / RJM Dom 10:00 - Inglês",
+        "Sexta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Charlotte CENTRAL US-01-0058 Localização Logradouro: 1503 Waxhaw Indian Trail Road CEP: 28079 Cidade: Indian Trail, NC, Estados Unidos Complemento: Suite D Dias de Culto Dom 10:00 (Inglês) - Sex 20:00 (Português) (RJM Dom 10:00 - Inglês) Ministério Ancião ISAIAS DANTAS DE SOUZA JÚNIOR Cooperador Ofício Ministerial Fabio Juliano Cardoso Diácono Milton Cardoso Cooperador de Jovens e Menores Allan Felipe Gehrke Salomão Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0084",
+    "Nome": "Cincinnati (Ohio) - Central",
+    "Logradouro": "121 North Main Street",
+    "CEP": "45065",
+    "Cidade": "South Lebanon, OH, Estados Unidos",
+    "Coordenadas": {
+      "lat": 39.3726455,
+      "lon": -84.2169732
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM 1º e 3º Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Cincinnati (Ohio) CENTRAL US-01-0084 Localização Logradouro: 121 North Main Street CEP: 45065 Cidade: South Lebanon, OH, Estados Unidos Dias de Culto 1º e 3º Dom 10:30 (Inglês) - (RJM 1º e 3º Dom 10:30 - Inglês) Ministério Telefone(s) +1 (859) 691-0190"
+    }
+  },
+  {
+    "CodigoId": "US-01-0090",
+    "Nome": "Clermont (Orlando) - Central",
+    "Logradouro": "498 West Montrose Street",
+    "CEP": "34711",
+    "Cidade": "Clermont, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 28.5547413,
+      "lon": -81.7629012
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Quarta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Clermont (Orlando) CENTRAL US-01-0090 Localização Logradouro: 498 West Montrose Street CEP: 34711 Cidade: Clermont, FL, Estados Unidos Dias de Culto Dom 18:30 (Português) - Qua 20:00 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial William Maciel Pereira Sabino Telefone(s) +1 (352) 989-7099"
+    }
+  },
+  {
+    "CodigoId": "US-01-0007",
+    "Nome": "College Park (Washington DC) - Central",
+    "Logradouro": "8906 Rhode Island Avenue",
+    "CEP": "20740",
+    "Cidade": "College Park, MD, Estados Unidos",
+    "Coordenadas": {
+      "lat": 38.9989133,
+      "lon": -76.9259378
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês) / RJM Dom 10:00 - Inglês",
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade College Park (Washington DC) CENTRAL US-01-0007 Localização Logradouro: 8906 Rhode Island Avenue CEP: 20740 Cidade: College Park, MD, Estados Unidos Dias de Culto Dom 10:00 (Inglês) - Qua 20:00 - Sáb 19:30 (Português) (RJM Dom 10:00 - Inglês) Ministério Ancião JORGE PEREIRA CALEGARI ANTÔNIO PESSOA DE SALES Cooperador Ofício Ministerial Antônio Fernandes de Oliveira Neto Diácono Sérgio Guedes Vieira Cooperador de Jovens e Menores Ottavio Benjamin Barbarente Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0039",
+    "Nome": "Corona - Central",
+    "Logradouro": "108-16 43rd Avenue",
+    "CEP": "11368",
+    "Cidade": "Queens, NY, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.7486854,
+      "lon": -73.8570613
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM Dom 10:30 - Inglês e Sáb 19:30 - Inglês no 1º andar",
+        "Sábado": "19:30 (Português no 2º andar"
+      },
+      "Obs": "Localidade Corona CENTRAL US-01-0039 Localização Logradouro: 108-16 43rd Avenue CEP: 11368 Cidade: Queens, NY, Estados Unidos Dias de Culto Dom 10:30 (Inglês) - Sáb 19:30 (Português no 2º andar) (RJM Dom 10:30 - Inglês e Sáb 19:30 - Inglês no 1º andar) Ministério Ancião FILIPPO BARONE Cooperador Ofício Ministerial Calebe Oliveira Cooperador de Jovens e Menores Tobias Azarias Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0048",
+    "Nome": "Dallas (Texas) - Central",
+    "Logradouro": "2300 Barnes Bridge Road",
+    "CEP": "75228",
+    "Cidade": "Dallas, TX, Estados Unidos",
+    "Coordenadas": {
+      "lat": 32.8503882,
+      "lon": -96.6723403
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM Dom 10:30 - Inglês",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade Dallas (Texas) CENTRAL US-01-0048 Localização Logradouro: 2300 Barnes Bridge Road CEP: 75228 Cidade: Dallas, TX, Estados Unidos Dias de Culto Dom 10:30 (Inglês) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião DAVID MARCACCINI Cooperador Ofício Ministerial Diego Ferreira da Silva Diácono Marco Aurélio Campos Baccaro Telefone(s) +1 (214) 302-9547"
+    }
+  },
+  {
+    "CodigoId": "US-01-0005",
+    "Nome": "Danbury - Central",
+    "Logradouro": "46a Pembroke Road",
+    "CEP": "06811",
+    "Cidade": "Danbury, CT, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.4403473,
+      "lon": -73.4735312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 10:30 - Inglês",
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade Danbury CENTRAL US-01-0005 Localização Logradouro: 46a Pembroke Road CEP: 06811 Cidade: Danbury, CT, Estados Unidos Dias de Culto Dom 18:30 - Qua 20:00 - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião JOAQUIM FRANCISCO SOUZA CÉLIO STOPA JUNIOR Cooperador Ofício Ministerial Edmilson Barros Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0028",
+    "Nome": "Danvers (Boston) - Central",
+    "Logradouro": "153 Andover Street",
+    "CEP": "01923",
+    "Cidade": "Danvers, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.5593876,
+      "lon": -70.9677053
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Quinta-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Danvers (Boston) CENTRAL US-01-0028 Localização Logradouro: 153 Andover Street CEP: 01923 Cidade: Danvers, MA, Estados Unidos Complemento: Suite 118 Dias de Culto Dom 18:30 (Português) - Qui 20:00 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Osvaldo Aquino Cooperador de Jovens e Menores Samuel Freire Telefone(s) +1 (617) 416-1480"
+    }
+  },
+  {
+    "CodigoId": "US-01-0101",
+    "Nome": "Davenport (Orlando)",
+    "Logradouro": "50 Westridge Rd",
+    "CEP": "33837",
+    "Cidade": "Orlando, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 28.5421218,
+      "lon": -81.379045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "20:00 / e 1ª Qui do mês",
+        "Quinta-feira": "20:00 (Português)"
+      },
+      "Obs": "Localidade Davenport (Orlando) US-01-0101 Localização Logradouro: 50 Westridge Rd CEP: 33837 Cidade: Orlando, FL, Estados Unidos Dias de Culto Seg 20:00 - Qui 20:00 (Português) - Não haverá cultos na 1ª Seg e 1ª Qui do mês Ministério Cooperador Ofício Ministerial Dejaci Jose de Oliveira Diácono Mauricio Libanio de Souza Telefone(s) +1 (407) 613-0938"
+    }
+  },
+  {
+    "CodigoId": "US-01-0096",
+    "Nome": "Delran",
+    "Logradouro": "4000 Route 130 N - Suite 31 - Second Floor",
+    "CEP": "08075",
+    "Cidade": "Delran, NJ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.0154905,
+      "lon": -74.9550416
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Português)",
+        "Sexta-feira": "20:00 (Inglês / RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Delran US-01-0096 Localização Logradouro: 4000 Route 130 N - Suite 31 - Second Floor CEP: 08075 Cidade: Delran, NJ, Estados Unidos Dias de Culto Dom 10:00 (Português) - Sex 20:00 (Inglês) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Diego Leoni da Silva Cooperador de Jovens e Menores Bryan Aires Dapaz Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0091",
+    "Nome": "Destin - Central",
+    "Logradouro": "1234 Airport Road",
+    "CEP": "32541",
+    "Cidade": "Destin, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 30.3882257,
+      "lon": -86.4646393
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Destin CENTRAL US-01-0091 Localização Logradouro: 1234 Airport Road CEP: 32541 Cidade: Destin, FL, Estados Unidos Complemento: Suite 113 Dias de Culto Qua 20:00 (Português) - Sáb 19:30 (Português) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Fabio de Almeida Silverio Cooperador de Jovens e Menores Marcos Paulo Volpini Telefone(s) +1 (475) 218-9873"
+    }
+  },
+  {
+    "CodigoId": "US-01-0030",
+    "Nome": "Detroit - Central",
+    "Logradouro": "236 East Thirteen Mile Road",
+    "CEP": "48073",
+    "Cidade": "Royal Oak, MI, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.5182675,
+      "lon": -83.167051
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês)",
+        "Quarta-feira": "19:00 (Português",
+        "Sexta-feira": "RJM Sex 19:00 - Inglês"
+      },
+      "Obs": "Localidade Detroit CENTRAL US-01-0030 Localização Logradouro: 236 East Thirteen Mile Road CEP: 48073 Cidade: Royal Oak, MI, Estados Unidos Dias de Culto Dom 10:00 (Inglês) - Qua 19:00 (Português) (RJM Sex 19:00 - Inglês) Ministério Ancião MARCELO COELHO DE SOUSA Cooperador Ofício Ministerial Paulo Sérgio Campelo Filho Diácono Samuel Augusto Gomes Pereira Cooperador de Jovens e Menores Gabriel Bacarin Telefone(s) +1 (586) 536-1172"
+    }
+  },
+  {
+    "CodigoId": "US-01-0023",
+    "Nome": "Dracut (Boston) - Central",
+    "Logradouro": "401 Nashua Road",
+    "CEP": "01826",
+    "Cidade": "Dracut, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.6792323,
+      "lon": -71.3608425
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Sexta-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Dracut (Boston) CENTRAL US-01-0023 Localização Logradouro: 401 Nashua Road CEP: 01826 Cidade: Dracut, MA, Estados Unidos Dias de Culto Dom 18:30 (Português) - Sex 20:00 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião FRANCISCO ALMEIDA SANTOS Cooperador Ofício Ministerial Jeferson Carvalho da Silva Diácono Rodrigo Medino da Silva Telefone(s) +1 (978) 606-3020"
+    }
+  },
+  {
+    "CodigoId": "US-01-0036",
+    "Nome": "East Brunswick (New Brunswick) - Central",
+    "Logradouro": "555 Old Bridge Turnpike",
+    "CEP": "08816",
+    "Cidade": "East Brunswick, NJ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.4607819,
+      "lon": -74.4013442
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Inglês / RJM Sáb 19:30 - Inglês"
+      },
+      "Obs": "Localidade East Brunswick (New Brunswick) CENTRAL US-01-0036 Localização Logradouro: 555 Old Bridge Turnpike CEP: 08816 Cidade: East Brunswick, NJ, Estados Unidos Complemento: Comfort Suites Hotel Dias de Culto Sáb 19:30 (Inglês) (RJM Sáb 19:30 - Inglês) Ministério Cooperador Ofício Ministerial Carlos Alberto Marcelino Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0095",
+    "Nome": "East Providence (Rhode Island) - Central",
+    "Logradouro": "408 Waterman Avenue",
+    "CEP": "02914",
+    "Cidade": "East Providence, RI, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.8183958,
+      "lon": -71.362898
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade East Providence (Rhode Island) CENTRAL US-01-0095 Localização Logradouro: 408 Waterman Avenue CEP: 02914 Cidade: East Providence, RI, Estados Unidos Dias de Culto Qui 20:00 (Português) - Sáb 19:30 (Português) Ministério Telefone(s) +1 (914) 308-4791"
+    }
+  },
+  {
+    "CodigoId": "US-01-0024",
+    "Nome": "Fall River - Central",
+    "Logradouro": "1905 South Main Street",
+    "CEP": "02724",
+    "Cidade": "Fall River, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.6820493,
+      "lon": -71.1770164
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / 18:30 (Inglês)",
+        "Quarta-feira": "20:00 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Fall River CENTRAL US-01-0024 Localização Logradouro: 1905 South Main Street CEP: 02724 Cidade: Fall River, MA, Estados Unidos Dias de Culto Dom 18:30 (Português) - 3º Dom 18:30 (Inglês) - Qua 20:00 (Português) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Carlos Alberto Cabral Diácono Ranoldo de Freitas Telefone(s) +1 (508) 933-4050"
+    }
+  },
+  {
+    "CodigoId": "US-01-0107",
+    "Nome": "Findlay - Central",
+    "Logradouro": "903 Interstate Drive - Country Inn & Suites By Radisson",
+    "CEP": "45840",
+    "Cidade": "Findlay, OH, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.0479794,
+      "lon": -83.6435227
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 (Inglês"
+      },
+      "Obs": "Localidade Findlay CENTRAL US-01-0107 Localização Logradouro: 903 Interstate Drive - Country Inn & Suites By Radisson CEP: 45840 Cidade: Findlay, OH, Estados Unidos Dias de Culto 2º e 4º Dom 15:30 (Inglês) Ministério Cooperador Ofício Ministerial Wilton Alves Ferreira"
+    }
+  },
+  {
+    "CodigoId": "US-01-0077",
+    "Nome": "Fitchburg (Worchester) - Central",
+    "Logradouro": "132 Woodland Street",
+    "CEP": "01420",
+    "Cidade": "Fitchburg, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.5758302,
+      "lon": -71.818729
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Sexta-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Fitchburg (Worchester) CENTRAL US-01-0077 Localização Logradouro: 132 Woodland Street CEP: 01420 Cidade: Fitchburg, MA, Estados Unidos Dias de Culto Dom 18:30 (Português) - Sex 20:00 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Paulo Machado Diácono Alencar De Almeida Cooperador de Jovens e Menores Natanael Porfirio de Matos Telefone(s) +1 (978) 833-8273"
+    }
+  },
+  {
+    "CodigoId": "US-01-0100",
+    "Nome": "Forest Hill (Baltimore)",
+    "Logradouro": "1229 Sharon Acres Road",
+    "CEP": "21050",
+    "Cidade": "Forest Hill, MD, Estados Unidos",
+    "Coordenadas": {
+      "lat": 39.5851063,
+      "lon": -76.387739
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Forest Hill (Baltimore) US-01-0100 Localização Logradouro: 1229 Sharon Acres Road CEP: 21050 Cidade: Forest Hill, MD, Estados Unidos Dias de Culto 6N Culto Oficial Sexta-feira - 20:00 - en_US Ministério Cooperador Ofício Ministerial Marcelo Parra"
+    }
+  },
+  {
+    "CodigoId": "US-01-0089",
+    "Nome": "Fort Myers (Miami) - Central",
+    "Logradouro": "4100 Center Pointe Drive",
+    "CEP": "33916",
+    "Cidade": "Fort Myers, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 26.6379845,
+      "lon": -81.8434724
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Português / RJM Dom 10:30 - Português"
+      },
+      "Obs": "Localidade Fort Myers (Miami) CENTRAL US-01-0089 Localização Logradouro: 4100 Center Pointe Drive CEP: 33916 Cidade: Fort Myers, FL, Estados Unidos Complemento: #103 Dias de Culto Dom 10:30 (Português) (RJM Dom 10:30 - Português) Ministério Cooperador Ofício Ministerial Cezar Augusto Francisco Cooperador de Jovens e Menores Bruno Martins Albuquerque Telefone(s) +1 (941) 735-3122"
+    }
+  },
+  {
+    "CodigoId": "US-01-0067",
+    "Nome": "Fort Pierce - Central",
+    "Logradouro": "3040 West Midway Road",
+    "CEP": "34981",
+    "Cidade": "Fort Pierce, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 27.3742854,
+      "lon": -80.3276344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00 (Inglês/Português / RJM Sex 20:00 - Inglês/Português"
+      },
+      "Obs": "Localidade Fort Pierce CENTRAL US-01-0067 Localização Logradouro: 3040 West Midway Road CEP: 34981 Cidade: Fort Pierce, FL, Estados Unidos Dias de Culto Sex 20:00 (Inglês/Português) (RJM Sex 20:00 - Inglês/Português) Ministério Cooperador Ofício Ministerial Todd Matthiesen Telefone(s) +1 (772) 812-5219"
+    }
+  },
+  {
+    "CodigoId": "US-01-0025",
+    "Nome": "Framingham (Boston) - Central",
+    "Logradouro": "7 Middlesex St",
+    "CEP": "01702",
+    "Cidade": "Natick, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.2860453,
+      "lon": -71.3410884
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Inglês/Português / RJM Sáb 19:30 Inglês/Português"
+      },
+      "Obs": "Localidade Framingham (Boston) CENTRAL US-01-0025 Localização Logradouro: 7 Middlesex St CEP: 01702 Cidade: Natick, MA, Estados Unidos Dias de Culto Qui 20:00 (Português) - Sáb 19:30 (Inglês/Português) (RJM Sáb 19:30 Inglês/Português) Ministério Cooperador Ofício Ministerial Rodrigo Arantes Rabelo Cooperador de Jovens e Menores Clodoaldo de Souza Telefone(s) +1 (774) 451-2860"
+    }
+  },
+  {
+    "CodigoId": "US-01-0064",
+    "Nome": "Frankfort (Kentucky) - Central",
+    "Logradouro": "29 Grandview Drive",
+    "CEP": "40601",
+    "Cidade": "Frankfort, KY, Estados Unidos",
+    "Coordenadas": {
+      "lat": 38.2016666,
+      "lon": -84.8320815
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Frankfort (Kentucky) CENTRAL US-01-0064 Localização Logradouro: 29 Grandview Drive CEP: 40601 Cidade: Frankfort, KY, Estados Unidos Dias de Culto Sáb 19:30 (Português) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Diogo Godoy de Azevedo Cooperador de Jovens e Menores Jeferson Domingues Telefone(s) +1 (859) 691-0190"
+    }
+  },
+  {
+    "CodigoId": "US-01-0108",
+    "Nome": "Gainesville - Central",
+    "Logradouro": "9321 SW 92nd St. Gainesville",
+    "CEP": "FL 32608",
+    "Cidade": "Gainesville, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 29.626266,
+      "lon": -82.3720074
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 (Português"
+      },
+      "Obs": "Localidade Gainesville CENTRAL US-01-0108 Localização Logradouro: 9321 SW 92nd St. Gainesville CEP: FL 32608 Cidade: Gainesville, FL, Estados Unidos Dias de Culto Dom 17:00 (Português) Ministério Cooperador Ofício Ministerial Luiz Carlos de Oliveira Alves"
+    }
+  },
+  {
+    "CodigoId": "US-01-0099",
+    "Nome": "Goodyear (Arizona) - Central",
+    "Logradouro": "400 East Loma Linda Boulevard",
+    "CEP": "85338",
+    "Cidade": "Goodyear, AZ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.4429856,
+      "lon": -112.3565875
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 (Inglês"
+      },
+      "Obs": "Localidade Goodyear (Arizona) CENTRAL US-01-0099 Localização Logradouro: 400 East Loma Linda Boulevard CEP: 85338 Cidade: Goodyear, AZ, Estados Unidos Dias de Culto 3º Dom 14:00 (Inglês) Ministério Telefone(s) +1 (626) 394-7428"
+    }
+  },
+  {
+    "CodigoId": "US-01-0011",
+    "Nome": "Green Cove (Jacksonville) - Central",
+    "Logradouro": "520 South Oakridge Avenue",
+    "CEP": "32043",
+    "Cidade": "Green Cove Springs, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 29.9821725,
+      "lon": -81.6947981
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Green Cove (Jacksonville) CENTRAL US-01-0011 Localização Logradouro: 520 South Oakridge Avenue CEP: 32043 Cidade: Green Cove Springs, FL, Estados Unidos Dias de Culto Qua 20:00 - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Odair da Costa Lima Diácono Marcel Douglas de Oliveira Cooperador de Jovens e Menores Daniel Rogerio dos Santos Telefone(s) +1 (904) 758-8035"
+    }
+  },
+  {
+    "CodigoId": "US-01-0097",
+    "Nome": "Greeneville (Tennessee)",
+    "Logradouro": "7020 Newport Hwy",
+    "CEP": "08661",
+    "Cidade": "Greeneville, TN, Estados Unidos",
+    "Coordenadas": {
+      "lat": 36.1631981,
+      "lon": -82.8310464
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:30 (Português"
+      },
+      "Obs": "Localidade Greeneville (Tennessee) US-01-0097 Localização Logradouro: 7020 Newport Hwy CEP: 08661 Cidade: Greeneville, TN, Estados Unidos Dias de Culto Sáb 17:30 (Português) Ministério Cooperador Ofício Ministerial Marcelo Peviani Telefone(s) +1 (774) 451-1394"
+    }
+  },
+  {
+    "CodigoId": "US-01-0102",
+    "Nome": "Greenville - Central",
+    "Logradouro": "5083 Highway 9",
+    "CEP": "29349",
+    "Cidade": "Inman (greenville), SC, Estados Unidos",
+    "Coordenadas": {
+      "lat": 35.0680727,
+      "lon": -82.0105985
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "4º DM 11:00",
+        "2º SN 19:00",
+        "Português",
+        "RJM"
+      ],
+      "Horarios": {
+        "4º DM 11:00": "4º DM 11:00",
+        "2º SN 19:00": "2º SN 19:00",
+        "Português": "Português",
+        "RJM": "RJM 4º DM 11:00 Português"
+      },
+      "Obs": "Localidade Greenville CENTRAL US-01-0102 Localização Logradouro: 5083 Highway 9 CEP: 29349 Cidade: Inman (greenville), SC, Estados Unidos Dias de Culto 4º DM 11:00 - 2º SN 19:00 - Português (RJM 4º DM 11:00 Português) Ministério Cooperador Ofício Ministerial Geriel Carlos Boni"
+    }
+  },
+  {
+    "CodigoId": "US-01-0031",
+    "Nome": "Henderson (Las Vegas) - Central",
+    "Logradouro": "427 Max Court",
+    "CEP": "89011",
+    "Cidade": "Henderson, NV, Estados Unidos",
+    "Coordenadas": {
+      "lat": 36.0573525,
+      "lon": -115.004488
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Henderson (Las Vegas) CENTRAL US-01-0031 Localização Logradouro: 427 Max Court CEP: 89011 Cidade: Henderson, NV, Estados Unidos Dias de Culto Qua 20:00 - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião RICARDO BRANDINO DE OLIVEIRA JAMES SANTIAGO Cooperador Ofício Ministerial Adolfo Santiago Douglas Ribeiro de Paula Cooperador de Jovens e Menores Wilson Domingues Pereira Telefone(s) +1 (702) 773-0482"
+    }
+  },
+  {
+    "CodigoId": "US-01-0080",
+    "Nome": "Hooksett (New Hampshire) - Central",
+    "Logradouro": "783 Route 3A",
+    "CEP": "03304",
+    "Cidade": "Bow, NH, Estados Unidos",
+    "Coordenadas": {
+      "lat": 43.162019,
+      "lon": -71.5119173
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português)",
+        "Sexta-feira": "20:00 (Inglês / RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Hooksett (New Hampshire) CENTRAL US-01-0080 Localização Logradouro: 783 Route 3A CEP: 03304 Cidade: Bow, NH, Estados Unidos Dias de Culto Dom 18:30 (Português) - Sex 20:00 (Inglês) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Jhonny Delci Chiamulera Cooperador de Jovens e Menores Jefte Paulo Barbosa Telefone(s) +1 (603) 505-1477"
+    }
+  },
+  {
+    "CodigoId": "US-01-0049",
+    "Nome": "Houston (Texas) - Central",
+    "Logradouro": "1519 Kerbey Street",
+    "CEP": "77029",
+    "Cidade": "Jacinto City, TX, Estados Unidos",
+    "Coordenadas": {
+      "lat": 29.7643983,
+      "lon": -95.2386907
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ligar para datas e horários"
+      ],
+      "Horarios": {
+        "Ligar para datas e horários": "Ligar para datas e horários"
+      },
+      "Obs": "Localidade Houston (Texas) CENTRAL US-01-0049 Localização Logradouro: 1519 Kerbey Street CEP: 77029 Cidade: Jacinto City, TX, Estados Unidos Dias de Culto Ligar para datas e horários Ministério Ancião AILTON RICARDO DOS SANTOS JÚNIOR Cooperador Ofício Ministerial Dimitris kalaitzakis Telefone(s) +1 (832) 955-2514"
+    }
+  },
+  {
+    "CodigoId": "US-01-0079",
+    "Nome": "Hudson (Worcester) - Central",
+    "Logradouro": "43 Broad Street",
+    "CEP": "01749",
+    "Cidade": "Hudson, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.3888381,
+      "lon": -71.564387
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Terça-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Hudson (Worcester) CENTRAL US-01-0079 Localização Logradouro: 43 Broad Street CEP: 01749 Cidade: Hudson, MA, Estados Unidos Complemento: Suite B407 Dias de Culto Dom 18:30 (Português) - Ter 20:00 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião SANJO NEVES RAMOS Cooperador Ofício Ministerial Edson Ribeiro Dos Santos Diácono Divanir Aires Ribeiro Cooperador de Jovens e Menores Jeffter Louzada Telefone(s) +1 (978) 798-4104"
+    }
+  },
+  {
+    "CodigoId": "US-01-0034",
+    "Nome": "Jackson - Freehold - Central",
+    "Logradouro": "766 Brewers Bridge Road",
+    "CEP": "08527",
+    "Cidade": "Jackson, NJ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.1229716,
+      "lon": -74.2587282
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00 (Inglês/Português"
+      },
+      "Obs": "Localidade Jackson - Freehold CENTRAL US-01-0034 Localização Logradouro: 766 Brewers Bridge Road CEP: 08527 Cidade: Jackson, NJ, Estados Unidos Dias de Culto Sex 20:00 (Inglês/Português) Ministério Cooperador Ofício Ministerial Oscar Carvalho Maia Diácono Jabez Elder Oliveira Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0098",
+    "Nome": "La Mesa (San Diego) - Central",
+    "Logradouro": "8450 La Mesa Boulevard",
+    "CEP": "91942",
+    "Cidade": "La Mesa, CA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 32.767856,
+      "lon": -117.015898
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Português) / RJM Dom 10:30 - Português",
+        "Sexta-feira": "19:30 (Português"
+      },
+      "Obs": "Localidade La Mesa (San Diego) CENTRAL US-01-0098 Localização Logradouro: 8450 La Mesa Boulevard CEP: 91942 Cidade: La Mesa, CA, Estados Unidos Dias de Culto Dom 10:30 (Português) - Sex 19:30 (Português) (RJM Dom 10:30 - Português) Ministério Cooperador Ofício Ministerial Geferson Fernandes Ferrari Valmecir Custódio de Souza Telefone(s) +1 (850) 955-4070"
+    }
+  },
+  {
+    "CodigoId": "US-01-0104",
+    "Nome": "Largo - Central",
+    "Logradouro": "2580 Gulf To Bay Boulevard - Clearwater",
+    "CEP": "33765",
+    "Cidade": "Largo, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 27.9094665,
+      "lon": -82.7873244
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "20:00 (Português / RJM 3ª Seg 20:00 – Português"
+      },
+      "Obs": "Localidade Largo CENTRAL US-01-0104 Localização Logradouro: 2580 Gulf To Bay Boulevard - Clearwater CEP: 33765 Cidade: Largo, FL, Estados Unidos Complemento: Holiday Inn Express Dias de Culto 1ª e 3ª Seg 20:00 (Português) (RJM 3ª Seg 20:00 – Português) Ministério Telefone(s) +1 (321) 900-5685"
+    }
+  },
+  {
+    "CodigoId": "US-01-0076",
+    "Nome": "Long Branch - Central",
+    "Logradouro": "1 Third Avenue",
+    "CEP": "07740",
+    "Cidade": "Long Branch, NJ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.2982148,
+      "lon": -73.990931
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30 (Português / RJM Sáb 19:30 - Português"
+      },
+      "Obs": "Localidade Long Branch CENTRAL US-01-0076 Localização Logradouro: 1 Third Avenue CEP: 07740 Cidade: Long Branch, NJ, Estados Unidos Dias de Culto Ter 19:30 - Sáb 19:30 (Português) (RJM Sáb 19:30 - Português) Ministério Cooperador Ofício Ministerial Thiago Henrique Goulart Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0022",
+    "Nome": "Lynn (Boston) - Central",
+    "Logradouro": "12 Day Street",
+    "CEP": "01905",
+    "Cidade": "Lynn, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.4537027,
+      "lon": -70.9602331
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 10:00 - Inglês",
+        "Quarta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Inglês"
+      },
+      "Obs": "Localidade Lynn (Boston) CENTRAL US-01-0022 Localização Logradouro: 12 Day Street CEP: 01905 Cidade: Lynn, MA, Estados Unidos Dias de Culto Dom 18:30 - Qua 20:00 (Português) - Sáb 19:30 (Inglês) (RJM Dom 10:00 - Inglês) Ministério Ancião JOSIAS CORREIA ANTUNES Cooperador Ofício Ministerial Adão Campos da Silva Diácono Mário Gomes Pereira Wagner Izaltino Alves dos Santos Richard Pereira Santos Daniel Queiroz Cooperador de Jovens e Menores Gabriel Antunes Telefone(s) +1 (781) 592-4646"
+    }
+  },
+  {
+    "CodigoId": "US-01-0016",
+    "Nome": "Marietta (Atlanta) - Central",
+    "Logradouro": "2140 West Sandtown Road",
+    "CEP": "30064",
+    "Cidade": "Marietta, GA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.9007297,
+      "lon": -84.6350328
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Inglês)",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Marietta (Atlanta) CENTRAL US-01-0016 Localização Logradouro: 2140 West Sandtown Road CEP: 30064 Cidade: Marietta, GA, Estados Unidos Dias de Culto Qua 20:00 (Inglês) - Sáb 19:30 (Português) (RJM Dom 10:00 - Inglês) Ministério Ancião RICARDO CAVALCANTE DE SOUZA Diácono Vanderley Marcaccini Félix Telefone(s) +1 (404) 781-3215"
+    }
+  },
+  {
+    "CodigoId": "US-01-0086",
+    "Nome": "Melbourne - Central",
+    "Logradouro": "4970 Stack Boulevard",
+    "CEP": "32901",
+    "Cidade": "Melbourne, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 28.0367022,
+      "lon": -80.6278587
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Português/Inglês) / RJM Dom 10:00 - Português/Inglês",
+        "Quinta-feira": "20:00 (Português)"
+      },
+      "Obs": "Localidade Melbourne CENTRAL US-01-0086 Localização Logradouro: 4970 Stack Boulevard CEP: 32901 Cidade: Melbourne, FL, Estados Unidos Complemento: Suite B1 Dias de Culto Dom 10:00 (Português/Inglês) - Qui 20:00 (Português) - (RJM Dom 10:00 - Português/Inglês) Ministério Telefone(s) +1 (475) 228-6976"
+    }
+  },
+  {
+    "CodigoId": "US-01-0046",
+    "Nome": "Memphis (Tennessee) - Central",
+    "Logradouro": "5103 Millbranch Road",
+    "CEP": "38116",
+    "Cidade": "Memphis, TN, Estados Unidos",
+    "Coordenadas": {
+      "lat": 35.0093673,
+      "lon": -90.0077347
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Inglês/Português / RJM Sáb 19:30 - Inglês/Português"
+      },
+      "Obs": "Localidade Memphis (Tennessee) CENTRAL US-01-0046 Localização Logradouro: 5103 Millbranch Road CEP: 38116 Cidade: Memphis, TN, Estados Unidos Dias de Culto Sáb 19:30 (Inglês/Português) (RJM Sáb 19:30 - Inglês/Português) Ministério Cooperador Ofício Ministerial Jeferson Peixe Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0083",
+    "Nome": "Metrowest (Orlando)",
+    "Logradouro": "5749 Westgate Drive",
+    "CEP": "32835",
+    "Cidade": "Orlando, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 28.5321356,
+      "lon": -81.4602725
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Sábado",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Quinta-feira": "20:00",
+        "Sábado": "19:30 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Metrowest (Orlando) US-01-0083 Localização Logradouro: 5749 Westgate Drive CEP: 32835 Cidade: Orlando, FL, Estados Unidos Complemento: Suite 107 Dias de Culto Ter 20:00 - Qui 20:00 - Sáb 19:30 (Português) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Emerson Carlos Brambilla Cooperador de Jovens e Menores Magno Martins Telefone(s) +1 (407) 494-0188"
+    }
+  },
+  {
+    "CodigoId": "US-01-0012",
+    "Nome": "Miami - Central",
+    "Logradouro": "1451 Ne 161 Street",
+    "CEP": "33162",
+    "Cidade": "North Miami Beach, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 25.9287516,
+      "lon": -80.178511
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / RJM Dom 10:30 - Inglês",
+        "Terça-feira": "20:00 (Espanhol)",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade Miami CENTRAL US-01-0012 Localização Logradouro: 1451 Ne 161 Street CEP: 33162 Cidade: North Miami Beach, FL, Estados Unidos Dias de Culto Dom 10:30 (Inglês) - Ter 20:00 (Espanhol) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião MANUEL SOLIS MOISES PONTES MARCIO FREITAS Cooperador Ofício Ministerial Everaldo Alves Barros Diácono Ricardo Custódio Thiago da Silva Nogueira Savio Barreto Cooperador de Jovens e Menores Alexander Hoyos Telefone(s) +1 (305) 354-2781"
+    }
+  },
+  {
+    "CodigoId": "US-01-0044",
+    "Nome": "Middletown (Rhode Island) - Central",
+    "Logradouro": "1077 Aquidneck Avenue",
+    "CEP": "02842",
+    "Cidade": "Middletown, RI, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.516915,
+      "lon": -71.282949
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30 (Português)",
+        "Sábado": "19:30 (Português) / 19:30 (Inglês",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Middletown (Rhode Island) CENTRAL US-01-0044 Localização Logradouro: 1077 Aquidneck Avenue CEP: 02842 Cidade: Middletown, RI, Estados Unidos Complemento: Unit B Dias de Culto Ter-Sáb 19:30 (Português) - 2º Sáb 19:30 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião CARLOS AUGUSTO CARDOSO Diácono Charles Gabriel Mestrinelli Cooperador de Jovens e Menores Fabiano Nascimento Freires Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0056",
+    "Nome": "Milwaukee - Central",
+    "Logradouro": "Best Western Plus - 5105 South Howel Avenue",
+    "CEP": "53207",
+    "Cidade": "Milwaukee, WI, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.9825959,
+      "lon": -87.8995744
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês / RJM 2º e 4º Dom 10:00 Inglês"
+      },
+      "Obs": "Localidade Milwaukee CENTRAL US-01-0056 Localização Logradouro: Best Western Plus - 5105 South Howel Avenue CEP: 53207 Cidade: Milwaukee, WI, Estados Unidos Dias de Culto 1º, 3º e 5º Dom 10:00 (Inglês) (RJM 2º e 4º Dom 10:00 Inglês) Ministério Cooperador Ofício Ministerial Jerry Czysz Diácono Werner Krieck Cooperador de Jovens e Menores Michael Geracie Telefone(s) +1 (262) 364-9215"
+    }
+  },
+  {
+    "CodigoId": "US-01-0094",
+    "Nome": "Minneapolis - Central",
+    "Logradouro": "Hampton Inn - 20851 Keokuk Avenue",
+    "CEP": "55044",
+    "Cidade": "Lakeville, MN, Estados Unidos",
+    "Coordenadas": {
+      "lat": 44.6802796,
+      "lon": -93.2509076
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 (Inglês / RJM 2º e 4º Dom 11:00 - Inglês"
+      },
+      "Obs": "Localidade Minneapolis CENTRAL US-01-0094 Localização Logradouro: Hampton Inn - 20851 Keokuk Avenue CEP: 55044 Cidade: Lakeville, MN, Estados Unidos Dias de Culto 2º e 4º Dom 11:00 (Inglês) (RJM 2º e 4º Dom 11:00 - Inglês) Ministério Ancião NICHOLAS SAMAR Telefone(s) +1 (630) 207-5319"
+    }
+  },
+  {
+    "CodigoId": "US-01-0045",
+    "Nome": "Moncks Corner - Charleston - Central",
+    "Logradouro": "1010 Old Highway US 52",
+    "CEP": "29461",
+    "Cidade": "Moncks Corner, SC, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.1852431,
+      "lon": -80.0012282
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Moncks Corner - Charleston CENTRAL US-01-0045 Localização Logradouro: 1010 Old Highway US 52 CEP: 29461 Cidade: Moncks Corner, SC, Estados Unidos Complemento: Unit D Dias de Culto DN 4N SN (RJM-DN) Reunião de Jovens e Menores Domingo - 18:00 - en_US Culto Oficial Domingo - 18:00 - en_US Quarta-feira - 20:00 - pt_BR Sábado - 20:00 - pt_BR Ministério Cooperador Ofício Ministerial Mário Alonso Edivaldo Pereira Diácono Renato Francisco de Oliveira Cooperador de Jovens e Menores Luis Henrique Ferreira Soares Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0088",
+    "Nome": "Myrtle Beach - Central",
+    "Logradouro": "5082 Lafon Lane, Unit 9",
+    "CEP": "29579",
+    "Cidade": "Myrtle Beach, SC, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.6956461,
+      "lon": -78.8900409
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Myrtle Beach CENTRAL US-01-0088 Localização Logradouro: 5082 Lafon Lane, Unit 9 CEP: 29579 Cidade: Myrtle Beach, SC, Estados Unidos Dias de Culto 3N 6N (RJM-6N) Ter-Sex 20:00 (RJM Sex 20:00) Culto Oficial Terça-feira - 20:00 - pt_BR Sexta-feira - 20:00 - pt_BR Reunião de Jovens e Menores Sexta-feira - 20:00 - pt_BR Ministério Cooperador Ofício Ministerial Marcos Agostinho Dutra Cooperador de Jovens e Menores Felipe Vidotto Martins Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0066",
+    "Nome": "Nashua (New Hampshire) - Central",
+    "Logradouro": "28 Charron Avenue",
+    "CEP": "03063",
+    "Cidade": "Nashua, NH, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.7760365,
+      "lon": -71.5017602
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Inglês)",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Nashua (New Hampshire) CENTRAL US-01-0066 Localização Logradouro: 28 Charron Avenue CEP: 03063 Cidade: Nashua, NH, Estados Unidos Complemento: Suite 13 Dias de Culto Qua 20:00 (Inglês) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Helton Martins Rodrigues Cooperador de Jovens e Menores Pedro Henrique Mota Sampaio Telefone(s) +1 (978) 580-7732"
+    }
+  },
+  {
+    "CodigoId": "US-01-0062",
+    "Nome": "New Orleans - Central",
+    "Logradouro": "6200 Camphor Street",
+    "CEP": "70003",
+    "Cidade": "Metairie, LA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 29.9892334,
+      "lon": -90.2045439
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "20:00 (Português / RJM Sáb 20:00 - Português"
+      },
+      "Obs": "Localidade New Orleans CENTRAL US-01-0062 Localização Logradouro: 6200 Camphor Street CEP: 70003 Cidade: Metairie, LA, Estados Unidos Dias de Culto Sáb 20:00 (Português) (RJM Sáb 20:00 - Português) Ministério Cooperador Ofício Ministerial Thiago Waley dos Santos Telefone(s) +1 (504) 920-0865"
+    }
+  },
+  {
+    "CodigoId": "US-01-0035",
+    "Nome": "Newark - Central",
+    "Logradouro": "36-40 Oxford Street",
+    "CEP": "07105",
+    "Cidade": "Newark, NJ, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.732421,
+      "lon": -74.1458729
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português) / RJM Dom 10:30 - Inglês",
+        "Quarta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Inglês"
+      },
+      "Obs": "Localidade Newark CENTRAL US-01-0035 Localização Logradouro: 36-40 Oxford Street CEP: 07105 Cidade: Newark, NJ, Estados Unidos Dias de Culto Dom 18:30 (Português) - Qua 20:00 (Português) - Sáb 19:30 (Inglês) (RJM Dom 10:30 - Inglês) Ministério Ancião JOZUEZER MUNIZ JADER FERREIRA Diácono José Santos José Santos Ailton Medes Pina Cooperador de Jovens e Menores Bruno Geraldo Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0106",
+    "Nome": "Novi - Central",
+    "Logradouro": "21100 Haggerty Rd - Northville",
+    "CEP": "48167",
+    "Cidade": "Novi, MI, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.48059,
+      "lon": -83.4754913
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00 (Inglês"
+      },
+      "Obs": "Localidade Novi CENTRAL US-01-0106 Localização Logradouro: 21100 Haggerty Rd - Northville CEP: 48167 Cidade: Novi, MI, Estados Unidos Dias de Culto Última Ter 19:00 (Inglês) Ministério Cooperador Ofício Ministerial Wagner Rocha Amaral"
+    }
+  },
+  {
+    "CodigoId": "US-01-0014",
+    "Nome": "Orlando - Central",
+    "Logradouro": "445 North Forsyth Road",
+    "CEP": "32807",
+    "Cidade": "Orlando, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 28.5421218,
+      "lon": -81.379045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês) / 18:30",
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Orlando CENTRAL US-01-0014 Localização Logradouro: 445 North Forsyth Road CEP: 32807 Cidade: Orlando, FL, Estados Unidos Dias de Culto Dom 10:30 (Inglês) - Dom 18:30 - Qua 20:00 - Sáb 19:30 (Português) (RJM Sex 20:00 - Inglês) Ministério Ancião REGINALDO FIGUEIRA SOARES SIDNEI LOPES DE FARIA CLAYTON OLIVEIRA DA CRUZ Cooperador Ofício Ministerial David Junior Bezerra Diácono Sidney de Oliveira Campos André Monteiro Gonçalves Valdir da Costa Guerra Julio Cesar de Lima Costa Robinson Serdeira Veríssimo Cooperador de Jovens e Menores Denilson Ferreira dos Santos"
+    }
+  },
+  {
+    "CodigoId": "US-01-0105",
+    "Nome": "Palm Coast - Central",
+    "Logradouro": "305 Palm Coast Pkwy NE",
+    "CEP": "32137",
+    "Cidade": "Palm Coast, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 29.5655219,
+      "lon": -81.1901757
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Palm Coast CENTRAL US-01-0105 Localização Logradouro: 305 Palm Coast Pkwy NE CEP: 32137 Cidade: Palm Coast, FL, Estados Unidos Dias de Culto Sex 20:00 (Português) Ministério Cooperador Ofício Ministerial Gesiel Souza de Matos"
+    }
+  },
+  {
+    "CodigoId": "US-99-0001",
+    "Nome": "Patillas (Puerto Rico)",
+    "Logradouro": "Calle Riefkhol #15b",
+    "CEP": "00723",
+    "Cidade": "Patillas, PR, Estados Unidos",
+    "Coordenadas": {
+      "lat": 17.9993163,
+      "lon": -66.0112456
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Espanhol"
+      },
+      "Obs": "Localidade Patillas (Puerto Rico) US-99-0001 Localização Logradouro: Calle Riefkhol #15b CEP: 00723 Cidade: Patillas, PR, Estados Unidos Dias de Culto 1º e 3º Dom 10:00 (Espanhol) Ministério Telefone(s) +1 (716) 848-9575"
+    }
+  },
+  {
+    "CodigoId": "US-01-0043",
+    "Nome": "Philadelphia - Central",
+    "Logradouro": "1900 Ripley Street",
+    "CEP": "19111",
+    "Cidade": "Philadelphia, PA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.0617915,
+      "lon": -75.0583418
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português)",
+        "Quinta-feira": "20:00 (Português",
+        "Sábado": "RJM Sáb 19:30 - Inglês"
+      },
+      "Obs": "Localidade Philadelphia CENTRAL US-01-0043 Localização Logradouro: 1900 Ripley Street CEP: 19111 Cidade: Philadelphia, PA, Estados Unidos Dias de Culto Dom 18:30 (Português) - Qui 20:00 (Português) (RJM Sáb 19:30 - Inglês) Ministério Ancião SILVIO LUÍS DA PAZ SILVIO LUÍS DA PAZ GLEIDSON TEIXEIRA ALENCAR Diácono Felipe Portilho Silva Cooperador de Jovens e Menores Edeilson Lima Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0061",
+    "Nome": "Pittsburgh (Pennsylvania) - Central",
+    "Logradouro": "1080 Steubenville Pike",
+    "CEP": "15021",
+    "Cidade": "Burgettstown, PA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.3820133,
+      "lon": -80.3928423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Pittsburgh (Pennsylvania) CENTRAL US-01-0061 Localização Logradouro: 1080 Steubenville Pike CEP: 15021 Cidade: Burgettstown, PA, Estados Unidos Dias de Culto Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Marcelo Macedo de Freitas Telefone(s) +1 (330) 685-0053"
+    }
+  },
+  {
+    "CodigoId": "US-01-0093",
+    "Nome": "Pittsfield - Central",
+    "Logradouro": "55 Pittsfield Road",
+    "CEP": "02140",
+    "Cidade": "Lenox, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.3779864,
+      "lon": -73.2774057
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 (Português / RJM 3º Dom 16:00 - Português"
+      },
+      "Obs": "Localidade Pittsfield CENTRAL US-01-0093 Localização Logradouro: 55 Pittsfield Road CEP: 02140 Cidade: Lenox, MA, Estados Unidos Dias de Culto Dom 16:00 (Português) (RJM 3º Dom 16:00 - Português) Ministério Cooperador Ofício Ministerial Luciano Rodrigo de Souza Telefone(s) +1 (413) 329-8485"
+    }
+  },
+  {
+    "CodigoId": "US-01-0075",
+    "Nome": "Plymouth - Central",
+    "Logradouro": "6 Resnik Road",
+    "CEP": "02360",
+    "Cidade": "Plymouth, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.9485545,
+      "lon": -70.712102
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português)",
+        "Sexta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Plymouth CENTRAL US-01-0075 Localização Logradouro: 6 Resnik Road CEP: 02360 Cidade: Plymouth, MA, Estados Unidos Dias de Culto Dom 18:30 (Português) - Sex 20:00 (Português) Ministério Telefone(s) +1 (617) 285-3967"
+    }
+  },
+  {
+    "CodigoId": "US-01-0057",
+    "Nome": "Pompano Beach (Miami) - Central",
+    "Logradouro": "3321 Ne 3rd Avenue",
+    "CEP": "33064",
+    "Cidade": "Pompano Beach, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 26.2718741,
+      "lon": -80.119412
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 (Inglês ) / 18:30 (Português)",
+        "Quinta-feira": "20:00 ( Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Pompano Beach (Miami) CENTRAL US-01-0057 Localização Logradouro: 3321 Ne 3rd Avenue CEP: 33064 Cidade: Pompano Beach, FL, Estados Unidos Dias de Culto Dom 10:30 (Inglês ) - Dom 18:30 (Português) - Qui 20:00 ( Português) (RJM Sex 20:00 - Inglês) Ministério Ancião JOÃO ESQUILINO FILHO Cooperador Ofício Ministerial Edson Sossai Felipe Burmann Telefone(s) +1 (754) 666-0790"
+    }
+  },
+  {
+    "CodigoId": "US-01-0006",
+    "Nome": "Prospect (Hartford) - Central",
+    "Logradouro": "6 New Haven Road",
+    "CEP": "06712",
+    "Cidade": "Prospect, CT, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.5015784,
+      "lon": -72.9797208
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Prospect (Hartford) CENTRAL US-01-0006 Localização Logradouro: 6 New Haven Road CEP: 06712 Cidade: Prospect, CT, Estados Unidos Dias de Culto Dom 18:30 (Português) (RJM Sex 20:00 - Inglês) Ministério Diácono Carlos Antonio Nascimento Cooperador de Jovens e Menores Richard Souza Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0053",
+    "Nome": "Richmond (Virginia) - Central",
+    "Logradouro": "2806 Fox Chase Lane",
+    "CEP": "23112",
+    "Cidade": "Midlothian, VA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 37.5062673,
+      "lon": -77.649268
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Inglês) / RJM Dom 10:00 - Inglês",
+        "Quinta-feira": "20:00",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade Richmond (Virginia) CENTRAL US-01-0053 Localização Logradouro: 2806 Fox Chase Lane CEP: 23112 Cidade: Midlothian, VA, Estados Unidos Dias de Culto Dom 10:00 (Inglês) - Qui 20:00 - Sáb 19:30 (Português) (RJM Dom 10:00 - Inglês) Ministério Cooperador Ofício Ministerial Vander Rodrigues da Silva Edivaldo Oliveira Cooperador de Jovens e Menores Lincoln Gonçalves Passos Bernal Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0040",
+    "Nome": "Riverhead - Central",
+    "Logradouro": "Vfw Post 400-540 College Road",
+    "CEP": "11738",
+    "Cidade": "Farmingville, NY, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.8312096,
+      "lon": -73.029552
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 (Português/Inglês / RJM Dom 17:00 - Português/Inglês"
+      },
+      "Obs": "Localidade Riverhead CENTRAL US-01-0040 Localização Logradouro: Vfw Post 400-540 College Road CEP: 11738 Cidade: Farmingville, NY, Estados Unidos Dias de Culto Dom 17:00 (Português/Inglês) (RJM Dom 17:00 - Português/Inglês) Ministério Diácono Reginaldo Tibúrcio da Silva Telefone(s) +1 (973) 578-4489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0069",
+    "Nome": "Riverside (Los Angeles) - Central",
+    "Logradouro": "3576 Arlington Avenue",
+    "CEP": "92506",
+    "Cidade": "Riverside, CA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 33.9462057,
+      "lon": -117.3912343
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 (Inglês) / RJM Dom 10:00 - Inglês",
+        "Quarta-feira": "20:00 (Espanhol"
+      },
+      "Obs": "Localidade Riverside (Los Angeles) CENTRAL US-01-0069 Localização Logradouro: 3576 Arlington Avenue CEP: 92506 Cidade: Riverside, CA, Estados Unidos Complemento: Suite #103 Dias de Culto Dom 18:00 (Inglês) - Qua 20:00 (Espanhol) (RJM Dom 10:00 - Inglês) Ministério Cooperador Ofício Ministerial Ronaldo Barbosa Diácono Lucas de Almeida Feres Cooperador de Jovens e Menores Gabriel Pires Telefone(s) +1 (626) 260-2248"
+    }
+  },
+  {
+    "CodigoId": "US-01-0019",
+    "Nome": "Romeoville (Chicago) - Central",
+    "Logradouro": "1233 Naperville Drive",
+    "CEP": "60446",
+    "Cidade": "Romeoville, IL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.6704752,
+      "lon": -88.0687079
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 (Inglês)",
+        "Terça-feira": "19:00 (Inglês"
+      },
+      "Obs": "Localidade Romeoville (Chicago) CENTRAL US-01-0019 Localização Logradouro: 1233 Naperville Drive CEP: 60446 Cidade: Romeoville, IL, Estados Unidos Dias de Culto Dom 17:00 (Inglês) - Ter 19:00 (Inglês) Ministério Ancião RICHARD SGARIOTO DAVID BILANCIA Cooperador Ofício Ministerial Matheus Boscolo de Almeida Telefone(s) +1 (630) 696-3002"
+    }
+  },
+  {
+    "CodigoId": "US-01-0070",
+    "Nome": "Salisbury (Boston) - Central",
+    "Logradouro": "15 Main Street",
+    "CEP": "01952",
+    "Cidade": "Salisbury, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.8692532,
+      "lon": -70.8834948
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00 (Português)",
+        "Sexta-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Salisbury (Boston) CENTRAL US-01-0070 Localização Logradouro: 15 Main Street CEP: 01952 Cidade: Salisbury, MA, Estados Unidos Complemento: Suite 104 Dias de Culto Ter 20:00 (Português) - Sex 20:00 (Inglês) Ministério Cooperador Ofício Ministerial Jacob Gonzaga Telefone(s) +1 (978) 674-9179"
+    }
+  },
+  {
+    "CodigoId": "US-01-0052",
+    "Nome": "Salt Lake City (Utah) - Central",
+    "Logradouro": "339 East 3900 South",
+    "CEP": "84107",
+    "Cidade": "Salt Lake City, UT, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.7210997,
+      "lon": -111.8814064
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 (Inglês) / RJM Dom 10:30 - Inglês",
+        "Sábado": "19:30 (Português"
+      },
+      "Obs": "Localidade Salt Lake City (Utah) CENTRAL US-01-0052 Localização Logradouro: 339 East 3900 South CEP: 84107 Cidade: Salt Lake City, UT, Estados Unidos Complemento: Suite #130-140 Dias de Culto Dom 18:00 (Inglês) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Peterson Rodrigo Felipe Cooperador de Jovens e Menores Miguel Jason da Silva Conejo Telefone(s) +1 (307) 922-2489"
+    }
+  },
+  {
+    "CodigoId": "US-01-0073",
+    "Nome": "San José (San Francisco) - Central",
+    "Logradouro": "871 Coleman Avenue",
+    "CEP": "95110",
+    "Cidade": "San José, CA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 37.3454794,
+      "lon": -121.914937
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Sexta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade San José (San Francisco) CENTRAL US-01-0073 Localização Logradouro: 871 Coleman Avenue CEP: 95110 Cidade: San José, CA, Estados Unidos Complemento: Suite #207 Dias de Culto Dom 18:00 - Sex 20:00 (Português) Ministério Cooperador Ofício Ministerial Reginaldo Francisco Santini Telefone(s) +1 (510) 387-0257"
+    }
+  },
+  {
+    "CodigoId": "US-01-0074",
+    "Nome": "Sarasota - Central",
+    "Logradouro": "3389 12th Street",
+    "CEP": "34237",
+    "Cidade": "Sarasota, FL, Estados Unidos",
+    "Coordenadas": {
+      "lat": 27.3486754,
+      "lon": -82.5018508
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (1ª, 3ª e 5ª Português e 2ª e 4ª Espanhol)",
+        "Sábado": "19:30 (Português/Inglês",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Sarasota CENTRAL US-01-0074 Localização Logradouro: 3389 12th Street CEP: 34237 Cidade: Sarasota, FL, Estados Unidos Dias de Culto Qua 20:00 (1ª, 3ª e 5ª Português e 2ª e 4ª Espanhol) - Sáb 19:30 (Português/Inglês) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Rodolfo Marques Torrecilha Diácono Eduardo Asser de Carvalho Cooperador de Jovens e Menores Brandon Santini Pawlus Telefone(s) +1 (813) 420-4694"
+    }
+  },
+  {
+    "CodigoId": "US-01-0054",
+    "Nome": "Seattle - Central",
+    "Logradouro": "610 S Lewis St",
+    "CEP": "98272",
+    "Cidade": "Seattle, WA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 47.6038321,
+      "lon": -122.330062
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Seattle CENTRAL US-01-0054 Localização Logradouro: 610 S Lewis St CEP: 98272 Cidade: Seattle, WA, Estados Unidos Complemento: Monroe Dias de Culto Qua 20:00 - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião DAVI LIMA DE OLIVEIRA PAULO HENRIQUE BOLGAR Telefone(s) +1 (425) 305-7105"
+    }
+  },
+  {
+    "CodigoId": "US-01-0060",
+    "Nome": "Virginia Beach - Central",
+    "Logradouro": "5608 Virginia Beach Boulevard",
+    "CEP": "23462",
+    "Cidade": "Virginia Beach, VA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 36.8535922,
+      "lon": -76.1764522
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Português/Inglês / RJM Sáb 19:30- Português/Inglês"
+      },
+      "Obs": "Localidade Virginia Beach CENTRAL US-01-0060 Localização Logradouro: 5608 Virginia Beach Boulevard CEP: 23462 Cidade: Virginia Beach, VA, Estados Unidos Complemento: Suite 506 Dias de Culto Sáb 19:30 (Português/Inglês) (RJM Sáb 19:30- Português/Inglês) Ministério Cooperador Ofício Ministerial Emerson Ronaldo Moreto Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0041",
+    "Nome": "Wake Forrest - Raleigh - Central",
+    "Logradouro": "1438 Wall Road",
+    "CEP": "27587",
+    "Cidade": "Wake Forest, NC, Estados Unidos",
+    "Coordenadas": {
+      "lat": 36.0131789,
+      "lon": -78.5151644
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 (Português/Inglês) / RJM Dom 10:00 - Português/Inglês",
+        "Sexta-feira": "20:00 (Português"
+      },
+      "Obs": "Localidade Wake Forrest - Raleigh CENTRAL US-01-0041 Localização Logradouro: 1438 Wall Road CEP: 27587 Cidade: Wake Forest, NC, Estados Unidos Dias de Culto Dom 10:00 (Português/Inglês) - Sex 20:00 (Português) (RJM Dom 10:00 - Português/Inglês) Ministério Cooperador Ofício Ministerial Clovis Nunes Matos Cooperador de Jovens e Menores André Avanzi Matos Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0103",
+    "Nome": "Walkersville - Central",
+    "Logradouro": "73 West Frederick St",
+    "CEP": "21050",
+    "Cidade": "Walkersville, MD, Estados Unidos",
+    "Coordenadas": {
+      "lat": 39.4769407,
+      "lon": -77.3574696
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 (Inglês / RJM Dom 17:00 - Inglês"
+      },
+      "Obs": "Localidade Walkersville CENTRAL US-01-0103 Localização Logradouro: 73 West Frederick St CEP: 21050 Cidade: Walkersville, MD, Estados Unidos Dias de Culto Dom 17:00 (Inglês) (RJM Dom 17:00 - Inglês) Ministério Ancião WALDIR MAURUTTO CHRISPIM Telefone(s) +1 (301) 982-9338"
+    }
+  },
+  {
+    "CodigoId": "US-01-0026",
+    "Nome": "West Barnstable (Hyannis) - Central",
+    "Logradouro": "49 John Maki Road",
+    "CEP": "02668",
+    "Cidade": "West Barnstable, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 41.6963464,
+      "lon": -70.3587975
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Segunda-feira": "20:00 (Português)",
+        "Quinta-feira": "20:00 (Inglês)",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade West Barnstable (Hyannis) CENTRAL US-01-0026 Localização Logradouro: 49 John Maki Road CEP: 02668 Cidade: West Barnstable, MA, Estados Unidos Dias de Culto Seg 20:00 (Português) - Qui 20:00 (Inglês) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Ancião ALVACIR PHILLIP MAIA Diácono Nelsimar Ferraz Pereira Cooperador de Jovens e Menores Matheus do Valle Siqueira Belli Telefone(s) +1 (774) 368-4531"
+    }
+  },
+  {
+    "CodigoId": "US-01-0087",
+    "Nome": "Worcester - Central",
+    "Logradouro": "400 Grove Street",
+    "CEP": "01605",
+    "Cidade": "Worcester, MA, Estados Unidos",
+    "Coordenadas": {
+      "lat": 42.287997,
+      "lon": -71.807426
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Inglês) e Sáb 19:30 (Português",
+        "Domingo": "RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Worcester CENTRAL US-01-0087 Localização Logradouro: 400 Grove Street CEP: 01605 Cidade: Worcester, MA, Estados Unidos Dias de Culto Qua 20:00 (Inglês) e Sáb 19:30 (Português) (RJM Dom 10:00 - Inglês) Ministério Cooperador Ofício Ministerial Gustavo Magiri Prodocimo Cooperador de Jovens e Menores Jonathan Franco Tonin Telefone(s) +1 (774) 486-0300"
+    }
+  },
+  {
+    "CodigoId": "US-01-0072",
+    "Nome": "Yonkers - White Plains - Central",
+    "Logradouro": "65 Crisfield Street",
+    "CEP": "10710",
+    "Cidade": "Yonkers, NY, Estados Unidos",
+    "Coordenadas": {
+      "lat": 40.976236,
+      "lon": -73.8283876
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:30",
+        "Terça-feira": "20:00 (Português",
+        "Sexta-feira": "RJM Sex 20:00 - Inglês"
+      },
+      "Obs": "Localidade Yonkers - White Plains CENTRAL US-01-0072 Localização Logradouro: 65 Crisfield Street CEP: 10710 Cidade: Yonkers, NY, Estados Unidos Dias de Culto Dom 10:30 - Ter 20:00 (Português) (RJM Sex 20:00 - Inglês) Ministério Cooperador Ofício Ministerial Esequiel dos Santos Cooperador de Jovens e Menores Thiago de Carvalho Telefone(s) +1 (973) 578-4489"
+    }
+  }
+]

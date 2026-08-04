@@ -1,0 +1,64 @@
+[
+  {
+    "CodigoId": "LU-01-0002",
+    "Nome": "Beringen - Central",
+    "Logradouro": "2 am Sprangert",
+    "CEP": "L-7593",
+    "Cidade": "Beringen, L, Luxemburgo",
+    "Coordenadas": {
+      "lat": 49.7604285,
+      "lon": 6.1162028
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM 2º e 4º Dom 10:30",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Beringen CENTRAL LU-01-0002 Localização Logradouro: 2 am Sprangert CEP: L-7593 Cidade: Beringen, L, Luxemburgo Dias de Culto 1º, 3º e 5º Dom 10:30 - Sáb 19:00 (RJM 2º e 4º Dom 10:30) Ministério Ancião ANTÔNIO JOAQUIM DE ALMEIDA CARDOSO Cooperador Ofício Ministerial Daniel Rosatella Filho Diácono Celso Almeida de Oliveira Marco Nuno Alves Silva de Oliveira Cooperador de Jovens e Menores Paulo Santos Telefone(s) +352 () 2632-0099"
+    }
+  },
+  {
+    "CodigoId": "LU-01-0004",
+    "Nome": "Doennage - Central",
+    "Logradouro": "CEP: L-9745",
+    "CEP": "L-9745",
+    "Cidade": "Doennage, C, Luxemburgo",
+    "Coordenadas": {
+      "lat": 50.05229682357383,
+      "lon": 5.918713196295585
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Doennage CENTRAL LU-01-0004 Localização Logradouro: CEP: L-9745 Cidade: Doennage, C, Luxemburgo Complemento: (Reunião de Evangelização) Dias de Culto Ministério Cooperador Ofício Ministerial Marcelo de Souza Januário Telefone(s) +352 (661) 555-089"
+    }
+  },
+  {
+    "CodigoId": "LU-01-0003",
+    "Nome": "Pétange - Central",
+    "Logradouro": "50 Rue Pierre Hamer",
+    "CEP": "L-4737",
+    "Cidade": "Pétange, E, Luxemburgo",
+    "Coordenadas": {
+      "lat": 49.5504865,
+      "lon": 5.8572467
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Pétange CENTRAL LU-01-0003 Localização Logradouro: 50 Rue Pierre Hamer CEP: L-4737 Cidade: Pétange, E, Luxemburgo Dias de Culto Ter 19:30 Ministério Cooperador Ofício Ministerial Joaquim de Paulo Neto"
+    }
+  }
+]

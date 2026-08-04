@@ -1,0 +1,194 @@
+[
+  {
+    "CodigoId": "MX-01-0010",
+    "Nome": "Circunvalación Vallarta - Central",
+    "Logradouro": "Avenida Terranova, 310 - Departamento 203",
+    "CEP": "44689",
+    "Cidade": "Guadalajara, JA, México",
+    "Coordenadas": {
+      "lat": 20.6720375,
+      "lon": -103.338396
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Circunvalación Vallarta CENTRAL MX-01-0010 Localização Logradouro: Avenida Terranova, 310 - Departamento 203 CEP: 44689 Cidade: Guadalajara, JA, México Dias de Culto SN Culto Oficial Sábado - 19:30 Ministério Cooperador Ofício Ministerial Josias Jiacomini"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0001",
+    "Nome": "Colonia Hidalgo - Central",
+    "Logradouro": "Avenida Magisterio, 2009",
+    "CEP": "Cidade: Ensenada, BC, México",
+    "Cidade": "Ensenada, BC, México",
+    "Coordenadas": {
+      "lat": 31.8658887,
+      "lon": -116.602983
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Colonia Hidalgo CENTRAL MX-01-0001 Localização Logradouro: Avenida Magisterio, 2009 CEP: Cidade: Ensenada, BC, México Dias de Culto DM 4N SN (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 11:00 Quarta-feira - 19:30 Sábado - 19:00 Ministério Cooperador Ofício Ministerial Octaviano Arredondo Garzón Telefone(s) +52 (646) 244-2576"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0004",
+    "Nome": "Colonia Julio Camelo Treviño - Central",
+    "Logradouro": "Calle Eulogio Treviño, 413",
+    "CEP": "Cidade: San Nicolás de Los Garza (monterrey), NL, México",
+    "Cidade": "San Nicolás de Los Garza (monterrey), NL, México",
+    "Coordenadas": {
+      "lat": 25.7509312,
+      "lon": -100.2806706
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Colonia Julio Camelo Treviño CENTRAL MX-01-0004 Localização Logradouro: Calle Eulogio Treviño, 413 CEP: Cidade: San Nicolás de Los Garza (monterrey), NL, México Dias de Culto DM 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:30 Culto Oficial Domingo - 10:30 Quinta-feira - 20:00 Ministério Cooperador Ofício Ministerial Mario Rascón Villalobos Jesus Eduardo Romero Medina Diácono Ismael Hernández Gutiérrez Cooperador de Jovens e Menores Ricardo Rossell Malinsky Telefone(s) +52 (81) 8352-5352"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0011",
+    "Nome": "Colonia La Joya - Central",
+    "Logradouro": "Calle Topácio,34 B",
+    "CEP": "0087-455",
+    "Cidade": "Heroica Matamoros, TA, México",
+    "Coordenadas": {
+      "lat": 25.8359497,
+      "lon": -97.4923084
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Colonia La Joya CENTRAL MX-01-0011 Localização Logradouro: Calle Topácio,34 B CEP: 0087-455 Cidade: Heroica Matamoros, TA, México Dias de Culto DM 4N Culto Oficial Domingo - 11:00 Quarta-feira - 19:00 Ministério Cooperador Ofício Ministerial Omar Osvaldo Padilla Lopez"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0007",
+    "Nome": "Colonia Rafael Hernández Ochoa - Central",
+    "Logradouro": "Calle Marco Polo, 106",
+    "CEP": "96550",
+    "Cidade": "Coatzacoalcos, VE, México",
+    "Coordenadas": {
+      "lat": 18.1342811,
+      "lon": -94.4776795
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Colonia Rafael Hernández Ochoa CENTRAL MX-01-0007 Localização Logradouro: Calle Marco Polo, 106 CEP: 96550 Cidade: Coatzacoalcos, VE, México Dias de Culto DM 4N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:30 Culto Oficial Domingo - 10:30 Quarta-feira - 19:30 Ministério Cooperador Ofício Ministerial Alejandro Amado Meráz González Telefone(s) +52 (921) 218-5678"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0003",
+    "Nome": "Colonia San Juan de Aragón - Central",
+    "Logradouro": "Avenida Río Viejo, 24",
+    "CEP": "07950",
+    "Cidade": "Ciudad de Mexico, DF, México",
+    "Coordenadas": {
+      "lat": 19.4255037,
+      "lon": -99.2160463
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Colonia San Juan de Aragón CENTRAL MX-01-0003 Localização Logradouro: Avenida Río Viejo, 24 CEP: 07950 Cidade: Ciudad de Mexico, DF, México Complemento: Cerca del Zoológico de Aragón Dias de Culto DM 4N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:30 Culto Oficial Domingo - 10:30 Quarta-feira - 19:00 Ministério Ancião RODRIGO LUCIANO DE ARAÚJO GONÇALVES Cooperador Ofício Ministerial Victor Corbello Hinojosa Diácono Fernando Monaro Cooperador de Jovens e Menores Raphael Antunes de Faria Telefone(s) +52 (55) 9561-3690"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0008",
+    "Nome": "Fraccionamiento La Central - Central",
+    "Logradouro": "Avenida El Estanque, 106",
+    "CEP": "25220",
+    "Cidade": "Saltillo, CO, México",
+    "Coordenadas": {
+      "lat": 19.4083344,
+      "lon": -99.173994
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Fraccionamiento La Central CENTRAL MX-01-0008 Localização Logradouro: Avenida El Estanque, 106 CEP: 25220 Cidade: Saltillo, CO, México Dias de Culto ST 1º e 3º Sáb 17:00 Culto Oficial Sábado - 17:00 Ministério Telefone(s) +52 (81) 8352-5352"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0009",
+    "Nome": "La Presa - Central",
+    "Logradouro": "Calle Club Exploradores Tequiltepetl, Manzana 110, Lote 1185-C",
+    "CEP": "54180",
+    "Cidade": "Tlalnepantla, MX, México",
+    "Coordenadas": {
+      "lat": 19.5198889,
+      "lon": -99.1088178
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade La Presa CENTRAL MX-01-0009 Localização Logradouro: Calle Club Exploradores Tequiltepetl, Manzana 110, Lote 1185-C CEP: 54180 Cidade: Tlalnepantla, MX, México Complemento: Colonia Lázaro Cárdenas Dias de Culto SN Culto Oficial Sábado - 19:30 Ministério Cooperador Ofício Ministerial Edson Nogueira Mendes Telefone(s) +52 (55) 9561-3590"
+    }
+  },
+  {
+    "CodigoId": "MX-01-0002",
+    "Nome": "Oasis Oriente - Central",
+    "Logradouro": "Calle Estonia, 7113",
+    "CEP": "03200",
+    "Cidade": "Ciudad Juarez, CH, México",
+    "Coordenadas": {
+      "lat": 31.6384926,
+      "lon": -106.4280116
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Oasis Oriente CENTRAL MX-01-0002 Localização Logradouro: Calle Estonia, 7113 CEP: 03200 Cidade: Ciudad Juarez, CH, México Dias de Culto DM Culto Oficial Domingo - 10:00 Ministério Telefone(s) +52 (656) 324-1885"
+    }
+  }
+]

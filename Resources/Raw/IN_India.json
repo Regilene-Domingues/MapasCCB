@@ -1,0 +1,608 @@
+[
+  {
+    "CodigoId": "IN-01-0043",
+    "Nome": "Ayare",
+    "Logradouro": "At Ayare Post Kogda Tal Jawhar",
+    "CEP": "00401607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.3183904,
+      "lon": 72.8991697
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Ayare IN-01-0043 Localização Logradouro: At Ayare Post Kogda Tal Jawhar CEP: 00401607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0041",
+    "Nome": "Ayare Post Kogda",
+    "Logradouro": "CEP: 401067",
+    "CEP": "401067",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.3183904,
+      "lon": 72.8991697
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Ayare Post Kogda IN-01-0041 Localização Logradouro: CEP: 401067 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0036",
+    "Nome": "Bhujadi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dahanu, MAHARASHTRA, Índia",
+    "Cidade": "Dahanu, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9887244,
+      "lon": 72.733848
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Bhujadi CENTRAL IN-01-0036 Localização Logradouro: CEP: Cidade: Dahanu, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Shankar Borcha"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0023",
+    "Nome": "Chandrapur",
+    "Logradouro": "C.O Shamkant Y Dhokane Bolre Layout, Ramnagar",
+    "CEP": "442401",
+    "Cidade": "Gondpipari, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7131212,
+      "lon": 79.6775409
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Chandrapur IN-01-0023 Localização Logradouro: C.O Shamkant Y Dhokane Bolre Layout, Ramnagar CEP: 442401 Cidade: Gondpipari, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Telefone(s) +91 (98) 9003-7791 +91 (97) 6309-7464"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0024",
+    "Nome": "Charoti - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Charoti, MAHARASHTRA, Índia",
+    "Cidade": "Charoti, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9116248,
+      "lon": 72.9348214
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:30"
+      },
+      "Obs": "Localidade Charoti CENTRAL IN-01-0024 Localização Logradouro: CEP: Cidade: Charoti, MAHARASHTRA, Índia Dias de Culto Dom 11:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0030",
+    "Nome": "Cravatepada Vikrmgad - Central",
+    "Logradouro": "Post Kev Taluka",
+    "CEP": "401403",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7335947,
+      "lon": 72.9267929
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Cravatepada Vikrmgad CENTRAL IN-01-0030 Localização Logradouro: Post Kev Taluka CEP: 401403 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Sainath Ambo Ravante"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0018",
+    "Nome": "Deshpandepipari - Central",
+    "Logradouro": "CEP: 442702",
+    "CEP": "442702",
+    "Cidade": "Gondpipari, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7131212,
+      "lon": 79.6775409
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Deshpandepipari CENTRAL IN-01-0018 Localização Logradouro: CEP: 442702 Cidade: Gondpipari, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Nitin Kailash Baddhalwar"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0028",
+    "Nome": "Mu Jarawandi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Dadchiroli, MAHARASHTRA, Índia",
+    "Cidade": "Dadchiroli, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Mu Jarawandi CENTRAL IN-01-0028 Localização Logradouro: CEP: Cidade: Dadchiroli, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Rajkumar Malaji Yengatiwar"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0035",
+    "Nome": "Nagazhari",
+    "Logradouro": "Tal Boisar",
+    "CEP": "00401-607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.3183904,
+      "lon": 72.8991697
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nagazhari IN-01-0035 Localização Logradouro: Tal Boisar CEP: 00401-607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Deleep Janya Bhurkud"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0038",
+    "Nome": "Nikane",
+    "Logradouro": "PO Ranset - Tal Dahanu",
+    "CEP": "401607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9085527,
+      "lon": 72.9535045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "14:00"
+      },
+      "Obs": "Localidade Nikane IN-01-0038 Localização Logradouro: PO Ranset - Tal Dahanu CEP: 401607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Ter 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0004",
+    "Nome": "Nimbapur - Tal. Dahanu",
+    "Logradouro": "Post Saiwan - At Bandhghar",
+    "CEP": "Cidade: Palghar, MAHARASHTRA, Índia",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.757249,
+      "lon": 73.0931199
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:30"
+      },
+      "Obs": "Localidade Nimbapur - Tal. Dahanu IN-01-0004 Localização Logradouro: Post Saiwan - At Bandhghar CEP: Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 11:30 Ministério Cooperador Ofício Ministerial Vasant Ganpat Topale"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0017",
+    "Nome": "Panchshilward",
+    "Logradouro": "CEP: 442702",
+    "CEP": "442702",
+    "Cidade": "Gondpipari, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7131212,
+      "lon": 79.6775409
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "11:00",
+        "Quarta-feira": "19:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Panchshilward IN-01-0017 Localização Logradouro: CEP: 442702 Cidade: Gondpipari, MAHARASHTRA, Índia Dias de Culto Dom 11:00 - Qua-Sex 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0039",
+    "Nome": "Pethe",
+    "Logradouro": "Post Tava - Tal Dahanu",
+    "CEP": "401607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9085527,
+      "lon": 72.9535045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Pethe IN-01-0039 Localização Logradouro: Post Tava - Tal Dahanu CEP: 401607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Ministério Cooperador Ofício Ministerial Tatya Ganpat Kedar"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0021",
+    "Nome": "Post Dampur - Central",
+    "Logradouro": "CEP: 442705",
+    "CEP": "442705",
+    "Cidade": "Kothari, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 20.6811339,
+      "lon": 77.2144647
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Post Dampur CENTRAL IN-01-0021 Localização Logradouro: CEP: 442705 Cidade: Kothari, MAHARASHTRA, Índia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Varlu Ramaji Atram"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0019",
+    "Nome": "Post Darur - Central",
+    "Logradouro": "CEP: 442702",
+    "CEP": "442702",
+    "Cidade": "Dongargaon Mal, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.6160711,
+      "lon": 79.6719289
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Post Darur CENTRAL IN-01-0019 Localização Logradouro: CEP: 442702 Cidade: Dongargaon Mal, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Vilas Shankar Godshelwar"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0025",
+    "Nome": "Post Dhaba - Central",
+    "Logradouro": "Dhivar Ward tal Gondpipari",
+    "CEP": "442702",
+    "Cidade": "Chandrapur, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.6829195,
+      "lon": 79.6490582
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "11:00"
+      },
+      "Obs": "Localidade Post Dhaba CENTRAL IN-01-0025 Localização Logradouro: Dhivar Ward tal Gondpipari CEP: 442702 Cidade: Chandrapur, MAHARASHTRA, Índia Dias de Culto Qua 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0027",
+    "Nome": "Post Kunz",
+    "Logradouro": "P.O. Kasha Budruk",
+    "CEP": "Cidade: Vikramgad, MAHARASHTRA, Índia",
+    "Cidade": "Vikramgad, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7969195,
+      "lon": 73.0937283
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Post Kunz IN-01-0027 Localização Logradouro: P.O. Kasha Budruk CEP: Cidade: Vikramgad, MAHARASHTRA, Índia Dias de Culto Sex 19:30 Ministério Cooperador Ofício Ministerial Swapanil Mukund Lahange"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0013",
+    "Nome": "Post Medhi - Central",
+    "Logradouro": "Tal. Vikangad",
+    "CEP": "Cidade: Medhi, MAHARASHTRA, Índia",
+    "Cidade": "Medhi, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 18.5614851,
+      "lon": 73.8060107
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "11:00",
+        "Quinta-feira": "11:00"
+      },
+      "Obs": "Localidade Post Medhi CENTRAL IN-01-0013 Localização Logradouro: Tal. Vikangad CEP: Cidade: Medhi, MAHARASHTRA, Índia Dias de Culto Dom-Qui 11:00 Ministério Ancião Floravante Cortese Floravante Cortese Floravante Cortese Floravante Cortese MOHAN MUKUND LAHANGE Cooperador Ofício Ministerial Vilas Mukund Lahange Diácono Dinesh Kakad Thakare Telefone(s) +91 (92) 7387-1064"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0026",
+    "Nome": "Rajkumar - Post Jarawandi - Central",
+    "Logradouro": "Tal Etapalli",
+    "CEP": "442606",
+    "Cidade": "Gadchiroli, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 20.2904805,
+      "lon": 80.3340093
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Rajkumar - Post Jarawandi CENTRAL IN-01-0026 Localização Logradouro: Tal Etapalli CEP: 442606 Cidade: Gadchiroli, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0012",
+    "Nome": "Sarshi - Central",
+    "Logradouro": "At - Sarshi - Post Tawada",
+    "CEP": "Cidade: Maéipada, MAHARASHTRA, Índia",
+    "Cidade": "Maéipada, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Sarshi CENTRAL IN-01-0012 Localização Logradouro: At - Sarshi - Post Tawada CEP: Cidade: Maéipada, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Suresh Mahadu Thakre"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0010",
+    "Nome": "Shensari - Central",
+    "Logradouro": "Tal. Post Bapugaon",
+    "CEP": "412206",
+    "Cidade": "Ambeghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 18.1332998,
+      "lon": 73.7996081
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:30"
+      },
+      "Obs": "Localidade Shensari CENTRAL IN-01-0010 Localização Logradouro: Tal. Post Bapugaon CEP: 412206 Cidade: Ambeghar, MAHARASHTRA, Índia Dias de Culto Dom 11:30 Ministério Cooperador Ofício Ministerial Baburao Mathya Kanal"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0044",
+    "Nome": "Tal Jawar - Central",
+    "Logradouro": "CEP: 401607",
+    "CEP": "401607",
+    "Cidade": "At Tilonda, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 23.1883944,
+      "lon": 72.6277564
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Tal Jawar CENTRAL IN-01-0044 Localização Logradouro: CEP: 401607 Cidade: At Tilonda, MAHARASHTRA, Índia Dias de Culto DM Culto Oficial Domingo - 10:00 Ministério Cooperador Ofício Ministerial Vitthal Mukund Lahange"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0031",
+    "Nome": "Tal. Dahanij",
+    "Logradouro": "Post Dhanivari - Novos Kadupada",
+    "CEP": "401606",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 20.1391453,
+      "lon": 72.9104248
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Tal. Dahanij IN-01-0031 Localização Logradouro: Post Dhanivari - Novos Kadupada CEP: 401606 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Ancião SURESH RAMA KADU"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0029",
+    "Nome": "Talu",
+    "Logradouro": "Nagazhari - Post Nihe",
+    "CEP": "Cidade: Palghar, MAHARASHTRA, Índia",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.757249,
+      "lon": 73.0931199
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Talu IN-01-0029 Localização Logradouro: Nagazhari - Post Nihe CEP: Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0042",
+    "Nome": "Tilonda Post Pimpalset",
+    "Logradouro": "CEP: 401607",
+    "CEP": "401607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9085527,
+      "lon": 72.9535045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Tilonda Post Pimpalset IN-01-0042 Localização Logradouro: CEP: 401607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Ministério"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0037",
+    "Nome": "Vangaon",
+    "Logradouro": "Vangaon Tal Dahanu",
+    "CEP": "00401-607",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.3183904,
+      "lon": 72.8991697
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Vangaon IN-01-0037 Localização Logradouro: Vangaon Tal Dahanu CEP: 00401-607 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Visharam Govind Chaudhari"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0020",
+    "Nome": "Vehelpada",
+    "Logradouro": "CEP: 401605",
+    "CEP": "401605",
+    "Cidade": "Vikramgad, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7793249,
+      "lon": 73.0914922
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Vehelpada IN-01-0020 Localização Logradouro: CEP: 401605 Cidade: Vikramgad, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Sudam Ramchandra Kenzara"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0034",
+    "Nome": "Velgaon - Central",
+    "Logradouro": "Post Nagashari - Boisar",
+    "CEP": "Cidade: Boisar, MAHARASHTRA, Índia",
+    "Cidade": "Boisar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.7984865,
+      "lon": 72.761452
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Velgaon CENTRAL IN-01-0034 Localização Logradouro: Post Nagashari - Boisar CEP: Cidade: Boisar, MAHARASHTRA, Índia Dias de Culto Qua 19:30 Ministério Cooperador Ofício Ministerial Ankush Shridhar Labad"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0016",
+    "Nome": "Village - Central",
+    "Logradouro": "CEP: 442705",
+    "CEP": "442705",
+    "Cidade": "Bori, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 18.9415923,
+      "lon": 72.8342484
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Village CENTRAL IN-01-0016 Localização Logradouro: CEP: 442705 Cidade: Bori, MAHARASHTRA, Índia Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Sainath Malla Alavlwar"
+    }
+  },
+  {
+    "CodigoId": "IN-01-0040",
+    "Nome": "Wada Sonala Post Tilsha",
+    "Logradouro": "CEP: 401603",
+    "CEP": "401603",
+    "Cidade": "Palghar, MAHARASHTRA, Índia",
+    "Coordenadas": {
+      "lat": 19.9418297,
+      "lon": 73.1941826
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Wada Sonala Post Tilsha IN-01-0040 Localização Logradouro: CEP: 401603 Cidade: Palghar, MAHARASHTRA, Índia Dias de Culto Ministério"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "CodigoId": "AE-01-0002",
+    "Nome": "Al Hamra Industrial Area - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ras Al Khaimah, RK, Emirados Árabes Unidos (ec)",
+    "Cidade": "Ras Al Khaimah, RK, Emirados Árabes Unidos (ec)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Inglês/Demais",
+        "Português"
+      ],
+      "Horarios": {
+        "Sábado": "10:00 (1º Sáb",
+        "Inglês/Demais": "Inglês/Demais",
+        "Português": "Português"
+      },
+      "Obs": "Localidade Al Hamra Industrial Area CENTRAL AE-01-0002 Localização Logradouro: CEP: Cidade: Ras Al Khaimah, RK, Emirados Árabes Unidos (ec) Complemento: Rak Evangelical Church Center Dias de Culto Sáb 10:00 (1º Sáb - Inglês/Demais - Português) Ministério Telefone(s) (+55) 11 97475-2334 (+55) 11 99166 7511"
+    }
+  },
+  {
+    "CodigoId": "AE-01-0001",
+    "Nome": "Jebel Ali - Christ Church Jebel Ali - Central",
+    "Logradouro": "Salão 05 - 1º Andar",
+    "CEP": "Cidade: Dubai, DU, Emirados Árabes Unidos (ec)",
+    "Cidade": "Dubai, DU, Emirados Árabes Unidos (ec)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Jebel Ali - Christ Church Jebel Ali CENTRAL AE-01-0001 Localização Logradouro: Salão 05 - 1º Andar CEP: Cidade: Dubai, DU, Emirados Árabes Unidos (ec) Complemento: Estação de metrô Ibn Battuta - Red Line (ônibus F44) Dias de Culto Dom 18:30 Ministério Ancião Eliel De Camillis Eliel De Camillis Eliel De Camillis Diácono Carlos Luiz Dias Barbosa Telefone(s) (+55) 11 97475-2334 (+55) 11 99166-7511"
+    }
+  }
+]

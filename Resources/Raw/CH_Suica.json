@@ -1,0 +1,154 @@
+[
+  {
+    "CodigoId": "CH-01-0009",
+    "Nome": "Avry - Central",
+    "Logradouro": "Route de Rosé, 48 - 1º étage",
+    "CEP": "CH-1754",
+    "Cidade": "Avry, FR, Suíça",
+    "Coordenadas": {
+      "lat": 46.7850716,
+      "lon": 7.0652865
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 (Francês/Português"
+      },
+      "Obs": "Localidade Avry CENTRAL CH-01-0009 Localização Logradouro: Route de Rosé, 48 - 1º étage CEP: CH-1754 Cidade: Avry, FR, Suíça Dias de Culto Dom 15:30 (Francês/Português) Ministério Ancião WILSON ASSIS NASCIMENTO Diácono Ruben Josué Marques Amorim Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0008",
+    "Nome": "Dietikon - Central",
+    "Logradouro": "Lerzenstraße, 8",
+    "CEP": "CH-8953",
+    "Cidade": "Dietikon, ZH, Suíça",
+    "Coordenadas": {
+      "lat": 47.4171406,
+      "lon": 8.3998802
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00 (Português/Alemão",
+        "Domingo": "RJM 2º e 4º Dom 10:30 - Português/Alemão"
+      },
+      "Obs": "Localidade Dietikon CENTRAL CH-01-0008 Localização Logradouro: Lerzenstraße, 8 CEP: CH-8953 Cidade: Dietikon, ZH, Suíça Dias de Culto Qua 19:30 - Sáb 19:00 (Português/Alemão) (RJM 2º e 4º Dom 10:30 - Português/Alemão) Ministério Cooperador Ofício Ministerial Luis Marcelo Monteiro Calderero Diácono José Alberto da Silva Freitas Cooperador de Jovens e Menores Fabio Poltronieri Vieira Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0014",
+    "Nome": "Ebikon - Central",
+    "Logradouro": "Luzernerstraße, 48",
+    "CEP": "CH-6030",
+    "Cidade": "Ebikon, LU, Suíça",
+    "Coordenadas": {
+      "lat": 47.073044,
+      "lon": 8.3257919
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30 (Português e Alemão"
+      },
+      "Obs": "Localidade Ebikon CENTRAL CH-01-0014 Localização Logradouro: Luzernerstraße, 48 CEP: CH-6030 Cidade: Ebikon, LU, Suíça Dias de Culto Dom 15:30 (Português e Alemão) Ministério Cooperador Ofício Ministerial Joel José Castro Gonçalves Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0015",
+    "Nome": "Lugano - Central",
+    "Logradouro": "Strada Nuova, 12",
+    "CEP": "CH-6968",
+    "Cidade": "Lugano, TI, Suíça",
+    "Coordenadas": {
+      "lat": 46.0461748,
+      "lon": 8.9878575
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Lugano CENTRAL CH-01-0015 Localização Logradouro: Strada Nuova, 12 CEP: CH-6968 Cidade: Lugano, TI, Suíça Complemento: Sala Multiuso Palestra di Gandria Dias de Culto Último Dom 15:30 Ministério Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0001",
+    "Nome": "Oberwil - Central",
+    "Logradouro": "Mühlemattstraße, 25",
+    "CEP": "CH-4104",
+    "Cidade": "Basel, BS, Suíça",
+    "Coordenadas": {
+      "lat": 47.5581077,
+      "lon": 7.5878261
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30 () (Português",
+        "Sábado": "19:30 () (Português",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Oberwil CENTRAL CH-01-0001 Localização Logradouro: Mühlemattstraße, 25 CEP: CH-4104 Cidade: Basel, BS, Suíça Complemento: Oberwil isch e Gmeind im Bezirk Arlese Dias de Culto Ter-Sáb 19:30 (RJM 1º e 3º Dom 10:30) (Português) Ministério Cooperador Ofício Ministerial Piter August Krieck Cooperador de Jovens e Menores Alan Kennedy da Silva Uchoa Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0003",
+    "Nome": "Satigny - Central",
+    "Logradouro": "Route Du Mandement, 197",
+    "CEP": "CH-1242",
+    "Cidade": "Satigny, GE, Suíça",
+    "Coordenadas": {
+      "lat": 46.2125488,
+      "lon": 6.031127
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:30 (Francês) / RJM Dom 10:30 - Francês",
+        "Quarta-feira": "19:30 (Português)",
+        "Sábado": "19:30 (Francês"
+      },
+      "Obs": "Localidade Satigny CENTRAL CH-01-0003 Localização Logradouro: Route Du Mandement, 197 CEP: CH-1242 Cidade: Satigny, GE, Suíça Dias de Culto Dom 17:30 (Francês) - Qua 19:30 (Português) - Sáb 19:30 (Francês) (RJM Dom 10:30 - Francês) Ministério Ancião JOSÉ FILIPE DOS SANTOS COSTA Cooperador Ofício Ministerial Dalmo Baglioni Diácono Marc da Costa Paulo Cesar Nascimento Cooperador de Jovens e Menores Ricardo Martins da Silva Telefone(s) +41 (22) 754-1679"
+    }
+  },
+  {
+    "CodigoId": "CH-01-0013",
+    "Nome": "Sierre - Central",
+    "Logradouro": "Rue des Sablons, 15",
+    "CEP": "CH-3960",
+    "Cidade": "Sierre, VS, Suíça",
+    "Coordenadas": {
+      "lat": 46.2872336,
+      "lon": 7.5491403
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 / RJM 1º e 3º Sáb 19:30"
+      },
+      "Obs": "Localidade Sierre CENTRAL CH-01-0013 Localização Logradouro: Rue des Sablons, 15 CEP: CH-3960 Cidade: Sierre, VS, Suíça Dias de Culto Sáb 19:30 (RJM 1º e 3º Sáb 19:30) Ministério Cooperador Ofício Ministerial Ricardo Manuel Pereira Esteves Diácono Jefferson Rodrigues Araujo Cooperador de Jovens e Menores Hélder Manuel da Silva Sousa Telefone(s) +41 (22) 754-1679"
+    }
+  }
+]

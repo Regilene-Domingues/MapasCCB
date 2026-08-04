@@ -1,0 +1,969 @@
+[
+  {
+    "CodigoId": "CL-01-0055",
+    "Nome": "Alerce - Central",
+    "Logradouro": "Camino Público de Alerce a Las Marcas - Pasaje Los Canelos al interior",
+    "CEP": "Cidade: Puerto Montt, LL, Chile",
+    "Cidade": "Puerto Montt, LL, Chile",
+    "Coordenadas": {
+      "lat": -41.471798,
+      "lon": -72.9395915
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Alerce CENTRAL CL-01-0055 Localização Logradouro: Camino Público de Alerce a Las Marcas - Pasaje Los Canelos al interior CEP: Cidade: Puerto Montt, LL, Chile Dias de Culto DT Culto Oficial Domingo - 15:30 Ministério Telefone(s) +56 (9) 9525-9009"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0003",
+    "Nome": "Antofagasta - Central",
+    "Logradouro": "Avenida Luís Cruz Martínez, 7832",
+    "CEP": "Cidade: Antofagasta, REGIÓN DE ANTOFAGASTA, Chile",
+    "Cidade": "Antofagasta, REGIÓN DE ANTOFAGASTA, Chile",
+    "Coordenadas": {
+      "lat": -23.6463741,
+      "lon": -70.3980033
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Quinta-feira": "20:00",
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade Antofagasta CENTRAL CL-01-0003 Localização Logradouro: Avenida Luís Cruz Martínez, 7832 CEP: Cidade: Antofagasta, REGIÓN DE ANTOFAGASTA, Chile Dias de Culto DN 3N 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:30 Culto Oficial Domingo - 19:00 Terça-feira - 20:00 Quinta-feira - 20:00 Ministério Cooperador Ofício Ministerial Alex Sabalaga Morales Marcelo Andres Soto Barrientos Diácono Carlos Ulises Pozo Pardo Jorge Gamalier Pacheco Pacheco Cooperador de Jovens e Menores Johann Carlos Pozo Muñoz Telefone(s) +56 (55) 2270-158"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0001",
+    "Nome": "Arica - Central",
+    "Logradouro": "Calle Raúl Araya, 2752",
+    "CEP": "Cidade: Arica, REGIÓN DE ARICA Y PARINACOTA, Chile",
+    "Cidade": "Arica, REGIÓN DE ARICA Y PARINACOTA, Chile",
+    "Coordenadas": {
+      "lat": -18.4785288,
+      "lon": -70.3211394
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Arica CENTRAL CL-01-0001 Localização Logradouro: Calle Raúl Araya, 2752 CEP: Cidade: Arica, REGIÓN DE ARICA Y PARINACOTA, Chile Complemento: Población Chile Dias de Culto DN 3N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:00 Culto Oficial Domingo - 18:00 Terça-feira - 20:00 Ministério Ancião SERGIO ALFREDO MORALES ESPINOZA FEDERICO LEYTON BAEZA Cooperador Ofício Ministerial Guillermo Avelino Araya Rojas Diácono Jeziel Edmundo Leyton Morales Cooperador de Jovens e Menores Felipe Eliseo Avila Morales Telefone(s) +56 (9) 7829-8873 +56 (9) 9528-5372"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0043",
+    "Nome": "Boca Sur",
+    "Logradouro": "Avenida Venus, 195",
+    "CEP": "Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8285421,
+      "lon": -73.1452137
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Boca Sur CL-01-0043 Localização Logradouro: Avenida Venus, 195 CEP: Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile Complemento: Villa Venus - Sector Boca Sur Viejo Dias de Culto SN Culto Oficial Sábado - 19:00 Ministério Cooperador Ofício Ministerial Richard Ortega Varela Telefone(s) +56 (9) 9068-3170"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0004",
+    "Nome": "Calama - Central",
+    "Logradouro": "Calle José Santos Ossa, 2489",
+    "CEP": "Cidade: Calama, REGIÓN DE ANTOFAGASTA, Chile",
+    "Cidade": "Calama, REGIÓN DE ANTOFAGASTA, Chile",
+    "Coordenadas": {
+      "lat": -22.4623917,
+      "lon": -68.9272181
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Calama CENTRAL CL-01-0004 Localização Logradouro: Calle José Santos Ossa, 2489 CEP: Cidade: Calama, REGIÓN DE ANTOFAGASTA, Chile Dias de Culto DN Culto Oficial Domingo - 18:30 Ministério Cooperador Ofício Ministerial Moisés Parra"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0030",
+    "Nome": "Cambrales - Central",
+    "Logradouro": "Camino a Yumbel, Paradero 6",
+    "CEP": "Cidade: Yumbel, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Yumbel, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -37.161216,
+      "lon": -72.5375229
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Cambrales CENTRAL CL-01-0030 Localização Logradouro: Camino a Yumbel, Paradero 6 CEP: Cidade: Yumbel, REGIÓN DEL BÍO-BÍO, Chile Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Telefone(s) +56 (9) 7640-7183"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0042",
+    "Nome": "Casablanca - Central",
+    "Logradouro": "Calle Corneta Cabrales, 58",
+    "CEP": "Cidade: Casablanca, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Casablanca, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -33.3205864,
+      "lon": -71.4100762
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Casablanca CENTRAL CL-01-0042 Localização Logradouro: Calle Corneta Cabrales, 58 CEP: Cidade: Casablanca, REGIÓN DE VALPARAÍSO, Chile Dias de Culto DN 4N Culto Oficial Domingo - 19:00 Quarta-feira - 19:30 Ministério Cooperador Ofício Ministerial Eliseo Espinoza Campos Telefone(s) +56 (9) 9581-7665 +56 (35) 236-9249"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0036",
+    "Nome": "Cerro Navia - Mariano Necochea",
+    "Logradouro": "Calle Mariano Necochea, 1331",
+    "CEP": "Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.4376995,
+      "lon": -70.6510671
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Cerro Navia - Mariano Necochea CL-01-0036 Localização Logradouro: Calle Mariano Necochea, 1331 CEP: Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Complemento: José Joaquín Pérez, Altura 6300 Dias de Culto 6N SN (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Sexta-feira - 19:30 Sábado - 19:30 Ministério Cooperador Ofício Ministerial Emeterio Simón Moreno Leiva Diácono David Elías Cruzatt Soto Cooperador de Jovens e Menores Alejandro Herman Campos Araya Telefone(s) +56 (9) 9086-0922"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0037",
+    "Nome": "Cerro Navia - Violeta Parra",
+    "Logradouro": "Calle Luís Lazzarini, 7329",
+    "CEP": "Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.4376995,
+      "lon": -70.6510671
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Cerro Navia - Violeta Parra CL-01-0037 Localização Logradouro: Calle Luís Lazzarini, 7329 CEP: Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Dias de Culto DN 4N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 18:00 Quarta-feira - 19:30 Ministério Ancião RAFAEL ANTONIO NÚÑEZ CANCINO Cooperador Ofício Ministerial Leonel Humberto Rapiman Millapi Diácono Juan Isaías Aceituno Fuentes Cooperador de Jovens e Menores José Pilquiñir Añicoy Telefone(s) +56 (9) 9379 6060"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0027",
+    "Nome": "Cerro Verde - Central",
+    "Logradouro": "Calle Central, 80",
+    "CEP": "Cidade: Penco, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Penco, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.7385838,
+      "lon": -72.9937749
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Cerro Verde CENTRAL CL-01-0027 Localização Logradouro: Calle Central, 80 CEP: Cidade: Penco, REGIÓN DEL BÍO-BÍO, Chile Complemento: Penco Bajo Dias de Culto 4N SN Culto Oficial Quarta-feira - 20:00 Sábado - 19:00 Ministério Cooperador Ofício Ministerial Juan Zúñiga Sanchez Diácono Ramón Gonzalo Isla Hernández Telefone(s) +56 (9) 9319-5349 +56 (9) 9313-4724"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0020",
+    "Nome": "Chiguayante - Central",
+    "Logradouro": "Avenida Manuel Rodríguez, 3772",
+    "CEP": "Cidade: Chiguayante, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Chiguayante, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.9172547,
+      "lon": -73.0282173
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Chiguayante CENTRAL CL-01-0020 Localização Logradouro: Avenida Manuel Rodríguez, 3772 CEP: Cidade: Chiguayante, REGIÓN DEL BÍO-BÍO, Chile Complemento: Sector Leonera Dias de Culto SN Culto Oficial Sábado - 18:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0021",
+    "Nome": "Chillán - Central",
+    "Logradouro": "Calle Huambalí, 58 B",
+    "CEP": "Cidade: Chillán, REGIÓN DEL ÑUBLE, Chile",
+    "Cidade": "Chillán, REGIÓN DEL ÑUBLE, Chile",
+    "Coordenadas": {
+      "lat": -36.5888295,
+      "lon": -72.0583461
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Chillán CENTRAL CL-01-0021 Localização Logradouro: Calle Huambalí, 58 B CEP: Cidade: Chillán, REGIÓN DEL ÑUBLE, Chile Dias de Culto DN 3N Culto Oficial Domingo - 18:00 Terça-feira - 20:00 Ministério Ancião MIGUEL HIPÓLITO SCHORWER NAVARRO Telefone(s) +56 (9) 8621-4390"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0015",
+    "Nome": "Codegua - Central",
+    "Logradouro": "La Estancilla 1270, Lote 5",
+    "CEP": "Cidade: Codegua, LI, Chile",
+    "Cidade": "Codegua, LI, Chile",
+    "Coordenadas": {
+      "lat": -34.0377,
+      "lon": -70.6565422
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Codegua CENTRAL CL-01-0015 Localização Logradouro: La Estancilla 1270, Lote 5 CEP: Cidade: Codegua, LI, Chile Dias de Culto DT Culto Oficial Domingo - 16:00 Ministério Ancião ENRIQUE LAUTARO MORALES ESPINOZA Cooperador Ofício Ministerial Enrique Morales Rojas Manuel Acevedo Devia Cooperador de Jovens e Menores Elías Daniel Avila Morales Telefone(s) +56 (9) 8720-6008"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0025",
+    "Nome": "Coronel - Central",
+    "Logradouro": "Calle Cochrane, 260",
+    "CEP": "Cidade: Coronel, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Coronel, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -37.0164712,
+      "lon": -73.1561953
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Coronel CENTRAL CL-01-0025 Localização Logradouro: Calle Cochrane, 260 CEP: Cidade: Coronel, REGIÓN DEL BÍO-BÍO, Chile Dias de Culto SN Culto Oficial Sábado - 19:00 Ministério Cooperador Ofício Ministerial Arnaldo Hidalgo Alarcón Telefone(s) +56 (41) 277-4210"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0044",
+    "Nome": "Curanilahue - Central",
+    "Logradouro": "Pasaje 3, Casa 150",
+    "CEP": "Cidade: Curanilahue, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Curanilahue, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -37.4758037,
+      "lon": -73.3457069
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Curanilahue CENTRAL CL-01-0044 Localização Logradouro: Pasaje 3, Casa 150 CEP: Cidade: Curanilahue, REGIÓN DEL BÍO-BÍO, Chile Complemento: Población Eleuterio Ramírez Dias de Culto DT Culto Oficial Domingo - 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0047",
+    "Nome": "Entre Ríos - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Imperial, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Cidade": "Imperial, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Coordenadas": {
+      "lat": -38.7451527,
+      "lon": -72.5951792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Entre Ríos CENTRAL CL-01-0047 Localização Logradouro: CEP: Cidade: Imperial, REGIÓN DE LA ARAUCANÍA, Chile Dias de Culto DM Culto Oficial Domingo - 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0032",
+    "Nome": "Ercilla - Central",
+    "Logradouro": "Avenida Arturo Prat, 695",
+    "CEP": "Cidade: Ercilla, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Cidade": "Ercilla, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Coordenadas": {
+      "lat": -38.0609055,
+      "lon": -72.3754686
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:30"
+      },
+      "Obs": "Localidade Ercilla CENTRAL CL-01-0032 Localização Logradouro: Avenida Arturo Prat, 695 CEP: Cidade: Ercilla, REGIÓN DE LA ARAUCANÍA, Chile Complemento: Pailahueque Dias de Culto ST Culto Oficial Sábado - 15:30 Ministério Ancião HÉCTOR RIVAS CAÑUTA Telefone(s) +56 (9) 9525-9009"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0026",
+    "Nome": "Florida - Central",
+    "Logradouro": "Calle Las Hortensias, 1118",
+    "CEP": "Cidade: Florida, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Florida, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8253041,
+      "lon": -72.6614469
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Florida CENTRAL CL-01-0026 Localização Logradouro: Calle Las Hortensias, 1118 CEP: Cidade: Florida, REGIÓN DEL BÍO-BÍO, Chile Complemento: Florida Alto Dias de Culto SN Culto Oficial Sábado - 19:00 Ministério Cooperador Ofício Ministerial Samuel Israel Flores Ferreira"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0022",
+    "Nome": "Galvarino",
+    "Logradouro": "Calle Galvarino, 1957",
+    "CEP": "Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8270698,
+      "lon": -73.0502064
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Galvarino CL-01-0022 Localização Logradouro: Calle Galvarino, 1957 CEP: Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile Complemento: Barrio Norte Dias de Culto DN 6N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 19:00 Sexta-feira - 20:00 Ministério Ancião DAVID OMAR RODRIGUEZ CERDA Cooperador Ofício Ministerial Luís Arturo Toro Rivas Diácono Ricardo Arnoldo Valladares Ruiz Cooperador de Jovens e Menores Marco Antonio Torres Lagos Telefone(s) +56 (9) 9670-2454"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0002",
+    "Nome": "Iquique - Central",
+    "Logradouro": "Pasaje Chiza esquina Tana, s/nº",
+    "CEP": "Cidade: Iquique, REGIÓN DE TARAPACÁ, Chile",
+    "Cidade": "Iquique, REGIÓN DE TARAPACÁ, Chile",
+    "Coordenadas": {
+      "lat": -20.2140657,
+      "lon": -70.1524646
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Iquique CENTRAL CL-01-0002 Localização Logradouro: Pasaje Chiza esquina Tana, s/nº CEP: Cidade: Iquique, REGIÓN DE TARAPACÁ, Chile Complemento: Alto Hospicio - Población Chiapa Dias de Culto DN 5N Culto Oficial Domingo - 18:00 Quinta-feira - 20:00 Ministério Cooperador Ofício Ministerial Fernando Nehemías Acuña Flores Telefone(s) +56 (9) 9528-5372"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0008",
+    "Nome": "La Calera - Central",
+    "Logradouro": "Calle México, 32",
+    "CEP": "Cidade: La Calera, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "La Calera, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -32.788981,
+      "lon": -71.203546
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade La Calera CENTRAL CL-01-0008 Localização Logradouro: Calle México, 32 CEP: Cidade: La Calera, REGIÓN DE VALPARAÍSO, Chile Complemento: Población Victoria La Calera Dias de Culto DT 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 17:00 Quinta-feira - 19:00 Ministério Cooperador Ofício Ministerial David Paul Roldán Solis Diácono Simón Andrés Varas Mena Telefone(s) +56 (9) 9571-5008 +56 (9) 6843-9896"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0034",
+    "Nome": "La Colonia",
+    "Logradouro": "Km 17",
+    "CEP": "Cidade: Lautaro, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Cidade": "Lautaro, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Coordenadas": {
+      "lat": -38.534312,
+      "lon": -72.4350504
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade La Colonia CL-01-0034 Localização Logradouro: Km 17 CEP: Cidade: Lautaro, REGIÓN DE LA ARAUCANÍA, Chile Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Telefone(s) +56 (9) 8412-5428"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0009",
+    "Nome": "La Cruz - Central",
+    "Logradouro": "Calle Arauco, 7",
+    "CEP": "Cidade: La Cruz, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "La Cruz, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -32.8279116,
+      "lon": -71.2271534
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade La Cruz CENTRAL CL-01-0009 Localização Logradouro: Calle Arauco, 7 CEP: Cidade: La Cruz, REGIÓN DE VALPARAÍSO, Chile Complemento: Quillota Dias de Culto DM 4N Culto Oficial Domingo - 11:00 Quarta-feira - 19:30 Ministério Ancião FRANCISCO JAVIER GONZÁLEZ ESPINOZA Telefone(s) +56 (9) 6918-5157"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0049",
+    "Nome": "La Pincoya - Huechuraba",
+    "Logradouro": "Avenida Los Nogales, 828 - Comuna de Huechuraba",
+    "CEP": "Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.4376995,
+      "lon": -70.6510671
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade La Pincoya - Huechuraba CL-01-0049 Localização Logradouro: Avenida Los Nogales, 828 - Comuna de Huechuraba CEP: Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Complemento: Avenida Recoleta a la altura 6085 Dias de Culto DN 3N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 18:00 Terça-feira - 19:30 Ministério Cooperador Ofício Ministerial João Carlos de Oliveira Diácono Benito Marco Antonio Astete Valenzuela Cooperador de Jovens e Menores Marco Antonio Ojeda Andrade Telefone(s) +56 (9) 3202-8071 +56 (9) 9518-5367"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0006",
+    "Nome": "La Serena - Central",
+    "Logradouro": "Calle La Rosa, 2598",
+    "CEP": "Cidade: La Serena, REGIÓN DE COQUIMBO, Chile",
+    "Cidade": "La Serena, REGIÓN DE COQUIMBO, Chile",
+    "Coordenadas": {
+      "lat": -29.902705,
+      "lon": -71.2519575
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade La Serena CENTRAL CL-01-0006 Localização Logradouro: Calle La Rosa, 2598 CEP: Cidade: La Serena, REGIÓN DE COQUIMBO, Chile Complemento: Compañía Baja Dias de Culto 4N 6N Culto Oficial Quarta-feira - 20:00 Sexta-feira - 19:00 Ministério Cooperador Ofício Ministerial Enoc Espinoza Campos Telefone(s) +56 (9) 9432-9960"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0033",
+    "Nome": "Lautaro - Central",
+    "Logradouro": "Avenida Brasil, 1181",
+    "CEP": "Cidade: Lautaro, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Cidade": "Lautaro, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Coordenadas": {
+      "lat": -38.5336818,
+      "lon": -72.4422347
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sexta-feira": "20:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Lautaro CENTRAL CL-01-0033 Localização Logradouro: Avenida Brasil, 1181 CEP: Cidade: Lautaro, REGIÓN DE LA ARAUCANÍA, Chile Dias de Culto 4N 6N SN (RJM-ST) Qua-Sex 20:00 - Sáb 19:00 (RJM Sáb 17:15) Culto Oficial Quarta-feira - 20:00 Sexta-feira - 20:00 Sábado - 19:00 Reunião de Jovens e Menores Sábado - 17:15 Ministério Cooperador Ofício Ministerial David Garrido Navarro Diácono José Marcelo Garrido Navarro Telefone(s) +56 (9) 8412-5428 +56 (9) 6833-3007"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0010",
+    "Nome": "Limache - Central",
+    "Logradouro": "Calle 18 de Septiembre, 761",
+    "CEP": "Cidade: Limache, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Limache, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -33.0018741,
+      "lon": -71.2657315
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Limache CENTRAL CL-01-0010 Localização Logradouro: Calle 18 de Septiembre, 761 CEP: Cidade: Limache, REGIÓN DE VALPARAÍSO, Chile Dias de Culto 6N Culto Oficial Sexta-feira - 18:30 Ministério Telefone(s) +56 (9) 5149-5379"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0029",
+    "Nome": "Lomas Coloradas",
+    "Logradouro": "Las Araucarias, 516",
+    "CEP": "Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8305237,
+      "lon": -73.1216612
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Lomas Coloradas CL-01-0029 Localização Logradouro: Las Araucarias, 516 CEP: Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile Complemento: Población Villa Hermosa Dias de Culto DN Culto Oficial Domingo - 19:00 Ministério Cooperador Ofício Ministerial Héctor Valenzuela Ormeño Telefone(s) +56 (41) 288-0464 +56 (9) 7720-4434"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0023",
+    "Nome": "Los Andes - Central",
+    "Logradouro": "Calle Osorno, 2136",
+    "CEP": "Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8270698,
+      "lon": -73.0502064
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Los Andes CENTRAL CL-01-0023 Localização Logradouro: Calle Osorno, 2136 CEP: Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile Complemento: Barrio Norte Dias de Culto DN 5N Culto Oficial Domingo - 19:00 Quinta-feira - 20:00 Ministério Ancião JOSÉ MIGUEL CARO SILVA PABLO ANDRÉS TORRES VILLEGAS Cooperador Ofício Ministerial Luís Concha Inojosa Diácono Fernando Eric Flores Rodríguez David Alberto Sanhueza Galindo Juan Carlos Baez Fuentes Telefone(s) +56 (41) 223-5017"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0011",
+    "Nome": "Nogales - Central",
+    "Logradouro": "Asentamiento El Olivo de Pucalán",
+    "CEP": "Cidade: Nogales, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Nogales, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -32.736381,
+      "lon": -71.2002438
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "17:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Nogales CENTRAL CL-01-0011 Localização Logradouro: Asentamiento El Olivo de Pucalán CEP: Cidade: Nogales, REGIÓN DE VALPARAÍSO, Chile Dias de Culto 4N ST (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Quarta-feira - 19:00 Sábado - 17:00 Ministério Cooperador Ofício Ministerial Pedro Guillermo Reyes Morales Telefone(s) +56 (9) 4800-3449"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0052",
+    "Nome": "Osorno - Central",
+    "Logradouro": "Piedras Negras, 2049 - Rahue Alto",
+    "CEP": "Cidade: Osorno, LL, Chile",
+    "Cidade": "Osorno, LL, Chile",
+    "Coordenadas": {
+      "lat": -40.5785971,
+      "lon": -73.1736729
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Osorno CENTRAL CL-01-0052 Localização Logradouro: Piedras Negras, 2049 - Rahue Alto CEP: Cidade: Osorno, LL, Chile Complemento: Villa La Hacienda Dias de Culto DM Culto Oficial Domingo - 11:00 Ministério Telefone(s) +56 (9) 8412-5428 +56 (9) 6833-3007"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0038",
+    "Nome": "Padre Hurtado",
+    "Logradouro": "Estero Lampa, 2108",
+    "CEP": "Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.3309706,
+      "lon": -70.7499426
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "17:00"
+      },
+      "Obs": "Localidade Padre Hurtado CL-01-0038 Localização Logradouro: Estero Lampa, 2108 CEP: Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Complemento: Villa Parque Aconcagua Dias de Culto DT Culto Oficial Domingo - 17:00 Ministério Cooperador Ofício Ministerial Ricardo Félix Chia Castillo Telefone(s) +56 (9) 3104-4807"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0035",
+    "Nome": "Pulingue - Central",
+    "Logradouro": "Camino Villarrica a Loncoche, Km 15-16",
+    "CEP": "Cidade: Villarrica, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Cidade": "Villarrica, REGIÓN DE LA ARAUCANÍA, Chile",
+    "Coordenadas": {
+      "lat": -39.2780911,
+      "lon": -72.2274364
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Pulingue CENTRAL CL-01-0035 Localização Logradouro: Camino Villarrica a Loncoche, Km 15-16 CEP: Cidade: Villarrica, REGIÓN DE LA ARAUCANÍA, Chile Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Cooperador Ofício Ministerial Julio Caniullán Telefone(s) +56 (9) 404-3097"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0039",
+    "Nome": "Quinta Nornal - Andes - Central",
+    "Logradouro": "Calle Los Andes de Violeta Parra, 4730",
+    "CEP": "Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.4376995,
+      "lon": -70.6510671
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Quinta Nornal - Andes CENTRAL CL-01-0039 Localização Logradouro: Calle Los Andes de Violeta Parra, 4730 CEP: Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Complemento: Metro Blanqueado Dias de Culto DN 5N Culto Oficial Domingo - 18:00 Quinta-feira - 19:30 Ministério Ancião FRANCISCO CRUZATT YAÑEZ JORGE ENRIQUE FERNANDEZ CERDA Cooperador Ofício Ministerial Felipe César Dias Diácono Sebastián De La Cruz Avila Moscoso Manuel Abraham Correa Muñoz Carlos Alfredo Contreras Sepúlveda Telefone(s) +56 (2) 2772-2234 +56 (9) 7497-4155"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0053",
+    "Nome": "Rancagua - Central",
+    "Logradouro": "Avenida El Molino, 2352",
+    "CEP": "Cidade: Rancagua, LI, Chile",
+    "Cidade": "Rancagua, LI, Chile",
+    "Coordenadas": {
+      "lat": -34.1702433,
+      "lon": -70.740718
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sábado": "16:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Rancagua CENTRAL CL-01-0053 Localização Logradouro: Avenida El Molino, 2352 CEP: Cidade: Rancagua, LI, Chile Complemento: Villa Los Bosques de San Francisco Dias de Culto 3N ST (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Terça-feira - 20:00 Sábado - 16:00 Ministério Cooperador Ofício Ministerial Eliecer Salomón Zuñiga Flores Telefone(s) +56 (9) 5402-2699"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0012",
+    "Nome": "Rinconada de Los Andes - Central",
+    "Logradouro": "Calle Gálvez, 268",
+    "CEP": "Cidade: Rinconada de Los Andes, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Rinconada de Los Andes, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -32.8720733,
+      "lon": -70.6951674
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "17:00"
+      },
+      "Obs": "Localidade Rinconada de Los Andes CENTRAL CL-01-0012 Localização Logradouro: Calle Gálvez, 268 CEP: Cidade: Rinconada de Los Andes, REGIÓN DE VALPARAÍSO, Chile Complemento: Paradero 19 Dias de Culto DT 5N Culto Oficial Domingo - 17:00 Quinta-feira - 19:30 Ministério Cooperador Ofício Ministerial Jaime Enrique Zamora Ahumada Telefone(s) +56 (9) 8330-4092"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0040",
+    "Nome": "San Bernardo - Población Sur",
+    "Logradouro": "Calle Victoria, 1376 - Comuna de San Bernardo",
+    "CEP": "8071-543",
+    "Cidade": "Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile",
+    "Coordenadas": {
+      "lat": -33.4054866,
+      "lon": -70.5743833
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sexta-feira": "19:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade San Bernardo - Población Sur CL-01-0040 Localização Logradouro: Calle Victoria, 1376 - Comuna de San Bernardo CEP: 8071-543 Cidade: Santiago, REGIÓN METROPOLITANA DE SANTIAGO, Chile Dias de Culto 4N 6N SN (RJM-DM) Qua 20:00 - Sex-Sáb 19:00 (RJM Dom 11:00) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Quarta-feira - 20:00 Sexta-feira - 19:00 Sábado - Ministério Ancião EDUARDO ANTONIO SAAVEDRA VIDAL Cooperador Ofício Ministerial Miguel Álvarez Valenzuela Diácono Mario Nicolás Espinoza Madariaga Telefone(s) +56 (9) 9166-8543"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0007",
+    "Nome": "San José - Parcela El Paso de las Raíces - Central",
+    "Logradouro": "Ruta F-814",
+    "CEP": "Cidade: Algarrobo, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Algarrobo, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -33.3954303,
+      "lon": -71.6099589
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade San José - Parcela El Paso de las Raíces CENTRAL CL-01-0007 Localização Logradouro: Ruta F-814 CEP: Cidade: Algarrobo, REGIÓN DE VALPARAÍSO, Chile Dias de Culto DT 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 17:00 Quinta-feira - 19:00 Ministério Cooperador Ofício Ministerial Daniel Esteban Espinoza Campos Diácono Ruben Segundo Alvarez Valenzuela Telefone(s) +56 (9) 8764-5897"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0028",
+    "Nome": "San Pedro de La Paz - Central",
+    "Logradouro": "Las Torcazas, 2080",
+    "CEP": "Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8360103,
+      "lon": -73.1170669
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade San Pedro de La Paz CENTRAL CL-01-0028 Localização Logradouro: Las Torcazas, 2080 CEP: Cidade: San Pedro de La Paz, REGIÓN DEL BÍO-BÍO, Chile Complemento: Población Nueva Candelaria Dias de Culto DN Culto Oficial Domingo - 18:00 Ministério Ancião OSVALDO MAXIMILIANO ORTEGA CONCHA EZEQUIEL TORRES LAGOS Diácono Sergio Enrique Maldonado Ortega Telefone(s) +56 (41) 237-4521"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0024",
+    "Nome": "Santa Sabina",
+    "Logradouro": "Calle Abdón Cifuentes, 1950",
+    "CEP": "Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8270698,
+      "lon": -73.0502064
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:00",
+        "Domingo": "12:00"
+      },
+      "Obs": "Localidade Santa Sabina CL-01-0024 Localização Logradouro: Calle Abdón Cifuentes, 1950 CEP: Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile Dias de Culto 4N SN (RJM-DT) Reunião de Jovens e Menores Domingo - 12:00 Culto Oficial Quarta-feira - 20:00 Sábado - 19:00 Ministério Ancião MOISES ESTEBAN SCHORWER NAVARRO Cooperador Ofício Ministerial Martín Huichaqueo Antivil Cooperador de Jovens e Menores Carlos Hernan Aros Garrido Telefone(s) +56 (9) 9801-8320"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0050",
+    "Nome": "Sector Lagos de Chile",
+    "Logradouro": "Lago Ranco, 339",
+    "CEP": "Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Cidade": "Concepción, REGIÓN DEL BÍO-BÍO, Chile",
+    "Coordenadas": {
+      "lat": -36.8205429,
+      "lon": -73.0227144
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Sector Lagos de Chile CL-01-0050 Localização Logradouro: Lago Ranco, 339 CEP: Cidade: Concepción, REGIÓN DEL BÍO-BÍO, Chile Dias de Culto ST Culto Oficial Sábado - 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0019",
+    "Nome": "Talca - Central",
+    "Logradouro": "Calle 19 Sur, 606",
+    "CEP": "Cidade: Talca, REGIÓN DEL MAULE, Chile",
+    "Cidade": "Talca, REGIÓN DEL MAULE, Chile",
+    "Coordenadas": {
+      "lat": -35.441256,
+      "lon": -71.676574
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Talca CENTRAL CL-01-0019 Localização Logradouro: Calle 19 Sur, 606 CEP: Cidade: Talca, REGIÓN DEL MAULE, Chile Dias de Culto SN Culto Oficial Sábado - 19:00 Ministério Telefone(s) +56 (9) 8621-4390"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0005",
+    "Nome": "Vallenar - Central",
+    "Logradouro": "Calle Esmeralda, 2232",
+    "CEP": "Cidade: Vallenar, REGIÓN DE ATACAMA, Chile",
+    "Cidade": "Vallenar, REGIÓN DE ATACAMA, Chile",
+    "Coordenadas": {
+      "lat": -28.5750438,
+      "lon": -70.7616398
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sexta-feira": "20:30",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Vallenar CENTRAL CL-01-0005 Localização Logradouro: Calle Esmeralda, 2232 CEP: Cidade: Vallenar, REGIÓN DE ATACAMA, Chile Complemento: Población Torre Blanca Dias de Culto DN 4N 6N Culto Oficial Domingo - 18:00 Quarta-feira - 20:00 Sexta-feira - 20:30 Ministério Ancião ISAÍAS ELIER ESPINOZA CAMPOS GALVARINO ESPINOZA LILLO Diácono Mario Esteban Cruzatt Soto Telefone(s) +56 (9) 7977-9166"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0013",
+    "Nome": "Valparaiso - Central",
+    "Logradouro": "Calle 21 de Mayo, 12",
+    "CEP": "Cidade: Valparaíso, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Valparaíso, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -33.0458456,
+      "lon": -71.6196749
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Valparaiso CENTRAL CL-01-0013 Localização Logradouro: Calle 21 de Mayo, 12 CEP: Cidade: Valparaíso, REGIÓN DE VALPARAÍSO, Chile Complemento: Cerro Esperanza Dias de Culto DN 4N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 18:00 Quarta-feira - 20:00 Ministério Ancião ADRIÁN HERNÁN SALADO ESPINOZA Cooperador Ofício Ministerial Luís Jorge Gajardo Osorio Diácono Sergio Cristian Carrasco Martinez Telefone(s) +56 (9) 9524-3400 +56 (9) 7909-6651"
+    }
+  },
+  {
+    "CodigoId": "CL-01-0014",
+    "Nome": "Villa Alemana - Central",
+    "Logradouro": "Calle Paul Harris, 331",
+    "CEP": "Cidade: Villa Alemana, REGIÓN DE VALPARAÍSO, Chile",
+    "Cidade": "Villa Alemana, REGIÓN DE VALPARAÍSO, Chile",
+    "Coordenadas": {
+      "lat": -33.0441903,
+      "lon": -71.3725464
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Villa Alemana CENTRAL CL-01-0014 Localização Logradouro: Calle Paul Harris, 331 CEP: Cidade: Villa Alemana, REGIÓN DE VALPARAÍSO, Chile Dias de Culto DN 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 Culto Oficial Domingo - 18:30 Quinta-feira - 19:30 Ministério Ancião MARCOS ESPINOZA CAMPOS Cooperador Ofício Ministerial Sebastian David Verdejo Ponce Diácono Luís Fernando Araya Varas Telefone(s) +56 (9) 8913-2014"
+    }
+  }
+]

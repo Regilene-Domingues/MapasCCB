@@ -1,0 +1,106 @@
+[
+  {
+    "CodigoId": "HT-01-0001",
+    "Nome": "Bloc Carradeux - Central",
+    "Logradouro": "79 Avenue Maïs Gaté - prolongée",
+    "CEP": "Cidade: Port Au Prince, DEPARTAMENTO OUEST, Haiti (ee)",
+    "Cidade": "Port Au Prince, DEPARTAMENTO OUEST, Haiti (ee)",
+    "Coordenadas": {
+      "lat": 18.5812129,
+      "lon": -72.3341041
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 08:00",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Bloc Carradeux CENTRAL HT-01-0001 Localização Logradouro: 79 Avenue Maïs Gaté - prolongée CEP: Cidade: Port Au Prince, DEPARTAMENTO OUEST, Haiti (ee) Dias de Culto Dom-Sáb 17:00 (RJM Dom 08:00) Ministério Cooperador Ofício Ministerial Remolus Garry Jesemat Anounce"
+    }
+  },
+  {
+    "CodigoId": "HT-01-0005",
+    "Nome": "Dame-Marie - Central",
+    "Logradouro": "#11 Route Marché Germond",
+    "CEP": "Cidade: Anse D`ainault, DEPARTAMENTO GRAND'ANSE, Haiti (ee)",
+    "Cidade": "Anse D`ainault, DEPARTAMENTO GRAND'ANSE, Haiti (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Dame-Marie CENTRAL HT-01-0005 Localização Logradouro: #11 Route Marché Germond CEP: Cidade: Anse D`ainault, DEPARTAMENTO GRAND'ANSE, Haiti (ee) Dias de Culto Dom 09:00 - Sex 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "HT-01-0008",
+    "Nome": "La Chapelle - Central",
+    "Logradouro": "#15 Ravin Kanòt",
+    "CEP": "Cidade: Saint-marc, DEPARTAMENTO ARTIBONITE, Haiti (ee)",
+    "Cidade": "Saint-marc, DEPARTAMENTO ARTIBONITE, Haiti (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade La Chapelle CENTRAL HT-01-0008 Localização Logradouro: #15 Ravin Kanòt CEP: Cidade: Saint-marc, DEPARTAMENTO ARTIBONITE, Haiti (ee) Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "HT-01-0009",
+    "Nome": "Soufrière-Limbé - Central",
+    "Logradouro": "#29 Rue Poincaré",
+    "CEP": "Cidade: Soufrière-limbé, DEPARTAMENTO NORD, Haiti (ee)",
+    "Cidade": "Soufrière-limbé, DEPARTAMENTO NORD, Haiti (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Soufrière-Limbé CENTRAL HT-01-0009 Localização Logradouro: #29 Rue Poincaré CEP: Cidade: Soufrière-limbé, DEPARTAMENTO NORD, Haiti (ee) Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "HT-01-0006",
+    "Nome": "Village Caceus - Central",
+    "Logradouro": "#6 Route Sérum",
+    "CEP": "Cidade: Miragoâne, DEPARTAMENTO NIPPES, Haiti (ee)",
+    "Cidade": "Miragoâne, DEPARTAMENTO NIPPES, Haiti (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Village Caceus CENTRAL HT-01-0006 Localização Logradouro: #6 Route Sérum CEP: Cidade: Miragoâne, DEPARTAMENTO NIPPES, Haiti (ee) Dias de Culto Dom 10:00 Ministério"
+    }
+  }
+]

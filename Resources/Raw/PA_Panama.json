@@ -1,0 +1,44 @@
+[
+  {
+    "CodigoId": "PA-01-0001",
+    "Nome": "24 de Diciembre - Central",
+    "Logradouro": "Sector Uno, Casa J-37",
+    "CEP": "Cidade: Nueva Esperanza, PANAMÁ, Panamá",
+    "Cidade": "Nueva Esperanza, PANAMÁ, Panamá",
+    "Coordenadas": {
+      "lat": 9.1060504,
+      "lon": -79.3332794
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade 24 de Diciembre CENTRAL PA-01-0001 Localização Logradouro: Sector Uno, Casa J-37 CEP: Cidade: Nueva Esperanza, PANAMÁ, Panamá Dias de Culto Ter 19:00 - Sáb 18:00 Ministério Cooperador Ofício Ministerial Zacarías Hernandéz Rodríguez Telefone(s) +507 () 398-3196"
+    }
+  },
+  {
+    "CodigoId": "PA-01-0002",
+    "Nome": "Nuevo Veranillo - Central",
+    "Logradouro": "Calle L transversal, 2-97",
+    "CEP": "Cidade: San Miguelito, PANAMÁ, Panamá",
+    "Cidade": "San Miguelito, PANAMÁ, Panamá",
+    "Coordenadas": {
+      "lat": 9.0551061,
+      "lon": -79.4933063
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Nuevo Veranillo CENTRAL PA-01-0002 Localização Logradouro: Calle L transversal, 2-97 CEP: Cidade: San Miguelito, PANAMÁ, Panamá Complemento: Fone Brasil (+55 16) 9 9198-7477 e 9 9196-6971 Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Julio Hernández Mendoza"
+    }
+  }
+]

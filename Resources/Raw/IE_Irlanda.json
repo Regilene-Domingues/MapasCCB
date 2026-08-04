@@ -1,0 +1,164 @@
+[
+  {
+    "CodigoId": "IE-01-0009",
+    "Nome": "Athenry - Central",
+    "Logradouro": "Athenry Tuam Road",
+    "CEP": "H65 FR96",
+    "Cidade": "Athenry, G, Irlanda",
+    "Coordenadas": {
+      "lat": 53.3616105,
+      "lon": -8.7753783
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "RJM"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sábado": "19:30 (Port",
+        "RJM": "RJM 10:30 - Inglês"
+      },
+      "Obs": "Localidade Athenry CENTRAL IE-01-0009 Localização Logradouro: Athenry Tuam Road CEP: H65 FR96 Cidade: Athenry, G, Irlanda Complemento: New Unip Shop Dias de Culto Ter 20:00 - Sáb 19:30 (Port) (RJM 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Rony Peterson Caetano Diácono Gabriel Lopes Barbosa Cooperador de Jovens e Menores Rodrigo Ferreira Bueno Telefone(s) +353 (89) 448-5082"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0001",
+    "Nome": "Ballyjamesduff - Central",
+    "Logradouro": "R194, Killyfinla",
+    "CEP": "A82 D2K1",
+    "Cidade": "Ballyjamesduff, CN, Irlanda",
+    "Coordenadas": {
+      "lat": 53.8642862,
+      "lon": -7.1919035
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 (Port)",
+        "Domingo": "RJM 1º e 3º Dom 10:00 - Port"
+      },
+      "Obs": "Localidade Ballyjamesduff CENTRAL IE-01-0001 Localização Logradouro: R194, Killyfinla CEP: A82 D2K1 Cidade: Ballyjamesduff, CN, Irlanda Dias de Culto Sáb 19:30 (Port) - (RJM 1º e 3º Dom 10:00 - Port) Ministério Cooperador Ofício Ministerial Clodoaldo Queiróz de Oliveira Cooperador de Jovens e Menores Ilvo de Menezes Silva"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0003",
+    "Nome": "Dublin 1 - Central",
+    "Logradouro": "46 Parnell Square West",
+    "CEP": "D01 H2P8",
+    "Cidade": "Dublin, D, Irlanda",
+    "Coordenadas": {
+      "lat": 53.3524582,
+      "lon": -6.2643408
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Inglês)",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 (Port) (2º Dom / RJM Dom 10:30 - Inglês",
+        "Inglês)": "Inglês)",
+        "Quinta-feira": "20:00 (Port)",
+        "Sábado": "19:30 (Port"
+      },
+      "Obs": "Localidade Dublin 1 CENTRAL IE-01-0003 Localização Logradouro: 46 Parnell Square West CEP: D01 H2P8 Cidade: Dublin, D, Irlanda Complemento: Basement - In front of Rotunda Hospital Dias de Culto Dom 18:00 (Port) (2º Dom - Inglês) - Qui 20:00 (Port) - Sáb 19:30 (Port) (RJM Dom 10:30 - Inglês) Ministério Ancião DANIEL TETZNER ASANIAS ROCHA DA SILVA Cooperador Ofício Ministerial Rodrigo Silva dos Santos Diácono Wagner de Almeida Correia Dennis Lopes André Cooperador de Jovens e Menores Renato Lopes da Silva Telefone(s) +353 (87) 418-8378 +353 (87) 647-5705"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0002",
+    "Nome": "Ennis - Central",
+    "Logradouro": "Unit 4 Block D, Quin Road - Quin Road Business Park",
+    "CEP": "V95 E02E",
+    "Cidade": "Ennis, CE, Irlanda",
+    "Coordenadas": {
+      "lat": 52.8435152,
+      "lon": -8.983747
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 (Port) / RJM Dom 10:30 - Inglês",
+        "Quarta-feira": "20:00 (Port"
+      },
+      "Obs": "Localidade Ennis CENTRAL IE-01-0002 Localização Logradouro: Unit 4 Block D, Quin Road - Quin Road Business Park CEP: V95 E02E Cidade: Ennis, CE, Irlanda Dias de Culto Dom 18:00 (Port) - Qua 20:00 (Port) (RJM Dom 10:30 - Inglês) Ministério Ancião MARCO ANTONIO MARQUES Cooperador Ofício Ministerial Diego Hernandez Martins Rego Helio Holderbach Diácono Oséias Chaves Cooperador de Jovens e Menores Geanderson Martins Teixeira Telefone(s) +353 (85) 766-6669 +353 (87) 499-5506"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0012",
+    "Nome": "Limerick - Central",
+    "Logradouro": "Tinnkilla, Ballyhahill",
+    "CEP": "V94 K4VY",
+    "Cidade": "Glin, LI, Irlanda",
+    "Coordenadas": {
+      "lat": 52.5650961,
+      "lon": -9.2967502
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Port"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 / RJM 2º Sáb 19:30 - Port",
+        "Port": "Port"
+      },
+      "Obs": "Localidade Limerick CENTRAL IE-01-0012 Localização Logradouro: Tinnkilla, Ballyhahill CEP: V94 K4VY Cidade: Glin, LI, Irlanda Dias de Culto 2º e 4º Sáb 19:30 - Port (RJM 2º Sáb 19:30 - Port) Ministério Cooperador Ofício Ministerial Francisco Antônio das Chagas Almeida Filho Telefone(s) +353 (83) 809-743"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0006",
+    "Nome": "Monread Community Centre - Central",
+    "Logradouro": "Maudlins Avenue",
+    "CEP": "W91 FNV9",
+    "Cidade": "Naas, KE, Irlanda",
+    "Coordenadas": {
+      "lat": 53.2305824,
+      "lon": -6.6485117
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "RJM"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sábado": "19:30 (Port",
+        "RJM": "RJM 10:30 - Port"
+      },
+      "Obs": "Localidade Monread Community Centre CENTRAL IE-01-0006 Localização Logradouro: Maudlins Avenue CEP: W91 FNV9 Cidade: Naas, KE, Irlanda Dias de Culto Ter 20:00 - Sáb 19:30 (Port) (RJM 10:30 - Port) Ministério Cooperador Ofício Ministerial Elson Elício Cecílio Diácono Leonardo Oliveira da Silva Cooperador de Jovens e Menores Guilherme Willian Jorge"
+    }
+  },
+  {
+    "CodigoId": "IE-01-0011",
+    "Nome": "The Imperial Hotel - Central",
+    "Logradouro": "76 South Mall Street",
+    "CEP": "T12 A2YT",
+    "Cidade": "Cork, CO, Irlanda",
+    "Coordenadas": {
+      "lat": 51.897271,
+      "lon": -8.4701473
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 (Port)",
+        "Sábado": "19:30 (Port"
+      },
+      "Obs": "Localidade The Imperial Hotel CENTRAL IE-01-0011 Localização Logradouro: 76 South Mall Street CEP: T12 A2YT Cidade: Cork, CO, Irlanda Dias de Culto 3º Dom 18:00 (Port) - 1º Sáb 19:30 (Port) Ministério Telefone(s) +353 (85) 766-6669"
+    }
+  }
+]

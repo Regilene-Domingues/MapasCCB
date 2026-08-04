@@ -1,0 +1,614 @@
+[
+  {
+    "CodigoId": "JP-01-0010",
+    "Nome": "Aikawa-Machi - Central",
+    "Logradouro": "3 Chome-6-18",
+    "CEP": "T 243-0302",
+    "Cidade": "Aiko-gun, KNG, Japão",
+    "Coordenadas": {
+      "lat": 34.6892758,
+      "lon": 133.9220714
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM 2º e 4º Dom 14:00",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade Aikawa-Machi CENTRAL JP-01-0010 Localização Logradouro: 3 Chome-6-18 CEP: T 243-0302 Cidade: Aiko-gun, KNG, Japão Complemento: Kasugadai Kaikan Dias de Culto 3º Dom 14:00 - Sáb 18:30 (RJM 2º e 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Mamoru Oshiro Cooperador de Jovens e Menores Samuel Vianna Telefone(s) +81 (90) 8463-4936 +81 (80) 6905-7097"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0001",
+    "Nome": "Akamatsu-Cho - Central",
+    "Logradouro": "Nishishimo 40",
+    "CEP": "T 446-0046",
+    "Cidade": "Anjo-shi, AIC, Japão",
+    "Coordenadas": {
+      "lat": 35.1066928,
+      "lon": 134.0982652
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 14:00",
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Akamatsu-Cho CENTRAL JP-01-0001 Localização Logradouro: Nishishimo 40 CEP: T 446-0046 Cidade: Anjo-shi, AIC, Japão Dias de Culto Dom 19:00 - Qua-Sáb 20:00 (RJM 1º e 3º Dom 14:00) Ministério Ancião LUÍS CARLOS ITINOCE Cooperador Ofício Ministerial Vilson Sérgio Kojo Diácono Carlos Roberto Ogata Telefone(s) +81 (566) 931-383 +81 (80) 3627-6844 +81 (90) 9905-5758"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0035",
+    "Nome": "Echizen-Shi Central - Central",
+    "Logradouro": "2-5-1",
+    "CEP": "T 915-0814",
+    "Cidade": "Fukui-shi, FUK, Japão",
+    "Coordenadas": {
+      "lat": 35.6343763,
+      "lon": 139.4385475
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "11:00"
+      },
+      "Obs": "Localidade Echizen-Shi Central CENTRAL JP-01-0035 Localização Logradouro: 2-5-1 CEP: T 915-0814 Cidade: Fukui-shi, FUK, Japão Dias de Culto SM Culto Oficial Sábado - 11:00 Ministério Cooperador Ofício Ministerial Rosembergue Anicio Dias Telefone(s) +81 (80) 5850-2027"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0030",
+    "Nome": "Ekiminami-Machi - Central",
+    "Logradouro": "1 Chome-5",
+    "CEP": "T 693-0008",
+    "Cidade": "Izumo-shi, SHM, Japão",
+    "Coordenadas": {
+      "lat": 35.138591,
+      "lon": 136.903609
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 / RJM 3º Dom 11:00"
+      },
+      "Obs": "Localidade Ekiminami-Machi CENTRAL JP-01-0030 Localização Logradouro: 1 Chome-5 CEP: T 693-0008 Cidade: Izumo-shi, SHM, Japão Complemento: Big Heart Izumo Dias de Culto 1º e 3º Dom 11:00 (RJM 3º Dom 11:00) Ministério Cooperador de Jovens e Menores Eleázaro Souza Telefone(s) +81 (90) 2937-4379 +81 (90) 4117-0606"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0027",
+    "Nome": "Goshobara - Central",
+    "Logradouro": "17-1",
+    "CEP": "T 436-0068",
+    "Cidade": "Kakegawa-shi, SHZ, Japão",
+    "Coordenadas": {
+      "lat": 34.8273872,
+      "lon": 137.5488771
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 14:00",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Goshobara CENTRAL JP-01-0027 Localização Logradouro: 17-1 CEP: T 436-0068 Cidade: Kakegawa-shi, SHZ, Japão Complemento: Shogai Gakushu Center Dias de Culto 1º e 3º Dom 19:00 - Sáb 19:30 (RJM 2º e 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Alex Maximilian Calixto Cooperador de Jovens e Menores Alfredo Shiokawa Gimenez Telefone(s) +81 (90) 9190-2531 +81 (80) 8010-4925"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0019",
+    "Nome": "Higashi-Machi - Central",
+    "Logradouro": "268",
+    "CEP": "T 430-0822",
+    "Cidade": "Hamamatsu-shi - Minami-ku, SHZ, Japão",
+    "Coordenadas": {
+      "lat": 34.4991073,
+      "lon": 133.8487994
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 14:00",
+        "Quinta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Higashi-Machi CENTRAL JP-01-0019 Localização Logradouro: 268 CEP: T 430-0822 Cidade: Hamamatsu-shi - Minami-ku, SHZ, Japão Dias de Culto Dom 19:00 - Qui-Sáb 20:00 (RJM 2º e 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Samuel Seiki Inamine Diácono Nelson Sadayuki Tanikawa Cooperador de Jovens e Menores Alexandre Vila Rebniker Telefone(s) +81 (90) 4538-8006 +81 (80) 6890-9446 +81 (90) 5619-7942"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0017",
+    "Nome": "Hino-Cho (Aza Minami Yama) - Central",
+    "Logradouro": "2492-33 Nishioji",
+    "CEP": "T 529-1628",
+    "Cidade": "Gamou-gun, SHG, Japão",
+    "Coordenadas": {
+      "lat": 34.9811431,
+      "lon": 135.7321391
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º e 3º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Hino-Cho (Aza Minami Yama) CENTRAL JP-01-0017 Localização Logradouro: 2492-33 Nishioji CEP: T 529-1628 Cidade: Gamou-gun, SHG, Japão Dias de Culto Dom 18:00 - Sáb 20:00 (RJM 1º e 3º Dom 10:00) Ministério Ancião EDSON SIZUO TAKUMA Cooperador Ofício Ministerial Amarildo Alvarenga Cooperador de Jovens e Menores Rafael Hiroshi Iwanaga Telefone(s) +81 (80) 3653-2974 +81 (90) 3718-1287 +81 (90) 2192-5221"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0016",
+    "Nome": "Hirakata-Shi - Central",
+    "Logradouro": "Consultar o ministério",
+    "CEP": "Cidade: Hirakata-shi, OSA, Japão",
+    "Cidade": "Hirakata-shi, OSA, Japão",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM 2º e 4º Dom 14:00",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Hirakata-Shi CENTRAL JP-01-0016 Localização Logradouro: Consultar o ministério CEP: Cidade: Hirakata-shi, OSA, Japão Dias de Culto 1º Dom 14:00 - 3º Sáb 19:30 (RJM 2º e 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Gilberto Pereira da Cruz Telefone(s) +81 (90) 7340-3952"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0026",
+    "Nome": "Iwata-Shi - Central",
+    "Logradouro": "Consultar o ministério.",
+    "CEP": "Cidade: Iwata-shi, SHZ, Japão",
+    "Cidade": "Iwata-shi, SHZ, Japão",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM 2º e 4º Dom 10:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Iwata-Shi CENTRAL JP-01-0026 Localização Logradouro: Consultar o ministério. CEP: Cidade: Iwata-shi, SHZ, Japão Dias de Culto 1º e 3º Dom 14:00 - Sáb 19:00 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial Nelson Bruschi da Silva Cooperador de Jovens e Menores Fernando Jorge Kimura Telefone(s) +81 (90) 9181-5058"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0024",
+    "Nome": "Jifukuji-Cho - Central",
+    "Logradouro": "4-36",
+    "CEP": "T 526-0067",
+    "Cidade": "Nagahama-shi, SHG, Japão",
+    "Coordenadas": {
+      "lat": 35.3433222,
+      "lon": 136.9908505
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM 2º e 4º Dom 10:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Jifukuji-Cho CENTRAL JP-01-0024 Localização Logradouro: 4-36 CEP: T 526-0067 Cidade: Nagahama-shi, SHG, Japão Complemento: Nagahama Shimin Koryu Center Dias de Culto 1º e 3º Dom 14:00 - Sáb 19:00 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial Marcos Alves Katsui Cooperador de Jovens e Menores Diego Viana de Souza Telefone(s) +81 (80) 3868-8151 +81 (80) 6616-9383"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0006",
+    "Nome": "Kamitajima-Cho - Central",
+    "Logradouro": "388-2",
+    "CEP": "T 373-0044",
+    "Cidade": "Ota-shi, GUN, Japão",
+    "Coordenadas": {
+      "lat": 36.6512832,
+      "lon": 136.7209589
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º e 3º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Kamitajima-Cho CENTRAL JP-01-0006 Localização Logradouro: 388-2 CEP: T 373-0044 Cidade: Ota-shi, GUN, Japão Dias de Culto 2º e 4º Dom 18:00 - Sáb 20:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial José Augusto de Oliveira Mazzoni Cooperador de Jovens e Menores Andre Camargo Hagui Telefone(s) +81 (90) 4245-7070 +81 (70) 2009-0610"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0004",
+    "Nome": "Kashiwa - Central",
+    "Logradouro": "3 Chome-7-21",
+    "CEP": "T 277-0005",
+    "Cidade": "Kashiwa-shi, CHB, Japão",
+    "Coordenadas": {
+      "lat": 34.6892758,
+      "lon": 133.9220714
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "13:00 / RJM 3º Dom 13:00"
+      },
+      "Obs": "Localidade Kashiwa CENTRAL JP-01-0004 Localização Logradouro: 3 Chome-7-21 CEP: T 277-0005 Cidade: Kashiwa-shi, CHB, Japão Complemento: Shiina Culture Hall Dias de Culto 2º e 4º Dom 13:00 (RJM 3º Dom 13:00) Ministério Cooperador Ofício Ministerial Julio Kiyosuke Sakai Diácono Antônio Aparecido Brizolla Cooperador de Jovens e Menores Daniel Shimizu Telefone(s) +81 (80) 3750-4996 +81 (90) 6382-7346 +81 (80) 4279-9365"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0014",
+    "Nome": "Mabi-Cho - Central",
+    "Logradouro": "Yata 40-1",
+    "CEP": "T 710-1301",
+    "Cidade": "Kurashiki-shi, OKA, Japão",
+    "Coordenadas": {
+      "lat": 34.2195687,
+      "lon": 135.2623469
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM 4º Dom 14:00"
+      },
+      "Obs": "Localidade Mabi-Cho CENTRAL JP-01-0014 Localização Logradouro: Yata 40-1 CEP: T 710-1301 Cidade: Kurashiki-shi, OKA, Japão Complemento: Kurashiki Kenko Fukushi Plaza Dias de Culto 2º Dom 18:30 (RJM 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Osni Camargo de Almeida Telefone(s) +81 (80) 3057-6613"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0007",
+    "Nome": "Matsunaga-Cho - Central",
+    "Logradouro": "3 Chome-3-18",
+    "CEP": "T 729-0104",
+    "Cidade": "Fukuyama-shi, HIR, Japão",
+    "Coordenadas": {
+      "lat": 34.6876805,
+      "lon": 133.9052823
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:30 / RJM 1º e 3º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Matsunaga-Cho CENTRAL JP-01-0007 Localização Logradouro: 3 Chome-3-18 CEP: T 729-0104 Cidade: Fukuyama-shi, HIR, Japão Complemento: Central Crib 1º Floor Dias de Culto 1º, 3º e 4º Dom 17:30 - Sáb 20:00 (RJM 1º e 3º Dom 10:00) Ministério Ancião FABIO BARROSO SCHIMITI Cooperador Ofício Ministerial Laerte Hiromita Lopes Diácono Abner Paulo da Rocha Soares Kanekiyo Cooperador de Jovens e Menores Carlos Kishimoto Telefone(s) +81 (80) 4559-2401 +81 (70) 5309-1988 +81 (80) 6248-9664"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0002",
+    "Nome": "Minami-Ku - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nagoya-shi, AIC, Japão",
+    "Cidade": "Nagoya-shi, AIC, Japão",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 14:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Minami-Ku CENTRAL JP-01-0002 Localização Logradouro: CEP: Cidade: Nagoya-shi, AIC, Japão Complemento: Consultar o ministério Dias de Culto 1º e 3º Dom 19:00 - Sáb 19:00 (RJM 2º e 4º Dom 14:00) Ministério Cooperador Ofício Ministerial Ronaldo Kazumi Sakamoto Cooperador de Jovens e Menores Jean Akio Takaesu Telefone(s) +81 (90) 8550-1947 +81 (80) 3620-1997"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0005",
+    "Nome": "Nakasakura-Machi - Central",
+    "Logradouro": "1 Chome-19",
+    "CEP": "T 504-0912",
+    "Cidade": "Kakamigahara-shi, GIF, Japão",
+    "Coordenadas": {
+      "lat": 34.677849,
+      "lon": 135.4431618
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Nakasakura-Machi CENTRAL JP-01-0005 Localização Logradouro: 1 Chome-19 CEP: T 504-0912 Cidade: Kakamigahara-shi, GIF, Japão Dias de Culto 2º e 4º Dom 19:00 - Sáb 20:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Paulo Borges da Silva Diácono Josué Gonçalves de Souza Cooperador de Jovens e Menores Fabio Konishi Telefone(s) +81 (90) 4261-1002 +81 (90) 1748-1403 +81 (80) 5825-2010"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0023",
+    "Nome": "Nishitoheizo - Central",
+    "Logradouro": "656-1",
+    "CEP": "T 933-0824",
+    "Cidade": "Takaoka-shi, TOY, Japão",
+    "Coordenadas": {
+      "lat": 35.6786871,
+      "lon": 135.0858095
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Nishitoheizo CENTRAL JP-01-0023 Localização Logradouro: 656-1 CEP: T 933-0824 Cidade: Takaoka-shi, TOY, Japão Dias de Culto 1º e 3º Dom 18:00 - Sáb 20:00 (RJM 2º e 4º Dom 10:00) Ministério Ancião CARLOS SÉRGIO MONTEIRO Cooperador Ofício Ministerial Edson Akio Ishizaki Cooperador de Jovens e Menores Gabriel Yutaka Mota Ishizaki Telefone(s) +81 (90) 4682-0041 +81 (90) 2035-4157"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0018",
+    "Nome": "Obuchi - Central",
+    "Logradouro": "1483-1",
+    "CEP": "T 417-0801",
+    "Cidade": "Fuji-shi, SHZ, Japão",
+    "Coordenadas": {
+      "lat": 35.4924477,
+      "lon": 134.226432
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 14:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Obuchi CENTRAL JP-01-0018 Localização Logradouro: 1483-1 CEP: T 417-0801 Cidade: Fuji-shi, SHZ, Japão Dias de Culto 2º e 4º Dom 19:00 - Sáb 20:00 (RJM 1º e 3º Dom 14:00) Ministério Cooperador Ofício Ministerial Osvaldo Costa Filho Cooperador de Jovens e Menores Thiago Imada Almeida Telefone(s) +81 (90) 4218-5951 +81 (80) 5166-7664"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0012",
+    "Nome": "Osachigongen-Cho - Central",
+    "Logradouro": "3 Chome-5-16",
+    "CEP": "T 394-0081",
+    "Cidade": "Okaya-shi, NGN, Japão",
+    "Coordenadas": {
+      "lat": 34.6876805,
+      "lon": 133.9052823
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado",
+        "Sakashita Kokaido",
+        "Ina Shi Sakashita 3266",
+        "T 396-0024"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 10:00",
+        "Sábado": "20:00 / 19:00",
+        "Sakashita Kokaido": "Sakashita Kokaido",
+        "Ina Shi Sakashita 3266": "Ina Shi Sakashita 3266",
+        "T 396-0024": "T 396-0024"
+      },
+      "Obs": "Localidade Osachigongen-Cho CENTRAL JP-01-0012 Localização Logradouro: 3 Chome-5-16 CEP: T 394-0081 Cidade: Okaya-shi, NGN, Japão Complemento: 2º Floor Dias de Culto 2º e 4º Dom 19:00 - 1º, 2º e 4º Sáb 20:00 - 3º Sáb 19:00 - Sakashita Kokaido - Ina Shi Sakashita 3266 - T 396-0024 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Marcos Rogério Akira Furumiti Diácono Sergio Rodrigues Machado Cooperador de Jovens e Menores José Maria Tito da Motta Telefone(s) +81 (90) 4711-0054 +81 (80) 3533-2398 +81 (90) 4461-8057"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0003",
+    "Nome": "Owaki-Cho - Central",
+    "Logradouro": "Owaki 20-4",
+    "CEP": "T 441-0000",
+    "Cidade": "Toyohashi-shi, AIC, Japão",
+    "Coordenadas": {
+      "lat": 35.5016692,
+      "lon": 139.5632605
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Japonês)",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 (3º Dom / RJM Dom 10:00",
+        "Japonês)": "Japonês)",
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Owaki-Cho CENTRAL JP-01-0003 Localização Logradouro: Owaki 20-4 CEP: T 441-0000 Cidade: Toyohashi-shi, AIC, Japão Dias de Culto Dom 19:00 (3º Dom - Japonês) - Qua-Sáb 20:00 (RJM Dom 10:00) Ministério Ancião WILSON BATISTA GABRIEL Cooperador Ofício Ministerial Luis Katsumi Oshima Diácono Melquior Okubo Mendes Marcelo Akamine da Silva Cooperador de Jovens e Menores Rodrigo Sunao Ibusuki Fernandes Telefone(s) +81 (90) 6616-8814 +81 (90) 1748-2353 +81 (90) 9125-6984"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0020",
+    "Nome": "Shimokato (Nirasaki) - Central",
+    "Logradouro": "Consultar o ministério.",
+    "CEP": "Cidade: Chuo-shi, YAM, Japão",
+    "Cidade": "Chuo-shi, YAM, Japão",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 10:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Shimokato (Nirasaki) CENTRAL JP-01-0020 Localização Logradouro: Consultar o ministério. CEP: Cidade: Chuo-shi, YAM, Japão Dias de Culto 1º e 3º Dom 19:00 - Sáb 20:00 (RJM 2º e 4º Dom 10:00) Ministério Ancião MAURO MORI BARRETO Cooperador Ofício Ministerial Almir Rogerio da Silva Cooperador de Jovens e Menores Clayton Bezerra Franco da Silva Matsukita Telefone(s) +81 (90) 7909-3268 +81 (80) 9035-1810"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0008",
+    "Nome": "Shiwa-Cho - Central",
+    "Logradouro": "Shiwa Higashi 4454-1",
+    "CEP": "T 739-0262",
+    "Cidade": "Higashi Hiroshima-shi, HIR, Japão",
+    "Coordenadas": {
+      "lat": 39.61248,
+      "lon": 141.149998
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:30 / RJM 4º Dom 10:00 - 2º Dom 10:00 - View Port Kure Hotel - Kure-Shi Nakadori 1 Chome 1-2 - T 737-0046",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Shiwa-Cho CENTRAL JP-01-0008 Localização Logradouro: Shiwa Higashi 4454-1 CEP: T 739-0262 Cidade: Higashi Hiroshima-shi, HIR, Japão Dias de Culto 1º e 3º Dom 17:30 - Sáb 20:00 (RJM 4º Dom 10:00 - 2º Dom 10:00 - View Port Kure Hotel - Kure-Shi Nakadori 1 Chome 1-2 - T 737-0046) Ministério Cooperador de Jovens e Menores Ulisses Massaki de Souza Telefone(s) +81 (80) 9139-5746"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0021",
+    "Nome": "Souemon - Central",
+    "Logradouro": "15-2",
+    "CEP": "T 425-0065",
+    "Cidade": "Yaizu-shi, SHZ, Japão",
+    "Coordenadas": {
+      "lat": 35.6927388,
+      "lon": 138.4933647
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 10:00",
+        "Sexta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Souemon CENTRAL JP-01-0021 Localização Logradouro: 15-2 CEP: T 425-0065 Cidade: Yaizu-shi, SHZ, Japão Complemento: Pro Arm Dias de Culto 2º e 4º Dom 19:00 - Sex-Sáb 20:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Paulo Okada Diácono Gilberto De Lima Costa Cooperador de Jovens e Menores Jhouberth Seto da Mota Telefone(s) +81 (90) 3482-8102 +81 (90) 9900-6095"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0013",
+    "Nome": "Takasaki - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Oita-shi, OIT, Japão",
+    "Cidade": "Oita-shi, OIT, Japão",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Takasaki CENTRAL JP-01-0013 Localização Logradouro: CEP: Cidade: Oita-shi, OIT, Japão Complemento: Consultar o ministério local Dias de Culto 3º Dom 10:00 - 1º Sáb 10:00 Ministério Cooperador Ofício Ministerial Todaka Akimasa Telefone(s) +81 (975) 440-338"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0025",
+    "Nome": "Tokiwa-Cho - Central",
+    "Logradouro": "812-2",
+    "CEP": "T 382-0013",
+    "Cidade": "Suzaka-shi, NGN, Japão",
+    "Coordenadas": {
+      "lat": 33.476485,
+      "lon": 130.564312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Maruko Bunka Kaikan",
+        "Ueda-Shi Kamimaruko 1488",
+        "T 383-0404",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30 ()",
+        "Maruko Bunka Kaikan": "Maruko Bunka Kaikan",
+        "Ueda-Shi Kamimaruko 1488": "Ueda-Shi Kamimaruko 1488",
+        "T 383-0404": "T 383-0404",
+        "Domingo": "RJM 2º e 4º Dom 14:00 / RJM 2º Dom 14:00"
+      },
+      "Obs": "Localidade Tokiwa-Cho CENTRAL JP-01-0025 Localização Logradouro: 812-2 CEP: T 382-0013 Cidade: Suzaka-shi, NGN, Japão Complemento: Former City Office Dias de Culto 1º e 2º Sáb 19:30 (RJM 2º e 4º Dom 14:00) - Maruko Bunka Kaikan - Ueda-Shi Kamimaruko 1488 - T 383-0404 - 3º Sáb 19:30 (RJM 2º Dom 14:00) Ministério Cooperador Ofício Ministerial César Akira Torigoe Telefone(s) +81 (90) 2632-2020"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0009",
+    "Nome": "Tsukubamirai-Shi - Central",
+    "Logradouro": "Hososhiro 730-1",
+    "CEP": "T 300-2446",
+    "Cidade": "Tsukubamirai-shi, IBK, Japão",
+    "Coordenadas": {
+      "lat": 35.998774,
+      "lon": 139.977347
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 10:00",
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade Tsukubamirai-Shi CENTRAL JP-01-0009 Localização Logradouro: Hososhiro 730-1 CEP: T 300-2446 Cidade: Tsukubamirai-shi, IBK, Japão Dias de Culto Dom 19:00 - Qua-Sáb 20:00 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial Edson Hiroshi Inoui Diácono Diego Kenji Ribeiro Chinen Cooperador de Jovens e Menores Carlos Hirooka Telefone(s) +81 (80) 3729-1502 +81 (80) 4402-1709"
+    }
+  },
+  {
+    "CodigoId": "JP-01-0011",
+    "Nome": "Wakayama-Cho - Central",
+    "Logradouro": "7-10",
+    "CEP": "T 519-0151",
+    "Cidade": "Kameyama-shi, MIE, Japão",
+    "Coordenadas": {
+      "lat": 34.8619883,
+      "lon": 136.446694
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 2º e 4º Dom 10:00",
+        "Quinta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Wakayama-Cho CENTRAL JP-01-0011 Localização Logradouro: 7-10 CEP: T 519-0151 Cidade: Kameyama-shi, MIE, Japão Complemento: Seishonen Kenshu Center Dias de Culto 1º e 3º Dom 19:00 - Qui-Sáb 19:30 (RJM 2º e 4º Dom 10:00) Ministério Ancião RONALDO JOSÉ SHIGA Cooperador Ofício Ministerial Joemir Koozo Kawamura Cooperador de Jovens e Menores Fernando Vaz Shiga Telefone(s) +81 (90) 2929-2550 +81 (80) 5352-1978 +81 (80) 6864-4497"
+    }
+  }
+]

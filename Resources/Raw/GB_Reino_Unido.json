@@ -1,0 +1,734 @@
+[
+  {
+    "CodigoId": "GB-01-0041",
+    "Nome": "Bournemouth",
+    "Logradouro": "Beaufort Rd",
+    "CEP": "BH6 5lB",
+    "Cidade": "Bournemouth, DORSET, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 50.8346583,
+      "lon": -2.1412149
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Bournemouth GB-01-0041 Localização Logradouro: Beaufort Rd CEP: BH6 5lB Cidade: Bournemouth, DORSET, Inglaterra (reino Unido) Complemento: Beaufort Community Centre Dias de Culto 1º e 3º Sáb 19:00 Ministério Cooperador Ofício Ministerial Marcelo Miguel"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0034",
+    "Nome": "Bridgewater - Central",
+    "Logradouro": "Kings Drive",
+    "CEP": "TA6 4FU",
+    "Cidade": "Bridgewater, SOUTH WEST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 53.7875948,
+      "lon": -1.5232886
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Bridgewater CENTRAL GB-01-0034 Localização Logradouro: Kings Drive CEP: TA6 4FU Cidade: Bridgewater, SOUTH WEST, Inglaterra (reino Unido) Complemento: Kings Downs Pavilion Dias de Culto 1º e 3º Sex 20:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0005",
+    "Nome": "Brighton and Love (Former Peaceheaven) - Central",
+    "Logradouro": "3 Courthope Close",
+    "CEP": "BN41 2LZ",
+    "Cidade": "Brighton, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 54.9614703,
+      "lon": -1.499423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 / RJM 3º Sáb 19:00"
+      },
+      "Obs": "Localidade Brighton and Love (Former Peaceheaven) CENTRAL GB-01-0005 Localização Logradouro: 3 Courthope Close CEP: BN41 2LZ Cidade: Brighton, SOUTH EAST, Inglaterra (reino Unido) Dias de Culto 1º, 3º e 5º Sáb 19:00 (RJM 3º Sáb 19:00) Ministério Cooperador Ofício Ministerial Miguel Caliman Filho"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0007",
+    "Nome": "Bucksin - Central",
+    "Logradouro": "Blackdown Close",
+    "CEP": "RG22 5BW",
+    "Cidade": "Basingstoke - Hampshire, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.5960664,
+      "lon": -0.1759236
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 18:00",
+        "Quarta-feira": "20:00 (Inglês"
+      },
+      "Obs": "Localidade Bucksin CENTRAL GB-01-0007 Localização Logradouro: Blackdown Close CEP: RG22 5BW Cidade: Basingstoke - Hampshire, SOUTH EAST, Inglaterra (reino Unido) Complemento: The Ridgeway Centre Dias de Culto Dom 18:00 - Qua 20:00 (Inglês) (RJM 2º e 4º Dom 18:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0033",
+    "Nome": "Doncaster - Central",
+    "Logradouro": "Yorkshire Main - WMC",
+    "CEP": "DN12 1AB",
+    "Cidade": "Doncaster, NC, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 53.5227681,
+      "lon": -1.1335312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Doncaster CENTRAL GB-01-0033 Localização Logradouro: Yorkshire Main - WMC CEP: DN12 1AB Cidade: Doncaster, NC, Inglaterra (reino Unido) Complemento: Edlington Community Organization Dias de Culto 1º Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0026",
+    "Nome": "Durham - Central",
+    "Logradouro": "Sunderland Road, Gilesgate Moor",
+    "CEP": "DH1 2LL",
+    "Cidade": "Durham, NE, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 54.7770139,
+      "lon": -1.5756205
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Durham CENTRAL GB-01-0026 Localização Logradouro: Sunderland Road, Gilesgate Moor CEP: DH1 2LL Cidade: Durham, NE, Inglaterra (reino Unido) Complemento: Belmont Community Centre Dias de Culto 1º e 3º Dom 18:00 Ministério Cooperador Ofício Ministerial Emerson Donizete Candido"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0029",
+    "Nome": "Gillingham - Central",
+    "Logradouro": "125A Beechings Way",
+    "CEP": "ME8 6TQ",
+    "Cidade": "Gillingham, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.3793312,
+      "lon": 0.5785059
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Gillingham CENTRAL GB-01-0029 Localização Logradouro: 125A Beechings Way CEP: ME8 6TQ Cidade: Gillingham, SOUTH EAST, Inglaterra (reino Unido) Dias de Culto 3º Sex 20:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-02-0002",
+    "Nome": "Glasgow - Central",
+    "Logradouro": "12 Golf Drive Old Drumchapel",
+    "CEP": "GT15 6TA",
+    "Cidade": "Glasgow, GLG, Escócia (reino Unido)",
+    "Coordenadas": {
+      "lat": 55.9035346,
+      "lon": -4.3689388
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00",
+        "Domingo": "RJM 1º e 3º Dom 10:00"
+      },
+      "Obs": "Localidade Glasgow CENTRAL GB-02-0002 Localização Logradouro: 12 Golf Drive Old Drumchapel CEP: GT15 6TA Cidade: Glasgow, GLG, Escócia (reino Unido) Dias de Culto Sáb 19:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Jusinei Santos Caberlin Cooperador de Jovens e Menores Nuno Miguel Anastácio Gomes da Conceição"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0016",
+    "Nome": "Golborne - Wigan - Central",
+    "Logradouro": "60A High Street",
+    "CEP": "WA3 3BH",
+    "Cidade": "Greater Manchester, NWT, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.4522753,
+      "lon": -2.4251442
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Inglês)",
+        "Sábado": "19:00 (Português",
+        "Domingo": "RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Golborne - Wigan CENTRAL GB-01-0016 Localização Logradouro: 60A High Street CEP: WA3 3BH Cidade: Greater Manchester, NWT, Inglaterra (reino Unido) Complemento: Estacionamento utilizar cep WA3 3AF Dias de Culto Qua 20:00 (Inglês) - Sáb 19:00 (Português) (RJM Dom 10:00 - Inglês) Ministério Ancião HUANDER TIAGO PETRI Cooperador Ofício Ministerial Karisson Cassius Lopes Sorrigotti Cooperador de Jovens e Menores Thales Da Cruz Silva"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0017",
+    "Nome": "Hampton - Central",
+    "Logradouro": "Linden Road",
+    "CEP": "TW12 2UG",
+    "Cidade": "Feltham, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.4161595,
+      "lon": -0.3745317
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Hampton CENTRAL GB-01-0017 Localização Logradouro: Linden Road CEP: TW12 2UG Cidade: Feltham, LND, Inglaterra (reino Unido) Complemento: Linden Hall Community Center Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Mario Sergio Miranda"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0020",
+    "Nome": "Holmesdale Community Infant School - Central",
+    "Logradouro": "Alma Road",
+    "CEP": "RH2 0BT",
+    "Cidade": "Reigate, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.6032055,
+      "lon": -0.1451416
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00",
+        "Domingo": "RJM 1º e 3º Dom 10:00"
+      },
+      "Obs": "Localidade Holmesdale Community Infant School CENTRAL GB-01-0020 Localização Logradouro: Alma Road CEP: RH2 0BT Cidade: Reigate, LND, Inglaterra (reino Unido) Dias de Culto Sáb 19:00 (RJM 1º e 3º Dom 10:00) Ministério Cooperador Ofício Ministerial Davi Santana da Silva Diácono Nilson Emenegildo da Silva Cooperador de Jovens e Menores Walcler Lichmann Lopes Rosa"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0025",
+    "Nome": "Ipswich - Central",
+    "Logradouro": "330A Bramford Road",
+    "CEP": "IP1 5AX",
+    "Cidade": "Ipswich, EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.0743056,
+      "lon": 1.1926404
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Ipswich CENTRAL GB-01-0025 Localização Logradouro: 330A Bramford Road CEP: IP1 5AX Cidade: Ipswich, EAST, Inglaterra (reino Unido) Complemento: Bramford Road Railway Dias de Culto 3º Sáb 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0024",
+    "Nome": "Laindon - Central",
+    "Logradouro": "Hoover Drive",
+    "CEP": "SS15 6LF",
+    "Cidade": "Basildon, EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.8848465,
+      "lon": -1.4402418
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Laindon CENTRAL GB-01-0024 Localização Logradouro: Hoover Drive CEP: SS15 6LF Cidade: Basildon, EAST, Inglaterra (reino Unido) Complemento: Laidon West Community Hall Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Matheus Marques Batista"
+    }
+  },
+  {
+    "CodigoId": "GB-03-0002",
+    "Nome": "Langstone - Central",
+    "Logradouro": "Old Chepstow Road",
+    "CEP": "NP18 2ND",
+    "Cidade": "Newport, NWP, PAÍS DE GALES (REINO UNIDO)",
+    "Coordenadas": {
+      "lat": 51.6046367,
+      "lon": -2.9032132
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Langstone CENTRAL GB-03-0002 Localização Logradouro: Old Chepstow Road CEP: NP18 2ND Cidade: Newport, NWP, PAÍS DE GALES (REINO UNIDO) Complemento: Langstone Village Hall Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Denis de Souza Freitas"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0013",
+    "Nome": "Liverpool - Central",
+    "Logradouro": "143 Porchfield Close",
+    "CEP": "L11 9AU",
+    "Cidade": "Liverpool, NWT, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.3470999,
+      "lon": -0.1965176
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Liverpool CENTRAL GB-01-0013 Localização Logradouro: 143 Porchfield Close CEP: L11 9AU Cidade: Liverpool, NWT, Inglaterra (reino Unido) Complemento: Meadow Court - Porchfield Community Centre Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Marcello Gulinelli Neto"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0028",
+    "Nome": "Milton Keynes - Central",
+    "Logradouro": "Oldbrook Boulevard",
+    "CEP": "MK6 2HX",
+    "Cidade": "Milton Keynes, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.0320481,
+      "lon": -0.7561097
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Milton Keynes CENTRAL GB-01-0028 Localização Logradouro: Oldbrook Boulevard CEP: MK6 2HX Cidade: Milton Keynes, SOUTH EAST, Inglaterra (reino Unido) Dias de Culto 4º Dom 18:00 Ministério Cooperador Ofício Ministerial Smaily William Flávio"
+    }
+  },
+  {
+    "CodigoId": "GB-03-0001",
+    "Nome": "Neath - Central",
+    "Logradouro": "37 Cenf-Yr-Allt",
+    "CEP": "SA10 8HE",
+    "Cidade": "Port Talbot, POR, PAÍS DE GALES (REINO UNIDO)",
+    "Coordenadas": {
+      "lat": 51.68492,
+      "lon": -3.77515
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Neath CENTRAL GB-03-0001 Localização Logradouro: 37 Cenf-Yr-Allt CEP: SA10 8HE Cidade: Port Talbot, POR, PAÍS DE GALES (REINO UNIDO) Complemento: Abertulais Community Centre Dias de Culto 2º, 3º e 4º Dom 18:30 Ministério Cooperador Ofício Ministerial Jacó Venera Nogueira"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0030",
+    "Nome": "Norbury (London)",
+    "Logradouro": "Woodmansterne Road",
+    "CEP": "SWI6 5UQ",
+    "Cidade": "Norbury, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.3479597,
+      "lon": -0.1737209
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00- Qua 20:00"
+      },
+      "Obs": "Localidade Norbury (London) GB-01-0030 Localização Logradouro: Woodmansterne Road CEP: SWI6 5UQ Cidade: Norbury, LND, Inglaterra (reino Unido) Complemento: Woodmansterne School Dias de Culto Dom 18:00- Qua 20:00 Ministério Cooperador Ofício Ministerial Andriws Michael dos Santos Higa"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0001",
+    "Nome": "Northfield - Central",
+    "Logradouro": "18 Oddingley Road",
+    "CEP": "B31 3BS",
+    "Cidade": "Birmingham, WEST MIDLANDS, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.4054929,
+      "lon": -1.9513724
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º, 3º e 5º Dom 18:00"
+      },
+      "Obs": "Localidade Northfield CENTRAL GB-01-0001 Localização Logradouro: 18 Oddingley Road CEP: B31 3BS Cidade: Birmingham, WEST MIDLANDS, Inglaterra (reino Unido) Complemento: Oddingley Community Hall Dias de Culto Dom 18:00 (RJM 1º, 3º e 5º Dom 18:00) Ministério Ancião DAVI DE FRANÇA CINTRA Cooperador Ofício Ministerial Pedro Francisco Reinoso Bustillos"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0018",
+    "Nome": "Nottingham - Stanton-on-the-Wolds - Central",
+    "Logradouro": "Attenborough House - Browns Lane Business Park",
+    "CEP": "NG12 5BL",
+    "Cidade": "Nottinghamshire, UKF, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.8683639,
+      "lon": -1.0623441
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 / RJM 2º e 4º Sáb 19:00"
+      },
+      "Obs": "Localidade Nottingham - Stanton-on-the-Wolds CENTRAL GB-01-0018 Localização Logradouro: Attenborough House - Browns Lane Business Park CEP: NG12 5BL Cidade: Nottinghamshire, UKF, Inglaterra (reino Unido) Dias de Culto Sáb 19:00 (RJM 2º e 4º Sáb 19:00) Ministério Cooperador Ofício Ministerial Vicente Luiz de Macedo Filho"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0010",
+    "Nome": "Orpington - Central",
+    "Logradouro": "207-215 High Street, 2nd Floor",
+    "CEP": "BR6 0PF",
+    "Cidade": "Bromley, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.3765829,
+      "lon": 0.1000953
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 10:00 - Inglês",
+        "Quinta-feira": "20:00",
+        "Sábado": "19:00 (Inglês"
+      },
+      "Obs": "Localidade Orpington CENTRAL GB-01-0010 Localização Logradouro: 207-215 High Street, 2nd Floor CEP: BR6 0PF Cidade: Bromley, LND, Inglaterra (reino Unido) Dias de Culto Dom 18:00 - Qui 20:00 - 2º,3º,4º e 5º Sáb 19:00 (Inglês) (RJM Dom 10:00 - Inglês) Ministério Ancião LEVI ALVES MARTINS THARSIS ANDRE GUIDO MARCELO HIROSHI RIBEIRO SPINA Cooperador Ofício Ministerial Leandro Henrique Santos Diácono Euni Antônio Fernandes Lúcio Simei Adriano Bueno Lopes Rafael Carvalho de Sousa Cooperador de Jovens e Menores Matheus Nóbrega"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0003",
+    "Nome": "Oxford - Central",
+    "Logradouro": "Marston Ferry Road",
+    "CEP": "OX2 7WP",
+    "Cidade": "Oxford, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 53.4325422,
+      "lon": -1.3352696
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 -1º,3º ,4] e 5º Sáb 19:00 (Inglês / RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Oxford CENTRAL GB-01-0003 Localização Logradouro: Marston Ferry Road CEP: OX2 7WP Cidade: Oxford, SOUTH EAST, Inglaterra (reino Unido) Complemento: The Swan School Dias de Culto Dom 18:00 -1º,3º ,4] e 5º Sáb 19:00 (Inglês) (RJM Dom 10:00 - Inglês) Ministério Ancião FABRICIO MELO DE ALMEIDA IGOR IGNÁCIO VILLANOVA CORREA Diácono Antonio Carlos Marques Pires Marcelo Ferrari Cooperador de Jovens e Menores Uilliam Morris dos Santos"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0014",
+    "Nome": "Peterborough - Folksworth - Central",
+    "Logradouro": "Manor Road",
+    "CEP": "PE7 3SU",
+    "Cidade": "Cambridgeshire, EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.3897779,
+      "lon": 0.2100907
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 10:00"
+      },
+      "Obs": "Localidade Peterborough - Folksworth CENTRAL GB-01-0014 Localização Logradouro: Manor Road CEP: PE7 3SU Cidade: Cambridgeshire, EAST, Inglaterra (reino Unido) Complemento: Washingley and Morbome Village Hall Dias de Culto Dom 18:00 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial Paulo Américo Soares Lopes Pinto Cooperador de Jovens e Menores Silas Lucena de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0027",
+    "Nome": "Reading - Central",
+    "Logradouro": "Harley Road",
+    "CEP": "RG4 8DB",
+    "Cidade": "Reading, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 54.9806804,
+      "lon": -1.4286906
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Reading CENTRAL GB-01-0027 Localização Logradouro: Harley Road CEP: RG4 8DB Cidade: Reading, SOUTH EAST, Inglaterra (reino Unido) Complemento: Thameside School Dias de Culto 2º, 4º e 5º Sex 20:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-02-0001",
+    "Nome": "Roslin - Central",
+    "Logradouro": "Pentlandfield",
+    "CEP": "EH25 9RE",
+    "Cidade": "Edinburgh, EDB, Escócia (reino Unido)",
+    "Coordenadas": {
+      "lat": 55.86793,
+      "lon": -3.19565
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Roslin CENTRAL GB-02-0001 Localização Logradouro: Pentlandfield CEP: EH25 9RE Cidade: Edinburgh, EDB, Escócia (reino Unido) Complemento: Midlothian Innovation Centre Dias de Culto 1º, 3º e 4º Dom 10:00 Ministério Diácono Victor Hugo de Mello"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0019",
+    "Nome": "Somerset - Central",
+    "Logradouro": "Crowshute Link",
+    "CEP": "TA20 2EZ",
+    "Cidade": "Chard, SOMERSET, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 50.8711608,
+      "lon": -2.9673154
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Somerset CENTRAL GB-01-0019 Localização Logradouro: Crowshute Link CEP: TA20 2EZ Cidade: Chard, SOMERSET, Inglaterra (reino Unido) Complemento: Crowshute House Dias de Culto 2º ,3º e 4º Sáb 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Alex Conceição Aurélio Cooperador de Jovens e Menores Eduardo Enrique Rodrigues Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0021",
+    "Nome": "Southsea",
+    "Logradouro": "Northumberland Rd",
+    "CEP": "PO5 1DS",
+    "Cidade": "Portsmouth, SOUTH WEST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.5620976,
+      "lon": -1.7740878
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Sexta-feira": "20:00",
+        "Sábado": "RJM 1º e 3º Sáb Dom 10:00"
+      },
+      "Obs": "Localidade Southsea GB-01-0021 Localização Logradouro: Northumberland Rd CEP: PO5 1DS Cidade: Portsmouth, SOUTH WEST, Inglaterra (reino Unido) Complemento: 2nd floor, Printware Court - Cumberland Business Centre Dias de Culto Dom 18:00 - Sex 20:00 (RJM 1º e 3º Sáb Dom 10:00) Ministério Cooperador Ofício Ministerial Ciro Alex Felix"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0012",
+    "Nome": "Stamford Hill - Central",
+    "Logradouro": "High Road (Car Park Entrance)",
+    "CEP": "N17 9HT",
+    "Cidade": "Stamford Hill, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.5893789,
+      "lon": -0.0701254
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "RJM"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "RJM": "RJM 09:30"
+      },
+      "Obs": "Localidade Stamford Hill CENTRAL GB-01-0012 Localização Logradouro: High Road (Car Park Entrance) CEP: N17 9HT Cidade: Stamford Hill, LND, Inglaterra (reino Unido) Complemento: Holy Trinity CE Primary School Dias de Culto Dom 18:00 (RJM 09:30) Ministério Cooperador Ofício Ministerial Marcos Paulo da Silva Cooperador de Jovens e Menores Jonatas Rocha Flávio"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0015",
+    "Nome": "Stoke Gifford - Trust Hall - Central",
+    "Logradouro": "North Road",
+    "CEP": "BS34 8PE",
+    "Cidade": "Bristol, SOUTH WEST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.5010534,
+      "lon": -2.5791732
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Stoke Gifford - Trust Hall CENTRAL GB-01-0015 Localização Logradouro: North Road CEP: BS34 8PE Cidade: Bristol, SOUTH WEST, Inglaterra (reino Unido) Dias de Culto Sáb 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Marcelo Silva Zillig Cooperador de Jovens e Menores Wesley Rodrigues"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0006",
+    "Nome": "Swindon - Central",
+    "Logradouro": "Cranmore Avenue",
+    "CEP": "SN3 2ER",
+    "Cidade": "Wiltshire, SOUTH WEST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.4748692,
+      "lon": -2.5024441
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Swindon CENTRAL GB-01-0006 Localização Logradouro: Cranmore Avenue CEP: SN3 2ER Cidade: Wiltshire, SOUTH WEST, Inglaterra (reino Unido) Complemento: Park South Community Centre Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Gelson da Silva Sales Diácono Rodrigo Moreira Guimarães Cooperador de Jovens e Menores Elenyr Gomes de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0037",
+    "Nome": "Swindon - Redhouse",
+    "Logradouro": "Frankel Avenue",
+    "CEP": "SN25 2GY",
+    "Cidade": "Wiltshire, SOUTH WEST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.4748692,
+      "lon": -2.5024441
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Swindon - Redhouse GB-01-0037 Localização Logradouro: Frankel Avenue CEP: SN25 2GY Cidade: Wiltshire, SOUTH WEST, Inglaterra (reino Unido) Complemento: Redhouse Community Centre Dias de Culto (RJM Dom 10:00 - Inglês) Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0009",
+    "Nome": "Thetford - Central",
+    "Logradouro": "Abbey Neighborhood Centre, Exeter Way",
+    "CEP": "IP24 1EE",
+    "Cidade": "Norfolk, EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 52.5320424,
+      "lon": 0.2756813
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º e 3º Dom 18:00"
+      },
+      "Obs": "Localidade Thetford CENTRAL GB-01-0009 Localização Logradouro: Abbey Neighborhood Centre, Exeter Way CEP: IP24 1EE Cidade: Norfolk, EAST, Inglaterra (reino Unido) Dias de Culto Dom 18:00 (RJM 1º e 3º Dom 18:00) Ministério Cooperador Ofício Ministerial Hudson Lopes"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0040",
+    "Nome": "Watford - Central",
+    "Logradouro": "81 The Harebreaks",
+    "CEP": "WD24 6NJ",
+    "Cidade": "Watford, SOUTH EAST, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.6753075,
+      "lon": -0.4017071
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "3ª 6N 19:30"
+      ],
+      "Horarios": {
+        "3ª 6N 19:30": "3ª 6N 19:30"
+      },
+      "Obs": "Localidade Watford CENTRAL GB-01-0040 Localização Logradouro: 81 The Harebreaks CEP: WD24 6NJ Cidade: Watford, SOUTH EAST, Inglaterra (reino Unido) Complemento: Harebreaks Community Hub - 1st Floor Dias de Culto 3ª 6N 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "GB-01-0004",
+    "Nome": "Willesden (London) - Central",
+    "Logradouro": "Cullingworth Road",
+    "CEP": "NW10 1ET",
+    "Cidade": "Willesden, LND, Inglaterra (reino Unido)",
+    "Coordenadas": {
+      "lat": 51.5522303,
+      "lon": -0.2347964
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00 (Inglês)",
+        "Sábado": "19:00 (Português) 4º Sáb (Inglês",
+        "Domingo": "RJM Dom 10:00 - Inglês"
+      },
+      "Obs": "Localidade Willesden (London) CENTRAL GB-01-0004 Localização Logradouro: Cullingworth Road CEP: NW10 1ET Cidade: Willesden, LND, Inglaterra (reino Unido) Complemento: Gladstone Park Primary School Dias de Culto Ter 20:00 (Inglês) - Sáb 19:00 (Português) 4º Sáb (Inglês) (RJM Dom 10:00 - Inglês) Ministério Cooperador Ofício Ministerial Rafael Theodoro de Souza Diácono Francisco Antonio Ferrari José Fernandes de Souza Neto Cooperador de Jovens e Menores Pedro Miguel Figueira Geraldes"
+    }
+  },
+  {
+    "CodigoId": "TE-04-0001",
+    "Nome": "Pepper Memorial Building - Central",
+    "Logradouro": "260 Tandragee Road",
+    "CEP": "BT62 3RB",
+    "Cidade": "Portadown, ARM, IRLANDA DO NORTE (REINO UNIDO)",
+    "Coordenadas": {
+      "lat": 54.39935169631027,
+      "lon": -6.441258695914045
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00 (Português)",
+        "Sábado": "19:30 (Português",
+        "Domingo": "RJM Dom 10:30 - Inglês"
+      },
+      "Obs": "Localidade Pepper Memorial Building CENTRAL TE-04-0001 Localização Logradouro: 260 Tandragee Road CEP: BT62 3RB Cidade: Portadown, ARM, IRLANDA DO NORTE (REINO UNIDO) Dias de Culto Qua 20:00 (Português) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Rogério da Silva de Lima Diácono Anderson de Oliveira Silva Cooperador de Jovens e Menores Jhonata Miclos Queiroz Telefone(s) +44 (77) 6293-7611"
+    }
+  }
+]

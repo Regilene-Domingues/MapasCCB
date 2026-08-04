@@ -1,0 +1,2130 @@
+[
+  {
+    "CodigoId": "AR-01-0036",
+    "Nome": "1º de mayo - Central",
+    "Logradouro": "Junín, 5481",
+    "CEP": "X5006CMU",
+    "Cidade": "Córdoba, CÓRDOBA, Argentina",
+    "Coordenadas": {
+      "lat": -31.429572,
+      "lon": -64.11589
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30/20:30",
+        "Sábado": "19:30 / RJM 1º, 2º e 3º Sáb 17:30"
+      },
+      "Obs": "Localidade 1º de mayo CENTRAL AR-01-0036 Localização Logradouro: Junín, 5481 CEP: X5006CMU Cidade: Córdoba, CÓRDOBA, Argentina Dias de Culto Qua 19:30/20:30 - Sáb 19:30 (RJM 1º, 2º e 3º Sáb 17:30) Ministério Ancião ESTEBAN MERELE DA SILVA Cooperador Ofício Ministerial Julio César Funes Diácono David Octavio Funes Cooperador de Jovens e Menores Danny Javier Gomez Guzman"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0057",
+    "Nome": "Alba Posse - Oeste - Central",
+    "Logradouro": "Provincia de Buenos Aires, entre Rivadavia y 25 de Mayo",
+    "CEP": "N3363AFA",
+    "Cidade": "Alba Posse, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.5212201,
+      "lon": -54.7279925
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Alba Posse - Oeste CENTRAL AR-01-0057 Localização Logradouro: Provincia de Buenos Aires, entre Rivadavia y 25 de Mayo CEP: N3363AFA Cidade: Alba Posse, MISIONES, Argentina Complemento: A dos cuadras del Puerto Dias de Culto Dom 19:00 Ministério Cooperador Ofício Ministerial Jorge Gabriel Cantero"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0005",
+    "Nome": "Arco de Oro - Central",
+    "Logradouro": "Eduardo Dipietri, 743",
+    "CEP": "B2930CKO",
+    "Cidade": "San Pedro, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.6760716,
+      "lon": -59.6629342
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Arco de Oro CENTRAL AR-01-0005 Localização Logradouro: Eduardo Dipietri, 743 CEP: B2930CKO Cidade: San Pedro, BUENOS AIRES, Argentina Dias de Culto Dom-Qua-Sáb 19:00/20:00 (RJM Sáb 17:00/18:00) Ministério Cooperador Ofício Ministerial Domingo Marcos Albornoz Cooperador de Jovens e Menores Cristian Toledo"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0058",
+    "Nome": "Aristóbulo Del Valle - Don Alejandro - Central",
+    "Logradouro": "a dos cuadras de la estación de servicio YPF Monchoclos",
+    "CEP": "N3364AFA",
+    "Cidade": "Aristóbulo Del Valle, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.0966706,
+      "lon": -54.8852285
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Aristóbulo Del Valle - Don Alejandro CENTRAL AR-01-0058 Localização Logradouro: a dos cuadras de la estación de servicio YPF Monchoclos CEP: N3364AFA Cidade: Aristóbulo Del Valle, MISIONES, Argentina Dias de Culto 2º e 4º Sáb 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0029",
+    "Nome": "Bernardino Rivadavia - Central",
+    "Logradouro": "Juan de Garay, 4741",
+    "CEP": "B7600FCQ",
+    "Cidade": "Mar Del Plata, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -37.9976168,
+      "lon": -57.5482079
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 17:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Bernardino Rivadavia CENTRAL AR-01-0029 Localização Logradouro: Juan de Garay, 4741 CEP: B7600FCQ Cidade: Mar Del Plata, BUENOS AIRES, Argentina Dias de Culto Dom 18:00 - Qua-Sáb 19:30 (RJM Dom 17:00) Ministério Ancião RAMIRO GABRIEL SUÑÉ ERNI Cooperador Ofício Ministerial Rodrigo Leal Rabelo Cooperador de Jovens e Menores Martin Alberto Rodriguez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0121",
+    "Nome": "Bernardo De Irigoyen",
+    "Logradouro": "Lote 2 - Manzana F - Subdivisión Lote 55 D",
+    "CEP": "3366",
+    "Cidade": "Bernardo de Irigoyen, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.2553959,
+      "lon": -53.6467366
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Bernardo De Irigoyen AR-01-0121 Localização Logradouro: Lote 2 - Manzana F - Subdivisión Lote 55 D CEP: 3366 Cidade: Bernardo de Irigoyen, MISIONES, Argentina Dias de Culto 6N Sex 19:30 Culto Oficial Sexta-feira - 19:30 - es_AR Ministério Cooperador Ofício Ministerial Gabriel Antunes"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0059",
+    "Nome": "Campo Grande - Yerbal Viejo - Central",
+    "Logradouro": "Sección Novena, Lote 391",
+    "CEP": "N3362AOH",
+    "Cidade": "Campo Grande, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.2079446,
+      "lon": -54.9796933
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:30 / RJM 4º Sáb 17:00"
+      },
+      "Obs": "Localidade Campo Grande - Yerbal Viejo CENTRAL AR-01-0059 Localização Logradouro: Sección Novena, Lote 391 CEP: N3362AOH Cidade: Campo Grande, MISIONES, Argentina Dias de Culto Sáb 18:30 (RJM 4º Sáb 17:00) Ministério Cooperador Ofício Ministerial Felipe Rodolfo Wosniak Cooperador de Jovens e Menores Elias Natanael Wosniak"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0009",
+    "Nome": "Claypole - Central",
+    "Logradouro": "Ricardo Rojas, 2966",
+    "CEP": "B1849HLH",
+    "Cidade": "Claypole, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.8110218,
+      "lon": -58.3610838
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Claypole CENTRAL AR-01-0009 Localização Logradouro: Ricardo Rojas, 2966 CEP: B1849HLH Cidade: Claypole, BUENOS AIRES, Argentina Dias de Culto Qua 19:30 - Sáb 19:00 Ministério Cooperador Ofício Ministerial Roberto Maidana"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0044",
+    "Nome": "Clorinda - 1º de mayo - Central",
+    "Logradouro": "Vélez Sarsfield, s/nº",
+    "CEP": "P3610HCE",
+    "Cidade": "Clorinda, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -25.2892595,
+      "lon": -57.7156697
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00/18:00",
+        "Quarta-feira": "19:00/20:00"
+      },
+      "Obs": "Localidade Clorinda - 1º de mayo CENTRAL AR-01-0044 Localização Logradouro: Vélez Sarsfield, s/nº CEP: P3610HCE Cidade: Clorinda, FORMOSA, Argentina Complemento: A dos cuadras del Destacamento de Policía Dias de Culto Dom 17:00/18:00 - Qua 19:00/20:00 Ministério Cooperador Ofício Ministerial Porfirio Lezcano"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0098",
+    "Nome": "Colonia Carlos Pellegrini - Central",
+    "Logradouro": "Mburucuya entre Ruta Provincial 40 y Calle Panamby",
+    "CEP": "W3471",
+    "Cidade": "Colonia Carlos Pellegrini, CORRIENTES, Argentina",
+    "Coordenadas": {
+      "lat": -28.5372087,
+      "lon": -57.17124
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Consultar o"
+      ],
+      "Horarios": {
+        "Consultar o": "Consultar o"
+      },
+      "Obs": "Localidade Colonia Carlos Pellegrini CENTRAL AR-01-0098 Localização Logradouro: Mburucuya entre Ruta Provincial 40 y Calle Panamby CEP: W3471 Cidade: Colonia Carlos Pellegrini, CORRIENTES, Argentina Dias de Culto Consultar o ministério local Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0061",
+    "Nome": "Colonia Delicia - Central",
+    "Logradouro": "Ruta 12, Km 1568",
+    "CEP": "N3382XAB",
+    "Cidade": "Colonia Delicia, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.2711249,
+      "lon": -54.6049704
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Colonia Delicia CENTRAL AR-01-0061 Localização Logradouro: Ruta 12, Km 1568 CEP: N3382XAB Cidade: Colonia Delicia, MISIONES, Argentina Dias de Culto DN 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:00 - es_AR Culto Oficial Domingo - 19:00 - es_AR Quinta-feira - 19:00 - es_AR Ministério Cooperador Ofício Ministerial Fidel Eriberto Ríos Cooperador de Jovens e Menores Enrique Daniel Nekri"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0045",
+    "Nome": "Colonia Primavera - Reducción Indígena Toba - Central",
+    "Logradouro": "Ruta 86 - Escuela Provincial nº 308",
+    "CEP": "P3610XAM",
+    "Cidade": "Colonia Primavera, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -25.2022147,
+      "lon": -58.256496
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Sábado": "19:00/19:30"
+      },
+      "Obs": "Localidade Colonia Primavera - Reducción Indígena Toba CENTRAL AR-01-0045 Localização Logradouro: Ruta 86 - Escuela Provincial nº 308 CEP: P3610XAM Cidade: Colonia Primavera, FORMOSA, Argentina Complemento: Llegando a Laguna Blanca, doblar a la izquierda por Ruta 2 a Riacho por 5 Km - Família Sanagachi Dias de Culto Dom 19:00 - Sáb 19:00/19:30 Ministério Cooperador Ofício Ministerial Clemente Sanagachi"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0118",
+    "Nome": "Comandante Andresito - 20 de Junio",
+    "Logradouro": "Remanente 1 A - Subdivisión Lote 2 - Sector B",
+    "CEP": "3385",
+    "Cidade": "Comandante Andresito, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.6800078,
+      "lon": -54.0298635
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Comandante Andresito - 20 de Junio AR-01-0118 Localização Logradouro: Remanente 1 A - Subdivisión Lote 2 - Sector B CEP: 3385 Cidade: Comandante Andresito, MISIONES, Argentina Dias de Culto SN Culto Oficial Sábado - 19:30 - es_AR Ministério Cooperador Ofício Ministerial Miguel Angel Gomez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0060",
+    "Nome": "Comandante Andresito - Quintas Altas - Central",
+    "Logradouro": "Colombia, entre Perú y Estados Unidos",
+    "CEP": "N3385BBA",
+    "Cidade": "Comandante Andresito, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.6725557,
+      "lon": -54.0514683
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "18:00",
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Comandante Andresito - Quintas Altas CENTRAL AR-01-0060 Localização Logradouro: Colombia, entre Perú y Estados Unidos CEP: N3385BBA Cidade: Comandante Andresito, MISIONES, Argentina Dias de Culto DN 4N SN (RJM-DT) Reunião de Jovens e Menores Domingo - 14:00 - es_AR Culto Oficial Domingo - 18:00 - es_AR Quarta-feira - 19:30 - es_AR Sábado - 18:00 - es_AR Ministério Cooperador Ofício Ministerial Javier Miguel Sosa Diácono Bruno Fernando Durks Cooperador de Jovens e Menores Luis Cardozo"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0081",
+    "Nome": "Concarán - San Roque - Central",
+    "Logradouro": "Belgrano, 585",
+    "CEP": "D5770AME",
+    "Cidade": "Concarán, SAN LUIS, Argentina",
+    "Coordenadas": {
+      "lat": -32.5553675,
+      "lon": -65.2460807
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:30",
+        "Sábado": "20:30 / RJM Sáb 18:30"
+      },
+      "Obs": "Localidade Concarán - San Roque CENTRAL AR-01-0081 Localização Logradouro: Belgrano, 585 CEP: D5770AME Cidade: Concarán, SAN LUIS, Argentina Dias de Culto Qua-Sáb 20:30 (RJM Sáb 18:30) Ministério Cooperador de Jovens e Menores Josias Daniel Galarza"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0074",
+    "Nome": "Cutral Co - Centro - Central",
+    "Logradouro": "Presidente Roque Sáenz Peña, 599",
+    "CEP": "Q8322FYK",
+    "Cidade": "Cutral Co, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9408747,
+      "lon": -69.2219799
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 20:30 / RJM 1º e 3º Dom 18:30",
+        "Terça-feira": "Sáb 20:30"
+      },
+      "Obs": "Localidade Cutral Co - Centro CENTRAL AR-01-0074 Localização Logradouro: Presidente Roque Sáenz Peña, 599 CEP: Q8322FYK Cidade: Cutral Co, NEUQUÉN, Argentina Dias de Culto Dom-Ter-Sáb 20:30 (RJM 1º e 3º Dom 18:30) Ministério Ancião MAGLIO NATANAEL ACUÑA JORGE LUÍS GÓMEZ Diácono Pedro Lucas Segura Adrian Narciso Sebastian Cañete Cooperador de Jovens e Menores Facundo alan Gabriel Mendez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0007",
+    "Nome": "Del Plata - Central",
+    "Logradouro": "Nicaragua, 1236",
+    "CEP": "B1812BJX",
+    "Cidade": "Carlos Spegazzini, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.911222,
+      "lon": -58.5771814
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00/18:00 / RJM Dom 15:30/16:30",
+        "Terça-feira": "19:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Del Plata CENTRAL AR-01-0007 Localização Logradouro: Nicaragua, 1236 CEP: B1812BJX Cidade: Carlos Spegazzini, BUENOS AIRES, Argentina Dias de Culto Dom 17:00/18:00 - Ter-Qui 19:30 (RJM Dom 15:30/16:30) Ministério Ancião IGNACIO RAÚL VILLANUEVA Cooperador Ofício Ministerial Claudio Canteros Cooperador de Jovens e Menores Adrián Alcides González"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0025",
+    "Nome": "Dolores - Central",
+    "Logradouro": "Doctor Manuel Belgrano, 757",
+    "CEP": "B7100CBO",
+    "Cidade": "Dolores, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -36.3153624,
+      "lon": -57.6755399
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/19:00"
+      },
+      "Obs": "Localidade Dolores CENTRAL AR-01-0025 Localização Logradouro: Doctor Manuel Belgrano, 757 CEP: B7100CBO Cidade: Dolores, BUENOS AIRES, Argentina Dias de Culto Dom 18:00/19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0008",
+    "Nome": "Domingo Matheu - Central",
+    "Logradouro": "Martín de Alzaga, 2678",
+    "CEP": "B1678IEB",
+    "Cidade": "Caseros, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.6060807,
+      "lon": -58.5746172
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Domingo Matheu CENTRAL AR-01-0008 Localização Logradouro: Martín de Alzaga, 2678 CEP: B1678IEB Cidade: Caseros, BUENOS AIRES, Argentina Dias de Culto Seg-Qui 19:30 Ministério Ancião ANTONIO DI MARCO"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0010",
+    "Nome": "Domselaar - Central",
+    "Logradouro": "Laprida, 272",
+    "CEP": "B1984BDA",
+    "Cidade": "Domselaar, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -35.0657568,
+      "lon": -58.2798228
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Domselaar CENTRAL AR-01-0010 Localização Logradouro: Laprida, 272 CEP: B1984BDA Cidade: Domselaar, BUENOS AIRES, Argentina Dias de Culto Dom 18:30 - Qua 19:30 Ministério Cooperador Ofício Ministerial Nazareno Ezequiel Romano"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0083",
+    "Nome": "Doña Pepa - Central",
+    "Logradouro": "Urquiza, 206",
+    "CEP": "S2128EHD",
+    "Cidade": "Arroyo Seco, SANTA FÉ, Argentina",
+    "Coordenadas": {
+      "lat": -33.1537129,
+      "lon": -60.4992432
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00 / RJM Sáb 18:30"
+      },
+      "Obs": "Localidade Doña Pepa CENTRAL AR-01-0083 Localização Logradouro: Urquiza, 206 CEP: S2128EHD Cidade: Arroyo Seco, SANTA FÉ, Argentina Complemento: Família Troilo Dias de Culto Qua-Sáb 20:00 (RJM Sáb 18:30) Ministério Cooperador Ofício Ministerial Ariel Darío Loguzzo Diácono Sebastián Miguel Stamboni Cooperador de Jovens e Menores Leandro Samuel Posadas"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0100",
+    "Nome": "El Bolsón - Usina - Central",
+    "Logradouro": "Amador Inostrosa, 3840",
+    "CEP": "R8430BJC",
+    "Cidade": "El Bolson, RIO NEGRO, Argentina",
+    "Coordenadas": {
+      "lat": -41.9081157,
+      "lon": -71.5089725
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 (quinzenal"
+      },
+      "Obs": "Localidade El Bolsón - Usina CENTRAL AR-01-0100 Localização Logradouro: Amador Inostrosa, 3840 CEP: R8430BJC Cidade: El Bolson, RIO NEGRO, Argentina Dias de Culto Dom 11:00 (quinzenal) Ministério Cooperador Ofício Ministerial Yonathan Rodrigo Nekli"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0099",
+    "Nome": "El Soberbio - Central",
+    "Logradouro": "Ruta 2 - Km 6",
+    "CEP": "N3364XAL",
+    "Cidade": "El Soberbio, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.1641384,
+      "lon": -53.9665493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade El Soberbio CENTRAL AR-01-0099 Localização Logradouro: Ruta 2 - Km 6 CEP: N3364XAL Cidade: El Soberbio, MISIONES, Argentina Complemento: Paraje Comandante Andresito Dias de Culto Dom-Sáb 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Carlos Fernando Católico de Oliveira Diácono Yssaias Sales Cooperador de Jovens e Menores Marcos Carloto"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0062",
+    "Nome": "Eldorado - Las Rosas - Central",
+    "Logradouro": "Calle sin nombre",
+    "CEP": "N3382XAC",
+    "Cidade": "Eldorado, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.4048555,
+      "lon": -54.6262079
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Eldorado - Las Rosas CENTRAL AR-01-0062 Localização Logradouro: Calle sin nombre CEP: N3382XAC Cidade: Eldorado, MISIONES, Argentina Complemento: Ruta 17 - Avenida San Martín Oeste - Altura 1.400 a 20 metros de la plaza Dias de Culto DT Culto Oficial Domingo - 15:00 - es_AR Ministério Cooperador Ofício Ministerial Fernando Rodríguez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0094",
+    "Nome": "Espinillo - Central",
+    "Logradouro": "Chaco y Ruta 40",
+    "CEP": "P3630XAH",
+    "Cidade": "Espinillo, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -24.982575,
+      "lon": -58.5531174
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/19:00",
+        "Sábado": "18:00/19:00"
+      },
+      "Obs": "Localidade Espinillo CENTRAL AR-01-0094 Localização Logradouro: Chaco y Ruta 40 CEP: P3630XAH Cidade: Espinillo, FORMOSA, Argentina Dias de Culto Dom-Sáb 18:00/19:00 Ministério Cooperador Ofício Ministerial Daniel Bustamante"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0046",
+    "Nome": "Formosa - Divino Niño Jesús - Central",
+    "Logradouro": "a 100 metros de la Avenida Néstor Kirchner y Circunvalación Gendarmería Nacional",
+    "CEP": "P3600BHA",
+    "Cidade": "Formosa, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -26.1852983,
+      "lon": -58.1744976
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00/19:30 / RJM Dom 17:00/17:30",
+        "Sábado": "19:00/19:30"
+      },
+      "Obs": "Localidade Formosa - Divino Niño Jesús CENTRAL AR-01-0046 Localização Logradouro: a 100 metros de la Avenida Néstor Kirchner y Circunvalación Gendarmería Nacional CEP: P3600BHA Cidade: Formosa, FORMOSA, Argentina Dias de Culto Dom-Sáb 19:00/19:30 (RJM Dom 17:00/17:30) Ministério Ancião EUSEBIO AMARILLA Cooperador Ofício Ministerial Francisco Mendieta Diácono Clementino Bordon Cooperador de Jovens e Menores Juan Daniel Osório"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0108",
+    "Nome": "Formosa - El Palomar",
+    "Logradouro": "Laureano Maradona y 3º, s/nº",
+    "CEP": "P3600BHA",
+    "Cidade": "Formosa, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -26.1852983,
+      "lon": -58.1744976
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Sexta-feira": "19:00/19:30"
+      },
+      "Obs": "Localidade Formosa - El Palomar AR-01-0108 Localização Logradouro: Laureano Maradona y 3º, s/nº CEP: P3600BHA Cidade: Formosa, FORMOSA, Argentina Dias de Culto Dom 09:30 - Sex 19:00/19:30 Ministério Cooperador Ofício Ministerial Alfredo Fidel Cejas"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0050",
+    "Nome": "Fraile Pintado - Central",
+    "Logradouro": "Joaquín Carrillo, 79",
+    "CEP": "Y4506AWA",
+    "Cidade": "Fraile Pintado, JUJUY, Argentina",
+    "Coordenadas": {
+      "lat": -23.9402029,
+      "lon": -64.8065966
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Fraile Pintado CENTRAL AR-01-0050 Localização Logradouro: Joaquín Carrillo, 79 CEP: Y4506AWA Cidade: Fraile Pintado, JUJUY, Argentina Dias de Culto Dom-Qua-Sex 20:30 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial René Adolfo Condori Diácono René Domingo Rodriguez Cooperador de Jovens e Menores Figueroa Leandro Emanuel"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0114",
+    "Nome": "Garuhape",
+    "Logradouro": "Lote 16, Departamento 10, Municipio 34, Sección 007",
+    "CEP": "3334",
+    "Cidade": "Garuhape, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.8203599,
+      "lon": -54.9585694
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "2º e 4º DM 09:00"
+      ],
+      "Horarios": {
+        "2º e 4º DM 09:00": "2º e 4º DM 09:00"
+      },
+      "Obs": "Localidade Garuhape AR-01-0114 Localização Logradouro: Lote 16, Departamento 10, Municipio 34, Sección 007 CEP: 3334 Cidade: Garuhape, MISIONES, Argentina Dias de Culto 2º e 4º DM 09:00 Ministério Cooperador Ofício Ministerial Luis Andres Goronosky"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0063",
+    "Nome": "Garupá - Ñu Porá - Central",
+    "Logradouro": "Saltos del Moconá y Guembé",
+    "CEP": "N3304BFA",
+    "Cidade": "Garupá, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.4442017,
+      "lon": -55.8728889
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Quinta-feira": "19:30",
+        "Domingo": "RJM 2º e 4º Dom 10:00"
+      },
+      "Obs": "Localidade Garupá - Ñu Porá CENTRAL AR-01-0063 Localização Logradouro: Saltos del Moconá y Guembé CEP: N3304BFA Cidade: Garupá, MISIONES, Argentina Dias de Culto Ter 19:30 - Qui 19:30 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial José María Márquez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0089",
+    "Nome": "General Belgrano - Obrero - Central",
+    "Logradouro": "Fortín Lugones y Abelardo Zamparo",
+    "CEP": "P3615XAC",
+    "Cidade": "General Belgrano, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -26.2415724,
+      "lon": -58.6288347
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Quarta-feira": "19:00/20:00",
+        "Sábado": "19:00/20:00"
+      },
+      "Obs": "Localidade General Belgrano - Obrero CENTRAL AR-01-0089 Localização Logradouro: Fortín Lugones y Abelardo Zamparo CEP: P3615XAC Cidade: General Belgrano, FORMOSA, Argentina Complemento: A dos cuadras de la Plaza Juan Manuel de Rosas Dias de Culto Dom 18:00 - Qua-Sáb 19:00/20:00 Ministério Cooperador Ofício Ministerial Misael Bustamante Ojeda"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0079",
+    "Nome": "General Roca - Coronel Juan José Gómez - Central",
+    "Logradouro": "Félix Heredia, 1200",
+    "CEP": "R8331BBD",
+    "Cidade": "General Roca, RIO NEGRO, Argentina",
+    "Coordenadas": {
+      "lat": -39.0200791,
+      "lon": -67.6342461
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade General Roca - Coronel Juan José Gómez CENTRAL AR-01-0079 Localização Logradouro: Félix Heredia, 1200 CEP: R8331BBD Cidade: General Roca, RIO NEGRO, Argentina Dias de Culto Dom 11:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0001",
+    "Nome": "Gobernador Castro - Central",
+    "Logradouro": "Combate de Obligado, 109",
+    "CEP": "B2946BEC",
+    "Cidade": "Gobernador Castro, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.66068,
+      "lon": -59.862993
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 18:00",
+        "Quinta-feira": "20:00"
+      },
+      "Obs": "Localidade Gobernador Castro CENTRAL AR-01-0001 Localização Logradouro: Combate de Obligado, 109 CEP: B2946BEC Cidade: Gobernador Castro, BUENOS AIRES, Argentina Dias de Culto Dom 19:00 - Qui 20:00 (RJM Dom 18:00) Ministério Cooperador Ofício Ministerial Joel Alfio Loguzzo Diácono Alfio Loguzzo Cooperador de Jovens e Menores Marcelo Hugo Puig"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0039",
+    "Nome": "Gualeguay - Central",
+    "Logradouro": "Sarmiento, 548",
+    "CEP": "E2840FBL",
+    "Cidade": "Gualeguay, ENTRE RÍOS, Argentina",
+    "Coordenadas": {
+      "lat": -33.1549473,
+      "lon": -59.3124215
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/20:00 / RJM 2º e 4º Dom 16:30/18:30",
+        "Sábado": "19:30/20:30"
+      },
+      "Obs": "Localidade Gualeguay CENTRAL AR-01-0039 Localização Logradouro: Sarmiento, 548 CEP: E2840FBL Cidade: Gualeguay, ENTRE RÍOS, Argentina Dias de Culto Dom 18:00/20:00 - Sáb 19:30/20:30 (RJM 2º e 4º Dom 16:30/18:30) Ministério Ancião JOSÉ RAÚL ALBORNOZ Cooperador Ofício Ministerial Gimenez Mario Abel"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0040",
+    "Nome": "Gualeguaychú - Barrio Norte",
+    "Logradouro": "Luis Clavarino, 1380",
+    "CEP": "E2820BSL",
+    "Cidade": "Gualeguaychú, ENTRE RÍOS, Argentina",
+    "Coordenadas": {
+      "lat": -33.0096677,
+      "lon": -58.5095991
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30/20:30"
+      },
+      "Obs": "Localidade Gualeguaychú - Barrio Norte AR-01-0040 Localização Logradouro: Luis Clavarino, 1380 CEP: E2820BSL Cidade: Gualeguaychú, ENTRE RÍOS, Argentina Dias de Culto Qui 19:30/20:30 Ministério Cooperador Ofício Ministerial Jonathan Vela"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0014",
+    "Nome": "Guernica - Las Lomas",
+    "Logradouro": "Florencio Varela, 2913",
+    "CEP": "B1862PVE",
+    "Cidade": "Guernica, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.9123914,
+      "lon": -58.3442015
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 17:30"
+      },
+      "Obs": "Localidade Guernica - Las Lomas AR-01-0014 Localização Logradouro: Florencio Varela, 2913 CEP: B1862PVE Cidade: Guernica, BUENOS AIRES, Argentina Dias de Culto Qua-Sáb 19:30 (RJM Dom 17:30) Ministério Ancião PABLO JESÚS ATTADIA Cooperador Ofício Ministerial Carlos Bernardo Antelo Cooperador de Jovens e Menores Elias Emanuel Lizarraga"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0055",
+    "Nome": "Jesús Nazareno - Central",
+    "Logradouro": "Everest, 4851 - entre Calle Ayala y Cacheuta",
+    "CEP": "M5638AQD",
+    "Cidade": "Jesús Nazareno, MENDOZA, Argentina",
+    "Coordenadas": {
+      "lat": -32.9244588,
+      "lon": -68.776191
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sexta-feira": "20:00",
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Jesús Nazareno CENTRAL AR-01-0055 Localização Logradouro: Everest, 4851 - entre Calle Ayala y Cacheuta CEP: M5638AQD Cidade: Jesús Nazareno, MENDOZA, Argentina Dias de Culto 3N 6N (RJM-DM) Ter-Sex 20:00 (RJM Dom 11:00) Reunião de Jovens e Menores Domingo - 11:00 - es_AR Culto Oficial Terça-feira - 20:00 - es_AR Sexta-feira - 20:00 - es_AR Ministério Cooperador Ofício Ministerial Emanuel Montoneri"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0101",
+    "Nome": "La Carolina - Central",
+    "Logradouro": "Ruta Nacional 18, Km 06, nº 4045",
+    "CEP": "S2105XAA",
+    "Cidade": "General Alvear, SANTA FÉ, Argentina",
+    "Coordenadas": {
+      "lat": -33.7519695,
+      "lon": -61.9704663
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00"
+      },
+      "Obs": "Localidade La Carolina CENTRAL AR-01-0101 Localização Logradouro: Ruta Nacional 18, Km 06, nº 4045 CEP: S2105XAA Cidade: General Alvear, SANTA FÉ, Argentina Dias de Culto Qui 20:00 Ministério Cooperador Ofício Ministerial Agustín Antonio Miraglia"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0035",
+    "Nome": "La Clotilde - Central",
+    "Logradouro": "Calle 13, nº 230",
+    "CEP": "H3725AFA",
+    "Cidade": "La Clotilde, CHACO, Argentina",
+    "Coordenadas": {
+      "lat": -27.1797844,
+      "lon": -60.63158
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade La Clotilde CENTRAL AR-01-0035 Localização Logradouro: Calle 13, nº 230 CEP: H3725AFA Cidade: La Clotilde, CHACO, Argentina Dias de Culto Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0012",
+    "Nome": "La Juanita - Central",
+    "Logradouro": "Icalma, 4463",
+    "CEP": "B1757GWC",
+    "Cidade": "Gregório de Laferrere, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.74546,
+      "lon": -58.618687
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM 1º, 3º e 5º Dom 16:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade La Juanita CENTRAL AR-01-0012 Localização Logradouro: Icalma, 4463 CEP: B1757GWC Cidade: Gregório de Laferrere, BUENOS AIRES, Argentina Dias de Culto Dom 18:30 - Qui 19:30 (RJM 1º, 3º e 5º Dom 16:00) Ministério Cooperador Ofício Ministerial Damián Daniel Villanueva Cooperador de Jovens e Menores Levi Santos Freire"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0120",
+    "Nome": "La Plata - Central",
+    "Logradouro": "Calle 49, 621",
+    "CEP": "Cidade: La Plata, BUENOS AIRES, Argentina",
+    "Cidade": "La Plata, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.9147192,
+      "lon": -57.9509449
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade La Plata CENTRAL AR-01-0120 Localização Logradouro: Calle 49, 621 CEP: Cidade: La Plata, BUENOS AIRES, Argentina Dias de Culto DT Dom 16:00 Culto Oficial Domingo - 16:00 Ministério Diácono Danilo Rafael Nunes dos Santos Cooperador de Jovens e Menores Gabriel Pereira de Andrade"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0047",
+    "Nome": "Laguna Blanca - Central",
+    "Logradouro": "Bernardino Rivadavia, 852",
+    "CEP": "P3613XAH",
+    "Cidade": "Laguna Blanca, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -25.1300079,
+      "lon": -58.2456194
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00/20:00",
+        "Quarta-feira": "Sáb 19:00/20:00"
+      },
+      "Obs": "Localidade Laguna Blanca CENTRAL AR-01-0047 Localização Logradouro: Bernardino Rivadavia, 852 CEP: P3613XAH Cidade: Laguna Blanca, FORMOSA, Argentina Dias de Culto Dom-Qua-Sáb 19:00/20:00 Ministério Cooperador Ofício Ministerial Alejandro José Pedro Aguiar Cooperador de Jovens e Menores Carmelo Antonio Diarte"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0016",
+    "Nome": "Las Violetas - Central",
+    "Logradouro": "Salguero y Cabrera, 2520",
+    "CEP": "B1722BLH",
+    "Cidade": "Merlo, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.6535792,
+      "lon": -58.7296229
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Las Violetas CENTRAL AR-01-0016 Localização Logradouro: Salguero y Cabrera, 2520 CEP: B1722BLH Cidade: Merlo, BUENOS AIRES, Argentina Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial José Cecilio Sánchez Cooperador de Jovens e Menores Juan Marcelo Rojas"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0064",
+    "Nome": "Leandro Nicéforo Alem - Central",
+    "Logradouro": "José A. Ferradas, 167",
+    "CEP": "N3315DZA",
+    "Cidade": "Leandro Nicéforo Alem, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:30"
+      },
+      "Obs": "Localidade Leandro Nicéforo Alem CENTRAL AR-01-0064 Localização Logradouro: José A. Ferradas, 167 CEP: N3315DZA Cidade: Leandro Nicéforo Alem, MISIONES, Argentina Dias de Culto 2º e 4º Dom 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0038",
+    "Nome": "Lesca - Central",
+    "Logradouro": "Avenida General Juan Lamadrid, 1269",
+    "CEP": "E3200BYB",
+    "Cidade": "Concordia, ENTRE RÍOS, Argentina",
+    "Coordenadas": {
+      "lat": -31.3972539,
+      "lon": -58.0173305
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Sábado": "RJM 1º e 3º Sáb 18:00"
+      },
+      "Obs": "Localidade Lesca CENTRAL AR-01-0038 Localização Logradouro: Avenida General Juan Lamadrid, 1269 CEP: E3200BYB Cidade: Concordia, ENTRE RÍOS, Argentina Dias de Culto Dom 18:00 (RJM 1º e 3º Sáb 18:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0051",
+    "Nome": "Libertador General San Martín - San Lorenzo - Susques - Central",
+    "Logradouro": "Manzana 389, Lote 17",
+    "CEP": "Y4512XCK",
+    "Cidade": "Libertador General San Martín, JUJUY, Argentina",
+    "Coordenadas": {
+      "lat": -23.8093358,
+      "lon": -64.7921741
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/20:00",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade Libertador General San Martín - San Lorenzo - Susques CENTRAL AR-01-0051 Localização Logradouro: Manzana 389, Lote 17 CEP: Y4512XCK Cidade: Libertador General San Martín, JUJUY, Argentina Dias de Culto Dom 18:00/20:00 - Qua 20:00 Ministério Cooperador Ofício Ministerial José Luís Miranda"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0011",
+    "Nome": "Los Troncos del Talar - Central",
+    "Logradouro": "Calle Monteagudo, 958",
+    "CEP": "B1618DJV",
+    "Cidade": "General Pacheco, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.4537215,
+      "lon": -58.6351056
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Los Troncos del Talar CENTRAL AR-01-0011 Localização Logradouro: Calle Monteagudo, 958 CEP: B1618DJV Cidade: General Pacheco, BUENOS AIRES, Argentina Dias de Culto Dom 18:30 - Sex 19:30 Ministério Cooperador Ofício Ministerial David Telmo Díaz"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0097",
+    "Nome": "Luis Beltran - Central",
+    "Logradouro": "Cristóbal Colón, 859",
+    "CEP": "R8361AQM",
+    "Cidade": "Luis Beltran, RIO NEGRO, Argentina",
+    "Coordenadas": {
+      "lat": -39.3120528,
+      "lon": -65.7570568
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00 (quinzenal"
+      },
+      "Obs": "Localidade Luis Beltran CENTRAL AR-01-0097 Localização Logradouro: Cristóbal Colón, 859 CEP: R8361AQM Cidade: Luis Beltran, RIO NEGRO, Argentina Dias de Culto Dom 11:00 (quinzenal) Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0028",
+    "Nome": "Maipú - Central",
+    "Logradouro": "Ramos Mejía, 1223",
+    "CEP": "B7160BSY",
+    "Cidade": "Maipú, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -36.8669881,
+      "lon": -57.8906907
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00/18:00",
+        "Terça-feira": "18:00/19:00",
+        "Quinta-feira": "18:00/19:00"
+      },
+      "Obs": "Localidade Maipú CENTRAL AR-01-0028 Localização Logradouro: Ramos Mejía, 1223 CEP: B7160BSY Cidade: Maipú, BUENOS AIRES, Argentina Dias de Culto Dom 17:00/18:00 - Ter-Qui 18:00/19:00 Ministério Cooperador Ofício Ministerial Bernardo Bernardino Barrientos Diácono David Emanuel Barrientos"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0056",
+    "Nome": "Maipú - Chacabuco - Central",
+    "Logradouro": "Barcala, 426",
+    "CEP": "M5515BQD",
+    "Cidade": "Maipú, MENDOZA, Argentina",
+    "Coordenadas": {
+      "lat": -32.9802086,
+      "lon": -68.7825344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00/20:00 / RJM Dom 17:00/10:30",
+        "Quinta-feira": "Sáb 19:00/20:00"
+      },
+      "Obs": "Localidade Maipú - Chacabuco CENTRAL AR-01-0056 Localização Logradouro: Barcala, 426 CEP: M5515BQD Cidade: Maipú, MENDOZA, Argentina Dias de Culto Dom-Qui-Sáb 19:00/20:00 (RJM Dom 17:00/10:30) Ministério Cooperador Ofício Ministerial Juan Carlos Lupacchini Diácono Héctor Benigno Bazán Claudio Javier Pieranni Cooperador de Jovens e Menores Aldo Eduardo Antonucci"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0017",
+    "Nome": "Mi Barrio - Central",
+    "Logradouro": "Posadas, 6276",
+    "CEP": "B1743BGP",
+    "Cidade": "Moreno, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.6216551,
+      "lon": -58.7857898
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 15:45",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Mi Barrio CENTRAL AR-01-0017 Localização Logradouro: Posadas, 6276 CEP: B1743BGP Cidade: Moreno, BUENOS AIRES, Argentina Dias de Culto Dom 17:00 - Qua 19:30 (RJM Dom 15:45) Ministério Cooperador Ofício Ministerial Heberto Rafael Aguilera Diácono Oscar Ezequiel Cantero Cooperador de Jovens e Menores Armando Cantero"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0048",
+    "Nome": "Misión Tacaagle - El Olvido - Central",
+    "Logradouro": "Granadero Baigorria, s/nº",
+    "CEP": "P3614AJA",
+    "Cidade": "Misión Tacaagle, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": -24.9690518,
+      "lon": -58.8158403
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:30/20:00",
+        "Quinta-feira": "Sáb 19:30/20:00"
+      },
+      "Obs": "Localidade Misión Tacaagle - El Olvido CENTRAL AR-01-0048 Localização Logradouro: Granadero Baigorria, s/nº CEP: P3614AJA Cidade: Misión Tacaagle, FORMOSA, Argentina Complemento: Entre Avenida Granaderos a Caballo y Juan Bautista Cabral Dias de Culto Dom-Qui-Sáb 19:30/20:00 Ministério Cooperador Ofício Ministerial Fermin Oscar Miño"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0115",
+    "Nome": "Monserrat Comuna 1 - Central",
+    "Logradouro": "Calle Rivadavia, 1145",
+    "CEP": "C1033AAE",
+    "Cidade": "Capital Federal, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.6087802,
+      "lon": -58.3869866
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 16:00",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Monserrat Comuna 1 CENTRAL AR-01-0115 Localização Logradouro: Calle Rivadavia, 1145 CEP: C1033AAE Cidade: Capital Federal, BUENOS AIRES, Argentina Dias de Culto Dom 18:30 - Sex 20:00 (RJM Dom 16:00) Ministério Ancião JOSÉ PEDRO BRITEZ ROMERO Cooperador Ofício Ministerial Marciel da Silva Cooperador de Jovens e Menores Rafael Gomez Zacarias"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0075",
+    "Nome": "Neuquén - Huiliches - Central",
+    "Logradouro": "Automóvil Club Argentino, 53",
+    "CEP": "Q8304KES",
+    "Cidade": "Neuquén, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9541346,
+      "lon": -68.104649
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Neuquén - Huiliches CENTRAL AR-01-0075 Localização Logradouro: Automóvil Club Argentino, 53 CEP: Q8304KES Cidade: Neuquén, NEUQUÉN, Argentina Dias de Culto Dom 19:00/20:00 - Qua 20:00 (RJM 1º e 2º Dom 17:00/18:00) Ministério Cooperador Ofício Ministerial Ariel Nelson Daniel Segura Diácono Juan Domingo Godoy Cooperador de Jovens e Menores Miguel Angel Silva Urra"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0065",
+    "Nome": "Paraje Capitán Pedro Giachino - Dos Hermanas - Central",
+    "Logradouro": "Ruta 101 - Lote 30 - Picada San Jorge",
+    "CEP": "N3366XAJ",
+    "Cidade": "Paraje Capitán Pedro Giachino, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.9638857,
+      "lon": -53.8941596
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "15:00",
+        "Quinta-feira": "19:00",
+        "Domingo": "RJM 2º e 4º Dom 10:00"
+      },
+      "Obs": "Localidade Paraje Capitán Pedro Giachino - Dos Hermanas CENTRAL AR-01-0065 Localização Logradouro: Ruta 101 - Lote 30 - Picada San Jorge CEP: N3366XAJ Cidade: Paraje Capitán Pedro Giachino, MISIONES, Argentina Dias de Culto 1º e 3º Sáb 15:00 - Qui 19:00 (RJM 2º e 4º Dom 10:00) Ministério Cooperador Ofício Ministerial Elías Gómez Cooperador de Jovens e Menores Dario Carlos Belarmino"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0037",
+    "Nome": "Paso de los Libres - Central",
+    "Logradouro": "Bartolomé Mitre, 2030",
+    "CEP": "W3230GLP",
+    "Cidade": "Paso de Los Libres, CORRIENTES, Argentina",
+    "Coordenadas": {
+      "lat": -29.7122591,
+      "lon": -57.0843612
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/19:00",
+        "Quinta-feira": "18:00/19:00"
+      },
+      "Obs": "Localidade Paso de los Libres CENTRAL AR-01-0037 Localização Logradouro: Bartolomé Mitre, 2030 CEP: W3230GLP Cidade: Paso de Los Libres, CORRIENTES, Argentina Dias de Culto Dom-Qui 18:00/19:00 Ministério Cooperador Ofício Ministerial Cristo Santo Flores Diácono Felipe Dionicio Mendieta"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0076",
+    "Nome": "Picun Leufú - Progreso - Central",
+    "Logradouro": "Buenos Aires, s/nº",
+    "CEP": "Q8313BHA",
+    "Cidade": "Picun Leufú, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9496046,
+      "lon": -68.0596933
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "11:00"
+      },
+      "Obs": "Localidade Picun Leufú - Progreso CENTRAL AR-01-0076 Localização Logradouro: Buenos Aires, s/nº CEP: Q8313BHA Cidade: Picun Leufú, NEUQUÉN, Argentina Complemento: Entre Ingeniero Nicolás Salvatori y Ezequiel Ramos Mejía Dias de Culto Dom 11:00 Ministério Cooperador Ofício Ministerial Mario Segundo Hernández"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0092",
+    "Nome": "Plaza Huincul - Central",
+    "Logradouro": "Francisco Adobatti, 254",
+    "CEP": "Q8318AEF",
+    "Cidade": "Plaza Huincul, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9378759,
+      "lon": -69.1844549
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:30"
+      },
+      "Obs": "Localidade Plaza Huincul CENTRAL AR-01-0092 Localização Logradouro: Francisco Adobatti, 254 CEP: Q8318AEF Cidade: Plaza Huincul, NEUQUÉN, Argentina Dias de Culto Qui 20:30 Ministério Cooperador Ofício Ministerial Amado Cañete"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0077",
+    "Nome": "Plottier - Los Canales - Central",
+    "Logradouro": "Avenida Doctor Alberto Plottier, 313",
+    "CEP": "Q8316DXC",
+    "Cidade": "Plottier, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9570698,
+      "lon": -68.2207773
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "20:00",
+        "Sábado": "20:00 / RJM Sáb 18:00/18:30"
+      },
+      "Obs": "Localidade Plottier - Los Canales CENTRAL AR-01-0077 Localização Logradouro: Avenida Doctor Alberto Plottier, 313 CEP: Q8316DXC Cidade: Plottier, NEUQUÉN, Argentina Dias de Culto Qui-Sáb 20:00 (RJM Sáb 18:00/18:30) Ministério Cooperador Ofício Ministerial Luís Héctor Espíndola"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0067",
+    "Nome": "Posadas - Villa Poujade - Central",
+    "Logradouro": "Calle 166, nº 2331",
+    "CEP": "N3303HVA",
+    "Cidade": "Posadas, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -27.4141918,
+      "lon": -55.951621
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:30 / RJM Dom 17:30",
+        "Quarta-feira": "Sáb 19:30"
+      },
+      "Obs": "Localidade Posadas - Villa Poujade CENTRAL AR-01-0067 Localização Logradouro: Calle 166, nº 2331 CEP: N3303HVA Cidade: Posadas, MISIONES, Argentina Dias de Culto Dom-Qua-Sáb 19:30 (RJM Dom 17:30) Ministério Ancião PABLO ELÍAS CAPARROTTA Diácono Pablo Abraham Montiel Cooperador de Jovens e Menores Ezequiel Rauber"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0049",
+    "Nome": "Pozo de Navagan - Central",
+    "Logradouro": "Reducción Indígena Pilagá",
+    "CEP": "P3630CXC",
+    "Cidade": "Pozo de Navagan, FORMOSA, Argentina",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Pozo de Navagan CENTRAL AR-01-0049 Localização Logradouro: Reducción Indígena Pilagá CEP: P3630CXC Cidade: Pozo de Navagan, FORMOSA, Argentina Complemento: Consultar os anciães em Posadas Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial José Aranda Regino"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0006",
+    "Nome": "Puerta Tres de Campo de Mayo - Central",
+    "Logradouro": "Francisco Bourel, 98",
+    "CEP": "B1661IVB",
+    "Cidade": "Bella Vista, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.5711268,
+      "lon": -58.6878621
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade Puerta Tres de Campo de Mayo CENTRAL AR-01-0006 Localização Logradouro: Francisco Bourel, 98 CEP: B1661IVB Cidade: Bella Vista, BUENOS AIRES, Argentina Complemento: Estación Capitán Lozano - Ferrocarril General Urquiza Dias de Culto Dom 18:30 - Sex 20:00 Ministério Cooperador Ofício Ministerial Juan Carlos Cerracchio"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0096",
+    "Nome": "Puerto Esperanza - Los Lapachos - Central",
+    "Logradouro": "Costa Rica entre Uruguay y Haití",
+    "CEP": "N3378EBI",
+    "Cidade": "Puerto Esperanza, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.0210433,
+      "lon": -54.6108029
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Puerto Esperanza - Los Lapachos CENTRAL AR-01-0096 Localização Logradouro: Costa Rica entre Uruguay y Haití CEP: N3378EBI Cidade: Puerto Esperanza, MISIONES, Argentina Complemento: Familia Díaz Dias de Culto 3N SN Ter-Sáb 19:30 Culto Oficial Terça-feira - 19:30 - es_AR Sábado - 19:30 - es_AR Ministério Cooperador Ofício Ministerial Izaque Diniz da Silva"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0088",
+    "Nome": "Puerto Iguazú - 1º de mayo",
+    "Logradouro": "Almafuerte y Victoria Ocampo",
+    "CEP": "N3370BLF",
+    "Cidade": "Puerto Iguazú, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.6277982,
+      "lon": -54.5781473
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Domingo": "RJM Dom 10:00/09:00"
+      },
+      "Obs": "Localidade Puerto Iguazú - 1º de mayo AR-01-0088 Localização Logradouro: Almafuerte y Victoria Ocampo CEP: N3370BLF Cidade: Puerto Iguazú, MISIONES, Argentina Dias de Culto Qua 19:30 (RJM Dom 10:00/09:00) Ministério Cooperador Ofício Ministerial Francisco Alberto Ramírez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0117",
+    "Nome": "Puerto Iguazú - 2000 Hectareas",
+    "Logradouro": "Manzana 01 del Lote 13",
+    "CEP": "3370",
+    "Cidade": "Puerto Iguazú, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.609701,
+      "lon": -54.5744976
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Puerto Iguazú - 2000 Hectareas AR-01-0117 Localização Logradouro: Manzana 01 del Lote 13 CEP: 3370 Cidade: Puerto Iguazú, MISIONES, Argentina Dias de Culto 6N Culto Oficial Sexta-feira - 19:30 - es_AR Ministério Cooperador Ofício Ministerial Bruno Nicolas Gonzalez"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0069",
+    "Nome": "Puerto Iguazú - Centro - Villa Alta - Central",
+    "Logradouro": "Julio Silveira, 312",
+    "CEP": "N3370EJH",
+    "Cidade": "Puerto Iguazú, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.6111391,
+      "lon": -54.5714784
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:30 / RJM Dom 10:00",
+        "Quinta-feira": "Sáb 19:30"
+      },
+      "Obs": "Localidade Puerto Iguazú - Centro - Villa Alta CENTRAL AR-01-0069 Localização Logradouro: Julio Silveira, 312 CEP: N3370EJH Cidade: Puerto Iguazú, MISIONES, Argentina Dias de Culto Dom-Qui-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião NESTOR OVIDIO CASTILLO ORTIGOZA RAMÓN DE LUJÁN CÁCERES Cooperador Ofício Ministerial Diego González Diácono Ramón Moreira Mendoza Luis Alberto Cooperador de Jovens e Menores Cordero Andrade Lucas Mesias"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0068",
+    "Nome": "Puerto Iguazú - Las Orquídeas",
+    "Logradouro": "Flor de Lapacho, s/nº, Manzana M, Lote 14",
+    "CEP": "N3370BLB",
+    "Cidade": "Puerto Iguazú, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.6277982,
+      "lon": -54.5781473
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Puerto Iguazú - Las Orquídeas AR-01-0068 Localização Logradouro: Flor de Lapacho, s/nº, Manzana M, Lote 14 CEP: N3370BLB Cidade: Puerto Iguazú, MISIONES, Argentina Complemento: Família Moreira Dias de Culto Qua-Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0002",
+    "Nome": "Pérez Millán - Central",
+    "Logradouro": "Avenida Doctor Manfredi, 1025",
+    "CEP": "B2933AQG",
+    "Cidade": "Pérez Millán, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.7659978,
+      "lon": -60.0906149
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Terça-feira": "20:00",
+        "Quinta-feira": "20:00",
+        "Sábado": "RJM Sáb 18:00/19:00"
+      },
+      "Obs": "Localidade Pérez Millán CENTRAL AR-01-0002 Localização Logradouro: Avenida Doctor Manfredi, 1025 CEP: B2933AQG Cidade: Pérez Millán, BUENOS AIRES, Argentina Dias de Culto Dom 19:00 - Ter-Qui 20:00 (RJM Sáb 18:00/19:00) Ministério Ancião HUGO OSCAR GAUNA Cooperador de Jovens e Menores Ruben Diego González"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0026",
+    "Nome": "Quintanilla - Central",
+    "Logradouro": "Calle 2, nº 330",
+    "CEP": "B7163CDH",
+    "Cidade": "General Madariaga, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -36.9961479,
+      "lon": -57.1271368
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Qui-Sáb 19:30 / RJM 2º e 4º Dom 10:30",
+        "Terça-feira": "Qui-Sáb 19:30"
+      },
+      "Obs": "Localidade Quintanilla CENTRAL AR-01-0026 Localização Logradouro: Calle 2, nº 330 CEP: B7163CDH Cidade: General Madariaga, BUENOS AIRES, Argentina Dias de Culto Dom-Ter-Qui-Sáb 19:30 (RJM 2º e 4º Dom 10:30) Ministério Ancião FRANCISCO GLICÉRIO SAMANIEGO MARTÍNEZ Cooperador Ofício Ministerial Pablo Javier Reina Alvarengo Diácono Ruben Oscar Gomez Espinoza Cooperador de Jovens e Menores Jonathan Eduardo Remeicos"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0003",
+    "Nome": "Ramallo - Central",
+    "Logradouro": "Salta, 1190",
+    "CEP": "B2915CBX",
+    "Cidade": "Ramallo, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.492681,
+      "lon": -60.0073249
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00/20:00",
+        "Sábado": "18:00/20:00"
+      },
+      "Obs": "Localidade Ramallo CENTRAL AR-01-0003 Localização Logradouro: Salta, 1190 CEP: B2915CBX Cidade: Ramallo, BUENOS AIRES, Argentina Dias de Culto Ter 19:00/20:00 - Sáb 18:00/20:00 Ministério Cooperador Ofício Ministerial Carlos Inocencio Gorosito Cooperador de Jovens e Menores Juan Daniel Salado Puebla"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0113",
+    "Nome": "Resistencia - Central",
+    "Logradouro": "Avenida Ushuaia, 3700",
+    "CEP": "H3504FPE",
+    "Cidade": "Resistencia, CHACO, Argentina",
+    "Coordenadas": {
+      "lat": -27.6048829,
+      "lon": -59.1932003
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Resistencia CENTRAL AR-01-0113 Localização Logradouro: Avenida Ushuaia, 3700 CEP: H3504FPE Cidade: Resistencia, CHACO, Argentina Dias de Culto Dom 19:00 Ministério Cooperador Ofício Ministerial Roberto Aníbal Vincenti"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0106",
+    "Nome": "Romagnoli - Central",
+    "Logradouro": "Almirante Brown, 820",
+    "CEP": "X2589AIA",
+    "Cidade": "Monte Buey, CÓRDOBA, Argentina",
+    "Coordenadas": {
+      "lat": -32.9209276,
+      "lon": -62.462131
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 1º, 3º e 5º Dom 17:00",
+        "Quarta-feira": "20:30"
+      },
+      "Obs": "Localidade Romagnoli CENTRAL AR-01-0106 Localização Logradouro: Almirante Brown, 820 CEP: X2589AIA Cidade: Monte Buey, CÓRDOBA, Argentina Dias de Culto Dom 18:00 - Qua 20:30 (RJM 1º, 3º e 5º Dom 17:00) Ministério Cooperador Ofício Ministerial Jose German Miño"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0085",
+    "Nome": "Rosario - Matheu",
+    "Logradouro": "Balcarce, 4350",
+    "CEP": "S2001NAF",
+    "Cidade": "Rosario, SANTA FÉ, Argentina",
+    "Coordenadas": {
+      "lat": -32.9853195,
+      "lon": -60.6623886
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Rosario - Matheu AR-01-0085 Localização Logradouro: Balcarce, 4350 CEP: S2001NAF Cidade: Rosario, SANTA FÉ, Argentina Complemento: Família Costa Dias de Culto Qua 20:00 - Sáb 19:00 Ministério Cooperador Ofício Ministerial Luís Maesano"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0086",
+    "Nome": "Rosario - Triángulo - Central",
+    "Logradouro": "Juan Larrea, 3443",
+    "CEP": "S2010CWO",
+    "Cidade": "Rosario, SANTA FÉ, Argentina",
+    "Coordenadas": {
+      "lat": -32.9091502,
+      "lon": -60.8993551
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Sexta-feira": "20:00",
+        "Domingo": "RJM 2º e 4º Dom 19:00"
+      },
+      "Obs": "Localidade Rosario - Triángulo CENTRAL AR-01-0086 Localização Logradouro: Juan Larrea, 3443 CEP: S2010CWO Cidade: Rosario, SANTA FÉ, Argentina Dias de Culto Ter-Sex 20:00 (RJM 2º e 4º Dom 19:00) Ministério Cooperador Ofício Ministerial Fregenal Gabriel Alejandro Diácono Arlindo Alves Neto Cooperador de Jovens e Menores Marcos André Nicita"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0119",
+    "Nome": "Ruta 101 - Km 130",
+    "Logradouro": "Lote 168",
+    "CEP": "N3366",
+    "Cidade": "San Antonio, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.0573302,
+      "lon": -53.7341764
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00",
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Ruta 101 - Km 130 AR-01-0119 Localização Logradouro: Lote 168 CEP: N3366 Cidade: San Antonio, MISIONES, Argentina Dias de Culto Qui 19:00 - 2º e 4º Sáb 15:00 Ministério Cooperador Ofício Ministerial João Batista Carloto"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0080",
+    "Nome": "Salta - San José - Central",
+    "Logradouro": "Calle Teniente Benjamín Matienzo, 1405",
+    "CEP": "A4404DHT",
+    "Cidade": "Salta, SALTA, Argentina",
+    "Coordenadas": {
+      "lat": -24.7892946,
+      "lon": -65.4103194
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 16:30",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Salta - San José CENTRAL AR-01-0080 Localização Logradouro: Calle Teniente Benjamín Matienzo, 1405 CEP: A4404DHT Cidade: Salta, SALTA, Argentina Complemento: Família Miranda Dias de Culto Dom 18:00 - Qua 19:30 (RJM Dom 16:30) Ministério Cooperador Ofício Ministerial Arturo Emilio Vonillas Lazo Cooperador de Jovens e Menores Joaquin Romano"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0004",
+    "Nome": "Salto - Central",
+    "Logradouro": "Bombero Alberto Filippone, 955",
+    "CEP": "B2741FNA",
+    "Cidade": "Salto, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.2917828,
+      "lon": -60.2544888
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Salto CENTRAL AR-01-0004 Localização Logradouro: Bombero Alberto Filippone, 955 CEP: B2741FNA Cidade: Salto, BUENOS AIRES, Argentina Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Martín Miguel Pierángelo"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0070",
+    "Nome": "San Antonio - Villa Alta - Central",
+    "Logradouro": "Juan Bautista Ambrosetti, Manzana 26 - Lote 7",
+    "CEP": "N3383AJA",
+    "Cidade": "San Antonio, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.0573302,
+      "lon": -53.7341764
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "18:00",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade San Antonio - Villa Alta CENTRAL AR-01-0070 Localização Logradouro: Juan Bautista Ambrosetti, Manzana 26 - Lote 7 CEP: N3383AJA Cidade: San Antonio, MISIONES, Argentina Dias de Culto DN 3N (RJM-SN) Dom 18:00 - Ter 19:30 (RJM Sáb 18:00) Culto Oficial Domingo - 18:00 - es_AR Terça-feira - 19:30 - es_AR Reunião de Jovens e Menores Sábado - 18:00 - es_AR Ministério Ancião FEDERICO BINA Cooperador Ofício Ministerial Cristian Ezequiel Correa Cooperador de Jovens e Menores Elias Juan Bina"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0112",
+    "Nome": "San Bernardo - Central",
+    "Logradouro": "Parcela 11 - Manzana 14 - Sección B",
+    "CEP": "H3726AAA",
+    "Cidade": "San Bernardo, CHACO, Argentina",
+    "Coordenadas": {
+      "lat": -27.2867286,
+      "lon": -60.7128954
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "20:00"
+      },
+      "Obs": "Localidade San Bernardo CENTRAL AR-01-0112 Localização Logradouro: Parcela 11 - Manzana 14 - Sección B CEP: H3726AAA Cidade: San Bernardo, CHACO, Argentina Dias de Culto Dom 20:00 Ministério Cooperador Ofício Ministerial Emilio Miguel Escalante"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0015",
+    "Nome": "San Fernando - Central",
+    "Logradouro": "Matheu, 4282",
+    "CEP": "B1666BNV",
+    "Cidade": "José Clemente Paz, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.682139,
+      "lon": -58.5279645
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/19:00 / RJM Dom 16:00/17:00",
+        "Terça-feira": "19:00",
+        "Sábado": "18:00/19:00"
+      },
+      "Obs": "Localidade San Fernando CENTRAL AR-01-0015 Localização Logradouro: Matheu, 4282 CEP: B1666BNV Cidade: José Clemente Paz, BUENOS AIRES, Argentina Dias de Culto Dom 18:00/19:00 - Ter 19:00 - Sáb 18:00/19:00 (RJM Dom 16:00/17:00) Ministério Ancião OSCAR ALFREDO ANTIPAS ALDO ENRIQUE ALDERETE Cooperador Ofício Ministerial Ricardo de Souza Silva Diácono Pedro Oscar Maciel Diego Hernan Paz Cooperador de Jovens e Menores Mario Mareco"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0032",
+    "Nome": "San Nicolás - Centro - José Ingenieros - Central",
+    "Logradouro": "Avenida Doctor Mariano Moreno, 276",
+    "CEP": "B2900GPP",
+    "Cidade": "San Nicolás de Los Arroyos, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.3317411,
+      "lon": -60.2290676
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00/20:00 / RJM Dom 11:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30/20:00"
+      },
+      "Obs": "Localidade San Nicolás - Centro - José Ingenieros CENTRAL AR-01-0032 Localização Logradouro: Avenida Doctor Mariano Moreno, 276 CEP: B2900GPP Cidade: San Nicolás de Los Arroyos, BUENOS AIRES, Argentina Dias de Culto Dom 19:00/20:00 - Qua 19:30 - Sáb 19:30/20:00 (RJM Dom 11:00) Ministério Ancião MATÍAS HERNÁN CODINA Cooperador Ofício Ministerial Juan Corallo Diácono Javier Mareco Cooperador de Jovens e Menores Abraham Hector Germano"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0104",
+    "Nome": "San Nicolás - Plastiversal",
+    "Logradouro": "7 de Septiembre, 488",
+    "CEP": "B2900FXB",
+    "Cidade": "San Nicolás de Los Arroyos, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.3724657,
+      "lon": -60.1904239
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade San Nicolás - Plastiversal AR-01-0104 Localização Logradouro: 7 de Septiembre, 488 CEP: B2900FXB Cidade: San Nicolás de Los Arroyos, BUENOS AIRES, Argentina Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Carlos Ezequiel Codina"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0052",
+    "Nome": "San Pedro - Belgrano - Central",
+    "Logradouro": "Avenida Formosa, 530",
+    "CEP": "Y4500BFL",
+    "Cidade": "San Pedro, JUJUY, Argentina",
+    "Coordenadas": {
+      "lat": -24.2242565,
+      "lon": -64.8662408
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 20:30 / RJM Dom 10:30",
+        "Quinta-feira": "Sáb 20:30"
+      },
+      "Obs": "Localidade San Pedro - Belgrano CENTRAL AR-01-0052 Localização Logradouro: Avenida Formosa, 530 CEP: Y4500BFL Cidade: San Pedro, JUJUY, Argentina Dias de Culto Dom-Qui-Sáb 20:30 (RJM Dom 10:30) Ministério Ancião SANTIAGO ARTURO FIGUEROA ANTONIO VAZQUEZ ROMERO Cooperador Ofício Ministerial Fernando Ezequiel Rodriguez Cooperador de Jovens e Menores Ubaldo Oscar Córdoba"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0093",
+    "Nome": "San Vicente - Lapacho - Central",
+    "Logradouro": "Enrique Stelter y Entre Ríos",
+    "CEP": "N3364XAL",
+    "Cidade": "San Vicente, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.9932723,
+      "lon": -54.4866356
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade San Vicente - Lapacho CENTRAL AR-01-0093 Localização Logradouro: Enrique Stelter y Entre Ríos CEP: N3364XAL Cidade: San Vicente, MISIONES, Argentina Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Abel Rodrigues da Silva"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0020",
+    "Nome": "Santa Brígida - Central",
+    "Logradouro": "Salerno, 5567",
+    "CEP": "B1663KAG",
+    "Cidade": "Santa Brígida, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.5646209,
+      "lon": -58.7609329
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM 2º e 4º Dom 16:30",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Santa Brígida CENTRAL AR-01-0020 Localização Logradouro: Salerno, 5567 CEP: B1663KAG Cidade: Santa Brígida, BUENOS AIRES, Argentina Dias de Culto Dom-Qui 18:00 (RJM 2º e 4º Dom 16:30) Ministério Cooperador Ofício Ministerial José Víctor Torres Diácono Carlos Marcial Cespedes"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0021",
+    "Nome": "Sarandí - Central",
+    "Logradouro": "Calle San Pedro, 243",
+    "CEP": "B1872CZE",
+    "Cidade": "Avellaneda, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.6648394,
+      "lon": -58.3628061
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sábado": "18:00 / RJM Sáb 16:00"
+      },
+      "Obs": "Localidade Sarandí CENTRAL AR-01-0021 Localização Logradouro: Calle San Pedro, 243 CEP: B1872CZE Cidade: Avellaneda, BUENOS AIRES, Argentina Dias de Culto Ter 19:00 - Sáb 18:00 (RJM Sáb 16:00) Ministério Ancião SILVERIO SALDÍVAR OLMEDO Cooperador Ofício Ministerial Silvio Morales Rojas Diácono Miguel Romero Dominguez Cooperador de Jovens e Menores Gabriel David Ortega"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0072",
+    "Nome": "Tobuna - Central",
+    "Logradouro": "Ruta 17, Km 90",
+    "CEP": "B1984BDA",
+    "Cidade": "Tobuna, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -26.4693045,
+      "lon": -53.8944808
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Tobuna CENTRAL AR-01-0072 Localização Logradouro: Ruta 17, Km 90 CEP: B1984BDA Cidade: Tobuna, MISIONES, Argentina Complemento: Família Bandera Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Vitorio Antunes Cooperador de Jovens e Menores Mariano Ademar Antunes"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0043",
+    "Nome": "Ubajay - Central",
+    "Logradouro": "Las Calandrias, s/nº, entre Los Pinos y Algarrobal",
+    "CEP": "E3260XAE",
+    "Cidade": "Ubajay, ENTRE RÍOS, Argentina",
+    "Coordenadas": {
+      "lat": -31.7938943,
+      "lon": -58.3140522
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00/19:00"
+      },
+      "Obs": "Localidade Ubajay CENTRAL AR-01-0043 Localização Logradouro: Las Calandrias, s/nº, entre Los Pinos y Algarrobal CEP: E3260XAE Cidade: Ubajay, ENTRE RÍOS, Argentina Dias de Culto Sáb 18:00/19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0107",
+    "Nome": "Villa Anisacate - Los Chañaritos - Central",
+    "Logradouro": "Calle Gualeguaychú, s/nº",
+    "CEP": "X5189XAF",
+    "Cidade": "Anisacate, CÓRDOBA, Argentina",
+    "Coordenadas": {
+      "lat": -31.7422817,
+      "lon": -64.3960904
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00/19:00 / RJM Dom 16:00/17:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Villa Anisacate - Los Chañaritos CENTRAL AR-01-0107 Localização Logradouro: Calle Gualeguaychú, s/nº CEP: X5189XAF Cidade: Anisacate, CÓRDOBA, Argentina Dias de Culto Dom 18:00/19:00 - Qui 19:00 (RJM Dom 16:00/17:00) Ministério Cooperador de Jovens e Menores Eliseo Torres Estrada"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0034",
+    "Nome": "Villa Campi - Central",
+    "Logradouro": "Sánchez de Loria, 1032",
+    "CEP": "B2901BGB",
+    "Cidade": "Villa Campi, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -33.3593615,
+      "lon": -60.2983897
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "20:00",
+        "Quinta-feira": "20:00",
+        "Sábado": "RJM Sáb 16:00/18:00"
+      },
+      "Obs": "Localidade Villa Campi CENTRAL AR-01-0034 Localização Logradouro: Sánchez de Loria, 1032 CEP: B2901BGB Cidade: Villa Campi, BUENOS AIRES, Argentina Complemento: Família Ojeda Dias de Culto Dom-Qui 20:00 (RJM Sáb 16:00/18:00) Ministério Cooperador Ofício Ministerial Juan Nelson Omar Becce Cooperador de Jovens e Menores Héctor Gustavo Ojeda"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0023",
+    "Nome": "Villa Carmencita - Central",
+    "Logradouro": "Rawson, 1880",
+    "CEP": "B2800CMT",
+    "Cidade": "Zárate, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.1072187,
+      "lon": -59.0277324
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "16:00",
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Villa Carmencita CENTRAL AR-01-0023 Localização Logradouro: Rawson, 1880 CEP: B2800CMT Cidade: Zárate, BUENOS AIRES, Argentina Dias de Culto Qua-Sáb 16:00 Ministério Cooperador Ofício Ministerial Francisco Pucheta"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0087",
+    "Nome": "Villa Constitución - Central",
+    "Logradouro": "Luzuriaga, 1694",
+    "CEP": "S2919EEN",
+    "Cidade": "Villa Constitución, SANTA FÉ, Argentina",
+    "Coordenadas": {
+      "lat": -33.2613015,
+      "lon": -60.3078484
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:30",
+        "Sexta-feira": "20:30",
+        "Sábado": "RJM 1º Sáb 10:00"
+      },
+      "Obs": "Localidade Villa Constitución CENTRAL AR-01-0087 Localização Logradouro: Luzuriaga, 1694 CEP: S2919EEN Cidade: Villa Constitución, SANTA FÉ, Argentina Dias de Culto Ter-Sex 20:30 (RJM 1º Sáb 10:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0082",
+    "Nome": "Villa Larca - Polideportivo - Central",
+    "Logradouro": "Manzana 115",
+    "CEP": "D5883XAC",
+    "Cidade": "Villa Larca, SAN LUIS, Argentina",
+    "Coordenadas": {
+      "lat": -32.6204304,
+      "lon": -64.9787806
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:30"
+      },
+      "Obs": "Localidade Villa Larca - Polideportivo CENTRAL AR-01-0082 Localização Logradouro: Manzana 115 CEP: D5883XAC Cidade: Villa Larca, SAN LUIS, Argentina Dias de Culto Sex 20:30 Ministério Cooperador Ofício Ministerial Luciano Teodoro Galarza Diácono Enrique Octavio D'onofrio"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0022",
+    "Nome": "Villa Lynch - Villa Figueroa Alcorta - Central",
+    "Logradouro": "Teniente General Espora 4745",
+    "CEP": "B1672WAA",
+    "Cidade": "Villa Lynch, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.5911401,
+      "lon": -58.520163
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30 / RJM Sáb 17:00"
+      },
+      "Obs": "Localidade Villa Lynch - Villa Figueroa Alcorta CENTRAL AR-01-0022 Localização Logradouro: Teniente General Espora 4745 CEP: B1672WAA Cidade: Villa Lynch, BUENOS AIRES, Argentina Complemento: Estación Fernández Moreno - Ferrocarril General Urquiza Dias de Culto Qua-Sáb 19:30 (RJM Sáb 17:00) Ministério Ancião DANIEL ANÍBAL MACIEL CRISTIAN ALEJANDRO CERRACCHIO Cooperador Ofício Ministerial Adrián Natanael Cerracchio Diácono Carlos Daniel Medina Carlos Alberto Sandoval Gustavo Daniel Medina Cooperador de Jovens e Menores Cesar Abrão Latuf Rangel Telefone(s) +54 (11) 4712-9200"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0019",
+    "Nome": "Villa Toro - Central",
+    "Logradouro": "Nicaragua, 433",
+    "CEP": "B1635XAA",
+    "Cidade": "Presidente Derqui, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -34.4937482,
+      "lon": -58.855068
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "15:00",
+        "Sábado": "16:00/17:00 / RJM Sáb 14:00/15:00"
+      },
+      "Obs": "Localidade Villa Toro CENTRAL AR-01-0019 Localização Logradouro: Nicaragua, 433 CEP: B1635XAA Cidade: Presidente Derqui, BUENOS AIRES, Argentina Complemento: Estación Derqui - Ferrocarril General San Martín Dias de Culto Qui 15:00 - Sáb 16:00/17:00 (RJM Sáb 14:00/15:00) Ministério Cooperador Ofício Ministerial Carlos Norberto Díaz Cooperador de Jovens e Menores Walter Daniel Balbuena"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0073",
+    "Nome": "Wanda - San Martín - Central",
+    "Logradouro": "Latinoamericano esquina Las Malvinas",
+    "CEP": "N3376BVA",
+    "Cidade": "Wanda, MISIONES, Argentina",
+    "Coordenadas": {
+      "lat": -25.9308316,
+      "lon": -54.3342664
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Wanda - San Martín CENTRAL AR-01-0073 Localização Logradouro: Latinoamericano esquina Las Malvinas CEP: N3376BVA Cidade: Wanda, MISIONES, Argentina Dias de Culto DM Dom 10:00 Culto Oficial Domingo - 10:00 - es_AR Ministério Cooperador Ofício Ministerial Marcolino Ademir Robson"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0078",
+    "Nome": "Zapala - Don Bosco - Central",
+    "Logradouro": "Almirante Brown, 1557",
+    "CEP": "Q8340AEE",
+    "Cidade": "Zapala, NEUQUÉN, Argentina",
+    "Coordenadas": {
+      "lat": -38.9000606,
+      "lon": -70.0621815
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Zapala - Don Bosco CENTRAL AR-01-0078 Localização Logradouro: Almirante Brown, 1557 CEP: Q8340AEE Cidade: Zapala, NEUQUÉN, Argentina Dias de Culto Sáb 17:00 Ministério Cooperador Ofício Ministerial Raúl Oscar Cofre"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0024",
+    "Nome": "África - Central",
+    "Logradouro": "Inocencio Mariani, 328",
+    "CEP": "B7174BFH",
+    "Cidade": "Coronel Vidal, BUENOS AIRES, Argentina",
+    "Coordenadas": {
+      "lat": -37.4465134,
+      "lon": -57.7328208
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade África CENTRAL AR-01-0024 Localização Logradouro: Inocencio Mariani, 328 CEP: B7174BFH Cidade: Coronel Vidal, BUENOS AIRES, Argentina Dias de Culto Sáb 16:00 Ministério Cooperador Ofício Ministerial Juan Ignacio Guzmán"
+    }
+  },
+  {
+    "CodigoId": "AR-01-0042",
+    "Nome": "Ñancay - Ceibas - Central",
+    "Logradouro": "CEP: E2823",
+    "CEP": "E2823",
+    "Cidade": "Ñancay, ENTRE RÍOS, Argentina",
+    "Coordenadas": {
+      "lat": -33.4565216,
+      "lon": -58.6776868
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00/19:00"
+      },
+      "Obs": "Localidade Ñancay - Ceibas CENTRAL AR-01-0042 Localização Logradouro: CEP: E2823 Cidade: Ñancay, ENTRE RÍOS, Argentina Complemento: A dos cuadras de la sala de 1º auxilios Dias de Culto Sáb 18:00/19:00 Ministério"
+    }
+  }
+]

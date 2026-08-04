@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "KR-01-0001",
+    "Nome": "Seul - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Seul, SL, Coréia Do Sul (ee)",
+    "Cidade": "Seul, SL, Coréia Do Sul (ee)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Ministério"
+      ],
+      "Horarios": {
+        "Ministério": "Ministério"
+      },
+      "Obs": "Localidade Seul CENTRAL KR-01-0001 Localização Logradouro: CEP: Cidade: Seul, SL, Coréia Do Sul (ee) Complemento: Fone Japão (+81 90) 6616-8814 Dias de Culto Ministério"
+    }
+  }
+]

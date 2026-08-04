@@ -1,0 +1,2074 @@
+[
+  {
+    "CodigoId": "BO-01-0056",
+    "Nome": "2 de Agosto - Población Rural",
+    "Logradouro": "Carretera Rurrenabaque-Yucumo, Km 40",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade 2 de Agosto - Población Rural BO-01-0056 Localização Logradouro: Carretera Rurrenabaque-Yucumo, Km 40 CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Complemento: Entrando por la Comunidad Playa Ancha - 4 Km Dias de Culto Dom 09:00 - Sex 19:30 Ministério Cooperador Ofício Ministerial Federico Cáceres Cunay"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0126",
+    "Nome": "3 de MAYO",
+    "Logradouro": "Sobre la Avenida Facilan Tejerina",
+    "CEP": "Cidade: Provincia Cercado, TJ, Bolívia",
+    "Cidade": "Provincia Cercado, TJ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade 3 de MAYO BO-01-0126 Localização Logradouro: Sobre la Avenida Facilan Tejerina CEP: Cidade: Provincia Cercado, TJ, Bolívia Dias de Culto SN Culto Oficial Sábado - 19:30 - es_BO Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0001",
+    "Nome": "ALTO CANDELARIA - Población Rural - Central",
+    "Logradouro": "2 horas de barco arriba - Puerto Cabina",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade ALTO CANDELARIA - Población Rural CENTRAL BO-01-0001 Localização Logradouro: 2 horas de barco arriba - Puerto Cabina CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Complemento: Referencias a la hermandad en la ciudad de Riberalta Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0111",
+    "Nome": "APOLO - Comunidad Gredal",
+    "Logradouro": "Rio Quiquibey",
+    "CEP": "Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -13.2222754,
+      "lon": -68.0597746
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "08:00"
+      },
+      "Obs": "Localidade APOLO - Comunidad Gredal BO-01-0111 Localização Logradouro: Rio Quiquibey CEP: Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia Dias de Culto Dom 08:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0086",
+    "Nome": "ASCENCIÓN DE GUARAYOS - San Pablito de Guarayos - Barrio Villa Fátima - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Provincia Guarayos, SCZ, Bolívia",
+    "Cidade": "Provincia Guarayos, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade ASCENCIÓN DE GUARAYOS - San Pablito de Guarayos - Barrio Villa Fátima CENTRAL BO-01-0086 Localização Logradouro: CEP: Cidade: Provincia Guarayos, SCZ, Bolívia Dias de Culto Sáb 19:30 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Josué Salvatierra Padilla"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0079",
+    "Nome": "BAURES - Monte Cristo del Tiquín",
+    "Logradouro": "Avenida San Simón, esquina Calle Bolívar, s/nº",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 19:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade BAURES - Monte Cristo del Tiquín BO-01-0079 Localização Logradouro: Avenida San Simón, esquina Calle Bolívar, s/nº CEP: Cidade: Provincia Iténez, BE, Bolívia Complemento: Carretera Santa Rosa de la Roca Dias de Culto Dom-Qui 19:30 (RJM Dom 19:30) Ministério Cooperador Ofício Ministerial Roberto Barbosa de Matos Cooperador de Jovens e Menores Samuel Salazar Casawalla"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0107",
+    "Nome": "BAURES - Puerto Ustari",
+    "Logradouro": "Frente ao Módulo Policial",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade BAURES - Puerto Ustari BO-01-0107 Localização Logradouro: Frente ao Módulo Policial CEP: Cidade: Provincia Iténez, BE, Bolívia Dias de Culto 1º e último Sáb 19:30 Ministério Cooperador Ofício Ministerial José Aparecido da Silva"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0080",
+    "Nome": "BAURES - San Simón",
+    "Logradouro": "Calle Siete de Septiembre, s/nº",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:30"
+      },
+      "Obs": "Localidade BAURES - San Simón BO-01-0080 Localização Logradouro: Calle Siete de Septiembre, s/nº CEP: Cidade: Provincia Iténez, BE, Bolívia Dias de Culto Dom 19:30 Ministério Cooperador Ofício Ministerial Nolberto Gómez Gutiérrez Cooperador de Jovens e Menores Wilfredo Achaya Flores"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0082",
+    "Nome": "BELLA FLOR - Santa Lourdes",
+    "Logradouro": "Carretera Porvenir-Puerto Rico, Km 27",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade BELLA FLOR - Santa Lourdes BO-01-0082 Localização Logradouro: Carretera Porvenir-Puerto Rico, Km 27 CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Valdeci Padilha de Souza"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0070",
+    "Nome": "BOLPEBRA - Nareuda",
+    "Logradouro": "Carretera Cobija-Bolpebra",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade BOLPEBRA - Nareuda BO-01-0070 Localização Logradouro: Carretera Cobija-Bolpebra CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Complemento: Del retén policial, entrar por la primera cuadra a la derecha Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Daniel Gonzales Ramírez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0124",
+    "Nome": "Barrio 31 de Júlio - Central",
+    "Logradouro": "Avenida Los Tajibos, s/n",
+    "CEP": "000000",
+    "Cidade": "Provincia Ñuflo de Chávez - Concepcion, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -17.3670636,
+      "lon": -66.1488356
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Barrio 31 de Júlio CENTRAL BO-01-0124 Localização Logradouro: Avenida Los Tajibos, s/n CEP: 000000 Cidade: Provincia Ñuflo de Chávez - Concepcion, SCZ, Bolívia Complemento: Frente el surtidor de combustible Dias de Culto DN 4N SN Culto Oficial Domingo - 19:00 - es_BO Quarta-feira - 19:00 - es_BO Sábado - 19:00 - es_BO Ministério Cooperador Ofício Ministerial Nelson Surubi Soquere"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0088",
+    "Nome": "Barrio Marchena - Central",
+    "Logradouro": "Calle Junín, 80",
+    "CEP": "Cidade: Provincia Moxos - San Ignácio de Moxos, BE, Bolívia",
+    "Cidade": "Provincia Moxos - San Ignácio de Moxos, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -19.0512556,
+      "lon": -65.2648716
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Barrio Marchena CENTRAL BO-01-0088 Localização Logradouro: Calle Junín, 80 CEP: Cidade: Provincia Moxos - San Ignácio de Moxos, BE, Bolívia Complemento: Lado de la pensión Jenecheru Dias de Culto Dom 09:30 - Sáb 19:30 Ministério Cooperador Ofício Ministerial Hector Balcázar Diez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0030",
+    "Nome": "CABEZAS - Barrio Comercial - Central",
+    "Logradouro": "Avenida Eloy Alpire, s/nº",
+    "CEP": "Cidade: Provincia Cordillera, SCZ, Bolívia",
+    "Cidade": "Provincia Cordillera, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade CABEZAS - Barrio Comercial CENTRAL BO-01-0030 Localização Logradouro: Avenida Eloy Alpire, s/nº CEP: Cidade: Provincia Cordillera, SCZ, Bolívia Complemento: Sobre la carretera principal Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Juan José Saldias Vargas"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0002",
+    "Nome": "CAFETAL - Puerto Villazón - Población Rural - Central",
+    "Logradouro": "Frontera margen derecha Río Iténez o Guaporé",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade CAFETAL - Puerto Villazón - Población Rural CENTRAL BO-01-0002 Localização Logradouro: Frontera margen derecha Río Iténez o Guaporé CEP: Cidade: Provincia Iténez, BE, Bolívia Dias de Culto Dom 09:00 - Qua 19:30 Ministério Cooperador Ofício Ministerial Hernan Mendia Frey"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0019",
+    "Nome": "COBIJA - Barrio Mapajo - Central",
+    "Logradouro": "Calle La Paz, 330",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": -19.0556571,
+      "lon": -65.2578936
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade COBIJA - Barrio Mapajo CENTRAL BO-01-0019 Localização Logradouro: Calle La Paz, 330 CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Qua-Sáb 20:00 (RJM Dom 10:00) Ministério Ancião MANOEL ENIAS SOBRINHO Cooperador Ofício Ministerial Cesar Tibubay Luricy Diácono Noilz Yamabe Coitines Sérgio Marcos Rodrigues"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0071",
+    "Nome": "COBIJA - Urbanización Santa María",
+    "Logradouro": "Calle sin nombre",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": -21.5381257,
+      "lon": -64.7403031
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00"
+      },
+      "Obs": "Localidade COBIJA - Urbanización Santa María BO-01-0071 Localização Logradouro: Calle sin nombre CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Complemento: Av. 9 de febrero, entrar por la prolong. de Av. 6 de agosto, 5 cuadras hacia el colegio Rogelia M. B Dias de Culto Sex 20:00 Ministério Cooperador Ofício Ministerial Raúl Siripi Teco Uochiton Pereira da Silva"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0010",
+    "Nome": "COCHABAMBA - Barrio Petrolero - Central",
+    "Logradouro": "Calle Damián Rejas, 98",
+    "CEP": "Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": -17.3622546,
+      "lon": -66.1767756
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "RJM Sáb 19:00"
+      },
+      "Obs": "Localidade COCHABAMBA - Barrio Petrolero CENTRAL BO-01-0010 Localização Logradouro: Calle Damián Rejas, 98 CEP: Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia Complemento: Esquina Juan Ceballos - Entrar por Puente Pinto de Avenida Simón López, 4 cuadras subiendo al norte Dias de Culto Dom 19:00 - Qua 19:30 (RJM Sáb 19:00) Ministério Ancião KEDNER BRANDÃO DOS SANTOS Cooperador Ofício Ministerial Arturo Centellas Murillo Diácono José Choma Choma Joaquín Antônio Rodrigues Cooperador de Jovens e Menores José Eduardo Choma Souza Telefone(s) +591 (4) 447-4997 +591 (4) 448-8804 +591 (7) 073-8800"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0117",
+    "Nome": "COCHABAMBA - Senda 5",
+    "Logradouro": "RN 4 -3 Cuadras al Norte",
+    "CEP": "Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade COCHABAMBA - Senda 5 BO-01-0117 Localização Logradouro: RN 4 -3 Cuadras al Norte CEP: Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Sáb 19:00 Ministério Cooperador Ofício Ministerial Jhenry Vargas Villarroel"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0013",
+    "Nome": "COCHABAMBA - Villa Granado",
+    "Logradouro": "Avenida Tunupá, 81",
+    "CEP": "Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4012458,
+      "lon": -66.1675681
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade COCHABAMBA - Villa Granado BO-01-0013 Localização Logradouro: Avenida Tunupá, 81 CEP: Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Ter 19:30 - Sex 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0052",
+    "Nome": "COCHABAMBA - Villa Israel",
+    "Logradouro": "Alto Sinvingani, OTB Vibal Rioja",
+    "CEP": "Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4012458,
+      "lon": -66.1675681
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "RJM Dom 10:30"
+      },
+      "Obs": "Localidade COCHABAMBA - Villa Israel BO-01-0052 Localização Logradouro: Alto Sinvingani, OTB Vibal Rioja CEP: Cidade: Provincia Cercado, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Qui 19:30 (RJM Dom 10:30) Ministério Cooperador de Jovens e Menores Juan Jorge Banzer Ramallo"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0113",
+    "Nome": "COMUNIDAD BAQUETI",
+    "Logradouro": "Carretera Riberalta - Santa Rosa del Yacumâ - Km 300",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade COMUNIDAD BAQUETI BO-01-0113 Localização Logradouro: Carretera Riberalta - Santa Rosa del Yacumâ - Km 300 CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Dias de Culto Dom 09:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial Alfredo Tabo Amapo"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0083",
+    "Nome": "COMUNIDAD MOTACUCITO",
+    "Logradouro": "Calle sin nombre",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -21.5381257,
+      "lon": -64.7403031
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade COMUNIDAD MOTACUCITO BO-01-0083 Localização Logradouro: Calle sin nombre CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Complemento: Al lado de la posta médica Dias de Culto Sex 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Víctor Hugo Rodríguez Pedraza Diácono Ruben Barbery Taborga"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0005",
+    "Nome": "COMUNIDAD PALMIRA - Población Rural",
+    "Logradouro": "Carretera Riberalta-Guayaramerín, Km 10",
+    "CEP": "Cidade: Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Cidade": "Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade COMUNIDAD PALMIRA - Población Rural BO-01-0005 Localização Logradouro: Carretera Riberalta-Guayaramerín, Km 10 CEP: Cidade: Provincia Antonio Vaca Díez, BE, Bolívia Complemento: Entrando 7 Km Dias de Culto DM 5N Culto Oficial Domingo - 09:00 - es_BO Quinta-feira - 19:30 - es_BO Ministério Cooperador Ofício Ministerial José Ignácio Simon Nocopuyero"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0103",
+    "Nome": "COMUNIDAD PORVENIR - Población Rural",
+    "Logradouro": "Carretera Santa Rosa-Monte Cristo de Tiquín - Km 250",
+    "CEP": "Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Cidade": "Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:30"
+      },
+      "Obs": "Localidade COMUNIDAD PORVENIR - Población Rural BO-01-0103 Localização Logradouro: Carretera Santa Rosa-Monte Cristo de Tiquín - Km 250 CEP: Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia Dias de Culto Dom 19:30 Ministério Cooperador Ofício Ministerial Carlos Saucedo Gutiérrez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0006",
+    "Nome": "COMUNIDAD SAN FRANCISCO - Población Rural",
+    "Logradouro": "24 horas de barco, arriba del Río Mamoré, saliendo de Guayaramerin",
+    "CEP": "Cidade: Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Cidade": "Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 09:00"
+      },
+      "Obs": "Localidade COMUNIDAD SAN FRANCISCO - Población Rural BO-01-0006 Localização Logradouro: 24 horas de barco, arriba del Río Mamoré, saliendo de Guayaramerin CEP: Cidade: Provincia Antonio Vaca Díez, BE, Bolívia Dias de Culto Dom 14:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Eliceo Zapani Soliz"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0063",
+    "Nome": "COMUNIDAD SAN LUÍS CHICO - Población Rural",
+    "Logradouro": "Desde Rurrenabaque, un día de viaje por el Río Beni (arriba) entrando por el Río Quequivé",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade COMUNIDAD SAN LUÍS CHICO - Población Rural BO-01-0063 Localização Logradouro: Desde Rurrenabaque, un día de viaje por el Río Beni (arriba) entrando por el Río Quequivé CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Freddy Tayo Hullata"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0102",
+    "Nome": "COMUNIDAD SAN MARTÍN DE PORRES - Barrio Lindo",
+    "Logradouro": "A 50 metros de la Avenida Santa Cruz (al oeste)",
+    "CEP": "Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Cidade": "Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 19:30"
+      },
+      "Obs": "Localidade COMUNIDAD SAN MARTÍN DE PORRES - Barrio Lindo BO-01-0102 Localização Logradouro: A 50 metros de la Avenida Santa Cruz (al oeste) CEP: Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia Dias de Culto Dom 19:30 (RJM Dom 19:30) Ministério Cooperador Ofício Ministerial Nestor Saalazar Casawalla"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0120",
+    "Nome": "Carretera Rurrembaque a Riberalta - KM 120",
+    "Logradouro": "CEP: 00",
+    "CEP": "00",
+    "Cidade": "Provincia Antonio Vaca Díez - Comunidad Puerto Barreo, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5025991,
+      "lon": -68.1299764
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Carretera Rurrembaque a Riberalta - KM 120 BO-01-0120 Localização Logradouro: CEP: 00 Cidade: Provincia Antonio Vaca Díez - Comunidad Puerto Barreo, BE, Bolívia Complemento: Provincia Antonio Vaca Díez Dias de Culto DM 5N Culto Oficial Domingo - 10:00 - es_BO Quinta-feira - 19:30 - es_BO Ministério Cooperador Ofício Ministerial Javier Salvatierra Vasquez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0119",
+    "Nome": "Carretera Rurrembaque a San Borja - KM 150",
+    "Logradouro": "CEP: 00",
+    "CEP": "00",
+    "Cidade": "Provincia General José Ballivián - Comunidad Alto Gracia, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5025991,
+      "lon": -68.1299764
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Carretera Rurrembaque a San Borja - KM 150 BO-01-0119 Localização Logradouro: CEP: 00 Cidade: Provincia General José Ballivián - Comunidad Alto Gracia, BE, Bolívia Complemento: Provincia General José Ballivián Dias de Culto DM DN Culto Oficial Domingo - 10:00 - es_BO Domingo - 19:00 - es_BO Ministério Cooperador Ofício Ministerial Jaime Durvano Ista"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0121",
+    "Nome": "Comunidad Campesina Intercultural Jerusalém - Central",
+    "Logradouro": "Calle s/n",
+    "CEP": "A",
+    "Cidade": "Provincia Federico Román, PD, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5476911,
+      "lon": -68.0832428
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Comunidad Campesina Intercultural Jerusalém CENTRAL BO-01-0121 Localização Logradouro: Calle s/n CEP: A Cidade: Provincia Federico Román, PD, Bolívia Dias de Culto 2º e último sábado 15:00 Ministério Cooperador Ofício Ministerial Chester Malk Sanches"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0130",
+    "Nome": "Cuatro Canâdas - La Fronteira",
+    "Logradouro": "Manzana 25 - Lote 22",
+    "CEP": "Cidade: Provincia Guarayos, SCZ, Bolívia",
+    "Cidade": "Provincia Guarayos, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -17.276172668481273,
+      "lon": -62.559295900003725
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Cuatro Canâdas - La Fronteira BO-01-0130 Localização Logradouro: Manzana 25 - Lote 22 CEP: Cidade: Provincia Guarayos, SCZ, Bolívia Dias de Culto DM Culto Oficial Domingo - 10:00 - es_BO Ministério Cooperador Ofício Ministerial Lauderi Subtil de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0084",
+    "Nome": "EL CARMEN RIVERO TORRES - Barrio Rosenhamers",
+    "Logradouro": "Calle Deportivo",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -17.3942352,
+      "lon": -66.1450238
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade EL CARMEN RIVERO TORRES - Barrio Rosenhamers BO-01-0084 Localização Logradouro: Calle Deportivo CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Complemento: Una cuadra y media del mercado municipal Dias de Culto Sáb 19:30 (RJM Dom 09:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0003",
+    "Nome": "EL REMANZO - Población Rural",
+    "Logradouro": "Frontera margen derecha Río Iténez o Guaporé",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade EL REMANZO - Población Rural BO-01-0003 Localização Logradouro: Frontera margen derecha Río Iténez o Guaporé CEP: Cidade: Provincia Iténez, BE, Bolívia Dias de Culto Sáb 19:30 Ministério Cooperador Ofício Ministerial Ignacio Macono Aguilera"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0014",
+    "Nome": "ENTRE RÍOS - Barrio Avaroa - Central",
+    "Logradouro": "Carretera Cochabamba-Santa Cruz, Km 260",
+    "CEP": "Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade ENTRE RÍOS - Barrio Avaroa CENTRAL BO-01-0014 Localização Logradouro: Carretera Cochabamba-Santa Cruz, Km 260 CEP: Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Dom 19:30 - Qui 19:30 Ministério Ancião WALTER ROCHA TERÁN Cooperador Ofício Ministerial Erland David Rocha Zeballos Diácono Javier Choque Salvatierra Cooperador de Jovens e Menores Jhonattan Vargas Villarroel"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0020",
+    "Nome": "FILADELFIA - Centro - Central",
+    "Logradouro": "Carretera Porvenir-Chivé, Km 20",
+    "CEP": "Cidade: Provincia Manuripi, PD, Bolívia",
+    "Cidade": "Provincia Manuripi, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade FILADELFIA - Centro CENTRAL BO-01-0020 Localização Logradouro: Carretera Porvenir-Chivé, Km 20 CEP: Cidade: Provincia Manuripi, PD, Bolívia Dias de Culto Dom 10:00 - Qua 20:00 Ministério Cooperador Ofício Ministerial Eliezer Fidelis Peña"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0115",
+    "Nome": "FILADÉLFIA - Comunidad Buyuyo",
+    "Logradouro": "Carretera Chive - Km 90",
+    "CEP": "Cidade: Provincia Manuripi, PD, Bolívia",
+    "Cidade": "Provincia Manuripi, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade FILADÉLFIA - Comunidad Buyuyo BO-01-0115 Localização Logradouro: Carretera Chive - Km 90 CEP: Cidade: Provincia Manuripi, PD, Bolívia Dias de Culto Último Dom 15:00 Ministério Cooperador Ofício Ministerial Abraham Vargas Tupa"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0007",
+    "Nome": "GUAYARAMERÍN - Barrio San Joaquín - Central",
+    "Logradouro": "Avenida San Joaquín, 322",
+    "CEP": "Cidade: Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Cidade": "Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -10.9954309,
+      "lon": -66.050631
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 09:30",
+        "Quinta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade GUAYARAMERÍN - Barrio San Joaquín CENTRAL BO-01-0007 Localização Logradouro: Avenida San Joaquín, 322 CEP: Cidade: Provincia Antonio Vaca Díez, BE, Bolívia Complemento: Cuadra y media antes de llegar a la Posta San Joaquín Dias de Culto Dom 19:30 - Qui-Sáb 20:00 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial José Luís Figueroa Camaconi Cooperador de Jovens e Menores Gilberto Rojas Pinto"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0064",
+    "Nome": "IVIRGARZAMA - Centro",
+    "Logradouro": "Calle Suecia, s/nº",
+    "CEP": "Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade IVIRGARZAMA - Centro BO-01-0064 Localização Logradouro: Calle Suecia, s/nº CEP: Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia Complemento: Frente al Hospital Regional de Ivirgarzama Dias de Culto Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0089",
+    "Nome": "IXIAMAS - Urbanización Las Américas",
+    "Logradouro": "Calle sin nombre",
+    "CEP": "Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -13.2222754,
+      "lon": -68.0597746
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Segunda-feira": "20:00"
+      },
+      "Obs": "Localidade IXIAMAS - Urbanización Las Américas BO-01-0089 Localização Logradouro: Calle sin nombre CEP: Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia Complemento: preguntar por la familia De las Palmas Dias de Culto Dom 09:00 - Seg 20:00 Ministério Cooperador Ofício Ministerial Bartolomé Tabo Ubano"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0050",
+    "Nome": "LA PAZ - Achumani",
+    "Logradouro": "Calle 16, 1651",
+    "CEP": "Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5315128,
+      "lon": -68.0727692
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade LA PAZ - Achumani BO-01-0050 Localização Logradouro: Calle 16, 1651 CEP: Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia Dias de Culto Qui 19:30 Ministério Ancião ADOLFO PABLO FERNANDO LANG CAMACHO Telefone(s) +591 (2) 271-3740"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0055",
+    "Nome": "LA PAZ - Alto Ciudadela - Central",
+    "Logradouro": "Calle B150",
+    "CEP": "Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5511727,
+      "lon": -68.0588168
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 10:30"
+      },
+      "Obs": "Localidade LA PAZ - Alto Ciudadela CENTRAL BO-01-0055 Localização Logradouro: Calle B150 CEP: Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia Complemento: A 200 metros del Colegio Gil Tapia Dias de Culto Dom 10:30 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Elías Pedro Ruiz Durán Diácono Jorge Adalid Cespedes Rojas Telefone(s) +591 (2) 230-1440 +591 (7) 305-2229"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0129",
+    "Nome": "LA PAZ - Bajo LLojeta",
+    "Logradouro": "Calle Las Dalias, 122",
+    "CEP": "Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5478353,
+      "lon": -68.0511758
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade LA PAZ - Bajo LLojeta BO-01-0129 Localização Logradouro: Calle Las Dalias, 122 CEP: Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia Dias de Culto 3N Culto Oficial Terça-feira - 19:30 - es_BO Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0062",
+    "Nome": "LA PAZ - Miraflores",
+    "Logradouro": "Calle Cuba, esquina con Avenida Brasil",
+    "CEP": "Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5460037,
+      "lon": -68.2226326
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade LA PAZ - Miraflores BO-01-0062 Localização Logradouro: Calle Cuba, esquina con Avenida Brasil CEP: Cidade: Provincia Murillo, DEPARTAMENTO DE LA PAZ, Bolívia Complemento: Edificio La Habana - Planta Baja Dias de Culto Qua 19:30 Ministério Cooperador Ofício Ministerial Juan José Ruiz Durán Telefone(s) +591 (2) 272-1209"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0048",
+    "Nome": "LOS ALMENDROS - Cantón Chocloca - Central",
+    "Logradouro": "Carretera Tarija-Chocloca, Km 20",
+    "CEP": "Cidade: Provincia José María Avilés, TJ, Bolívia",
+    "Cidade": "Provincia José María Avilés, TJ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "20:00",
+        "Quarta-feira": "20:00"
+      },
+      "Obs": "Localidade LOS ALMENDROS - Cantón Chocloca CENTRAL BO-01-0048 Localização Logradouro: Carretera Tarija-Chocloca, Km 20 CEP: Cidade: Provincia José María Avilés, TJ, Bolívia Dias de Culto Dom-Qua 20:00 Ministério Cooperador Ofício Ministerial Heriberto Patiño Tarifa Telefone(s) +591 (6) 869-9359"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0067",
+    "Nome": "LUZ DE AMÉRICA - Centro",
+    "Logradouro": "50 Km delante de Filadelfia",
+    "CEP": "Cidade: Provincia Manuripi, PD, Bolívia",
+    "Cidade": "Provincia Manuripi, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade LUZ DE AMÉRICA - Centro BO-01-0067 Localização Logradouro: 50 Km delante de Filadelfia CEP: Cidade: Provincia Manuripi, PD, Bolívia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Aurelio Chao Amutari"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0078",
+    "Nome": "MAGDALENA - Versalles - Población Rural",
+    "Logradouro": "Calle sin nombre",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade MAGDALENA - Versalles - Población Rural BO-01-0078 Localização Logradouro: Calle sin nombre CEP: Cidade: Provincia Iténez, BE, Bolívia Complemento: A Orillas del Río Guaporé Dias de Culto 2º Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0077",
+    "Nome": "MATEGUÁ - Población Rural",
+    "Logradouro": "Carretera Santa Rosa de La Roca, pasando 180 Km del Monte Cristo de Tiquín",
+    "CEP": "Cidade: Provincia Iténez, BE, Bolívia",
+    "Cidade": "Provincia Iténez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -12.8457086,
+      "lon": -64.1262529
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:30"
+      },
+      "Obs": "Localidade MATEGUÁ - Población Rural BO-01-0077 Localização Logradouro: Carretera Santa Rosa de La Roca, pasando 180 Km del Monte Cristo de Tiquín CEP: Cidade: Provincia Iténez, BE, Bolívia Complemento: A Orillas del Río Iténez Dias de Culto Dom 19:30 Ministério Cooperador Ofício Ministerial Osmán Aguilera Melgar"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0037",
+    "Nome": "MONTERO - Barrio El Carmen - Central",
+    "Logradouro": "Calle Rafael Terrazas, 204",
+    "CEP": "Cidade: Provincia Obispo Santiestevan, SCZ, Bolívia",
+    "Cidade": "Provincia Obispo Santiestevan, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -17.3505539,
+      "lon": -63.255042
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade MONTERO - Barrio El Carmen CENTRAL BO-01-0037 Localização Logradouro: Calle Rafael Terrazas, 204 CEP: Cidade: Provincia Obispo Santiestevan, SCZ, Bolívia Complemento: Entre 16 de Julio y 21 de mayo Dias de Culto Dom 19:00 - Qua-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião JORGE VÉLEZ FLORES Cooperador Ofício Ministerial Victor Vaca Quiroz Diácono Juan Robert Monasterio Cuellar Cooperador de Jovens e Menores Victor Calderon Ortiz"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0054",
+    "Nome": "NUEVA ESPERANZA - Población Rural - Central",
+    "Logradouro": "Detrás de la Posta Médica",
+    "CEP": "Cidade: Provincia Federico Román, PD, Bolívia",
+    "Cidade": "Provincia Federico Román, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade NUEVA ESPERANZA - Población Rural CENTRAL BO-01-0054 Localização Logradouro: Detrás de la Posta Médica CEP: Cidade: Provincia Federico Román, PD, Bolívia Dias de Culto 2º e 4º Dom 09:00 - Sáb 19:00 Ministério Cooperador Ofício Ministerial Cássio Marinho Gomes Dos Santos"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0099",
+    "Nome": "NUEVA VIDA - Población rural",
+    "Logradouro": "Carretera Cobija - Ingresar 9 Km por Zofra",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade NUEVA VIDA - Población rural BO-01-0099 Localização Logradouro: Carretera Cobija - Ingresar 9 Km por Zofra CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Francisco Durales Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0104",
+    "Nome": "PERLA DEL ACRE - Urbanización Juan Azevedo dos Santos",
+    "Logradouro": "Calle Tercera",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4170741,
+      "lon": -66.1606231
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade PERLA DEL ACRE - Urbanización Juan Azevedo dos Santos BO-01-0104 Localização Logradouro: Calle Tercera CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Qua-Sáb 20:00 Ministério Cooperador Ofício Ministerial Rogério Ferreira da Silva"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0015",
+    "Nome": "POBLACIÓN LA FLORIDA - Vueltadero - Población Rural",
+    "Logradouro": "Avenida Marcelo Quiroga Santa Cruz, s/nº, no final",
+    "CEP": "Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30",
+        "Quinta-feira": "19:30",
+        "Sábado": "RJM Sáb 16:00"
+      },
+      "Obs": "Localidade POBLACIÓN LA FLORIDA - Vueltadero - Población Rural BO-01-0015 Localização Logradouro: Avenida Marcelo Quiroga Santa Cruz, s/nº, no final CEP: Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia Complemento: Salen las movilidades de Ivigarzama a la entrada de la calle principal de Vueltadero Dias de Culto Dom 19:30 - Qui 19:30 (RJM Sáb 16:00) Ministério Cooperador Ofício Ministerial Nabor Vargas Panozo Cooperador de Jovens e Menores Jhonatan Vargas Viilarroel"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0112",
+    "Nome": "PORVENIR - Comunidad Villa Roja - Barrio 4 de Octubre",
+    "Logradouro": "Carretera Porvenir - Cobija - Km 06, a 500 metros a la izquierda",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "20:00 / RJM 4º Sex 20:00"
+      },
+      "Obs": "Localidade PORVENIR - Comunidad Villa Roja - Barrio 4 de Octubre BO-01-0112 Localização Logradouro: Carretera Porvenir - Cobija - Km 06, a 500 metros a la izquierda CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Sex 20:00 (RJM 4º Sex 20:00) Ministério Cooperador Ofício Ministerial Marcos Cortez Rodriguez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0021",
+    "Nome": "PORVENIR - San Jorge",
+    "Logradouro": "Avenida Bruno Racua, s/nº",
+    "CEP": "Cidade: Provincia Nicolás Suárez, PD, Bolívia",
+    "Cidade": "Provincia Nicolás Suárez, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade PORVENIR - San Jorge BO-01-0021 Localização Logradouro: Avenida Bruno Racua, s/nº CEP: Cidade: Provincia Nicolás Suárez, PD, Bolívia Dias de Culto Qua-Sáb 20:00 (RJM Dom 10:00) Ministério Ancião CARMELO LANDÍVAR RODRÍGUEZ Cooperador Ofício Ministerial Dyhesierk de Souza Fernandes Cooperador de Jovens e Menores José Cortez Rodríguez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0076",
+    "Nome": "POTOSÍ - Barrio Betanzos",
+    "Logradouro": "Calle Nicolás Manzanos, s/nº",
+    "CEP": "Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Cidade": "Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Coordenadas": {
+      "lat": -19.333333,
+      "lon": -66.0
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade POTOSÍ - Barrio Betanzos BO-01-0076 Localização Logradouro: Calle Nicolás Manzanos, s/nº CEP: Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia Complemento: Casi esquina Calle Cornelio Saavedra Dias de Culto Qui 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0023",
+    "Nome": "POTOSÍ - Barrio Tikaloma",
+    "Logradouro": "Final Boquerón",
+    "CEP": "Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Cidade": "Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Coordenadas": {
+      "lat": -19.333333,
+      "lon": -66.0
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30 (Espanhol)",
+        "Sexta-feira": "19:30 (Quechua"
+      },
+      "Obs": "Localidade POTOSÍ - Barrio Tikaloma BO-01-0023 Localização Logradouro: Final Boquerón CEP: Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia Dias de Culto Ter 19:30 (Espanhol) - Sex 19:30 (Quechua) Ministério Cooperador Ofício Ministerial Tomás Bravo Sanchez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0024",
+    "Nome": "POTOSÍ - Ciudad Satélite - Central",
+    "Logradouro": "Calle Perú, s/nº",
+    "CEP": "Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Cidade": "Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Coordenadas": {
+      "lat": -19.333333,
+      "lon": -66.0
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quarta-feira": "19:00",
+        "Sábado": "RJM Sáb 18:30"
+      },
+      "Obs": "Localidade POTOSÍ - Ciudad Satélite CENTRAL BO-01-0024 Localização Logradouro: Calle Perú, s/nº CEP: Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia Complemento: Altura DIRME Dias de Culto Dom 18:30 - Qua 19:00 (RJM Sáb 18:30) Ministério Ancião LEONARDO CAMIÑO PRADO Diácono Luciano Bravo Pinto Cooperador de Jovens e Menores Ruben Bravo Menchaca Telefone(s) +591 (2) 626-3068"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0016",
+    "Nome": "PUERTO ICHILO - Población Rural",
+    "Logradouro": "Carretera Nueva Cochabamba-Santa Cruz, Km 320",
+    "CEP": "Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 10:30"
+      },
+      "Obs": "Localidade PUERTO ICHILO - Población Rural BO-01-0016 Localização Logradouro: Carretera Nueva Cochabamba-Santa Cruz, Km 320 CEP: Cidade: Provincia José Carrasco, DEPARTAMENTO DE COCHABAMBA, Bolívia Complemento: Entrando 300 metros a la derecha del puente del Río Ichilo, pasando el puente - A 2 Km de Bulo Bulo Dias de Culto Dom 10:30 (RJM Dom 10:30) Ministério Cooperador Ofício Ministerial Pablo Montero Méndez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0031",
+    "Nome": "PUERTO QUIJARRO - Barrio Cotoca",
+    "Logradouro": "Avenida Naval, 9",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -19.014072,
+      "lon": -57.7275264
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade PUERTO QUIJARRO - Barrio Cotoca BO-01-0031 Localização Logradouro: Avenida Naval, 9 CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Complemento: Media cuadra de la antena de Cotas Dias de Culto Dom 19:00 - Qui 19:30 (RJM Dom 09:00) Ministério Ancião PABLO RAMOS VACA Cooperador de Jovens e Menores Franz Gabriel Garcia Rojas"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0114",
+    "Nome": "PUERTO RICO - 18 de Mayo",
+    "Logradouro": "Avenida Nicolas Suarez, s/n°",
+    "CEP": "Cidade: Provincia Manuripi, PD, Bolívia",
+    "Cidade": "Provincia Manuripi, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "20:00",
+        "Sábado": "20:00",
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade PUERTO RICO - 18 de Mayo BO-01-0114 Localização Logradouro: Avenida Nicolas Suarez, s/n° CEP: Cidade: Provincia Manuripi, PD, Bolívia Dias de Culto 4N SN (RJM-DM) Reunião de Jovens e Menores Domingo - 09:30 - es_BO Culto Oficial Quarta-feira - 20:00 - es_BO Sábado - 20:00 - es_BO Ministério Cooperador Ofício Ministerial Abraham Salazar Pereira Cooperador de Jovens e Menores Hedifran Salazar Sosa"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0072",
+    "Nome": "PUERTO RUSO - Población Rural - Central",
+    "Logradouro": "De Ixiamas, monte adentro 20 Km",
+    "CEP": "Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Cidade": "Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia",
+    "Coordenadas": {
+      "lat": -13.2222754,
+      "lon": -68.0597746
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade PUERTO RUSO - Población Rural CENTRAL BO-01-0072 Localização Logradouro: De Ixiamas, monte adentro 20 Km CEP: Cidade: Provincia Abel Iturralde, DEPARTAMENTO DE LA PAZ, Bolívia Dias de Culto Dom 09:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0032",
+    "Nome": "PUERTO SUÁREZ - Barrio Conavi - Central",
+    "Logradouro": "Calle Israel Mendía, 6",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -18.9683401,
+      "lon": -57.7955912
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade PUERTO SUÁREZ - Barrio Conavi CENTRAL BO-01-0032 Localização Logradouro: Calle Israel Mendía, 6 CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Dias de Culto Dom 19:00 - Qua-Sáb 19:30 (RJM Dom 09:00) Ministério Ancião CLEUDEMIR PIMENTA FREDDY COLOMBO PACHECO Diácono Cleodenir Pimenta"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0074",
+    "Nome": "PUERTO SUÁREZ - Barrio Yacuses",
+    "Logradouro": "Carretera Bioceánica, Puerto Suárez-Santa Cruz",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 15:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade PUERTO SUÁREZ - Barrio Yacuses BO-01-0074 Localização Logradouro: Carretera Bioceánica, Puerto Suárez-Santa Cruz CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Complemento: A 300 metros de la rotonda, Lado derecho Dias de Culto Dom 19:00 - Qui 19:30 (RJM Dom 15:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0033",
+    "Nome": "PUERTO SUÁREZ - Suárez Arana",
+    "Logradouro": "Tras la Planta Y.P.F.B., s/nº",
+    "CEP": "Cidade: Provincia Germán Busch, SCZ, Bolívia",
+    "Cidade": "Provincia Germán Busch, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade PUERTO SUÁREZ - Suárez Arana BO-01-0033 Localização Logradouro: Tras la Planta Y.P.F.B., s/nº CEP: Cidade: Provincia Germán Busch, SCZ, Bolívia Dias de Culto Ter 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Herman Castedo Ortiz"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0125",
+    "Nome": "Puerto Paila",
+    "Logradouro": "Carretera Principal",
+    "CEP": "Cidade: Provincia Andrés Ibáñez - Cotoca, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez - Cotoca, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5833001,
+      "lon": -68.0790415
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30"
+      },
+      "Obs": "Localidade Puerto Paila BO-01-0125 Localização Logradouro: Carretera Principal CEP: Cidade: Provincia Andrés Ibáñez - Cotoca, SCZ, Bolívia Complemento: Provincia Andrés Ibáñez Dias de Culto DT (RJM-DT) Reunião de Jovens e Menores Domingo - 15:30 - es_BO Culto Oficial Domingo - 15:30 - es_BO Ministério Cooperador Ofício Ministerial Vital Muniz de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0008",
+    "Nome": "RIBERALTA - Barrio Los Almendros",
+    "Logradouro": "Avenida Oscar Ribera Gutiérrez, 2000",
+    "CEP": "Cidade: Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Cidade": "Provincia Antonio Vaca Díez, BE, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 09:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade RIBERALTA - Barrio Los Almendros BO-01-0008 Localização Logradouro: Avenida Oscar Ribera Gutiérrez, 2000 CEP: Cidade: Provincia Antonio Vaca Díez, BE, Bolívia Complemento: Al frente de la Avenida Prolongación Mara Dias de Culto Dom 19:30 - Qua 19:30 - Sáb 19:30 (RJM Dom 09:00) Ministério Ancião JEFERSON DOS SANTOS SILVA Cooperador Ofício Ministerial Eduardo Vásquez Cortez Diácono Hugo Camaconi Guary Cooperador de Jovens e Menores Eliel Achipa Tabo"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0029",
+    "Nome": "ROBORÉ - Barrio Altamira - Central",
+    "Logradouro": "Avenida Obispo Santisteban, 392, final",
+    "CEP": "Cidade: Provincia Chiquitos, SCZ, Bolívia",
+    "Cidade": "Provincia Chiquitos, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:30",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade ROBORÉ - Barrio Altamira CENTRAL BO-01-0029 Localização Logradouro: Avenida Obispo Santisteban, 392, final CEP: Cidade: Provincia Chiquitos, SCZ, Bolívia Dias de Culto Dom 19:00 - Qua-Sáb 19:30 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Astrual Quisbert Callejas"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0109",
+    "Nome": "RURRENABAQUE - Comunidad Alto Colorado",
+    "Logradouro": "Carretera Rurrenabaque - Yucumo - Km 75",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade RURRENABAQUE - Comunidad Alto Colorado BO-01-0109 Localização Logradouro: Carretera Rurrenabaque - Yucumo - Km 75 CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Dias de Culto Dom 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0116",
+    "Nome": "SACABA - Guadalupe",
+    "Logradouro": "Avenida Villazón - Km 7,5 - Subiendo 2 Cuadras al Norte",
+    "CEP": "Cidade: Provincia de Chapare, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia de Chapare, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": -16.8497943,
+      "lon": -65.3475376
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "19:30"
+      },
+      "Obs": "Localidade SACABA - Guadalupe BO-01-0116 Localização Logradouro: Avenida Villazón - Km 7,5 - Subiendo 2 Cuadras al Norte CEP: Cidade: Provincia de Chapare, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Seg 19:30 Ministério Cooperador Ofício Ministerial Jorge Antonio Gonçalves Junior"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0025",
+    "Nome": "SAMAZA ALTA - Población Rural",
+    "Logradouro": "Carretera a Sucre, Km 18",
+    "CEP": "Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Cidade": "Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Coordenadas": {
+      "lat": -19.333333,
+      "lon": -66.0
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "08:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade SAMAZA ALTA - Población Rural BO-01-0025 Localização Logradouro: Carretera a Sucre, Km 18 CEP: Cidade: Provincia Tomas Frías, DEPARTAMENTO DE POTOSÍ, Bolívia Dias de Culto Dom 08:30 - Qui 19:30 Ministério Cooperador Ofício Ministerial Valeriano Bravo Jaita"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0017",
+    "Nome": "SAN BENITO - Población Rural - Central",
+    "Logradouro": "Carretera Antigua Cochabamba-Santa Cruz, Km 40",
+    "CEP": "Cidade: Provincia Punata, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Cidade": "Provincia Punata, DEPARTAMENTO DE COCHABAMBA, Bolívia",
+    "Coordenadas": {
+      "lat": -17.5926818,
+      "lon": -65.8496605
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade SAN BENITO - Población Rural CENTRAL BO-01-0017 Localização Logradouro: Carretera Antigua Cochabamba-Santa Cruz, Km 40 CEP: Cidade: Provincia Punata, DEPARTAMENTO DE COCHABAMBA, Bolívia Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Roman Vasquez Claros"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0081",
+    "Nome": "SAN IGNÁCIO - Piso Firme - Barrio Pueblo Nuevo",
+    "Logradouro": "Calle sin nombre - Detrás del Surtidor Bella Vista",
+    "CEP": "Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Cidade": "Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade SAN IGNÁCIO - Piso Firme - Barrio Pueblo Nuevo BO-01-0081 Localização Logradouro: Calle sin nombre - Detrás del Surtidor Bella Vista CEP: Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia Complemento: Población asentada sobre el Río Paraguá y Arroyo 10 de abril Dias de Culto Dom 16:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0065",
+    "Nome": "SAN JOSÉ DE CHIQUITOS - Barrio Casco Viejo - Centro",
+    "Logradouro": "Calle Warner, s/nº, entre Calles Vía Férrea y Velasco",
+    "CEP": "Cidade: Provincia Chiquitos, SCZ, Bolívia",
+    "Cidade": "Provincia Chiquitos, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade SAN JOSÉ DE CHIQUITOS - Barrio Casco Viejo - Centro BO-01-0065 Localização Logradouro: Calle Warner, s/nº, entre Calles Vía Férrea y Velasco CEP: Cidade: Provincia Chiquitos, SCZ, Bolívia Complemento: A media cuadra de la Unidad Educativa Felipe Leonor Ribera Dias de Culto Ter-Sáb 19:30 Ministério Cooperador Ofício Ministerial Alberto Aguilera Soriocó"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0026",
+    "Nome": "SAN JOSÉ DE LA FRONTERA - Población Rural",
+    "Logradouro": "Plaza Central de la Comunidad",
+    "CEP": "Cidade: Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Cidade": "Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.493811,
+      "lon": -68.3029637
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 08:30",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade SAN JOSÉ DE LA FRONTERA - Población Rural BO-01-0026 Localização Logradouro: Plaza Central de la Comunidad CEP: Cidade: Provincia Ángel Sandoval, SCZ, Bolívia Dias de Culto Dom 14:00 - Qui 19:00 (RJM Dom 08:30) Ministério Cooperador Ofício Ministerial Pascual Chore Mejía"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0027",
+    "Nome": "SAN MATÍAS - Barrio Cristo Rey - Central",
+    "Logradouro": "Calle Santa Bárbara - esquina Maximiliano Paredes, 45",
+    "CEP": "Cidade: Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Cidade": "Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 09:00",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade SAN MATÍAS - Barrio Cristo Rey CENTRAL BO-01-0027 Localização Logradouro: Calle Santa Bárbara - esquina Maximiliano Paredes, 45 CEP: Cidade: Provincia Ángel Sandoval, SCZ, Bolívia Dias de Culto Dom 18:30 - Qua 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Pastor Zeballo Paina"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0038",
+    "Nome": "SAN PEDRO - Barrio Lindo",
+    "Logradouro": "Calle Aroma, esquina Litoral, s/nº",
+    "CEP": "Cidade: Provincia Obispo Santiestevan, SCZ, Bolívia",
+    "Cidade": "Provincia Obispo Santiestevan, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade SAN PEDRO - Barrio Lindo BO-01-0038 Localização Logradouro: Calle Aroma, esquina Litoral, s/nº CEP: Cidade: Provincia Obispo Santiestevan, SCZ, Bolívia Dias de Culto Dom 19:00 - Sáb 19:30 (RJM Dom 10:00) Ministério Ancião JUAN ZOTAR LOPEZ Cooperador Ofício Ministerial Abel Zotar Mamani Diácono Reymundo Zotar López Cooperador de Jovens e Menores Fernando Cruz Juarez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0036",
+    "Nome": "SAN VICENTE - Santa Catalina - Población Rural",
+    "Logradouro": "Carretera San Matías-Santa Cruz, Km 210",
+    "CEP": "Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Cidade": "Provincia José Miguel de Velasco, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 12:00",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade SAN VICENTE - Santa Catalina - Población Rural BO-01-0036 Localização Logradouro: Carretera San Matías-Santa Cruz, Km 210 CEP: Cidade: Provincia José Miguel de Velasco, SCZ, Bolívia Complemento: Diagonal al retén del ejercito Dias de Culto Dom 14:00 - Sáb 19:30 (RJM Dom 12:00) Ministério Cooperador Ofício Ministerial Santo Pou Parabá"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0040",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio 16 de julio - Zona Los Chacos",
+    "Logradouro": "Avenida 24 de 24 de septiembre, de la Plaza Los Chacos 5 cuadras y media hacia el norte",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Segunda-feira": "Seg",
+        "Sexta-feira": "19:30",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio 16 de julio - Zona Los Chacos BO-01-0040 Localização Logradouro: Avenida 24 de 24 de septiembre, de la Plaza Los Chacos 5 cuadras y media hacia el norte CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: donde se inicia el canal de desagüe Dias de Culto Seg - Sex 19:30 (RJM Dom 09:30) Ministério Ancião GUILLERMO SALVATIERRA VACA Cooperador Ofício Ministerial Cristhian Freddy Martinez Daza Diácono Victor Hugo Parada Méndez Cooperador de Jovens e Menores Dario Flores Sauza"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0045",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio Magisterio - Central",
+    "Logradouro": "Calle Benito de Ribera, 3595",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio Magisterio CENTRAL BO-01-0045 Localização Logradouro: Calle Benito de Ribera, 3595 CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: Entre calles Andrés Mestre y Bernardino de Molina - 4º Anillo y fundación Jesica Borda Dias de Culto Dom 19:00 - Qua-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião DORIAN FRANCO BRAVO ROLANDO SALVATIERRA JUSTINIANO JACONIAS ARAUJO DA SILVA Cooperador Ofício Ministerial Celio Rodriguez Junior Diácono Eugenio Guzmán Montero Joel Araujo da Silva Telefone(s) +591 (3) 364-7575"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0043",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio Plan Tres Mil",
+    "Logradouro": "Calle Patujú, s/n°",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio Plan Tres Mil BO-01-0043 Localização Logradouro: Calle Patujú, s/n° CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: Entrando tres cuadras desde la Avenida Paurito Dias de Culto Dom 19:00 - Sex 19:30 (RJM Dom 10:00 Ministério Cooperador Ofício Ministerial Rafael Revollo Diácono Hugo Mayer Méndez Elivan José dos Santos Cooperador de Jovens e Menores Victor Santos Braz Telefone(s) +591 (3) 344-3327"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0105",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio Saguapac - Zona Sur",
+    "Logradouro": "Avenida Francisco Añez esquina con Calle Mateo Fernández",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Quinta-feira": "20:00"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio Saguapac - Zona Sur BO-01-0105 Localização Logradouro: Avenida Francisco Añez esquina con Calle Mateo Fernández CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: A 4 cuadras del 6º anillo y una cuadra e media del Centro Educativo Caritas II Dias de Culto Dom 19:00 - Qui 20:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Isaac José dos Santos Cooperador de Jovens e Menores Samuel Galea Mendez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0042",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio Venezuela",
+    "Logradouro": "Calle 8, nº 63",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5230884,
+      "lon": -68.1378571
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Domingo": "RJM Dom 15:30"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio Venezuela BO-01-0042 Localização Logradouro: Calle 8, nº 63 CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: Última casa Dias de Culto Ter 19:30 (RJM Dom 15:30) Ministério Cooperador Ofício Ministerial Fernando Barbosa Roca Cooperador de Jovens e Menores Jeffer Alessandro Souza Pereira"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0087",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Barrio Zaragoza",
+    "Logradouro": "Calle s/nº",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -16.5260375,
+      "lon": -68.1220419
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Barrio Zaragoza BO-01-0087 Localização Logradouro: Calle s/nº CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Dias de Culto DM (RJM-DM) Reunião de Jovens e Menores Domingo - 10:00 - es_BO Culto Oficial Domingo - 10:00 - es_BO Ministério Cooperador Ofício Ministerial Enrique Franco Bravo"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0106",
+    "Nome": "SANTA CRUZ DE LA SIERRA - San Carlos",
+    "Logradouro": "Calle 15 de agosto - Manzana 13 - Lote 12",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - San Carlos BO-01-0106 Localização Logradouro: Calle 15 de agosto - Manzana 13 - Lote 12 CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Complemento: Zona Sur Este Dias de Culto Dom 10:00 - (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Redentor Ponce Salazar"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0118",
+    "Nome": "SANTA CRUZ DE LA SIERRA - Zanja Honda",
+    "Logradouro": "Localidad de Las Cabezas",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade SANTA CRUZ DE LA SIERRA - Zanja Honda BO-01-0118 Localização Logradouro: Localidad de Las Cabezas CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Manuel Calderon Roca"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0028",
+    "Nome": "SANTA FÉ - Población Rural",
+    "Logradouro": "Carretera San Matías-San Vicente, Km 20",
+    "CEP": "Cidade: Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Cidade": "Provincia Ángel Sandoval, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade SANTA FÉ - Población Rural BO-01-0028 Localização Logradouro: Carretera San Matías-San Vicente, Km 20 CEP: Cidade: Provincia Ángel Sandoval, SCZ, Bolívia Complemento: Entrando 8 Km hacia la comunidad Dias de Culto Dom 09:00 - Qui 19:00 Ministério Cooperador Ofício Ministerial Antonio Ares Yaibona Cooperador de Jovens e Menores Januaro Soarez"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0058",
+    "Nome": "SANTA ROSA DEL ABUNÁ - Barrio Centro - Central",
+    "Logradouro": "A media cuadra de la carretera principal, Lote 3",
+    "CEP": "Cidade: Provincia Abuná, PD, Bolívia",
+    "Cidade": "Provincia Abuná, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade SANTA ROSA DEL ABUNÁ - Barrio Centro CENTRAL BO-01-0058 Localização Logradouro: A media cuadra de la carretera principal, Lote 3 CEP: Cidade: Provincia Abuná, PD, Bolívia Dias de Culto DT Culto Oficial Domingo - 15:00 Ministério Cooperador Ofício Ministerial Tomas Espinoza"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0090",
+    "Nome": "SANTA ROSA DEL ABUNÁ - Comunidad Nacebe",
+    "Logradouro": "Carretera Santa Elena - Puerto Morales, Km 75",
+    "CEP": "Cidade: Provincia Abuná, PD, Bolívia",
+    "Cidade": "Provincia Abuná, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "20:00"
+      },
+      "Obs": "Localidade SANTA ROSA DEL ABUNÁ - Comunidad Nacebe BO-01-0090 Localização Logradouro: Carretera Santa Elena - Puerto Morales, Km 75 CEP: Cidade: Provincia Abuná, PD, Bolívia Dias de Culto Dom 20:00 Ministério Cooperador Ofício Ministerial Luis Cartagena Ayguana"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0069",
+    "Nome": "SANTA ROSA DEL SARA - Barrio 1º de Mayo - Central",
+    "Logradouro": "Calle Pando, s/nº - esquina Baucho",
+    "CEP": "Cidade: Província Sara, SCZ, Bolívia",
+    "Cidade": "Província Sara, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade SANTA ROSA DEL SARA - Barrio 1º de Mayo CENTRAL BO-01-0069 Localização Logradouro: Calle Pando, s/nº - esquina Baucho CEP: Cidade: Província Sara, SCZ, Bolívia Dias de Culto Ter-Sáb 19:30 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Obed Fernández Choma Cooperador de Jovens e Menores Eulogio Artega Achu"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0061",
+    "Nome": "SANTA ROSITA - Población Rural",
+    "Logradouro": "3 Km desde Cauchal, camino a Nuevo Horizonte",
+    "CEP": "Cidade: Provincia General José Ballivián, BE, Bolívia",
+    "Cidade": "Provincia General José Ballivián, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.4450115,
+      "lon": -66.1090792
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "08:00"
+      },
+      "Obs": "Localidade SANTA ROSITA - Población Rural BO-01-0061 Localização Logradouro: 3 Km desde Cauchal, camino a Nuevo Horizonte CEP: Cidade: Provincia General José Ballivián, BE, Bolívia Complemento: Entrando 1,5 Km hasta Santa Rosita Dias de Culto Dom 08:00 Ministério Telefone(s) +591 (6) 839-6907"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0101",
+    "Nome": "SANTOS MERCADO - Puerto Bolívar - Comunidad Campesina",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Provincia Federico Román, PD, Bolívia",
+    "Cidade": "Provincia Federico Román, PD, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "20:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade SANTOS MERCADO - Puerto Bolívar - Comunidad Campesina BO-01-0101 Localização Logradouro: CEP: Cidade: Provincia Federico Román, PD, Bolívia Complemento: Partir desde Extrema sobre el Río Abuná y después sobre el Río Mamu Dias de Culto SN (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 - es_BO Culto Oficial Sábado - 20:00 - es_BO Ministério Cooperador Ofício Ministerial Rogério Jesus Porcel"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0009",
+    "Nome": "SUCRE - Barrio Satélite - Central",
+    "Logradouro": "Zona Santo Domingo",
+    "CEP": "Cidade: Provincia Oropeza, DEPARTAMENTO DE CHUQUISACA, Bolívia",
+    "Cidade": "Provincia Oropeza, DEPARTAMENTO DE CHUQUISACA, Bolívia",
+    "Coordenadas": {
+      "lat": -18.666667,
+      "lon": -65.166667
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade SUCRE - Barrio Satélite CENTRAL BO-01-0009 Localização Logradouro: Zona Santo Domingo CEP: Cidade: Provincia Oropeza, DEPARTAMENTO DE CHUQUISACA, Bolívia Complemento: Cerca de la piscina olímpica Dias de Culto Qua 19:00 - Sáb 18:30 (RJM Dom 10:30) Ministério Ancião BECKER PÉREZ CENTELLAS Cooperador de Jovens e Menores Raúl Galarza Sánchez Telefone(s) +591 (4) 642-1026"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0092",
+    "Nome": "San José - Central",
+    "Logradouro": "Calle José Chavez Suárez, s/n°",
+    "CEP": "Cidade: Provincia Yacuma - Santa Ana Del Yacuma, BE, Bolívia",
+    "Cidade": "Provincia Yacuma - Santa Ana Del Yacuma, BE, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade San José CENTRAL BO-01-0092 Localização Logradouro: Calle José Chavez Suárez, s/n° CEP: Cidade: Provincia Yacuma - Santa Ana Del Yacuma, BE, Bolívia Dias de Culto 2º e 4º Sáb 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0085",
+    "Nome": "TARIJA - Barrio 4º Centenario - Central",
+    "Logradouro": "Calle Francisco Moreno, casi esquina 4 de Julio",
+    "CEP": "Cidade: Provincia Cercado, TJ, Bolívia",
+    "Cidade": "Provincia Cercado, TJ, Bolívia",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade TARIJA - Barrio 4º Centenario CENTRAL BO-01-0085 Localização Logradouro: Calle Francisco Moreno, casi esquina 4 de Julio CEP: Cidade: Provincia Cercado, TJ, Bolívia Dias de Culto Qua 19:30 - Sáb 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0093",
+    "Nome": "TRINIDAD - Urbanización Universitaria - Central",
+    "Logradouro": "Calle Vía Colectora, 12 - Pasando media cuadra el Canal Guapomó",
+    "CEP": "Cidade: Provincia Cercado, BE, Bolívia",
+    "Cidade": "Provincia Cercado, BE, Bolívia",
+    "Coordenadas": {
+      "lat": -17.3801412,
+      "lon": -66.1477323
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 17:30",
+        "Quarta-feira": "19:30",
+        "Sábado": "20:00"
+      },
+      "Obs": "Localidade TRINIDAD - Urbanización Universitaria CENTRAL BO-01-0093 Localização Logradouro: Calle Vía Colectora, 12 - Pasando media cuadra el Canal Guapomó CEP: Cidade: Provincia Cercado, BE, Bolívia Complemento: Paralela la Calle Prolongación Cochabamba Dias de Culto Dom-Qua 19:30 - Sáb 20:00 (RJM Dom 17:30) Ministério Ancião SAMUEL LORAS PEÑA Cooperador Ofício Ministerial Guillermo Mansilla Mendoza Cooperador de Jovens e Menores Jorge David Justiniano Mendoza"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0022",
+    "Nome": "VILLAZÓN - Barrio Municipal - Central",
+    "Logradouro": "Pasaje San Cristóbal, s/nº",
+    "CEP": "Cidade: Provincia Modesto Omiste, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Cidade": "Provincia Modesto Omiste, DEPARTAMENTO DE POTOSÍ, Bolívia",
+    "Coordenadas": {
+      "lat": -21.916667,
+      "lon": -65.583333
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30"
+      },
+      "Obs": "Localidade VILLAZÓN - Barrio Municipal CENTRAL BO-01-0022 Localização Logradouro: Pasaje San Cristóbal, s/nº CEP: Cidade: Provincia Modesto Omiste, DEPARTAMENTO DE POTOSÍ, Bolívia Complemento: Zona Stadium Dias de Culto Dom 10:30 Ministério Cooperador Ofício Ministerial Marcos Rengifo Cruz"
+    }
+  },
+  {
+    "CodigoId": "BO-01-0044",
+    "Nome": "Villa Paraíso - (Pueblo Nuevo)",
+    "Logradouro": "Paraiso de Los Infantes",
+    "CEP": "Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Cidade": "Provincia Andrés Ibáñez, SCZ, Bolívia",
+    "Coordenadas": {
+      "lat": -17.8498359,
+      "lon": -63.0674908
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:00",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Villa Paraíso - (Pueblo Nuevo) BO-01-0044 Localização Logradouro: Paraiso de Los Infantes CEP: Cidade: Provincia Andrés Ibáñez, SCZ, Bolívia Dias de Culto Ter 20:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Samuel de Morais Ribeiro Cooperador de Jovens e Menores David Fernando Justiniano Campo"
+    }
+  }
+]

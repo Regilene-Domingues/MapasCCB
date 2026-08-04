@@ -1,0 +1,106 @@
+[
+  {
+    "CodigoId": "SR-01-0005",
+    "Nome": "Meerzorg - Central",
+    "Logradouro": "Patjasketieweg - Ratoeweg, 2",
+    "CEP": "Cidade: Nieuw Amsterdam, CO, Suriname",
+    "Cidade": "Nieuw Amsterdam, CO, Suriname",
+    "Coordenadas": {
+      "lat": 5.8804189,
+      "lon": -55.0849545
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "19:30 (Holandês/Inglês"
+      },
+      "Obs": "Localidade Meerzorg CENTRAL SR-01-0005 Localização Logradouro: Patjasketieweg - Ratoeweg, 2 CEP: Cidade: Nieuw Amsterdam, CO, Suriname Dias de Culto Seg 19:30 (Holandês/Inglês) Ministério Telefone(s) +597 () 458-281"
+    }
+  },
+  {
+    "CodigoId": "SR-01-0006",
+    "Nome": "Moengo - Central",
+    "Logradouro": "Benatie Mofo, 6",
+    "CEP": "Cidade: Moengo, MA, Suriname",
+    "Cidade": "Moengo, MA, Suriname",
+    "Coordenadas": {
+      "lat": 5.6922779,
+      "lon": -54.5219237
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Moengo CENTRAL SR-01-0006 Localização Logradouro: Benatie Mofo, 6 CEP: Cidade: Moengo, MA, Suriname Dias de Culto 1º Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "SR-01-0001",
+    "Nome": "Rijweg Naar Uitkijk - Central",
+    "Logradouro": "Padiweg, 2",
+    "CEP": "Cidade: Uitkijk, SA, Suriname",
+    "Cidade": "Uitkijk, SA, Suriname",
+    "Coordenadas": {
+      "lat": 5.7780792,
+      "lon": -55.3457888
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Rijweg Naar Uitkijk CENTRAL SR-01-0001 Localização Logradouro: Padiweg, 2 CEP: Cidade: Uitkijk, SA, Suriname Dias de Culto Dom 10:00 - Qui 19:30 (RJM Dom 10:00) Ministério Ancião JOSEPH JEAN LUDOVIC Cooperador Ofício Ministerial Roulio Clerveau Cooperador de Jovens e Menores Fritzner Lambert Telefone(s) +597 () 550-578"
+    }
+  },
+  {
+    "CodigoId": "SR-01-0002",
+    "Nome": "Santo Boma - Central",
+    "Logradouro": "Merveilleweg, 139",
+    "CEP": "Cidade: Santo Boma, WA, Suriname",
+    "Cidade": "Santo Boma, WA, Suriname",
+    "Coordenadas": {
+      "lat": 5.7493586,
+      "lon": -55.267918
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30 (Francês"
+      },
+      "Obs": "Localidade Santo Boma CENTRAL SR-01-0002 Localização Logradouro: Merveilleweg, 139 CEP: Cidade: Santo Boma, WA, Suriname Dias de Culto Qua 19:30 (Francês) Ministério Cooperador Ofício Ministerial Jean Vilchan Telefone(s) +597 () 550-578 +597 () 458-470"
+    }
+  },
+  {
+    "CodigoId": "SR-01-0003",
+    "Nome": "Tourtonnelaan - Central",
+    "Logradouro": "Prinsessestraat, 330",
+    "CEP": "Cidade: Maretraite, DISTRITO DE PARAMARIBO, Suriname",
+    "Cidade": "Maretraite, DISTRITO DE PARAMARIBO, Suriname",
+    "Coordenadas": {
+      "lat": 5.842468,
+      "lon": -55.1543338
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 10:00",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Tourtonnelaan CENTRAL SR-01-0003 Localização Logradouro: Prinsessestraat, 330 CEP: Cidade: Maretraite, DISTRITO DE PARAMARIBO, Suriname Dias de Culto Dom-Sáb 19:30 (RJM Dom 10:00) Ministério Ancião APALONE EDUARD POEI Cooperador Ofício Ministerial Erineu Politano Diácono Joabe Pereira Ferreira Cooperador de Jovens e Menores Breno da Silva Gaspar Telefone(s) +597 () 550-578 +597 () 860-7800 +597 () 888-4949"
+    }
+  }
+]

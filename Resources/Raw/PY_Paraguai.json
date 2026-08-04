@@ -1,0 +1,5023 @@
+[
+  {
+    "CodigoId": "PY-99-0291",
+    "Nome": "14 de mayo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.8004863,
+      "lon": -55.0934459
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM 1º e 3º Dom 09:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade 14 de mayo PY-99-0291 Localização Logradouro: CEP: Cidade: Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qui 19:00 (RJM 1º e 3º Dom 09:00) Ministério Ancião HUMBERTO BENJAMÍN GONZÁLEZ ADORNO Cooperador Ofício Ministerial Cesar Joel Paredes Cooperador de Jovens e Menores Luis Carlos Vargas de Godoy"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0214",
+    "Nome": "7º Encuadre - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Maracana, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Maracana, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.1899734,
+      "lon": -56.1197791
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade 7º Encuadre CENTRAL PY-99-0214 Localização Logradouro: CEP: Cidade: Maracana, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 15:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Pedro Antonio Fleitas"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0068",
+    "Nome": "Alborada",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.0680313,
+      "lon": -54.3046768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Alborada PY-99-0068 Localização Logradouro: CEP: Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 14:00 - Qui 19:00 Ministério Cooperador Ofício Ministerial Francisco Cosmo do Nascimento"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0403",
+    "Nome": "Aldea Mbokaja-Y",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "15:00"
+      },
+      "Obs": "Localidade Aldea Mbokaja-Y PY-99-0403 Localização Logradouro: CEP: Cidade: Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Qua 15:00 Ministério Cooperador Ofício Ministerial Maximino Benítez Paredes"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0025",
+    "Nome": "Anahy",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade Anahy PY-99-0025 Localização Logradouro: CEP: Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Ter 19:00 Ministério Cooperador Ofício Ministerial Valdivino de Jesus Machado"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0387",
+    "Nome": "Arroyo Guazú",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "16:00",
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Arroyo Guazú PY-99-0387 Localização Logradouro: CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto ST (RJM-DT) Reunião de Jovens e Menores Domingo - 15:00 - es_PY Culto Oficial Sábado - 16:00 - es_PY Ministério Cooperador Ofício Ministerial Valdir Wiesenhutter Cooperador de Jovens e Menores Daniel Rodas"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0260",
+    "Nome": "Arroyo Moroti",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Guajayvi, SPD, Paraguai",
+    "Cidade": "Guajayvi, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Arroyo Moroti PY-99-0260 Localização Logradouro: CEP: Cidade: Guajayvi, SPD, Paraguai Dias de Culto Dom 09:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Paulo Miguel de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0419",
+    "Nome": "Arroyo Porã",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3376114,
+      "lon": -55.8669492
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Arroyo Porã PY-99-0419 Localização Logradouro: CEP: Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 18:00 Ministério Ancião LEONARDO RUBEN ARCE GONZÁLEZ"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0324",
+    "Nome": "Atyngy - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Atyngy, DEPARTAMENTO MISIONES, Paraguai",
+    "Cidade": "Atyngy, DEPARTAMENTO MISIONES, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Atyngy CENTRAL PY-99-0324 Localização Logradouro: CEP: Cidade: Atyngy, DEPARTAMENTO MISIONES, Paraguai Complemento: Frente al alcaldía policial Dias de Culto 2º e 4º Sáb 17:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0314",
+    "Nome": "Aviación - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Villa Oliva, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Cidade": "Villa Oliva, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.0161506,
+      "lon": -57.8575555
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Aviación CENTRAL PY-99-0314 Localização Logradouro: CEP: Cidade: Villa Oliva, DEPARTAMENTO ÑEEMBUCÚ, Paraguai Dias de Culto Dom 09:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0268",
+    "Nome": "Azotey Ruta 3",
+    "Logradouro": "Calle 350",
+    "CEP": "Cidade: Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.9664133,
+      "lon": -56.5447268
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "RJM"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "RJM": "RJM 09:30"
+      },
+      "Obs": "Localidade Azotey Ruta 3 PY-99-0268 Localização Logradouro: Calle 350 CEP: Cidade: Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 14:00 (RJM 09:30) Ministério Cooperador Ofício Ministerial Isabelino García Cooperador de Jovens e Menores Isidro Escobar Jara"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0338",
+    "Nome": "Bahía Negra - Central",
+    "Logradouro": "Avenida José Julián Sánchez",
+    "CEP": "Cidade: Bahía Negra, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Cidade": "Bahía Negra, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Coordenadas": {
+      "lat": -20.2308712,
+      "lon": -58.1690716
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Bahía Negra CENTRAL PY-99-0338 Localização Logradouro: Avenida José Julián Sánchez CEP: Cidade: Bahía Negra, DEPARTAMENTO ALTO PARAGUAY, Paraguai Dias de Culto Dom 19:00 Ministério Cooperador Ofício Ministerial Eladio Vargas de Lopes"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0376",
+    "Nome": "Barranquerita",
+    "Logradouro": "Puerto Barranquerita",
+    "CEP": "Cidade: San Pedro, SPD, Paraguai",
+    "Cidade": "San Pedro, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -24.2170213,
+      "lon": -57.2088464
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Barranquerita PY-99-0376 Localização Logradouro: Puerto Barranquerita CEP: Cidade: San Pedro, SPD, Paraguai Dias de Culto Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0130",
+    "Nome": "Barrio 23 de octubre - Central",
+    "Logradouro": "Km 5,5 Monday",
+    "CEP": "Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5169015,
+      "lon": -54.6168645
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM Dom 14:00",
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Barrio 23 de octubre CENTRAL PY-99-0130 Localização Logradouro: Km 5,5 Monday CEP: Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 16:00 - Ter 19:30 (RJM Dom 14:00) Ministério Cooperador Ofício Ministerial Carmelo Cesar Núñez Machado Cooperador de Jovens e Menores Artemio Acosta Ramirez Telefone(s) +595 (983) 324-4812"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0131",
+    "Nome": "Barrio Cangará - 3ª Línea",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5365912,
+      "lon": -55.9931355
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Barrio Cangará - 3ª Línea PY-99-0131 Localização Logradouro: CEP: Cidade: Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Sáb 16:00 Ministério Cooperador Ofício Ministerial Virgilio López Dinarro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0067",
+    "Nome": "Barrio Empalado",
+    "Logradouro": "Avenida Cristóbal Colon",
+    "CEP": "Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4661756,
+      "lon": -56.0181685
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 16:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Barrio Empalado PY-99-0067 Localização Logradouro: Avenida Cristóbal Colon CEP: Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Esquina Yacu Dias de Culto Dom-Qui 18:30 (RJM Dom 16:00) Ministério Ancião ABEL BARRIOS IBARRA Cooperador Ofício Ministerial Santacruz Ramírez Barreto Diácono Juan Manuel Molinas Rodas Cooperador de Jovens e Menores Edgar Ruben Gonzalez Gomez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0114",
+    "Nome": "Barrio IPVU - Central",
+    "Logradouro": "Calle Doutor José Gaspar Rodrigues de Francia - PY 02",
+    "CEP": "Cidade: Coronel Oviedo, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Coronel Oviedo, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.450055,
+      "lon": -56.4406994
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Barrio IPVU CENTRAL PY-99-0114 Localização Logradouro: Calle Doutor José Gaspar Rodrigues de Francia - PY 02 CEP: Cidade: Coronel Oviedo, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Dom 17:00 - Qui-Sáb 18:30 (RJM Dom 09:30) Ministério Ancião GUSTAVO BENÍTEZ Cooperador Ofício Ministerial Hugo Abel Alfonso Benítez Diácono Domingo Guzman Palacios Ledezma Cooperador de Jovens e Menores Joel Brizuela Cuenca Telefone(s) +595 (983) 104-286"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0034",
+    "Nome": "Barrio Kennedy - Central",
+    "Logradouro": "Ruta Nacional 1",
+    "CEP": "Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3376077,
+      "lon": -55.8583197
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM Dom 14:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Barrio Kennedy CENTRAL PY-99-0034 Localização Logradouro: Ruta Nacional 1 CEP: Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 16:00 - Qua-Sáb 19:00 (RJM Dom 14:00) Ministério Ancião LUCAS SIMÕES DOS SANTOS Cooperador Ofício Ministerial Fernando Leite"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0222",
+    "Nome": "Barrio La Merced - Central",
+    "Logradouro": "Calle La Merced, 6254",
+    "CEP": "Cidade: San Antonio, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "San Antonio, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4110303,
+      "lon": -57.5590174
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade Barrio La Merced CENTRAL PY-99-0222 Localização Logradouro: Calle La Merced, 6254 CEP: Cidade: San Antonio, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Ter-Sáb 19:00 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Esteban Britez Olmedo Cooperador de Jovens e Menores Luiz Carlos da Silva Junior"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0038",
+    "Nome": "Barrio Paso Jhu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.9054933,
+      "lon": -56.4523646
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00 / RJM Dom 09:30",
+        "Quarta-feira": "Sáb 19:00"
+      },
+      "Obs": "Localidade Barrio Paso Jhu CENTRAL PY-99-0038 Localização Logradouro: CEP: Cidade: Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom-Qua-Sáb 19:00 (RJM Dom 09:30) Ministério Ancião JOÃO ALEXANDRE DA SILVA Cooperador Ofício Ministerial José Francisco de Assis Diácono Edison Medina Sanches Cooperador de Jovens e Menores Helio Francisco dos Anjos Helio Francisco dos Anjos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0035",
+    "Nome": "Barrio San Antonio - Central",
+    "Logradouro": "Avenida Mariscal López con Colon y Curupayty",
+    "CEP": "Cidade: Pilar, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Cidade": "Pilar, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.8582578,
+      "lon": -58.3034318
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Barrio San Antonio CENTRAL PY-99-0035 Localização Logradouro: Avenida Mariscal López con Colon y Curupayty CEP: Cidade: Pilar, DEPARTAMENTO ÑEEMBUCÚ, Paraguai Dias de Culto 2º e 4º Dom 16:00 Ministério Ancião SILVIO SHIOKAWA GIMÉNEZ"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0373",
+    "Nome": "Barrio San José",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30"
+      },
+      "Obs": "Localidade Barrio San José PY-99-0373 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter 18:30 Ministério Cooperador Ofício Ministerial Luiz Alfredo Scavone"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0049",
+    "Nome": "Barrio Tres de mayo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:30",
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Barrio Tres de mayo CENTRAL PY-99-0049 Localização Logradouro: CEP: Cidade: Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom-Qua 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0416",
+    "Nome": "Buena Vista - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Buena Vista, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Buena Vista, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.1839492,
+      "lon": -56.082775
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Buena Vista CENTRAL PY-99-0416 Localização Logradouro: CEP: Cidade: Buena Vista, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto 3º Dom 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0139",
+    "Nome": "Caacupemi - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Aregua, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Aregua, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3129299,
+      "lon": -57.3846579
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Caacupemi CENTRAL PY-99-0139 Localização Logradouro: CEP: Cidade: Aregua, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto DN (RJM-DN) Reunião de Jovens e Menores Domingo - 18:00 - es_PY Culto Oficial Domingo - 18:00 - es_PY Ministério Cooperador Ofício Ministerial Cesar Eusebio Caballero Giménez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0143",
+    "Nome": "Calle San Francisco",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Calle San Francisco PY-99-0143 Localização Logradouro: CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Aurelio Romão da Costa Aurelio Romão da Costa Cooperador de Jovens e Menores Marcial Rivas Galeano"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0281",
+    "Nome": "Calle Ytaybumi",
+    "Logradouro": "Calle Ytaybumi",
+    "CEP": "Cidade: Caacupe, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Cidade": "Caacupe, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3856888,
+      "lon": -57.140477
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Calle Ytaybumi PY-99-0281 Localização Logradouro: Calle Ytaybumi CEP: Cidade: Caacupe, DEPARTAMENTO CORDILLERA, Paraguai Dias de Culto Última Sex 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0310",
+    "Nome": "Capitán Meza Puertos - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Capitán Meza Puertos, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Capitán Meza Puertos, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "17:00",
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Capitán Meza Puertos CENTRAL PY-99-0310 Localização Logradouro: CEP: Cidade: Capitán Meza Puertos, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Ter 17:00 - Sáb 15:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0171",
+    "Nome": "Carapa'i",
+    "Logradouro": "Calle San Lorenzo",
+    "CEP": "Cidade: Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Cidade": "Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3004305,
+      "lon": -57.520785
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Carapa'i PY-99-0171 Localização Logradouro: Calle San Lorenzo CEP: Cidade: Santa Rosa Del Aguaray, SPD, Paraguai Dias de Culto Dom 14:00 - Qua 18:30 Ministério Cooperador Ofício Ministerial Sebastián Morel Riquelme Cooperador de Jovens e Menores Valentin Cristaldo Nunez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0372",
+    "Nome": "Carmen del Paraná",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3376114,
+      "lon": -55.8669492
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Carmen del Paraná PY-99-0372 Localização Logradouro: CEP: Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 09:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial José Pereira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0024",
+    "Nome": "Central - Central",
+    "Logradouro": "Calle Amambay con Avenida Mariscal Estigarribia",
+    "CEP": "79935-000",
+    "Cidade": "Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "Qua",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade Central CENTRAL PY-99-0024 Localização Logradouro: Calle Amambay con Avenida Mariscal Estigarribia CEP: 79935-000 Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qua - Sáb 19:00 (RJM Dom 09:30) Ministério Ancião ANTÔNIO DA SILVA MARCIO DE JESUS SILVA Cooperador Ofício Ministerial Celso Alves de Souza Diácono Carlos Vitorino Santos Sobrinho Emiliano Martinez Rojas Alexandre Bruzaroschi Ruiz Ismael Pires da Rosa Cooperador de Jovens e Menores Josias da Rosa Silva Telefone(s) +595 (345) 225-254"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0152",
+    "Nome": "Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Cidade": "Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0541561,
+      "lon": -57.0970807
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Central CENTRAL PY-99-0152 Localização Logradouro: CEP: Cidade: Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai Dias de Culto Dom 09:30 Ministério Cooperador Ofício Ministerial Eleuterio Ramón Amarilla"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0032",
+    "Nome": "Centro",
+    "Logradouro": "Calle Osvaldo Fernández, s/nº",
+    "CEP": "Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.056639,
+      "lon": -54.3342067
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30 -4º Dom 19:30 -Qui-19:30"
+      },
+      "Obs": "Localidade Centro PY-99-0032 Localização Logradouro: Calle Osvaldo Fernández, s/nº CEP: Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 1º e 2º Dom 09:30 -4º Dom 19:30 -Qui-19:30 Ministério Ancião JOSÉ LUIZ DOS SANTOS Cooperador Ofício Ministerial Carlos Tolentino de Oliveira Diácono Daniel Félix Cardoso Helton Bernardo da Silva Diego Feliciano da Silva Geremia Gonzalez Aguero Cooperador de Jovens e Menores Eder de Oliveira Cardoso"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0003",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4041794,
+      "lon": -54.6320387
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 10:00",
+        "Terça-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0003 Localização Logradouro: CEP: Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 18:30 -Ter-Sáb 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Alfonso Kirch Diácono Orivaldo Almeida Cardoso Nilson Ribeiro Soares Edson Peixoto Cooperador de Jovens e Menores Diego Samuel Almeida Benítez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0006",
+    "Nome": "Centro - Central",
+    "Logradouro": "Avenida Bernardino Caballero, 303",
+    "CEP": "Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9765429,
+      "lon": -54.9116344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 10:00",
+        "Quarta-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0006 Localização Logradouro: Avenida Bernardino Caballero, 303 CEP: Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qua-Sáb 18:30 (RJM Dom 10:00) Ministério Ancião FRANCISCO FERREIRA DA SILVA RAMÓN VÁZQUEZ AQUINO OCLEBER ADRIANO COFFE Cooperador Ofício Ministerial Nerisvando Antônio Teles Diácono Cícero Rodrigues Carlos Alves da Silva Paulo Teixeira da Luz Danilo Jacob de Vilas Boas Manoel Cícero Ferreira da Silva Adriano da Luz Cooperador de Jovens e Menores Judson do Nascimento Rodrigues Telefone(s) +595 (677) 20-014"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0012",
+    "Nome": "Centro - Central",
+    "Logradouro": "Calle Próceres de Mayo",
+    "CEP": "Cidade: Los Cedrales, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Los Cedrales, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.6584029,
+      "lon": -54.7204891
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:30 / RJM Dom 09:30",
+        "Quarta-feira": "Sáb 19:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0012 Localização Logradouro: Calle Próceres de Mayo CEP: Cidade: Los Cedrales, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: Casilla de Correo 578 de Foz de Iguaçú - BR Dias de Culto Dom-Qua-Sáb 19:30 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial José Carlos Cardoso da Silva Diácono José Dourado de Souza Genivaldo Ferreira de Oliveira Cooperador de Jovens e Menores Cristiano Pimentel Telefone(s) +595 (986) 910-623 +595 (983) 614-560"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0030",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: La Paloma, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "La Paloma, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.1324273,
+      "lon": -54.612178
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0030 Localização Logradouro: CEP: Cidade: La Paloma, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qua-Sáb 19:30 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Miguel Ángel Núñez Floriano Dias dos Santos Cooperador de Jovens e Menores Dorival Batista Miranda"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0055",
+    "Nome": "Centro - Central",
+    "Logradouro": "Avenida Eusebio Ayala con Calle Juan José Rotela, 146",
+    "CEP": "Cidade: Curuguaty, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Curuguaty, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.4694166,
+      "lon": -55.6945253
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Centro CENTRAL PY-99-0055 Localização Logradouro: Avenida Eusebio Ayala con Calle Juan José Rotela, 146 CEP: Cidade: Curuguaty, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom-Qua-Sáb 19:00 Ministério Ancião ERMENEGILDO GAUTO GIMÉNEZ Cooperador Ofício Ministerial José Pedro Corea Diácono Jose Domingo Orquiola Almada Fidel Gauto Aguilera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0060",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00 / RJM Dom 09:00",
+        "Quinta-feira": "Sáb 19:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0060 Localização Logradouro: CEP: Cidade: Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom-Qui-Sáb 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Salvador Guerreiro Diácono Wilson Tavares de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0073",
+    "Nome": "Centro - Central",
+    "Logradouro": "Avenida Principal",
+    "CEP": "Cidade: San Cristóbal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Cristóbal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7780452,
+      "lon": -55.3940964
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 -Qua 19:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0073 Localização Logradouro: Avenida Principal CEP: Cidade: San Cristóbal, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 19:00 -Qua 19:30 Ministério Cooperador Ofício Ministerial Wanderson Sirilo Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0074",
+    "Nome": "Centro - Central",
+    "Logradouro": "Calle Boquerón y Héctor Soto",
+    "CEP": "Cidade: Doctor Juan Manuel Frutos, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Doctor Juan Manuel Frutos, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3859791,
+      "lon": -55.8332378
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quinta-feira": "18:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0074 Localização Logradouro: Calle Boquerón y Héctor Soto CEP: Cidade: Doctor Juan Manuel Frutos, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Qui-Sáb 18:00 Ministério Cooperador Ofício Ministerial Máximo Pintos Vega"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0077",
+    "Nome": "Centro - Central",
+    "Logradouro": "Avenida Internacional, 9010",
+    "CEP": "Cidade: Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -23.2739371,
+      "lon": -55.5437316
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0077 Localização Logradouro: Avenida Internacional, 9010 CEP: Cidade: Sanja Pytã, DEPARTAMENTO AMAMBAY, Paraguai Complemento: Sobre la línea fronteriza con Brasil Dias de Culto Qui-Sáb 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Mateo Zarrilla Achucarro Cooperador de Jovens e Menores Evanildo García Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0108",
+    "Nome": "Centro - Central",
+    "Logradouro": "Avenida Los Pioneros, s/nº",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 09:00",
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0108 Localização Logradouro: Avenida Los Pioneros, s/nº CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Sex 18:30 (RJM Dom 09:00) Ministério Ancião ELSON EDUARDO TEIXEIRA Cooperador Ofício Ministerial Josué Mazetto Koraleski Diácono Edgar Borges Cooperador de Jovens e Menores Mateus Subtil Ferreira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0129",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Pira Pytã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Pira Pytã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.2253893,
+      "lon": -54.6385604
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0129 Localização Logradouro: CEP: Cidade: Pira Pytã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter 19:30 Ministério Cooperador Ofício Ministerial Lauro Paulo dos Santos Telefone(s) +595 (985) 998-195"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0137",
+    "Nome": "Centro - Central",
+    "Logradouro": "Troncal 4",
+    "CEP": "Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.4904393,
+      "lon": -54.8582399
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00 / RJM Dom 09:00",
+        "Quinta-feira": "Sáb 19:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0137 Localização Logradouro: Troncal 4 CEP: Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom-Qui-Sáb 19:00 (RJM Dom 09:00) Ministério Ancião WILSON JOAQUIN DOS SANTOS MARTINS Cooperador Ofício Ministerial Mauro Gomes Nogueira Diácono Antonio dos Santos Ezequias Ferreira de Souza Ezequiel Francisco da Silva Bruno Alexandre Prado de Almeida Cooperador de Jovens e Menores José Aparecido da Silva"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0187",
+    "Nome": "Centro - Central",
+    "Logradouro": "Ruta 5",
+    "CEP": "Cidade: Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.9627672,
+      "lon": -56.5399467
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0187 Localização Logradouro: Ruta 5 CEP: Cidade: Yby Yau, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Qua-Sáb 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Cícero Soares de Andrade Cooperador de Jovens e Menores Feliciano Garcia Valenzuela"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0189",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM Dom 13:30"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0189 Localização Logradouro: CEP: Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qua-Sáb 19:00 (RJM Dom 13:30) Ministério Cooperador Ofício Ministerial Adenilson Cândido Diácono Jonas Naitzki Severini Cooperador de Jovens e Menores Daniel Mendoza Galeano"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0209",
+    "Nome": "Centro - Central",
+    "Logradouro": "Calle San Nicolás",
+    "CEP": "Cidade: Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Cidade": "Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0209 Localização Logradouro: Calle San Nicolás CEP: Cidade: Santa Rosa Del Aguaray, SPD, Paraguai Dias de Culto Dom-Qui 19:00 Ministério Cooperador Ofício Ministerial Fernando Rafael Ramírez Diácono Pedro Pablo Larroza Olmedo Cooperador de Jovens e Menores Richar Armando Baez Cardenia Richar Armando Baez Cardenia"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0370",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Laurel, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Laurel, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.5635433,
+      "lon": -54.9586833
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0370 Localização Logradouro: CEP: Cidade: Laurel, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qua 19:00 Ministério Cooperador Ofício Ministerial Daltro Davi Baldus Cooperador de Jovens e Menores Apolonio Diosnel Paredes Cardozo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0418",
+    "Nome": "Centro - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Capiibary, SPD, Paraguai",
+    "Cidade": "Capiibary, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Centro CENTRAL PY-99-0418 Localização Logradouro: CEP: Cidade: Capiibary, SPD, Paraguai Dias de Culto Dom 18:00 Ministério Cooperador Ofício Ministerial Gustavo Benítez Díaz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0375",
+    "Nome": "Cerro Corá - Chiriguelo",
+    "Logradouro": "3 Reyes",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Cerro Corá - Chiriguelo PY-99-0375 Localização Logradouro: 3 Reyes CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Dom 09:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial Rosalino Duarte Gomez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0426",
+    "Nome": "Cerro Costa",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Rosa, DEPARTAMENTO MISIONES, Paraguai",
+    "Cidade": "Santa Rosa, DEPARTAMENTO MISIONES, Paraguai",
+    "Coordenadas": {
+      "lat": -26.8864043,
+      "lon": -56.8492668
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Cerro Costa PY-99-0426 Localização Logradouro: CEP: Cidade: Santa Rosa, DEPARTAMENTO MISIONES, Paraguai Dias de Culto DM Dom 09:00 Culto Oficial Domingo - 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0276",
+    "Nome": "Chaipe",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3376114,
+      "lon": -55.8669492
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Chaipe PY-99-0276 Localização Logradouro: CEP: Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Sex 19:00 Ministério Cooperador Ofício Ministerial Erminio Sanabria"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0072",
+    "Nome": "Chamorro Cué - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: General Elizardo Aquino, SPD, Paraguai",
+    "Cidade": "General Elizardo Aquino, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:00",
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade Chamorro Cué CENTRAL PY-99-0072 Localização Logradouro: CEP: Cidade: General Elizardo Aquino, SPD, Paraguai Dias de Culto Dom 16:00 - Qua-Sáb 18:30 Ministério Cooperador Ofício Ministerial Eliseo Cristaldo Romero Diácono Roberto Davalos Rodas"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0280",
+    "Nome": "Chino Cué 2ª Línea",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Chino Cué 2ª Línea PY-99-0280 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Adolfo Álvarez Zaracho Adolfo Álvarez Zaracho"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0315",
+    "Nome": "Chino Cué 4ª Línea",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Chino Cué 4ª Línea PY-99-0315 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter 18:30 - Sáb 14:00 Ministério Cooperador Ofício Ministerial Gregorio Brizuela Zarza"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0167",
+    "Nome": "Colonia 8 de diciembre",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Colonia 8 de diciembre PY-99-0167 Localização Logradouro: CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter-Sáb 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Claudio dos Santos Cooperador de Jovens e Menores Samuel da Silva Quadra"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0274",
+    "Nome": "Colonia Ara Pyahu",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Capiibary, SPD, Paraguai",
+    "Cidade": "Capiibary, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Ara Pyahu PY-99-0274 Localização Logradouro: CEP: Cidade: Capiibary, SPD, Paraguai Dias de Culto 2º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0394",
+    "Nome": "Colonia Bajada Guazú",
+    "Logradouro": "Calle Cahobeti",
+    "CEP": "Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.0680313,
+      "lon": -54.3046768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Bajada Guazú PY-99-0394 Localização Logradouro: Calle Cahobeti CEP: Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0210",
+    "Nome": "Colonia Barbero - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Pedro, SPD, Paraguai",
+    "Cidade": "San Pedro, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Colonia Barbero CENTRAL PY-99-0210 Localização Logradouro: CEP: Cidade: San Pedro, SPD, Paraguai Dias de Culto Dom 09:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial José Dolores Espínola Rodríguez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0273",
+    "Nome": "Colonia Coronel Toledo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3244189,
+      "lon": -55.3794201
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Colonia Coronel Toledo PY-99-0273 Localização Logradouro: CEP: Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Qua 18:30 Ministério Cooperador Ofício Ministerial João Antônio Martins da Cruz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0244",
+    "Nome": "Colonia Curupay'ty",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Cidade": "Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Curupay'ty PY-99-0244 Localização Logradouro: CEP: Cidade: Santa Rosa Del Aguaray, SPD, Paraguai Dias de Culto Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0157",
+    "Nome": "Colonia Fortuna I",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:30 / RJM Dom 09:00"
+      },
+      "Obs": "Localidade Colonia Fortuna I PY-99-0157 Localização Logradouro: CEP: Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 10:30 (RJM Dom 09:00) Ministério Ancião ERIBERTO GARCIA DEBRUN"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0165",
+    "Nome": "Colonia Guarany",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0282763,
+      "lon": -54.824091
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 09:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Colonia Guarany PY-99-0165 Localização Logradouro: CEP: Cidade: Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 14:00 - Qui 18:30 (RJM Dom 09:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0173",
+    "Nome": "Colonia Hugua Po'i",
+    "Logradouro": "Llantén",
+    "CEP": "Cidade: General Elizardo Aquino, SPD, Paraguai",
+    "Cidade": "General Elizardo Aquino, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Colonia Hugua Po'i PY-99-0173 Localização Logradouro: Llantén CEP: Cidade: General Elizardo Aquino, SPD, Paraguai Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Ireneo González Caballero"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0392",
+    "Nome": "Colonia Indígena Yapó - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ypehu, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Ypehu, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Indígena Yapó CENTRAL PY-99-0392 Localização Logradouro: CEP: Cidade: Ypehu, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0367",
+    "Nome": "Colonia Itacarami - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Itacarami, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Itacarami, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "09:30"
+      },
+      "Obs": "Localidade Colonia Itacarami CENTRAL PY-99-0367 Localização Logradouro: CEP: Cidade: Colonia Itacarami, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sáb 09:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0361",
+    "Nome": "Colonia Lorito Picada",
+    "Logradouro": "A 8 Km de la Ruta 5",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Colonia Lorito Picada PY-99-0361 Localização Logradouro: A 8 Km de la Ruta 5 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto 2º e 4º Dom 09:30 Ministério Cooperador Ofício Ministerial Antonio Aguillera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0339",
+    "Nome": "Colonia Marañe'e - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Marañe´e, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Colonia Marañe´e, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Marañe'e CENTRAL PY-99-0339 Localização Logradouro: CEP: Cidade: Colonia Marañe´e, DEPARTAMENTO CONCEPCIÓN, Paraguai Complemento: Familia Blanco Dias de Culto Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0318",
+    "Nome": "Colonia Mariscal López",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Colonia Mariscal López PY-99-0318 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto 2º e 4º Sáb 15:00 Ministério Cooperador Ofício Ministerial Eugenio Duarte Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0368",
+    "Nome": "Colonia M´Boi Yagua",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Colonia M´Boi Yagua PY-99-0368 Localização Logradouro: CEP: Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 15:00 Ministério Ancião IZABELINO GOMEZ SOSA"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0195",
+    "Nome": "Colonia Nueva - Km 08",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.5060025,
+      "lon": -54.8575842
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Colonia Nueva - Km 08 PY-99-0195 Localização Logradouro: CEP: Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Jair Silva Porto"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0272",
+    "Nome": "Colonia Oñondivepa - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nueva Germania, SPD, Paraguai",
+    "Cidade": "Nueva Germania, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Colonia Oñondivepa CENTRAL PY-99-0272 Localização Logradouro: CEP: Cidade: Nueva Germania, SPD, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Juan Manuel Caballero Cabrera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0357",
+    "Nome": "Colonia Paso Real - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Paso Real, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Paso Real, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.2692928,
+      "lon": -55.6349794
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Paso Real CENTRAL PY-99-0357 Localização Logradouro: CEP: Cidade: Colonia Paso Real, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 1º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0240",
+    "Nome": "Colonia Pindó - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Pindó, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Colonia Pindó, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM Dom 13:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Colonia Pindó CENTRAL PY-99-0240 Localização Logradouro: CEP: Cidade: Colonia Pindó, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom 15:00 - Qui 18:30 (RJM Dom 13:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0404",
+    "Nome": "Colonia Poroto - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia San Pedro, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia San Pedro, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -23.9245006,
+      "lon": -55.9916579
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Colonia Poroto CENTRAL PY-99-0404 Localização Logradouro: CEP: Cidade: Colonia San Pedro, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 2º e 4º Dom 09:00 Ministério Cooperador Ofício Ministerial Tomas Franco Zalazar"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0150",
+    "Nome": "Colonia Portuguesa",
+    "Logradouro": "Ruta Internacional nº 7, Km 235",
+    "CEP": "Cidade: Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3715319,
+      "lon": -55.7044814
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Colonia Portuguesa PY-99-0150 Localização Logradouro: Ruta Internacional nº 7, Km 235 CEP: Cidade: Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Acceso principal de la Ruta'i Torin, a 9 Km de la Ruta 7 Dias de Culto Sáb 18:00 Ministério Cooperador Ofício Ministerial Jorge Britez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0347",
+    "Nome": "Colonia Pyracay - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Pyracay, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Pyracay, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "10:30"
+      },
+      "Obs": "Localidade Colonia Pyracay CENTRAL PY-99-0347 Localização Logradouro: CEP: Cidade: Colonia Pyracay, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 1º e 3º Sáb 10:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0192",
+    "Nome": "Colonia San Juan",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.0680313,
+      "lon": -54.3046768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30 / RJM última Qui 19:30"
+      },
+      "Obs": "Localidade Colonia San Juan PY-99-0192 Localização Logradouro: CEP: Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qui 19:30 (RJM última Qui 19:30) Ministério Cooperador Ofício Ministerial Carlos Rodrigues Pereira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0396",
+    "Nome": "Colonia Santa Clara - 2ª Zona",
+    "Logradouro": "Ruta 5, Km 52",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.6901218,
+      "lon": -56.2271493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Colonia Santa Clara - 2ª Zona PY-99-0396 Localização Logradouro: Ruta 5, Km 52 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Complemento: a 11 Km de la Ruta 5 Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Marillo Sanches de Mattos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0004",
+    "Nome": "Colonia Tape Ykere",
+    "Logradouro": "Cruce Itakyry",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.094658,
+      "lon": -54.9605458
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Colonia Tape Ykere PY-99-0004 Localização Logradouro: Cruce Itakyry CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qua 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Renan dos Santos Oliveira Cooperador de Jovens e Menores Gilberto Rodrigues de Oliveira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0348",
+    "Nome": "Colonia Taquapú - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Taquapú, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Taquapú, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Colonia Taquapú CENTRAL PY-99-0348 Localização Logradouro: CEP: Cidade: Colonia Taquapú, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 09:30 Ministério Cooperador Ofício Ministerial Celso Cantero"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0301",
+    "Nome": "Colonia Tatú Cué - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Tatú Cué, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Tatú Cué, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Tatú Cué CENTRAL PY-99-0301 Localização Logradouro: CEP: Cidade: Colonia Tatú Cué, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 1º e 3º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0211",
+    "Nome": "Colonia Tayi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Tayi PY-99-0211 Localização Logradouro: CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0350",
+    "Nome": "Colonia Teco Pyahú - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Teco Pyahú, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Teco Pyahú, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Colonia Teco Pyahú CENTRAL PY-99-0350 Localização Logradouro: CEP: Cidade: Colonia Teco Pyahú, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 2º Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0326",
+    "Nome": "Colonia Tembiaporá - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Colonia Tembiaporá CENTRAL PY-99-0326 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter-Sáb 18:30 (RJM Dom 09:00) Ministério Ancião CARLOS FABIÁN TROCHE MOREL Cooperador Ofício Ministerial Nelson Paredes Ysasi"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0302",
+    "Nome": "Colonia Yby Pytã",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Yby Pytã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Yby Pytã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.348753,
+      "lon": -55.3866594
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Colonia Yby Pytã PY-99-0302 Localização Logradouro: CEP: Cidade: Yby Pytã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto 1º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0386",
+    "Nome": "Colonia Ybype",
+    "Logradouro": "Ruta 5, Km 5",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.6901218,
+      "lon": -56.2271493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Colonia Ybype PY-99-0386 Localização Logradouro: Ruta 5, Km 5 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Qui 19:30 Ministério Cooperador Ofício Ministerial Eraldo Quimenez Lopes Cooperador de Jovens e Menores Ezequiel Souza de Lima"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0146",
+    "Nome": "Colonia Yuruka",
+    "Logradouro": "Callejón Lorito Picada",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Colonia Yuruka PY-99-0146 Localização Logradouro: Callejón Lorito Picada CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Complemento: Continuación Laguna Porã y Pyta, Ruta 5, Km 57 Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0408",
+    "Nome": "Colonia Zapattini Cué - Central",
+    "Logradouro": "Arapay 8 de diciembre",
+    "CEP": "Cidade: Yhú, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Yhú, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.056433,
+      "lon": -55.9224442
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Colonia Zapattini Cué CENTRAL PY-99-0408 Localização Logradouro: Arapay 8 de diciembre CEP: Cidade: Yhú, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Dom 09:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Guillermo Benítez Britez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0121",
+    "Nome": "Colonia Ñadeyara Puente",
+    "Logradouro": "Callejón Lorito Picada, a 12 Km de la Ruta 5",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Sábado": "RJM 2º Sáb 19:30"
+      },
+      "Obs": "Localidade Colonia Ñadeyara Puente PY-99-0121 Localização Logradouro: Callejón Lorito Picada, a 12 Km de la Ruta 5 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto 1º e 3º Dom 09:00 (RJM 2º Sáb 19:30) Ministério Cooperador Ofício Ministerial Luiz Amarilla Cooperador de Jovens e Menores Librado Ramon Flores"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0278",
+    "Nome": "Compañía Baules - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Panchito López, DEPARTAMENTO MISIONES, Paraguai",
+    "Cidade": "Panchito López, DEPARTAMENTO MISIONES, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3876105,
+      "lon": -57.2870861
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Compañía Baules CENTRAL PY-99-0278 Localização Logradouro: CEP: Cidade: Panchito López, DEPARTAMENTO MISIONES, Paraguai Dias de Culto 2º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0337",
+    "Nome": "Comunidad Indígena Puerto Diana - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Comunidad Indígena Puerto Diana, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Cidade": "Comunidad Indígena Puerto Diana, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Coordenadas": {
+      "lat": -20.2544725,
+      "lon": -58.1662977
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Comunidad Indígena Puerto Diana CENTRAL PY-99-0337 Localização Logradouro: CEP: Cidade: Comunidad Indígena Puerto Diana, DEPARTAMENTO ALTO PARAGUAY, Paraguai Dias de Culto 1º e 3º Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0207",
+    "Nome": "Cristo Rey - Central",
+    "Logradouro": "A 1 Km del camino a Paso Yovai",
+    "CEP": "Cidade: Colonia Independencia, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Cidade": "Colonia Independencia, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7061825,
+      "lon": -56.1852883
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Cristo Rey CENTRAL PY-99-0207 Localização Logradouro: A 1 Km del camino a Paso Yovai CEP: Cidade: Colonia Independencia, DEPARTAMENTO GUAIRÁ, Paraguai Dias de Culto Sáb 18:00 Ministério Cooperador Ofício Ministerial Calixto Ríos Franco Calixto Ríos Franco"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0343",
+    "Nome": "Cruce Boquerón - San Miguel - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Loma Plata, DEPARTAMENTO BOQUERÓN, Paraguai",
+    "Cidade": "Loma Plata, DEPARTAMENTO BOQUERÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.3848499,
+      "lon": -59.8382177
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Cruce Boquerón - San Miguel CENTRAL PY-99-0343 Localização Logradouro: CEP: Cidade: Loma Plata, DEPARTAMENTO BOQUERÓN, Paraguai Dias de Culto Sáb 14:00 Ministério Cooperador Ofício Ministerial Prisciliano Aguiar Reitz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0221",
+    "Nome": "Cruce De Los Pioneros - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Cidade": "Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0541561,
+      "lon": -57.0970807
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Cruce De Los Pioneros CENTRAL PY-99-0221 Localização Logradouro: CEP: Cidade: Arroyos Y Esteros, DEPARTAMENTO CORDILLERA, Paraguai Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0134",
+    "Nome": "Cruce Villa Cué",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Cruce Villa Cué PY-99-0134 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 18:30 Ministério Cooperador Ofício Ministerial Claudinez Vicente da Silva"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0411",
+    "Nome": "Cuatro Vientos",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Luque, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Luque, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.2665417,
+      "lon": -57.4926928
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade Cuatro Vientos PY-99-0411 Localização Logradouro: CEP: Cidade: Luque, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Dom 09:00 - Ter 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0345",
+    "Nome": "Cuatro Vientos - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Limpio, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Limpio, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.1728768,
+      "lon": -57.4778284
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30"
+      },
+      "Obs": "Localidade Cuatro Vientos CENTRAL PY-99-0345 Localização Logradouro: CEP: Cidade: Limpio, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto 1ª e 3ª Ter 19:30 Ministério Cooperador Ofício Ministerial Ezequiel Velázquez Lugo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0219",
+    "Nome": "Cía. Planta 2 - Central",
+    "Logradouro": "Calle Dos",
+    "CEP": "Cidade: Tacuati, SPD, Paraguai",
+    "Cidade": "Tacuati, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Cía. Planta 2 CENTRAL PY-99-0219 Localização Logradouro: Calle Dos CEP: Cidade: Tacuati, SPD, Paraguai Dias de Culto Dom 15:00 - Qua 18:30 Ministério Cooperador Ofício Ministerial Luciano Escurra"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0156",
+    "Nome": "Defensores del Chaco - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Caacupe, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Cidade": "Caacupe, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3856888,
+      "lon": -57.140477
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade Defensores del Chaco CENTRAL PY-99-0156 Localização Logradouro: CEP: Cidade: Caacupe, DEPARTAMENTO CORDILLERA, Paraguai Dias de Culto Sáb 19:30 (RJM Dom 09:30) Ministério Ancião PEDRO ARANDA RUIZ DÍAZ Cooperador Ofício Ministerial Nelson Basilio Meza Coronel Cooperador de Jovens e Menores Daniel Britez Olmedo Telefone(s) +595 (511) 243-403"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0020",
+    "Nome": "Distrito Mariscal Francisco Solano López - Central",
+    "Logradouro": "Calle San Roque González",
+    "CEP": "Cidade: Santa Teresa, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Santa Teresa, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0819057,
+      "lon": -55.5970996
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "RJM"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Sábado": "19:30",
+        "RJM": "RJM 09:00"
+      },
+      "Obs": "Localidade Distrito Mariscal Francisco Solano López CENTRAL PY-99-0020 Localização Logradouro: Calle San Roque González CEP: Cidade: Santa Teresa, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Qui-Sáb 19:30 (RJM 09:00) Ministério Cooperador Ofício Ministerial Cayo Miranda Aguero Cooperador de Jovens e Menores Daniel Moisés Rivas Cantero"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0250",
+    "Nome": "Edelira Cuatro Bocas - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Puerto Capitán Meza, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Puerto Capitán Meza, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -26.9244324,
+      "lon": -55.2595416
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00 / RJM Dom 14:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Edelira Cuatro Bocas CENTRAL PY-99-0250 Localização Logradouro: CEP: Cidade: Puerto Capitán Meza, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 14:00 - Qui 19:00 (RJM Dom 14:00) Ministério Cooperador Ofício Ministerial Juan Demétrio Gonzalez Sanchez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0007",
+    "Nome": "Fracción 7",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9765429,
+      "lon": -54.9116344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "18:30",
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Fracción 7 PY-99-0007 Localização Logradouro: CEP: Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Qui-Sáb 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Emerson Alves da Silva Moresco Cooperador de Jovens e Menores Leandro Franco Mendez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0312",
+    "Nome": "Fracción Amistad I",
+    "Logradouro": "Calle Urutai com Calle Francisco Rodrigues",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Fracción Amistad I PY-99-0312 Localização Logradouro: Calle Urutai com Calle Francisco Rodrigues CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Ter-Sex 19:30 Ministério Cooperador Ofício Ministerial Francisco Duarte Diácono José Paulo Benitez Cooperador de Jovens e Menores Ronald Roberto Gonzalez Villalha"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0188",
+    "Nome": "Fracción Santa María - Central",
+    "Logradouro": "Fracción Santa María",
+    "CEP": "Cidade: San Estanislao, SPD, Paraguai",
+    "Cidade": "San Estanislao, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3906822,
+      "lon": -57.4590739
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Fracción Santa María CENTRAL PY-99-0188 Localização Logradouro: Fracción Santa María CEP: Cidade: San Estanislao, SPD, Paraguai Dias de Culto Sáb 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Abraham Daniel Ramos Portillo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0258",
+    "Nome": "Fuerte Olimpo - Central",
+    "Logradouro": "Avenida Aviadores del Chaco",
+    "CEP": "Cidade: Fuerte Olimpo, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Cidade": "Fuerte Olimpo, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Coordenadas": {
+      "lat": -21.0385406,
+      "lon": -57.8748123
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30",
+        "Quarta-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade Fuerte Olimpo CENTRAL PY-99-0258 Localização Logradouro: Avenida Aviadores del Chaco CEP: Cidade: Fuerte Olimpo, DEPARTAMENTO ALTO PARAGUAY, Paraguai Dias de Culto Dom-Qua-Sáb 18:30 Ministério Cooperador Ofício Ministerial Juan Blas Espínola Areco"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0172",
+    "Nome": "Fátima - Central",
+    "Logradouro": "Avenida Manuel Domínguez con Eusebio Ayala",
+    "CEP": "Cidade: General Isidoro Resquin, SPD, Paraguai",
+    "Cidade": "General Isidoro Resquin, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Fátima CENTRAL PY-99-0172 Localização Logradouro: Avenida Manuel Domínguez con Eusebio Ayala CEP: Cidade: General Isidoro Resquin, SPD, Paraguai Dias de Culto Dom 18:00 - Qua 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Juan Carlos Galeano Sánchez Diácono Gregorio Cristaldo Romero Cooperador de Jovens e Menores Clemente Segovia Gonzalez Telefone(s) +595 (971) 492-320"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0018",
+    "Nome": "General Díaz - Km 42 - Central",
+    "Logradouro": "General Díaz",
+    "CEP": "Cidade: Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9817133,
+      "lon": -54.7271874
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 10:00",
+        "Terça-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade General Díaz - Km 42 CENTRAL PY-99-0018 Localização Logradouro: General Díaz CEP: Cidade: Mbaracayu, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Ter-Sáb 18:30 (RJM Dom 10:00) Ministério Ancião JONAS LÚCIO Cooperador Ofício Ministerial Leandro Lucio Ortega Diácono Aldo Mazetto Cooperador de Jovens e Menores Giovane Lucio Ortega"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0420",
+    "Nome": "Golondrina - Central",
+    "Logradouro": "Calle Mujer Paraguaya x Wilfrido Insaurralde",
+    "CEP": "150403",
+    "Cidade": "Villa Hayes, DEPARTAMENTO PRESIDENTE HAYES, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0928654,
+      "lon": -57.5246478
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Golondrina CENTRAL PY-99-0420 Localização Logradouro: Calle Mujer Paraguaya x Wilfrido Insaurralde CEP: 150403 Cidade: Villa Hayes, DEPARTAMENTO PRESIDENTE HAYES, Paraguai Dias de Culto DN (RJM-DN) Reunião de Jovens e Menores Domingo - 18:30 - es_PY Culto Oficial Domingo - 18:30 - es_PY Ministério Cooperador Ofício Ministerial Pablo Francisco Soler Fiore"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0166",
+    "Nome": "Guarapuava I",
+    "Logradouro": "San Antonio",
+    "CEP": "Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.7725729,
+      "lon": -54.5777292
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Guarapuava I PY-99-0166 Localização Logradouro: San Antonio CEP: Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 18:30 Ministério Cooperador Ofício Ministerial Nilson Iungbeck Ribeiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0182",
+    "Nome": "Inmaculada - Central",
+    "Logradouro": "Calle Tuyuti con Mariscal Francisco Solano López",
+    "CEP": "Cidade: Juan León Mallorquin, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Juan León Mallorquin, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4291628,
+      "lon": -55.25452
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM Dom 13:00",
+        "Quarta-feira": "18:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Inmaculada CENTRAL PY-99-0182 Localização Logradouro: Calle Tuyuti con Mariscal Francisco Solano López CEP: Cidade: Juan León Mallorquin, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 15:00 - Qua-Sáb 18:00 (RJM Dom 13:00) Ministério Cooperador Ofício Ministerial Florencio Franco Cooperador de Jovens e Menores Victor Medina Zugasti"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0262",
+    "Nome": "Isla Yacyreta - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Isla Yacyreta, DEPARTAMENTO MISIONES, Paraguai",
+    "Cidade": "Isla Yacyreta, DEPARTAMENTO MISIONES, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "17:00",
+        "Domingo": "RJM Dom 09:30"
+      },
+      "Obs": "Localidade Isla Yacyreta CENTRAL PY-99-0262 Localização Logradouro: CEP: Cidade: Isla Yacyreta, DEPARTAMENTO MISIONES, Paraguai Dias de Culto Qua 17:00 (RJM Dom 09:30) Ministério Ancião ROBERTO VICENTE GAONA GARAY Cooperador Ofício Ministerial Nalberto Monzon Brisuela Telefone(s) +595 (985) 16-4586"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0401",
+    "Nome": "Ita Popó 2ª Zona",
+    "Logradouro": "Ruta 5",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.6901218,
+      "lon": -56.2271493
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Ita Popó 2ª Zona PY-99-0401 Localização Logradouro: Ruta 5 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Complemento: A 1 Km de la Cerámica Ita Popó Dias de Culto Dom 18:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial Domingo Sanches Mazacote"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0410",
+    "Nome": "Itaipyte",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Itaipyte PY-99-0410 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 18:30 Ministério Cooperador Ofício Ministerial Diomax Camargo dos Santos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0427",
+    "Nome": "Itaipyte - San Cayetano",
+    "Logradouro": "Fracción 17",
+    "CEP": "Cidade: Nacunday, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Nacunday, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.9798069,
+      "lon": -54.6831659
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Itaipyte - San Cayetano PY-99-0427 Localização Logradouro: Fracción 17 CEP: Cidade: Nacunday, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto ST Culto Oficial Sábado - 15:00 - es_PY Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0099",
+    "Nome": "Itambey Km 18",
+    "Logradouro": "Itambey Km 18",
+    "CEP": "Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.6497791,
+      "lon": -54.5367392
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Itambey Km 18 PY-99-0099 Localização Logradouro: Itambey Km 18 CEP: Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 18:30 Ministério Cooperador Ofício Ministerial Osmar Bertoldo Canata"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0191",
+    "Nome": "Itanarã - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itanarã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Itanarã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -23.7519813,
+      "lon": -55.4645214
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Itanarã CENTRAL PY-99-0191 Localização Logradouro: CEP: Cidade: Itanarã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0252",
+    "Nome": "Jerusalén II - Central",
+    "Logradouro": "Ruta 6",
+    "CEP": "Cidade: Iruña, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Iruña, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.0938362,
+      "lon": -55.1472465
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Jerusalén II CENTRAL PY-99-0252 Localização Logradouro: Ruta 6 CEP: Cidade: Iruña, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Sixto Galeano"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0197",
+    "Nome": "Juy",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Juy PY-99-0197 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-15:00 Ministério Ancião JOÃO BATISTA DA ROCHA"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0148",
+    "Nome": "Katuete - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Katuete, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Katuete, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.2485389,
+      "lon": -54.7595876
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Katuete CENTRAL PY-99-0148 Localização Logradouro: CEP: Cidade: Katuete, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom-Qui 19:00 (RJM Dom 09:00) Ministério Ancião EZEQUIEL VÁZQUEZ GÓMEZ Cooperador Ofício Ministerial Valdecir Backer Smeler Diácono Samuel Augusto dos Santos Augusto Cooperador de Jovens e Menores Silvanildo Borba de Souza"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0388",
+    "Nome": "Km 15 - Monday - Fraccion Las Gardenias",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Km 15 - Monday - Fraccion Las Gardenias PY-99-0388 Localização Logradouro: CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto DN 6N (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 - es_PY Culto Oficial Domingo - 19:30 - es_PY Sexta-feira - 19:30 - es_PY Ministério Cooperador Ofício Ministerial Juan de Dios Figueredo Rojas Cooperador de Jovens e Menores Juan Anderson Gimenez Duré"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0389",
+    "Nome": "Km 15 Monday - Las Gardenias",
+    "Logradouro": "a 1000 metros de la Ruta Internacional nº 7",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Km 15 Monday - Las Gardenias PY-99-0389 Localização Logradouro: a 1000 metros de la Ruta Internacional nº 7 CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Juan de Dios Figueredo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0328",
+    "Nome": "Km 19 Monday - San Cayetano",
+    "Logradouro": "A 100 metros de la Ruta Internacional nº 7",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Km 19 Monday - San Cayetano PY-99-0328 Localização Logradouro: A 100 metros de la Ruta Internacional nº 7 CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: detrás de la ex Ferretería Colman Dias de Culto DT 3N (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 - es_PY Culto Oficial Domingo - 16:00 - es_PY Terça-feira - 19:30 - es_PY Ministério Cooperador Ofício Ministerial Eleno Rotela Cooperador de Jovens e Menores Wilson Nascimento Faustino Telefone(s) +595 (983) 554-640"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0405",
+    "Nome": "Km 30 Monday - Comunero",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Km 30 Monday - Comunero PY-99-0405 Localização Logradouro: CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: A 500 metros de la Ruta Internacional nº 6 Dias de Culto 1º e 3º Sex 19:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0247",
+    "Nome": "Km 30 Monday - Piroy",
+    "Logradouro": "A 300 metros de la Ruta Internacional nº 6",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:30- Qua 19:30 / RJM Dom 09:00"
+      },
+      "Obs": "Localidade Km 30 Monday - Piroy PY-99-0247 Localização Logradouro: A 300 metros de la Ruta Internacional nº 6 CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 15:30- Qua 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Lúcio Shiokawa Paredes Diácono Erilberto Paredez Cardozo Cooperador de Jovens e Menores Gregório Ortiz Ynsfran Telefone(s) +595 (491) 356-658"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0423",
+    "Nome": "Km 5 - Fracción Cristal",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.056639,
+      "lon": -54.3342067
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "Sáb 19:30",
+        "Domingo": "RJM 3º Dom 09:30"
+      },
+      "Obs": "Localidade Km 5 - Fracción Cristal PY-99-0423 Localização Logradouro: CEP: Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Qua -Sáb 19:30 (RJM 3º Dom 09:30) Ministério Cooperador Ofício Ministerial Hugo Toribio Romero"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0120",
+    "Nome": "Ko'e Pytã - Central",
+    "Logradouro": "Calle San Vicente, s/nº",
+    "CEP": "Cidade: Liberación, SPD, Paraguai",
+    "Cidade": "Liberación, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Ko'e Pytã CENTRAL PY-99-0120 Localização Logradouro: Calle San Vicente, s/nº CEP: Cidade: Liberación, SPD, Paraguai Dias de Culto Dom 09:00 - Qua 18:30 Ministério Ancião VICTÓRIO CRISTALDO ROMERO DOMICIANO PEREIRA GONZÁLEZ Cooperador Ofício Ministerial Josia Cristaldo Romero Telefone(s) +595 (971) 403-548"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0333",
+    "Nome": "Ko'É Rory - Central",
+    "Logradouro": "Ruta Internacional nº 7 - Km 250,5",
+    "CEP": "Cidade: Juan Emilio O´leary, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Juan Emilio O´leary, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.421005,
+      "lon": -55.3740592
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Ko'É Rory CENTRAL PY-99-0333 Localização Logradouro: Ruta Internacional nº 7 - Km 250,5 CEP: Cidade: Juan Emilio O´leary, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 09:00 - Qui 18:00 Ministério Cooperador Ofício Ministerial Mauro Julian Colman Alfonzo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0261",
+    "Nome": "Kokuera",
+    "Logradouro": "Calle San Blas",
+    "CEP": "Cidade: Choré, SPD, Paraguai",
+    "Cidade": "Choré, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3610418,
+      "lon": -57.6063343
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Kokuera PY-99-0261 Localização Logradouro: Calle San Blas CEP: Cidade: Choré, SPD, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Adolfo Azuaga Cabello Adolfo Azuaga Cabello Telefone(s) +595 (982) 973-375"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0235",
+    "Nome": "La Morena - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade La Morena CENTRAL PY-99-0235 Localização Logradouro: CEP: Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador de Jovens e Menores Amancio Calderon Fariña"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0086",
+    "Nome": "Liberación Sur Santa Ana - Central",
+    "Logradouro": "Calle San Blas",
+    "CEP": "Cidade: Choré, SPD, Paraguai",
+    "Cidade": "Choré, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3610418,
+      "lon": -57.6063343
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM Dom 09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Liberación Sur Santa Ana CENTRAL PY-99-0086 Localização Logradouro: Calle San Blas CEP: Cidade: Choré, SPD, Paraguai Dias de Culto Dom 16:00 - Qua 18:30 (RJM Dom 09:00) Ministério Ancião GREGORIO AZUAGA Cooperador Ofício Ministerial Sindulfo Benegas Giménez Cooperador de Jovens e Menores José Del Rosario Rodas Panayo Telefone(s) +595 (972) 646-271"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0158",
+    "Nome": "Los Laureles",
+    "Logradouro": "Km 24 Monday - a 1.000 metros de la Ruta Internacional nº 7",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Los Laureles PY-99-0158 Localização Logradouro: Km 24 Monday - a 1.000 metros de la Ruta Internacional nº 7 CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 16:00 - Qui 19:30 (RJM Dom 09:00) Ministério Ancião JORGE GABRIEL CANTERO CENTURION MOISÉS NELSON CARDOZO SOTELO Cooperador Ofício Ministerial Silvino Diosnel Cardozo Sotelo Diácono Abel Barua Gonzalez Cooperador de Jovens e Menores Gustavo Gabriel Gonzalez Meza"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0136",
+    "Nome": "Los Productores - Central",
+    "Logradouro": "Calle los Agricultores, 36",
+    "CEP": "Cidade: Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.9739991,
+      "lon": -55.1901109
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "19:00"
+      },
+      "Obs": "Localidade Los Productores CENTRAL PY-99-0136 Localização Logradouro: Calle los Agricultores, 36 CEP: Cidade: Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 19:00 Ministério Cooperador Ofício Ministerial Dhonatas Gualberto Murcilio da Silva Diácono Jair Francisco Falinski"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0248",
+    "Nome": "Lote 9",
+    "Logradouro": "1ª Línea",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Lote 9 PY-99-0248 Localização Logradouro: 1ª Línea CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 15:00 - Qua 18:30 Ministério Cooperador Ofício Ministerial Agustín Zarza Brizuela Cooperador de Jovens e Menores Isaias Javier Shiokawa Thomas"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0153",
+    "Nome": "Marangatu - 1º de marzo",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.5060025,
+      "lon": -54.8575842
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Marangatu - 1º de marzo PY-99-0153 Localização Logradouro: CEP: Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Josias Francisco da Silva Cooperador de Jovens e Menores Jhone da Silva"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0327",
+    "Nome": "Mariscal Estigarribia - Central",
+    "Logradouro": "A 1000 metros del Cruce Raúl Peña",
+    "CEP": "Cidade: Raul Peña, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Raul Peña, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.1576585,
+      "lon": -55.2717978
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Mariscal Estigarribia CENTRAL PY-99-0327 Localização Logradouro: A 1000 metros del Cruce Raúl Peña CEP: Cidade: Raul Peña, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sáb 14:00 Ministério Cooperador Ofício Ministerial Mario González Arevalos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0279",
+    "Nome": "Mariscal José Felix Estigarribia - Central",
+    "Logradouro": "Calle Punta Riel esquina Platanillo",
+    "CEP": "Cidade: Mariscal José Felix Estigarribia, DEPARTAMENTO BOQUERÓN, Paraguai",
+    "Cidade": "Mariscal José Felix Estigarribia, DEPARTAMENTO BOQUERÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.0297927,
+      "lon": -60.5984488
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Mariscal José Felix Estigarribia CENTRAL PY-99-0279 Localização Logradouro: Calle Punta Riel esquina Platanillo CEP: Cidade: Mariscal José Felix Estigarribia, DEPARTAMENTO BOQUERÓN, Paraguai Dias de Culto Dom 09:00 - Qua 17:00 Ministério Cooperador Ofício Ministerial Guillermo Centurión Ortiz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0398",
+    "Nome": "María La Esperanza",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade María La Esperanza PY-99-0398 Localização Logradouro: CEP: Cidade: Ava'i, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom 15:00 Ministério Cooperador Ofício Ministerial Marco Verdun Barreto"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0400",
+    "Nome": "Mayor Martínez - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Mayor Martínez, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Cidade": "Mayor Martínez, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -27.1464309,
+      "lon": -58.2291864
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00 / RJM Sáb 19:00"
+      },
+      "Obs": "Localidade Mayor Martínez CENTRAL PY-99-0400 Localização Logradouro: CEP: Cidade: Mayor Martínez, DEPARTAMENTO ÑEEMBUCÚ, Paraguai Dias de Culto Qua-Sáb 19:00 (RJM Sáb 19:00) Ministério Cooperador de Jovens e Menores Ricardo Shiokawa Gimenez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0257",
+    "Nome": "Mbocayaty - Central",
+    "Logradouro": "Calle 29 de septiembre e Iturbe",
+    "CEP": "Cidade: Ñemby, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Ñemby, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3924542,
+      "lon": -57.5471112
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade Mbocayaty CENTRAL PY-99-0257 Localização Logradouro: Calle 29 de septiembre e Iturbe CEP: Cidade: Ñemby, DEPARTAMENTO CENTRAL, Paraguai Complemento: Fracción Las Perlas Dias de Culto 6N (RJM-DM) (RJM-6N) Reunião de Jovens e Menores Domingo - - es_PY Sexta-feira - 19:30 - es_PY Culto Oficial Sexta-feira - 19:30 - es_PY Ministério Cooperador Ofício Ministerial Idalino Delgado Cáceres Cooperador de Jovens e Menores Cedric Abner de Queiroz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0243",
+    "Nome": "Morombi",
+    "Logradouro": "Ruta General Aquino, Km 269",
+    "CEP": "Cidade: Guajayvi, SPD, Paraguai",
+    "Cidade": "Guajayvi, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5847477,
+      "lon": -57.0663532
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Morombi PY-99-0243 Localização Logradouro: Ruta General Aquino, Km 269 CEP: Cidade: Guajayvi, SPD, Paraguai Dias de Culto Dom 15:00 Ministério Ancião AGUSTÍN GAVILAN Cooperador Ofício Ministerial Sesareo Alvarenga Cooperador de Jovens e Menores Anibal Ayala Azuaga"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0253",
+    "Nome": "Naranjito - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Naranjito, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Naranjito, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -26.3601151,
+      "lon": -55.2443488
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Naranjito CENTRAL PY-99-0253 Localização Logradouro: CEP: Cidade: Naranjito, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto 2º Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0218",
+    "Nome": "Nueva Colombia - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Nueva Colombia, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Cidade": "Nueva Colombia, DEPARTAMENTO CORDILLERA, Paraguai",
+    "Coordenadas": {
+      "lat": -25.1879075,
+      "lon": -57.305443
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Nueva Colombia CENTRAL PY-99-0218 Localização Logradouro: CEP: Cidade: Nueva Colombia, DEPARTAMENTO CORDILLERA, Paraguai Dias de Culto 2º e 4º Sáb 15:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0371",
+    "Nome": "Paloma Cuatro Bocas",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Natalio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Natalio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -26.7564696,
+      "lon": -55.1367139
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 17:00"
+      },
+      "Obs": "Localidade Paloma Cuatro Bocas PY-99-0371 Localização Logradouro: CEP: Cidade: Natalio, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 18:00 (RJM Dom 17:00) Ministério Cooperador Ofício Ministerial Julio Cesar Duarte Acosta Diácono Sadan Vera Paredes Cooperador de Jovens e Menores Josia Adrian Cristaldo Reyes Josia Adrian Cristaldo Reyes"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0196",
+    "Nome": "Paso Cadena",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Paso Cadena PY-99-0196 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 14:00 - Qui 18:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0142",
+    "Nome": "Paso Jhu - Central",
+    "Logradouro": "Calle Yaguarimi, 2ª Línea, 3ª Zona",
+    "CEP": "Cidade: Paso Jhu, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Paso Jhu, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Paso Jhu CENTRAL PY-99-0142 Localização Logradouro: Calle Yaguarimi, 2ª Línea, 3ª Zona CEP: Cidade: Paso Jhu, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto DM Culto Oficial Domingo - 09:30 - es_PY Ministério Cooperador Ofício Ministerial Sérgio Gonçalves Vermieiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0397",
+    "Nome": "Paso Tuna",
+    "Logradouro": "A 15 Km de Cruce Lima",
+    "CEP": "Cidade: Lima, SPD, Paraguai",
+    "Cidade": "Lima, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Paso Tuna PY-99-0397 Localização Logradouro: A 15 Km de Cruce Lima CEP: Cidade: Lima, SPD, Paraguai Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0413",
+    "Nome": "Península",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.6375191,
+      "lon": -54.6315755
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Península PY-99-0413 Localização Logradouro: CEP: Cidade: Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Qui 18:30 Ministério Cooperador Ofício Ministerial Antonio Donizethe dos Santos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0317",
+    "Nome": "Pilicuo Cué",
+    "Logradouro": "Barrio Central",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00",
+        "Domingo": "RJM 2º e 4º Dom 09:00"
+      },
+      "Obs": "Localidade Pilicuo Cué PY-99-0317 Localização Logradouro: Barrio Central CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 19:00 (RJM 2º e 4º Dom 09:00) Ministério Cooperador Ofício Ministerial Fabio Meiners Fagundes Cooperador de Jovens e Menores Pablo Benitez Carrillo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0101",
+    "Nome": "Pindoty Porã",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Pindoty Porã PY-99-0101 Localização Logradouro: CEP: Cidade: Corpus Christy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Seg 19:00 Ministério Cooperador Ofício Ministerial Juvenal Cosmo Siqueira Diácono Eliseu Domingos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0183",
+    "Nome": "Planta Urbana - Central",
+    "Logradouro": "Calle San Juan",
+    "CEP": "Cidade: Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -27.325856,
+      "lon": -56.3346257
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Planta Urbana CENTRAL PY-99-0183 Localização Logradouro: Calle San Juan CEP: Cidade: Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Dom 14:00 - Qui 18:00 Ministério Cooperador Ofício Ministerial Hilarión Segovia Martínez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0293",
+    "Nome": "Pradera Alta",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Encarnación, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3376114,
+      "lon": -55.8669492
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Pradera Alta PY-99-0293 Localização Logradouro: CEP: Cidade: Encarnación, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Qui 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0185",
+    "Nome": "Prados Verdes - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: María Auxiliadora, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "María Auxiliadora, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3120612,
+      "lon": -55.8892799
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Prados Verdes CENTRAL PY-99-0185 Localização Logradouro: CEP: Cidade: María Auxiliadora, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom-Qui 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Rosalino Chamorro Irala Cooperador de Jovens e Menores Hector Basílio Allende Dejesus"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0285",
+    "Nome": "Primavera Real - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Primavera Real, SPD, Paraguai",
+    "Cidade": "Primavera Real, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Primavera Real CENTRAL PY-99-0285 Localização Logradouro: CEP: Cidade: Primavera Real, SPD, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Elizeo García Núñez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0031",
+    "Nome": "Puente Kyha - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.0680313,
+      "lon": -54.3046768
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sexta-feira": "19:00",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Puente Kyha CENTRAL PY-99-0031 Localização Logradouro: CEP: Cidade: Francisco Caballero Alvarez, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Ter-Sex 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Cesar Cáceres Cesar Cáceres Cooperador de Jovens e Menores Elian Carlos de Abreu Andrade"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0216",
+    "Nome": "Puente Siño - Central",
+    "Logradouro": "Calle 14 de Mayo",
+    "CEP": "Cidade: Colonia José Felix Lopes, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Colonia José Felix Lopes, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7453294,
+      "lon": -56.523381
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Puente Siño CENTRAL PY-99-0216 Localização Logradouro: Calle 14 de Mayo CEP: Cidade: Colonia José Felix Lopes, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 15:00 - Qua 19:00 Ministério Cooperador Ofício Ministerial Miguel Balbuena García"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0048",
+    "Nome": "Puerto Adela - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Puerto Adela, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Puerto Adela, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.4844244,
+      "lon": -54.3856984
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Puerto Adela CENTRAL PY-99-0048 Localização Logradouro: CEP: Cidade: Puerto Adela, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 14:00 - Sáb 19:00 Ministério Cooperador Ofício Ministerial Ramilson de Castro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0119",
+    "Nome": "Puerto Triunfo - Central",
+    "Logradouro": "Km 2",
+    "CEP": "Cidade: Natalio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Natalio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -26.7564696,
+      "lon": -55.1367139
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:00 / RJM Dom 14:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Puerto Triunfo CENTRAL PY-99-0119 Localização Logradouro: Km 2 CEP: Cidade: Natalio, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 16:00 - Qua-Sáb 19:00 (RJM Dom 14:00) Ministério Ancião HILARION RAMÍREZ Diácono Rubén Arguello Rodríguez Cooperador de Jovens e Menores Agacir Luiz Giaretta"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0424",
+    "Nome": "Rinconada Mbokaja'i",
+    "Logradouro": "Vella Vista",
+    "CEP": "Cidade: Bella Vista, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Bella Vista, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.1231581,
+      "lon": -56.5133016
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Rinconada Mbokaja'i PY-99-0424 Localização Logradouro: Vella Vista CEP: Cidade: Bella Vista, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Dom 15:00 Ministério Ancião DANIEL FLORES RODRIGUES Cooperador Ofício Ministerial José Augusto Vargas"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0381",
+    "Nome": "Romero Cué",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 09:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Romero Cué PY-99-0381 Localização Logradouro: CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Complemento: A 400 metros de la Carretera Itá-Taitá Dias de Culto Dom 18:00 - Qua 19:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Reinaldo Olmedo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0265",
+    "Nome": "Ruta 2 - Km 21,5 - Central",
+    "Logradouro": "Calle Monte Negro con 5 Florida",
+    "CEP": "Cidade: Capiata, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Capiata, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3548171,
+      "lon": -57.4427315
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "18:00"
+      },
+      "Obs": "Localidade Ruta 2 - Km 21,5 CENTRAL PY-99-0265 Localização Logradouro: Calle Monte Negro con 5 Florida CEP: Cidade: Capiata, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto DN 4N SN (RJM-DT) Culto Oficial Domingo - 18:00 - es_PY Quarta-feira - 19:30 - es_PY Sábado - 19:30 - es_PY Reunião de Jovens e Menores Domingo - 15:30 - es_PY Ministério Cooperador Ofício Ministerial Gabriel Portillo Alcaraz Diácono Marcos Amarildo Marcianinho Ferreir Julio César Arce Gessé Correia dos Santos Cooperador de Jovens e Menores David Junior Rodriguez Tscha Telefone(s) +595 (28) 32-796"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0383",
+    "Nome": "Ruta 5 - Km 41 - Central",
+    "Logradouro": "Al lado de María Auxiliadora",
+    "CEP": "Cidade: Horqueta, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Horqueta, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -23.344573,
+      "lon": -57.0513696
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Ruta 5 - Km 41 CENTRAL PY-99-0383 Localização Logradouro: Al lado de María Auxiliadora CEP: Cidade: Horqueta, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 14:00 - Sáb 19:00 Ministério Cooperador Ofício Ministerial José Caballero"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0088",
+    "Nome": "San Alfredo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Alfredo, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alfredo, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5190631,
+      "lon": -54.6477092
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade San Alfredo CENTRAL PY-99-0088 Localização Logradouro: CEP: Cidade: San Alfredo, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 19:00 Ministério Cooperador Ofício Ministerial João Tavares Pereira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0412",
+    "Nome": "San Antonio II",
+    "Logradouro": "Camino Laurel",
+    "CEP": "Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.5060025,
+      "lon": -54.8575842
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Quinta-feira": "19:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade San Antonio II PY-99-0412 Localização Logradouro: Camino Laurel CEP: Cidade: Nueva Esperanza, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Ter-Qui 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Daniel Aparecido Gomes da Silva Cooperador de Jovens e Menores Jorge Alejandro Portillo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0263",
+    "Nome": "San Blas",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "08:30"
+      },
+      "Obs": "Localidade San Blas PY-99-0263 Localização Logradouro: CEP: Cidade: Villa Ygatimy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 08:30 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0118",
+    "Nome": "San Blas - Central",
+    "Logradouro": "Calle Fidel Maíz con Carlos Antonio López",
+    "CEP": "Cidade: Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3715319,
+      "lon": -55.7044814
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 15:00",
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade San Blas CENTRAL PY-99-0118 Localização Logradouro: Calle Fidel Maíz con Carlos Antonio López CEP: Cidade: Doctor Juan Eulogio Estigarribia, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Campo 9 Dias de Culto Dom 17:00 - Qua-Sáb 18:30 (RJM Dom 15:00) Ministério Ancião FLORENTINO AGUILERA FERREIRA Cooperador Ofício Ministerial Miguel Ángel Aguilera Ferreira Cooperador de Jovens e Menores Rober Assuncion Baez Fretes Telefone(s) +595 (975) 340-113"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0149",
+    "Nome": "San Blas - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5365912,
+      "lon": -55.9931355
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade San Blas CENTRAL PY-99-0149 Localização Logradouro: CEP: Cidade: Repatriación, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Dom 15:00 Ministério Cooperador Ofício Ministerial Flaviano Gauto Pereira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0313",
+    "Nome": "San Blas - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Vallemi, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Vallemi, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.1565255,
+      "lon": -57.9516578
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade San Blas CENTRAL PY-99-0313 Localização Logradouro: CEP: Cidade: Vallemi, DEPARTAMENTO CONCEPCIÓN, Paraguai Complemento: Frente al Centro de Salud Dias de Culto Dom 17:00 - Qua 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0399",
+    "Nome": "San Blas - Villa Rosana - Central",
+    "Logradouro": "Lote 3, Manzana 40",
+    "CEP": "Cidade: Itá, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Itá, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5074747,
+      "lon": -57.3631906
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 18:00"
+      },
+      "Obs": "Localidade San Blas - Villa Rosana CENTRAL PY-99-0399 Localização Logradouro: Lote 3, Manzana 40 CEP: Cidade: Itá, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Dom 18:00 (RJM Dom 18:00) Ministério Cooperador Ofício Ministerial Lucio Gonzalez Morel"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0008",
+    "Nome": "San Francisco - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Francisco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Francisco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5904242,
+      "lon": -54.5975602
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 09:00",
+        "Quarta-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade San Francisco CENTRAL PY-99-0008 Localização Logradouro: CEP: Cidade: San Francisco, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qua-Sáb 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Raimundo Fernandes Ferreira Cooperador de Jovens e Menores Fernando Diniz Gonçalves"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0022",
+    "Nome": "San Francisco - Central",
+    "Logradouro": "Calle María Luisa Gallardo de Rivaldi",
+    "CEP": "Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4661756,
+      "lon": -56.0181685
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 15:00",
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade San Francisco CENTRAL PY-99-0022 Localização Logradouro: Calle María Luisa Gallardo de Rivaldi CEP: Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Esquina Mariscal Francisco Solano López Dias de Culto Dom 17:00 - Qua-Sáb 18:30 (RJM Dom 15:00) Ministério Ancião PEDRO GUSTAVO VERON GONZALEZ Cooperador Ofício Ministerial Francisco Contrera Paredes Diácono Labreano Rossi Cooperador de Jovens e Menores Miguel Adolfo Britez Romero Telefone(s) +595 (85) 224-0878"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0325",
+    "Nome": "San Isidro - Central",
+    "Logradouro": "Tres cuadras de Conaví Ypane",
+    "CEP": "Cidade: Ypane, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Ypane, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4573519,
+      "lon": -57.5092575
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:30 / RJM Sex 19:30"
+      },
+      "Obs": "Localidade San Isidro CENTRAL PY-99-0325 Localização Logradouro: Tres cuadras de Conaví Ypane CEP: Cidade: Ypane, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Sex 19:30 (RJM Sex 19:30) Ministério Cooperador Ofício Ministerial Rodrigo Adalberto Ayala Vega"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0097",
+    "Nome": "San Jorge - Central",
+    "Logradouro": "Ruta 5, Km 1",
+    "CEP": "Cidade: Concepción, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Concepción, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -23.4329524,
+      "lon": -57.431914
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 09:00",
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade San Jorge CENTRAL PY-99-0097 Localização Logradouro: Ruta 5, Km 1 CEP: Cidade: Concepción, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 18:00 - Qua-Sáb 18:30 (RJM Dom 09:00) Ministério Ancião ALBERTO DANIEL GÓMEZ RAVAIOLLI Cooperador Ofício Ministerial Julián Báez Diácono Carlos Aparecido Batista da Silva Cooperador de Jovens e Menores Marcial Ruben Figueiredo Centurión"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0110",
+    "Nome": "San Jorge - Central",
+    "Logradouro": "Calle Asunción, 1389",
+    "CEP": "Cidade: Villeta, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Villeta, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5045192,
+      "lon": -57.5693789
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "RJM Sáb 18:00"
+      },
+      "Obs": "Localidade San Jorge CENTRAL PY-99-0110 Localização Logradouro: Calle Asunción, 1389 CEP: Cidade: Villeta, DEPARTAMENTO CENTRAL, Paraguai Complemento: Entre Carlos Antonio López y 14 de Mayo Dias de Culto Dom 16:00 - Qua 19:00 (RJM Sáb 18:00) Ministério Cooperador Ofício Ministerial Pablo Enrique Leyes Meza Cooperador de Jovens e Menores Roberto Maqueda Cardozo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0160",
+    "Nome": "San Jorge Primeira Linea - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3244189,
+      "lon": -55.3794201
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade San Jorge Primeira Linea CENTRAL PY-99-0160 Localização Logradouro: CEP: Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Qua-Sáb 18:30 Ministério Cooperador Ofício Ministerial Carlos Cabrera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0407",
+    "Nome": "San José",
+    "Logradouro": "Km 4 Monday c/Alberdi",
+    "CEP": "Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5169015,
+      "lon": -54.6168645
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30 / RJM Sáb 10:00"
+      },
+      "Obs": "Localidade San José PY-99-0407 Localização Logradouro: Km 4 Monday c/Alberdi CEP: Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: A 100 metros de la Ruta Internacional nº 7 Dias de Culto Dom 18:30- Qua-Sáb 19:30 (RJM Sáb 10:00) Ministério Ancião JONAS FOGAÇA HEIMANN ENEIAS OLIVEIRA DANTAS Diácono Waldemar Granados Filho Cooperador de Jovens e Menores Matheus do Nascimento Alves"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0417",
+    "Nome": "San José - Central",
+    "Logradouro": "Calle José Sabam",
+    "CEP": "Cidade: Toro Pampa, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Cidade": "Toro Pampa, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Coordenadas": {
+      "lat": -21.0231185,
+      "lon": -58.4833062
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade San José CENTRAL PY-99-0417 Localização Logradouro: Calle José Sabam CEP: Cidade: Toro Pampa, DEPARTAMENTO ALTO PARAGUAY, Paraguai Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0177",
+    "Nome": "San Juan - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Colonia Santo Domingo, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Colonia Santo Domingo, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade San Juan CENTRAL PY-99-0177 Localização Logradouro: CEP: Cidade: Colonia Santo Domingo, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0059",
+    "Nome": "San Martín",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 13:00",
+        "Terça-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade San Martín PY-99-0059 Localização Logradouro: CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Ter-Sáb 18:30 (RJM Dom 13:00) Ministério Cooperador Ofício Ministerial Odair Conti Cooperador de Jovens e Menores Tiago Veiga Oliveira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0242",
+    "Nome": "San Miguel",
+    "Logradouro": "Calle Santa Librada",
+    "CEP": "Cidade: Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -25.2893511,
+      "lon": -57.5244549
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 09:30",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade San Miguel PY-99-0242 Localização Logradouro: Calle Santa Librada CEP: Cidade: Colonia Nueva Esperanza, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 17:00 - Qua 19:00 (RJM Dom 09:30) Ministério Cooperador Ofício Ministerial Osvaldo Eladio Olmedo López Cooperador de Jovens e Menores Aloisio de Jesus Santos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0385",
+    "Nome": "San Miguel",
+    "Logradouro": "Ruta 8",
+    "CEP": "Cidade: Liberación, SPD, Paraguai",
+    "Cidade": "Liberación, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7649969,
+      "lon": -56.4407285
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade San Miguel PY-99-0385 Localização Logradouro: Ruta 8 CEP: Cidade: Liberación, SPD, Paraguai Dias de Culto 2ª e 4ª Qui 19:30 Ministério Ancião ISAÍAS RÍOS GARCIA"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0425",
+    "Nome": "San Miguel",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Carmelo Peralta, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Cidade": "Carmelo Peralta, DEPARTAMENTO ALTO PARAGUAY, Paraguai",
+    "Coordenadas": {
+      "lat": -21.6811385,
+      "lon": -57.9062628
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade San Miguel PY-99-0425 Localização Logradouro: CEP: Cidade: Carmelo Peralta, DEPARTAMENTO ALTO PARAGUAY, Paraguai Dias de Culto 1º e 3º Dom 09:00 Ministério Cooperador Ofício Ministerial Feliciano Franco Rola"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0322",
+    "Nome": "San Miguel - Central",
+    "Logradouro": "Avenida Concepción con Pilar",
+    "CEP": "Cidade: Villarrica, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Cidade": "Villarrica, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7809839,
+      "lon": -56.4478765
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "16:00",
+        "Quarta-feira": "18:30",
+        "Sábado": "18:30"
+      },
+      "Obs": "Localidade San Miguel CENTRAL PY-99-0322 Localização Logradouro: Avenida Concepción con Pilar CEP: Cidade: Villarrica, DEPARTAMENTO GUAIRÁ, Paraguai Dias de Culto Dom 16:00 - Qua-Sáb 18:30 Ministério Cooperador Ofício Ministerial Balbino Arguello Cubilla"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0041",
+    "Nome": "San Pauli - Central",
+    "Logradouro": "Calle Independencia Nacional",
+    "CEP": "Cidade: Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.8004863,
+      "lon": -55.0934459
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sábado": "19:00",
+        "Domingo": "RJM 2º Dom 13:00 e 4º Dom 10:00"
+      },
+      "Obs": "Localidade San Pauli CENTRAL PY-99-0041 Localização Logradouro: Calle Independencia Nacional CEP: Cidade: Santa Rita, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter-Sáb 19:00 (RJM 2º Dom 13:00 e 4º Dom 10:00) Ministério Ancião CLAUDINEY FERREIRA DE ALMEIDA Cooperador Ofício Ministerial Ángelo David Caparrotta Diácono Artiliano Padilha dos Santos Gilmar da Cruz Cooperador de Jovens e Menores Jakson Moisés Correia Diana Telefone(s) +595 (67) 320-456"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0340",
+    "Nome": "San Ramón",
+    "Logradouro": "Callejón Jenes",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Segunda-feira": "19:30",
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade San Ramón PY-99-0340 Localização Logradouro: Callejón Jenes CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Seg-Qui 19:30 Ministério Cooperador Ofício Ministerial Cecilio Ignacio Larroza Olmedo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0169",
+    "Nome": "San Ramón - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Vicente, SPD, Paraguai",
+    "Cidade": "San Vicente, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade San Ramón CENTRAL PY-99-0169 Localização Logradouro: CEP: Cidade: San Vicente, SPD, Paraguai Dias de Culto Dom 09:00 - Qua 18:30 Ministério Cooperador Ofício Ministerial Francisco Valdovino Ojeda"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0062",
+    "Nome": "San Roque",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8760322,
+      "lon": -54.9352852
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade San Roque PY-99-0062 Localização Logradouro: CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qui 18:30 Ministério Cooperador Ofício Ministerial José dos Santos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0360",
+    "Nome": "San Roque",
+    "Logradouro": "A 500 metros de la Súper Carretera Camino a Franco",
+    "CEP": "Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.5169015,
+      "lon": -54.6168645
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 19:00 / RJM Dom 10:00",
+        "Quinta-feira": "Sáb 19:00"
+      },
+      "Obs": "Localidade San Roque PY-99-0360 Localização Logradouro: A 500 metros de la Súper Carretera Camino a Franco CEP: Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qui-Sáb 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Angel Celestino González Recalde Cooperador de Jovens e Menores Lucas Freitas de Souza Telefone(s) +595 (982) 600-430 +595 (985) 940-839"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0036",
+    "Nome": "San Roque - Central",
+    "Logradouro": "Calle Estrella, 9012",
+    "CEP": "Cidade: Capitán Bado, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Capitán Bado, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -23.265254,
+      "lon": -55.5373341
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sexta-feira": "19:30"
+      },
+      "Obs": "Localidade San Roque CENTRAL PY-99-0036 Localização Logradouro: Calle Estrella, 9012 CEP: Cidade: Capitán Bado, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Ter-Sex 19:30 Ministério Cooperador Ofício Ministerial Adolfo Iriel Cooperador de Jovens e Menores José Raimundo da Cruz"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0124",
+    "Nome": "San Roque - Central",
+    "Logradouro": "Calle San Roque",
+    "CEP": "Cidade: San Roque, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "San Roque, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -23.4064289,
+      "lon": -57.4388875
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "14:00",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade San Roque CENTRAL PY-99-0124 Localização Logradouro: Calle San Roque CEP: Cidade: San Roque, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 14:00 - Ter 19:00 Ministério Cooperador Ofício Ministerial Osvaldo Leão Cavalcante"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0159",
+    "Nome": "San Sebastián - Central",
+    "Logradouro": "Carretera, Km 2 - Camino a Los Cedrales",
+    "CEP": "Cidade: Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.6375191,
+      "lon": -54.6315755
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade San Sebastián CENTRAL PY-99-0159 Localização Logradouro: Carretera, Km 2 - Camino a Los Cedrales CEP: Cidade: Puerto Presidente Franco, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: A 200 metros de la ruta que une Presidente Franco a Los Cedrales Dias de Culto DT 5N Culto Oficial Domingo - 15:00 - es_PY Quinta-feira - 19:30 - es_PY Ministério Cooperador Ofício Ministerial Gilberto da Costa Telefone(s) +595 (984) 578-088"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0001",
+    "Nome": "San Vicente - Central",
+    "Logradouro": "Calle Centenario, 2525",
+    "CEP": "Cidade: Asunción, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Asunción, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3188414,
+      "lon": -57.6171263
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30 / RJM Sab 17:00"
+      },
+      "Obs": "Localidade San Vicente CENTRAL PY-99-0001 Localização Logradouro: Calle Centenario, 2525 CEP: Cidade: Asunción, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Dom 18:00 - Qua-Sáb 19:30 (RJM Sab 17:00) Ministério Ancião WILSON DE JESUS SERASI SÉRGIO BENIGNO ORTEGA BOUEDA Cooperador Ofício Ministerial Marlon Rafael Inácio Diácono Cirilo González Ocampos Miguel Angel Ayala Gonzalez Eduardo Monteiro Gomes Willian Guillen Alves Cooperador de Jovens e Menores Victor Manuel Ferreira Roman Telefone(s) +595 (21) 310-294"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0057",
+    "Nome": "Santa Clara - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Clara, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "Santa Clara, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3651088,
+      "lon": -55.8402799
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Santa Clara CENTRAL PY-99-0057 Localização Logradouro: CEP: Cidade: Santa Clara, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Pablo Núñez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0019",
+    "Nome": "Santa Fe del Paraná - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Santa Fé Del Paraná, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Santa Fé Del Paraná, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.2269711,
+      "lon": -54.7032888
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30 / RJM Dom 09:00",
+        "Quarta-feira": "18:30"
+      },
+      "Obs": "Localidade Santa Fe del Paraná CENTRAL PY-99-0019 Localização Logradouro: CEP: Cidade: Santa Fé Del Paraná, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qua 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Valdemir Xavier Aparecido Cooperador de Jovens e Menores José Donizete Kretzlerr Machado"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0266",
+    "Nome": "Santa Lucia",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Segunda-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Segunda-feira": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Santa Lucia PY-99-0266 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Seg 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial José Amarildo Briski Cooperador de Jovens e Menores Abimael Guimarães"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0105",
+    "Nome": "Santa Lucia - Central",
+    "Logradouro": "Ruta 5, Km 91",
+    "CEP": "Cidade: Arroyo de Oro, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Arroyo de Oro, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.6733713,
+      "lon": -56.1897326
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 09:00",
+        "Quinta-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Santa Lucia CENTRAL PY-99-0105 Localização Logradouro: Ruta 5, Km 91 CEP: Cidade: Arroyo de Oro, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 18:00 - Qui-Sáb 19:00 (RJM Dom 09:00) Ministério Ancião FAUSTINO ROSSI LUCIVAL ROSSI Cooperador Ofício Ministerial João Pereira da Silva Diácono Waldir Martins da Silva Cooperador de Jovens e Menores Estanislao Chamorro Ferreira"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0111",
+    "Nome": "Santa Lucía - Central",
+    "Logradouro": "Calle Defensores del Chaco y Fátima",
+    "CEP": "Cidade: San Lorenzo, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "San Lorenzo, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3425224,
+      "lon": -57.509397
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Santa Lucía CENTRAL PY-99-0111 Localização Logradouro: Calle Defensores del Chaco y Fátima CEP: Cidade: San Lorenzo, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Isaac Osmar Garay López"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0113",
+    "Nome": "Santa Mónica - Fracción Ruvicha Km 14 Acaray - Central",
+    "Logradouro": "Calle Laminadora - a 800 metros de la Ruta Internacional nº 7",
+    "CEP": "Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4910326,
+      "lon": -54.767743
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:30 / RJM Dom 09:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Santa Mónica - Fracción Ruvicha Km 14 Acaray CENTRAL PY-99-0113 Localização Logradouro: Calle Laminadora - a 800 metros de la Ruta Internacional nº 7 CEP: Cidade: Minga Guazú, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 18:30 -Qua-Sáb 19:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Virgilio Britez Cooperador de Jovens e Menores Oscar Ramon Britez Gonzalez Telefone(s) +595 (983) 677-360 +595 (983) 603-943"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0346",
+    "Nome": "Santa Rosa - Central",
+    "Logradouro": "Mariscal Estigarribia, 791",
+    "CEP": "Cidade: Nueva Italia, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Nueva Italia, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.6120904,
+      "lon": -57.4676865
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Santa Rosa CENTRAL PY-99-0346 Localização Logradouro: Mariscal Estigarribia, 791 CEP: Cidade: Nueva Italia, DEPARTAMENTO CENTRAL, Paraguai Complemento: Casi Ytororó Dias de Culto Sáb 15:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0366",
+    "Nome": "Santa Rosa - Central",
+    "Logradouro": "Solidaridad, 3444 con Acuña de Figueroa",
+    "CEP": "Cidade: Lambare, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Lambare, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3455354,
+      "lon": -57.6261456
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30"
+      },
+      "Obs": "Localidade Santa Rosa CENTRAL PY-99-0366 Localização Logradouro: Solidaridad, 3444 con Acuña de Figueroa CEP: Cidade: Lambare, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Qui 19:30 Ministério Cooperador Ofício Ministerial Evelio Ramón Ramírez Mongelos Telefone(s) +595 (21) 944-743"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0085",
+    "Nome": "Santo Domingo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Guajayvi, SPD, Paraguai",
+    "Cidade": "Guajayvi, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Santo Domingo CENTRAL PY-99-0085 Localização Logradouro: CEP: Cidade: Guajayvi, SPD, Paraguai Dias de Culto Dom 09:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial José Valentín Caballero Martínez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0236",
+    "Nome": "Santo Domingo - Sagrada Familia",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Santo Domingo - Sagrada Familia PY-99-0236 Localização Logradouro: CEP: Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Francisco Vera Velásquez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0415",
+    "Nome": "Santo Tomás",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9765429,
+      "lon": -54.9116344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Santo Tomás PY-99-0415 Localização Logradouro: CEP: Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sáb 14:00 Ministério Cooperador Ofício Ministerial Aldemiro Candido Batista"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0050",
+    "Nome": "Sapucai - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Sapucai, DEPARTAMENTO PARAGUARÍ, Paraguai",
+    "Cidade": "Sapucai, DEPARTAMENTO PARAGUARÍ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.6649017,
+      "lon": -56.955103
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:30"
+      },
+      "Obs": "Localidade Sapucai CENTRAL PY-99-0050 Localização Logradouro: CEP: Cidade: Sapucai, DEPARTAMENTO PARAGUARÍ, Paraguai Dias de Culto Dom 09:30 Ministério Cooperador Ofício Ministerial Roque Riveros Aguilera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0212",
+    "Nome": "Stela Mary - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Alberdi, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Cidade": "Alberdi, DEPARTAMENTO ÑEEMBUCÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.1854132,
+      "lon": -58.142486
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30 / RJM Sáb 16:30"
+      },
+      "Obs": "Localidade Stela Mary CENTRAL PY-99-0212 Localização Logradouro: CEP: Cidade: Alberdi, DEPARTAMENTO ÑEEMBUCÚ, Paraguai Dias de Culto Qua-Sáb 19:30 (RJM Sáb 16:30) Ministério Ancião OSVALDO PATIÑO LEIVA Cooperador de Jovens e Menores Ricardo David Genez Galeano"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0246",
+    "Nome": "Tabai - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Enramadita, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Enramadita, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.1731581,
+      "lon": -55.6894456
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Tabai CENTRAL PY-99-0246 Localização Logradouro: CEP: Cidade: Enramadita, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Mario Gonzalez Arevale"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0414",
+    "Nome": "Tayi Poty",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3244189,
+      "lon": -55.3794201
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Tayi Poty PY-99-0414 Localização Logradouro: CEP: Cidade: Tembiaporã, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Edgar Vera Araujo Edgar Vera Araujo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0141",
+    "Nome": "Tembiapo Renda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tembiapo Renda, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Tembiapo Renda, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM Dom 13:00"
+      },
+      "Obs": "Localidade Tembiapo Renda CENTRAL PY-99-0141 Localização Logradouro: CEP: Cidade: Tembiapo Renda, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom 15:00 (RJM Dom 13:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0409",
+    "Nome": "Territorio Social Familias Unidas",
+    "Logradouro": "Manzana 5 - Lote 5",
+    "CEP": "Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4661756,
+      "lon": -56.0181685
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "18:30",
+        "Terça-feira": "18:30"
+      },
+      "Obs": "Localidade Territorio Social Familias Unidas PY-99-0409 Localização Logradouro: Manzana 5 - Lote 5 CEP: Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Sobre la Avenida sin nombre, esquina Calle 5 Dias de Culto Dom-Ter 18:30 Ministério Cooperador Ofício Ministerial Nilson Ariel Garcia Monges"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0395",
+    "Nome": "Tierra Prometida",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "15:00"
+      },
+      "Obs": "Localidade Tierra Prometida PY-99-0395 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 15:00 Ministério Cooperador Ofício Ministerial Juan Daniel Alarcon Gonzalez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0224",
+    "Nome": "Timberland",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.9739991,
+      "lon": -55.1901109
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Timberland PY-99-0224 Localização Logradouro: CEP: Cidade: Naranjal, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0208",
+    "Nome": "Toro Cangue",
+    "Logradouro": "Afonso con Martín",
+    "CEP": "Cidade: Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "14:00"
+      },
+      "Obs": "Localidade Toro Cangue PY-99-0208 Localização Logradouro: Afonso con Martín CEP: Cidade: Distrito Tres de Febrero, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: Familia Spatini Cué Dias de Culto 4º Sáb 14:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0390",
+    "Nome": "Torre Cué - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Paso Yobai, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Cidade": "Paso Yobai, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.7132848,
+      "lon": -56.0015539
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "14:00"
+      },
+      "Obs": "Localidade Torre Cué CENTRAL PY-99-0390 Localização Logradouro: CEP: Cidade: Paso Yobai, DEPARTAMENTO GUAIRÁ, Paraguai Dias de Culto Dom 14:00 Ministério Cooperador Ofício Ministerial Rafael Zarate"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0382",
+    "Nome": "Tres de mayo - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Luque, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Luque, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.2665417,
+      "lon": -57.4926928
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30 / RJM 1ª e 3ª Ter 19:30"
+      },
+      "Obs": "Localidade Tres de mayo CENTRAL PY-99-0382 Localização Logradouro: CEP: Cidade: Luque, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto 1ª e 3ª Ter 19:30 (RJM 1ª e 3ª Ter 19:30) Ministério Cooperador Ofício Ministerial Victor Marcelino Flor Ramírez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0096",
+    "Nome": "Troncal 3",
+    "Logradouro": "San Lorenzo",
+    "CEP": "Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.8249116,
+      "lon": -54.9025682
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "Sáb 18:30 / RJM Dom 09:00",
+        "Quarta-feira": "Sáb 18:30"
+      },
+      "Obs": "Localidade Troncal 3 PY-99-0096 Localização Logradouro: San Lorenzo CEP: Cidade: Minga Porã, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Dom-Qua-Sáb 18:30 (RJM Dom 09:00) Ministério Ancião ANTOLÍN RÍOS BENÍTEZ Cooperador Ofício Ministerial Elias Teixeira Rosa Cooperador de Jovens e Menores Alexandro Ferreira Marcos"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0126",
+    "Nome": "Tuparenda - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Tuparenda, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Cidade": "Tuparenda, DEPARTAMENTO CAAZAPÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.877375,
+      "lon": -55.6310153
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "15:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Tuparenda CENTRAL PY-99-0126 Localização Logradouro: CEP: Cidade: Tuparenda, DEPARTAMENTO CAAZAPÁ, Paraguai Dias de Culto Dom 15:00 - Qui 19:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0332",
+    "Nome": "Urucú Poty",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9827722,
+      "lon": -55.1520423
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Urucú Poty PY-99-0332 Localização Logradouro: CEP: Cidade: Itakyry, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sab 15:00 Ministério Cooperador Ofício Ministerial Virgilio Martínez Ramírez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0051",
+    "Nome": "Valle Pucu",
+    "Logradouro": "Calle Capitán Hermosilla",
+    "CEP": "Cidade: Aregua, DEPARTAMENTO CENTRAL, Paraguai",
+    "Cidade": "Aregua, DEPARTAMENTO CENTRAL, Paraguai",
+    "Coordenadas": {
+      "lat": -25.3129299,
+      "lon": -57.3846579
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "RJM Sáb 18:00"
+      },
+      "Obs": "Localidade Valle Pucu PY-99-0051 Localização Logradouro: Calle Capitán Hermosilla CEP: Cidade: Aregua, DEPARTAMENTO CENTRAL, Paraguai Dias de Culto Dom 18:00 - Qua 19:00 (RJM Sáb 18:00) Ministério Cooperador Ofício Ministerial Carlos Saldívar Olmedo Diácono Fidelino Benitez Cooperador de Jovens e Menores Bernardo Benitez Aranda"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0199",
+    "Nome": "Villa Carapã - Central",
+    "Logradouro": "Guadalupe Camino 3",
+    "CEP": "Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.056639,
+      "lon": -54.3342067
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Villa Carapã CENTRAL PY-99-0199 Localização Logradouro: Guadalupe Camino 3 CEP: Cidade: Salto Del Guaira, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sáb 19:00 Ministério Ancião NEILOR PEREIRA DA LUZ Cooperador Ofício Ministerial Aquiles de Moura Diácono Jhonatan Thieme Cantafio"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0180",
+    "Nome": "Villa Constitución",
+    "Logradouro": "Avenida José Domingo Fernández, 465",
+    "CEP": "Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4661756,
+      "lon": -56.0181685
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {},
+      "Obs": "Localidade Villa Constitución PY-99-0180 Localização Logradouro: Avenida José Domingo Fernández, 465 CEP: Cidade: Caaguazu, DEPARTAMENTO CAAGUAZU, Paraguai Complemento: a una cuadra de la Ruta Internacional nº 7, Km 175,5 Dias de Culto Dom 18:00 - Sex 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Hugo Alberto Domínguez Franco Diácono Armando Benítez Leiva Cooperador de Jovens e Menores Ismael Zaragoza Duarte"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0200",
+    "Nome": "Villa Deportiva",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.9765429,
+      "lon": -54.9116344
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Villa Deportiva PY-99-0200 Localização Logradouro: CEP: Cidade: San Alberto, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Ter-Sáb 18:30 (RJM Dom 09:00) Ministério Ancião VALDECIR ALVES DA SILVA Cooperador Ofício Ministerial Nelson Tavares dos Santos Cooperador de Jovens e Menores Samoel Peres Pinheiro"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0163",
+    "Nome": "Villa Fortuna",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4041794,
+      "lon": -54.6320387
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Quarta-feira": "19:30"
+      },
+      "Obs": "Localidade Villa Fortuna PY-99-0163 Localização Logradouro: CEP: Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Qua 19:30 Ministério Cooperador Ofício Ministerial Leonardo Figueredo Paredes"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0374",
+    "Nome": "Villa Guillermina",
+    "Logradouro": "Cuadra 16, Lote 18",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5497781,
+      "lon": -55.7384312
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sexta-feira",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:00",
+        "Sexta-feira": "19:00",
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Villa Guillermina PY-99-0374 Localização Logradouro: Cuadra 16, Lote 18 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Complemento: A 360 metros de la frontera con Brasil Dias de Culto 3N 6N (RJM-DM) Reunião de Jovens e Menores Domingo - 09:00 - es_PY Culto Oficial Terça-feira - 19:00 - es_PY Sexta-feira - 19:00 - es_PY Ministério Cooperador Ofício Ministerial Josias Silgueiro de Gomes Diácono Osmar Souza Silva Filho Cooperador de Jovens e Menores Samuel Zanatti de Gomes"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0289",
+    "Nome": "Villa María Graciela - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ayolas, DEPARTAMENTO MISIONES, Paraguai",
+    "Cidade": "Ayolas, DEPARTAMENTO MISIONES, Paraguai",
+    "Coordenadas": {
+      "lat": -27.3898739,
+      "lon": -56.844718
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Villa María Graciela CENTRAL PY-99-0289 Localização Logradouro: CEP: Cidade: Ayolas, DEPARTAMENTO MISIONES, Paraguai Complemento: Frente al cuartel Dias de Culto Dom-Sáb 19:00 Ministério Cooperador Ofício Ministerial Mateus Gaona Diácono Martin Luís Ortega Diarte Cooperador de Jovens e Menores Nolberto Monzon Brizuela Telefone(s) +595 (985) 701-147"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0040",
+    "Nome": "Villa María Victoria - Central",
+    "Logradouro": "Avenida José Berges, 9032",
+    "CEP": "Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Cidade": "Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai",
+    "Coordenadas": {
+      "lat": -22.5284568,
+      "lon": -55.741209
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "19:00 / RJM Dom 09:00",
+        "Quarta-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Villa María Victoria CENTRAL PY-99-0040 Localização Logradouro: Avenida José Berges, 9032 CEP: Cidade: Pedro Juan Caballero, DEPARTAMENTO AMAMBAY, Paraguai Dias de Culto Dom 19:00 - Qua-Sáb 19:30 (RJM Dom 09:00) Ministério Ancião MARCOS BARRETO JOÃO BEATO LOUVEIRA PEDRO ALVES DA SILVA Cooperador Ofício Ministerial Abilio da Costa Fagundes Diácono Waldemir Mazzei Carlos Ramón Valiente Vega Paulo Sergio Bulhón Helson dos Santos de Oliveira Cooperador de Jovens e Menores João Costa Araujo Telefone(s) +595 (36) 71-688"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0308",
+    "Nome": "Villa Teresita",
+    "Logradouro": "Km 8 Acaray",
+    "CEP": "Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4435394,
+      "lon": -54.7164403
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "19:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM Dom 10:00"
+      },
+      "Obs": "Localidade Villa Teresita PY-99-0308 Localização Logradouro: Km 8 Acaray CEP: Cidade: Ciudad Del Este, DEPARTAMENTO ALTO PARANÁ, Paraguai Complemento: A 1000 metros de la Ruta Internacional nº 7 Dias de Culto Qui-Sáb 19:30 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Felipe Centurion Samaniego Cooperador de Jovens e Menores Franklyn Carvalho Morais"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0267",
+    "Nome": "Villa Virgen del Rosario - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Vaqueria, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Cidade": "Vaqueria, DEPARTAMENTO CAAGUAZU, Paraguai",
+    "Coordenadas": {
+      "lat": -25.0016944,
+      "lon": -55.8225004
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Quinta-feira": "18:30",
+        "Sábado": "18:30",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Villa Virgen del Rosario CENTRAL PY-99-0267 Localização Logradouro: CEP: Cidade: Vaqueria, DEPARTAMENTO CAAGUAZU, Paraguai Dias de Culto Qui-Sáb 18:30 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Elias Rodrigues de Souza"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0421",
+    "Nome": "Virgen de Caacupé",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Cidade": "Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -25.4041794,
+      "lon": -54.6320387
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Virgen de Caacupé PY-99-0421 Localização Logradouro: CEP: Cidade: Hernandarias, DEPARTAMENTO ALTO PARANÁ, Paraguai Dias de Culto Sex 19:00 Ministério Cooperador Ofício Ministerial Jesé Gomes Alves"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0336",
+    "Nome": "Virgen de Fátima - Central",
+    "Logradouro": "Calle Portón de los Sueños, 9239",
+    "CEP": "Cidade: Iturbe, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Cidade": "Iturbe, DEPARTAMENTO GUAIRÁ, Paraguai",
+    "Coordenadas": {
+      "lat": -26.0583952,
+      "lon": -56.4874273
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Virgen de Fátima CENTRAL PY-99-0336 Localização Logradouro: Calle Portón de los Sueños, 9239 CEP: Cidade: Iturbe, DEPARTAMENTO GUAIRÁ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Alberto Figueredo Vera"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0241",
+    "Nome": "Yaguaremi",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Cidade": "Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai",
+    "Coordenadas": {
+      "lat": -22.9054933,
+      "lon": -56.4523646
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Yaguaremi PY-99-0241 Localização Logradouro: CEP: Cidade: Cerro Memby, DEPARTAMENTO CONCEPCIÓN, Paraguai Dias de Culto Dom 09:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0329",
+    "Nome": "Yaguareté Forest - Central",
+    "Logradouro": "Calle Trés",
+    "CEP": "Cidade: Colonia Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Cidade": "Colonia Santa Rosa Del Aguaray, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Yaguareté Forest CENTRAL PY-99-0329 Localização Logradouro: Calle Trés CEP: Cidade: Colonia Santa Rosa Del Aguaray, SPD, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Cándido Acuña Giménez Cándido Acuña Giménez"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0319",
+    "Nome": "Yasy Cañy - Central",
+    "Logradouro": "Calle Pindó Sol Naciente",
+    "CEP": "Cidade: Yasy Cañy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Yasy Cañy, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": -24.5236147,
+      "lon": -55.8829147
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00"
+      },
+      "Obs": "Localidade Yasy Cañy CENTRAL PY-99-0319 Localização Logradouro: Calle Pindó Sol Naciente CEP: Cidade: Yasy Cañy, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Dom 09:00 Ministério Cooperador Ofício Ministerial Porfirio Gauto Cardozo"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0178",
+    "Nome": "Ybyrarovanã",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "14:00",
+        "Domingo": "RJM Dom 09:00"
+      },
+      "Obs": "Localidade Ybyrarovanã PY-99-0178 Localização Logradouro: CEP: Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sáb 14:00 (RJM Dom 09:00) Ministério Cooperador Ofício Ministerial Carli Lourenço da Silva Cooperador de Jovens e Menores Juan Sosa"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0176",
+    "Nome": "Yhoby",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Cidade": "Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Yhoby PY-99-0176 Localização Logradouro: CEP: Cidade: Ybyrarovanã, DEPARTAMENTO CANINDEYÚ, Paraguai Dias de Culto Sex 19:00 Ministério Cooperador Ofício Ministerial Deocrécio Pacheco da Silva"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0259",
+    "Nome": "Yvype - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Lima, SPD, Paraguai",
+    "Cidade": "Lima, SPD, Paraguai",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:30",
+        "Sábado": "15:00"
+      },
+      "Obs": "Localidade Yvype CENTRAL PY-99-0259 Localização Logradouro: CEP: Cidade: Lima, SPD, Paraguai Dias de Culto Ter 18:30 - Sáb 15:00 Ministério Cooperador Ofício Ministerial Evaristo Morinigo Quintana Diácono Cristiano Josiel Morel Morel"
+    }
+  },
+  {
+    "CodigoId": "PY-99-0321",
+    "Nome": "Ñuhahu - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Mauricio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Cidade": "San Mauricio, DEPARTAMENTO ITAPÚA, Paraguai",
+    "Coordenadas": {
+      "lat": -27.163857,
+      "lon": -56.2368625
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "15:00 / RJM Dom 15:00",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Ñuhahu CENTRAL PY-99-0321 Localização Logradouro: CEP: Cidade: San Mauricio, DEPARTAMENTO ITAPÚA, Paraguai Dias de Culto Dom 15:00 - Sáb 17:00 (RJM Dom 15:00) Ministério Cooperador Ofício Ministerial Felipe Rodríguez Jara"
+    }
+  }
+]

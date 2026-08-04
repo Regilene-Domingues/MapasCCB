@@ -1,0 +1,24 @@
+[
+  {
+    "CodigoId": "MT-01-0001",
+    "Nome": "Sliema - Central",
+    "Logradouro": "Triq Santa Marija, 13A",
+    "CEP": "Cidade: Sliema, MI, Malta (ee)",
+    "Cidade": "Sliema, MI, Malta (ee)",
+    "Coordenadas": {
+      "lat": 35.8968572,
+      "lon": 14.4663044
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "19:30",
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Sliema CENTRAL MT-01-0001 Localização Logradouro: Triq Santa Marija, 13A CEP: Cidade: Sliema, MI, Malta (ee) Dias de Culto 1ª e 3ª Ter 19:30 - Sáb 19:30 Ministério Cooperador Ofício Ministerial Eduardo de Freitas Alberice Telefone(s) +356 () 7709-2995"
+    }
+  }
+]

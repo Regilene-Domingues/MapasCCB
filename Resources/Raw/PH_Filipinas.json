@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "PH-01-0001",
+    "Nome": "Taway - Central",
+    "Logradouro": "Taway - Purok Gumamela 7001",
+    "CEP": "Cidade: Ipil, ZSI, Filipinas",
+    "Cidade": "Ipil, ZSI, Filipinas",
+    "Coordenadas": {
+      "lat": 7.7821902,
+      "lon": 122.5867388
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Taway CENTRAL PH-01-0001 Localização Logradouro: Taway - Purok Gumamela 7001 CEP: Cidade: Ipil, ZSI, Filipinas Complemento: Fone Brasil (+55 11) 99135-3062 - Fone Japão (+81 80) 3627-6844 Dias de Culto Dom 10:00 Ministério Ancião José Moya Rodrigues José Moya Rodrigues José Moya Rodrigues Luís Carlos Itinoce"
+    }
+  }
+]

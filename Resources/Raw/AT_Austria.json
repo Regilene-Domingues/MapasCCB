@@ -1,0 +1,64 @@
+[
+  {
+    "CodigoId": "AT-01-0003",
+    "Nome": "Novum Kufstein - Central",
+    "Logradouro": "Marktgasse, 20",
+    "CEP": "A-6330",
+    "Cidade": "Kufstein, TIROL, Áustria",
+    "Coordenadas": {
+      "lat": 47.5837793,
+      "lon": 12.168839
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "13:00 (Alemão/Português"
+      },
+      "Obs": "Localidade Novum Kufstein CENTRAL AT-01-0003 Localização Logradouro: Marktgasse, 20 CEP: A-6330 Cidade: Kufstein, TIROL, Áustria Dias de Culto 2º e 4º Dom 13:00 (Alemão/Português) Ministério Telefone(s) +43 (676) 572-5035"
+    }
+  },
+  {
+    "CodigoId": "AT-01-0002",
+    "Nome": "Novum Wiedner Haupstraße - Central",
+    "Logradouro": "Wiedner Haupstraße, 146-148",
+    "CEP": "1050 Wien",
+    "Cidade": "Wien (viena), WIEN, Áustria",
+    "Coordenadas": {
+      "lat": 48.1857192,
+      "lon": 16.4221587
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "18:00 (Alemão/Português"
+      },
+      "Obs": "Localidade Novum Wiedner Haupstraße CENTRAL AT-01-0002 Localização Logradouro: Wiedner Haupstraße, 146-148 CEP: 1050 Wien Cidade: Wien (viena), WIEN, Áustria Dias de Culto 1º e 3º Sáb 18:00 (Alemão/Português) Ministério Ancião SERGIO DE TRAGLIA AMANCIO FILHO Telefone(s) +43 (664) 60873-1610"
+    }
+  },
+  {
+    "CodigoId": "AT-01-0004",
+    "Nome": "Wolfurt - Central",
+    "Logradouro": "Bahnhofstraße, 8b, Top 202",
+    "CEP": "A-6961",
+    "Cidade": "Wolfurt, VORARLBERG, Áustria",
+    "Coordenadas": {
+      "lat": 47.4756897,
+      "lon": 9.7418323
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Sábado": "19:00 () (Alemão/Português",
+        "Domingo": "RJM 1º e 3º Dom 10:30"
+      },
+      "Obs": "Localidade Wolfurt CENTRAL AT-01-0004 Localização Logradouro: Bahnhofstraße, 8b, Top 202 CEP: A-6961 Cidade: Wolfurt, VORARLBERG, Áustria Complemento: (Segundo andar) Dias de Culto Sáb 19:00 (RJM 1º e 3º Dom 10:30) (Alemão/Português) Ministério Cooperador Ofício Ministerial Julien Hermann Thaler Diácono Daniel de Freitas Reis Aguiar Cooperador de Jovens e Menores Ricardo Dias Braga Telefone(s) +43 (676) 572-5035"
+    }
+  }
+]

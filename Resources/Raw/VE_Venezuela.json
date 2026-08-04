@@ -1,0 +1,1590 @@
+[
+  {
+    "CodigoId": "VE-01-0026",
+    "Nome": "Aparicio - Central",
+    "Logradouro": "Calle Principal",
+    "CEP": "Cidade: Aparicio, MO, Venezuela",
+    "Cidade": "Aparicio, MO, Venezuela",
+    "Coordenadas": {
+      "lat": 10.0100883,
+      "lon": -63.5685352
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Aparicio CENTRAL VE-01-0026 Localização Logradouro: Calle Principal CEP: Cidade: Aparicio, MO, Venezuela Complemento: Al lado del Ambulatorio - Casa de família Dias de Culto Dom 10:00 - Sex 19:00 (RJM Dom 10:00) Ministério"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0056",
+    "Nome": "Atamo Sur - Central",
+    "Logradouro": "Calle Principal",
+    "CEP": "Cidade: Atamo Sur, NE, Venezuela",
+    "Cidade": "Atamo Sur, NE, Venezuela",
+    "Coordenadas": {
+      "lat": 11.0238081,
+      "lon": -63.841703
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "18:00"
+      },
+      "Obs": "Localidade Atamo Sur CENTRAL VE-01-0056 Localização Logradouro: Calle Principal CEP: Cidade: Atamo Sur, NE, Venezuela Dias de Culto Dom 10:00 - Sex 18:00 Ministério Cooperador Ofício Ministerial Ignacio del Jesus Rosas Luna Telefone(s) +58 (414) 789-1527"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0013",
+    "Nome": "Barrio 13 de septiembre - Central",
+    "Logradouro": "Calle 63, nº 97-25 - Entre Avenida Boyacá y Farriar",
+    "CEP": "Cidade: Valencia, CA, Venezuela",
+    "Cidade": "Valencia, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.170026,
+      "lon": -68.0003987
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "17:00 / RJM Dom 10:00",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Barrio 13 de septiembre CENTRAL VE-01-0013 Localização Logradouro: Calle 63, nº 97-25 - Entre Avenida Boyacá y Farriar CEP: Cidade: Valencia, CA, Venezuela Complemento: Estación del Metro La Feria Dias de Culto Dom 17:00 - Qui 18:00 (RJM Dom 10:00) Ministério Ancião WENCESLAO MACHADO FREDDY ANTONIO LUQUE HÉCTOR MANUEL MACHADO CASTILLO Cooperador Ofício Ministerial Víctor Manuel Guerreiro Montero Diácono José Máximo Materán Bastidas Andres Alberto Medrano Arteaga Cooperador de Jovens e Menores Elisaul Machado Castillo Telefone(s) +58 (241) 847-8596 +58 (416) 540-1811"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0002",
+    "Nome": "Barrio 29 de marzo - Central",
+    "Logradouro": "Calle Bolívar, 15-153",
+    "CEP": "Cidade: Barcelona, AN, Venezuela",
+    "Cidade": "Barcelona, AN, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1345016,
+      "lon": -64.6853027
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Barrio 29 de marzo CENTRAL VE-01-0002 Localização Logradouro: Calle Bolívar, 15-153 CEP: Cidade: Barcelona, AN, Venezuela Dias de Culto Dom 10:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Abraham Edgardo Orozco Velásquez Telefone(s) +58 (424) 897-9559 +58 (412) 182-0068"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0065",
+    "Nome": "Barrio 9 de Diciembre",
+    "Logradouro": "Sector 3, tercera calle",
+    "CEP": "Cidade: San Fernando de Apure, AP, Venezuela",
+    "Cidade": "San Fernando de Apure, AP, Venezuela",
+    "Coordenadas": {
+      "lat": 7.8837668,
+      "lon": -67.4708615
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "16:30"
+      },
+      "Obs": "Localidade Barrio 9 de Diciembre VE-01-0065 Localização Logradouro: Sector 3, tercera calle CEP: Cidade: San Fernando de Apure, AP, Venezuela Dias de Culto Sex 16:30 Ministério Telefone(s) +58 (416) 622-6713"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0033",
+    "Nome": "Barrio Altamira - Central",
+    "Logradouro": "Avenida Circunvalación Sur, Calle 14 com Avenida 5",
+    "CEP": "Cidade: Acarigua, PO, Venezuela",
+    "Cidade": "Acarigua, PO, Venezuela",
+    "Coordenadas": {
+      "lat": 9.5507961,
+      "lon": -69.2032823
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "09:00 / RJM Dom 09:00"
+      },
+      "Obs": "Localidade Barrio Altamira CENTRAL VE-01-0033 Localização Logradouro: Avenida Circunvalación Sur, Calle 14 com Avenida 5 CEP: Cidade: Acarigua, PO, Venezuela Dias de Culto Dom 09:00 (RJM Dom 09:00) Ministério Telefone(s) +58 (426) 259-7492 +58 (424) 810-8278"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0069",
+    "Nome": "Barrio Bucaral 1",
+    "Logradouro": "Calle Cellis, Sector Amarillo",
+    "CEP": "Cidade: Valencia, CA, Venezuela",
+    "Cidade": "Valencia, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.170026,
+      "lon": -68.0003987
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "18:00"
+      },
+      "Obs": "Localidade Barrio Bucaral 1 VE-01-0069 Localização Logradouro: Calle Cellis, Sector Amarillo CEP: Cidade: Valencia, CA, Venezuela Dias de Culto Dom 10:00 - Ter 18:00 Ministério Cooperador Ofício Ministerial José Raul Rojas Caldeira Telefone(s) +58 (424) 470-5212"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0020",
+    "Nome": "Barrio Campanero - Central",
+    "Logradouro": "Calle Guzmán Blanco - Esquina con Calle Fe y Alegría",
+    "CEP": "Cidade: Carora, LA, Venezuela",
+    "Cidade": "Carora, LA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.169534,
+      "lon": -70.0728483
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "18:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Barrio Campanero CENTRAL VE-01-0020 Localização Logradouro: Calle Guzmán Blanco - Esquina con Calle Fe y Alegría CEP: Cidade: Carora, LA, Venezuela Dias de Culto Dom 10:00 - Qua-Sáb 18:00 (RJM Dom 10:00) Ministério Ancião CARLOS ALBERTO RODRÍGUEZ RODRÍGUEZ Cooperador Ofício Ministerial Miguel Leonardo Carreño Diácono Carlos Alberto Rodriguez Telefone(s) +58 (426) 051-3836"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0030",
+    "Nome": "Barrio Caracas - Central",
+    "Logradouro": "Calle El Cementerio",
+    "CEP": "Cidade: Boca de Río, NE, Venezuela",
+    "Cidade": "Boca de Río, NE, Venezuela",
+    "Coordenadas": {
+      "lat": 10.9553625,
+      "lon": -63.8489715
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 18:00",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade Barrio Caracas CENTRAL VE-01-0030 Localização Logradouro: Calle El Cementerio CEP: Cidade: Boca de Río, NE, Venezuela Dias de Culto Dom 10:00 - Ter 19:00 (RJM Dom 18:00) Ministério Telefone(s) +58 (295) 291-3597"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0080",
+    "Nome": "Barrio Celestino Carrasco (Cerro Pelón)",
+    "Logradouro": "Calle Principal, Casa 2",
+    "CEP": "Cidade: Carora, LA, Venezuela",
+    "Cidade": "Carora, LA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.169534,
+      "lon": -70.0728483
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade Barrio Celestino Carrasco (Cerro Pelón) VE-01-0080 Localização Logradouro: Calle Principal, Casa 2 CEP: Cidade: Carora, LA, Venezuela Dias de Culto Qui 18:00 Ministério Telefone(s) +58 (424) 539-0773"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0075",
+    "Nome": "Barrio El Cementerio - Central",
+    "Logradouro": "Avenida Sucre, entre Carreras 9 y 10",
+    "CEP": "Cidade: Guanare, PO, Venezuela",
+    "Cidade": "Guanare, PO, Venezuela",
+    "Coordenadas": {
+      "lat": 9.0407855,
+      "lon": -69.7412593
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Barrio El Cementerio CENTRAL VE-01-0075 Localização Logradouro: Avenida Sucre, entre Carreras 9 y 10 CEP: Cidade: Guanare, PO, Venezuela Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Luís Alberto Machado Castillo Telefone(s) +58 (414) 583-2533"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0004",
+    "Nome": "Barrio Las Marías - Central",
+    "Logradouro": "Calle Avelina Duarte, 60",
+    "CEP": "Cidade: San Fernando de Apure, AP, Venezuela",
+    "Cidade": "San Fernando de Apure, AP, Venezuela",
+    "Coordenadas": {
+      "lat": 7.8837668,
+      "lon": -67.4708615
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "17:00",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Barrio Las Marías CENTRAL VE-01-0004 Localização Logradouro: Calle Avelina Duarte, 60 CEP: Cidade: San Fernando de Apure, AP, Venezuela Dias de Culto Dom 10:00 - Qua-Sáb 17:00 (RJM Dom 10:00) Ministério Ancião RAFAEL DE JESÚS AULAR REINA JAVIER ALEJANDRO MIRABAL Cooperador Ofício Ministerial Ángel Ramses Roa Linares Diácono Orlando Rafael Cordoba Rivas Harry Alberto Rojas Barrios Cooperador de Jovens e Menores Rafael Eduardo Perez Naranjo Telefone(s) +58 (424) 324-5613"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0007",
+    "Nome": "Barrio Libertador - Central",
+    "Logradouro": "Calle Luis Córdoba",
+    "CEP": "Cidade: San Felix, BO, Venezuela",
+    "Cidade": "San Felix, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 8.3475408,
+      "lon": -62.6471342
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "18:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:00",
+        "Sábado": "19:00"
+      },
+      "Obs": "Localidade Barrio Libertador CENTRAL VE-01-0007 Localização Logradouro: Calle Luis Córdoba CEP: Cidade: San Felix, BO, Venezuela Dias de Culto Dom- 18:00 - Qua-Sáb 19:00 (RJM Dom 10:00) Ministério Ancião VÍCTOR ANTONIO MADRID MOLINO JOSÉ LEÓNIDES MENDOZA LA ROSA ARISTÓBULO URBINA SANGER GIOVANNI RODRÍGUEZ CÓRDOVA Diácono Carlos Alberto Burgos Alexis Rafael Moreno Cova Cooperador de Jovens e Menores Jesús Antonio Madrid Mark Telefone(s) +58 (412) 949-0452 +58 (412) 835-5225"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0038",
+    "Nome": "Barrio Simón Bolívar - Central",
+    "Logradouro": "Calle 12, nº 59-46 - Circunvalación 2",
+    "CEP": "Cidade: Maracaibo, ZU, Venezuela",
+    "Cidade": "Maracaibo, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.6498095,
+      "lon": -71.6443596
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Barrio Simón Bolívar CENTRAL VE-01-0038 Localização Logradouro: Calle 12, nº 59-46 - Circunvalación 2 CEP: Cidade: Maracaibo, ZU, Venezuela Complemento: Entrando por el semáforo de la inspectoría de tránsito Dias de Culto Dom 10:00 - Qui 19:00 Ministério Ancião ELVIS ENRIQUE CARDOZO VALERA Diácono Jorge Luis Ramírez Calderón Cooperador de Jovens e Menores Matheus Fonseca dos Santos Telefone(s) +58 (424) 602-4645"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0045",
+    "Nome": "Bella Vista 2",
+    "Logradouro": "Calle Raúl Leoni, Manzana 217, Parcela nº 8",
+    "CEP": "Cidade: Valencia, CA, Venezuela",
+    "Cidade": "Valencia, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.170026,
+      "lon": -68.0003987
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Segunda-feira": "19:00"
+      },
+      "Obs": "Localidade Bella Vista 2 VE-01-0045 Localização Logradouro: Calle Raúl Leoni, Manzana 217, Parcela nº 8 CEP: Cidade: Valencia, CA, Venezuela Dias de Culto Dom 10:00 - Seg 19:00 (RJM Dom 10:00) Ministério Diácono Eustaquio Robles Telefone(s) +58 (412) 783-5374"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0057",
+    "Nome": "Calle 5 - Central",
+    "Logradouro": "Avenida Principal, Sector la Y",
+    "CEP": "Cidade: Las Mesas, TA, Venezuela",
+    "Cidade": "Las Mesas, TA, Venezuela",
+    "Coordenadas": {
+      "lat": 8.1704871,
+      "lon": -72.1600201
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "18:00"
+      },
+      "Obs": "Localidade Calle 5 CENTRAL VE-01-0057 Localização Logradouro: Avenida Principal, Sector la Y CEP: Cidade: Las Mesas, TA, Venezuela Dias de Culto Dom 10:00 - Ter 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Luis Humberto Roa Sanchez Telefone(s) +58 (277) 848-0435"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0012",
+    "Nome": "Calle Sucre - Central",
+    "Logradouro": "Vía Cementerio",
+    "CEP": "Cidade: Tocuyito, CA, Venezuela",
+    "Cidade": "Tocuyito, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1062443,
+      "lon": -68.0942185
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "17:00",
+        "Sábado": "16:00"
+      },
+      "Obs": "Localidade Calle Sucre CENTRAL VE-01-0012 Localização Logradouro: Vía Cementerio CEP: Cidade: Tocuyito, CA, Venezuela Dias de Culto Dom 10:00 - Ter 17:00 - Sáb 16:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Luís Alberto Castillo Cooperador de Jovens e Menores Freddy Antonio Luque Bolívar Telefone(s) +58 (424) 413-9093"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0076",
+    "Nome": "Casco Central de San Juan - Central",
+    "Logradouro": "Calle Bermúdez, Local 22",
+    "CEP": "Cidade: San Juan de Los Morros, GU, Venezuela",
+    "Cidade": "San Juan de Los Morros, GU, Venezuela",
+    "Coordenadas": {
+      "lat": 9.9080318,
+      "lon": -67.361663
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Casco Central de San Juan CENTRAL VE-01-0076 Localização Logradouro: Calle Bermúdez, Local 22 CEP: Cidade: San Juan de Los Morros, GU, Venezuela Complemento: Entre Avenida Miranda y Calle Zamora Dias de Culto Dom 10:00 - Qua 18:00 Ministério Cooperador Ofício Ministerial Anel Efrain Agudo Arias Telefone(s) +58 (412) 885-2772"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0015",
+    "Nome": "Catia - Central",
+    "Logradouro": "Calle México, 6 - cerca de la Plaza de Catia",
+    "CEP": "Cidade: Caracas, DC, Venezuela",
+    "Cidade": "Caracas, DC, Venezuela",
+    "Coordenadas": {
+      "lat": 10.5060934,
+      "lon": -66.9146008
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Catia CENTRAL VE-01-0015 Localização Logradouro: Calle México, 6 - cerca de la Plaza de Catia CEP: Cidade: Caracas, DC, Venezuela Complemento: Estación del Metro Plaza Sucre Dias de Culto Dom 10:00 - Qui 18:30 (RJM Dom 10:00) Ministério Ancião RAMÓN ALVIDIO QUINTERO MORENO Cooperador Ofício Ministerial Jean Carlos Piñero Castillo Diácono Daniel Josué Gomes López Telefone(s) +58 (414) 292-6852"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0074",
+    "Nome": "Chinea Arriba - Central",
+    "Logradouro": "Vía Paso el Caballo",
+    "CEP": "Cidade: Calabozo, GU, Venezuela",
+    "Cidade": "Calabozo, GU, Venezuela",
+    "Coordenadas": {
+      "lat": 8.9208142,
+      "lon": -67.4234635
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Chinea Arriba CENTRAL VE-01-0074 Localização Logradouro: Vía Paso el Caballo CEP: Cidade: Calabozo, GU, Venezuela Dias de Culto Dom 10:00 - Sex 17:00 Ministério Cooperador Ofício Ministerial José Angel Acevedo Telefone(s) +58 (414) 464-1961"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0058",
+    "Nome": "Ciudad Miranda - Central",
+    "Logradouro": "Avenida Principal, Manzana 60, Edificio 2, Local 1, Planta Baja",
+    "CEP": "Cidade: Charallave, MI, Venezuela",
+    "Cidade": "Charallave, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.2456598,
+      "lon": -66.8586608
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Segunda-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Segunda-feira": "18:30"
+      },
+      "Obs": "Localidade Ciudad Miranda CENTRAL VE-01-0058 Localização Logradouro: Avenida Principal, Manzana 60, Edificio 2, Local 1, Planta Baja CEP: Cidade: Charallave, MI, Venezuela Complemento: Pasando el Kiosco La Bala Dias de Culto Dom 10:00 - Seg 18:30 Ministério Cooperador Ofício Ministerial Andrés Guillermo Albarrán Ávila Telefone(s) +58 (239) 249-5953"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0050",
+    "Nome": "Colinas de la Guacamaya",
+    "Logradouro": "Avenida Rafael Urdaneta - Calle Romancero, Local 1",
+    "CEP": "Cidade: Valencia, CA, Venezuela",
+    "Cidade": "Valencia, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.170026,
+      "lon": -68.0003987
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Colinas de la Guacamaya VE-01-0050 Localização Logradouro: Avenida Rafael Urdaneta - Calle Romancero, Local 1 CEP: Cidade: Valencia, CA, Venezuela Dias de Culto Dom 10:00 - Qua 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Pedro Pablo Pérez Ramírez Telefone(s) +58 (424) 416-4718"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0047",
+    "Nome": "Cruzero Juantino - Central",
+    "Logradouro": "Alcabala San Andrés - Batería 6",
+    "CEP": "Cidade: Cherespay, AN, Venezuela",
+    "Cidade": "Cherespay, AN, Venezuela",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "16:00"
+      },
+      "Obs": "Localidade Cruzero Juantino CENTRAL VE-01-0047 Localização Logradouro: Alcabala San Andrés - Batería 6 CEP: Cidade: Cherespay, AN, Venezuela Complemento: Cerca de la Planta Petrozumano - Municipio Freites Dias de Culto Dom 10:00 - Qua 16:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Ramón Rafael Solórzano Telefone(s) +58 (282) 808-0271 +58 (426) 685-7809"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0021",
+    "Nome": "El Arenal - Sector Três Esquinas, Via La Joya - Central",
+    "Logradouro": "Carretera Mérida-Tabay",
+    "CEP": "Cidade: Merida, ME, Venezuela",
+    "Cidade": "Merida, ME, Venezuela",
+    "Coordenadas": {
+      "lat": 8.6702566,
+      "lon": -71.0231503
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade El Arenal - Sector Três Esquinas, Via La Joya CENTRAL VE-01-0021 Localização Logradouro: Carretera Mérida-Tabay CEP: Cidade: Merida, ME, Venezuela Dias de Culto Dom 10:00 - Qua 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Isidro Dávila Rodríguez Telefone(s) +58 (416) 741-3400"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0063",
+    "Nome": "El Valle - Sector El Playón Bajo",
+    "Logradouro": "Calle Principal",
+    "CEP": "Cidade: Merida, ME, Venezuela",
+    "Cidade": "Merida, ME, Venezuela",
+    "Coordenadas": {
+      "lat": 8.6199295,
+      "lon": -71.13569
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade El Valle - Sector El Playón Bajo VE-01-0063 Localização Logradouro: Calle Principal CEP: Cidade: Merida, ME, Venezuela Complemento: Vía Páramo La Culata Dias de Culto Dom 10:00 - Sex 19:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (412) 120-1436"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0072",
+    "Nome": "Guatire - Central",
+    "Logradouro": "Calle Miranda, Local A",
+    "CEP": "Cidade: Guatire, MI, Venezuela",
+    "Cidade": "Guatire, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.4684588,
+      "lon": -66.5431115
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sábado": "17:00"
+      },
+      "Obs": "Localidade Guatire CENTRAL VE-01-0072 Localização Logradouro: Calle Miranda, Local A CEP: Cidade: Guatire, MI, Venezuela Complemento: Cerca de Cierro de Piedra, a una cuadra de la Avenida Bermúdez Dias de Culto Último Dom 10:00 - Sáb 17:00 Ministério Cooperador Ofício Ministerial Sergio Benjamin Revete Espinoza Telefone(s) +58 (424) 169-7620"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0073",
+    "Nome": "Km 19 - Urbanización El Junko - Central",
+    "Logradouro": "Sector el Topo, parte baja, Calle Santa Sofía",
+    "CEP": "Cidade: El Junquito, LG, Venezuela",
+    "Cidade": "El Junquito, LG, Venezuela",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Km 19 - Urbanización El Junko CENTRAL VE-01-0073 Localização Logradouro: Sector el Topo, parte baja, Calle Santa Sofía CEP: Cidade: El Junquito, LG, Venezuela Complemento: Cerca de Catia FC Dias de Culto Dom 16:00 Ministério Telefone(s) +58 (412) 288-5709"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0009",
+    "Nome": "Km 23 - Central",
+    "Logradouro": "Carretera Alcabala-Casablanca - Vía San Martín de Turumán",
+    "CEP": "Cidade: San José de Anacoco, BO, Venezuela",
+    "Cidade": "San José de Anacoco, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 7.3381457,
+      "lon": -61.530982
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / 18:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Km 23 CENTRAL VE-01-0009 Localização Logradouro: Carretera Alcabala-Casablanca - Vía San Martín de Turumán CEP: Cidade: San José de Anacoco, BO, Venezuela Complemento: al lado de la escuela Dias de Culto Dom 10:00 - Dom 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Franklin Luis Herrera Burgos Diácono Cesar Enrique Herrera Telefone(s) +58 (416) 467-0894"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0025",
+    "Nome": "La Aguada - Sector Los Olivos - Central",
+    "Logradouro": "Calle Sucre - Entrada Para-rayos",
+    "CEP": "Cidade: San Francisco de Yare, MI, Venezuela",
+    "Cidade": "San Francisco de Yare, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1801477,
+      "lon": -66.7493895
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade La Aguada - Sector Los Olivos CENTRAL VE-01-0025 Localização Logradouro: Calle Sucre - Entrada Para-rayos CEP: Cidade: San Francisco de Yare, MI, Venezuela Complemento: Carretera Santa Teresa-Yare Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (412) 375-6319"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0029",
+    "Nome": "Las Cocuizas - Central",
+    "Logradouro": "Carretera 4 con Calle 9",
+    "CEP": "Cidade: Maturín, MO, Venezuela",
+    "Cidade": "Maturín, MO, Venezuela",
+    "Coordenadas": {
+      "lat": 9.7422774,
+      "lon": -63.1888854
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "18:00",
+        "Sábado": "RJM 1º Sáb 10:00"
+      },
+      "Obs": "Localidade Las Cocuizas CENTRAL VE-01-0029 Localização Logradouro: Carretera 4 con Calle 9 CEP: Cidade: Maturín, MO, Venezuela Complemento: Entrada al Ancianato Dias de Culto Dom 10:00 - Qui 18:00 (RJM 1º Sáb 10:00) Ministério Ancião PEDRO CASIMIRO RIVAS Diácono José Ramiro Borges Betancourt Pedro Rafael Rivas Diaz Cooperador de Jovens e Menores Richard Andres Salazar Telefone(s) +58 (412) 863-3299"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0016",
+    "Nome": "Los Dos Caminos",
+    "Logradouro": "3ª Transversal de la Avenida Sucre",
+    "CEP": "Cidade: Caracas, DC, Venezuela",
+    "Cidade": "Caracas, DC, Venezuela",
+    "Coordenadas": {
+      "lat": 10.5060934,
+      "lon": -66.9146008
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "18:30"
+      },
+      "Obs": "Localidade Los Dos Caminos VE-01-0016 Localização Logradouro: 3ª Transversal de la Avenida Sucre CEP: Cidade: Caracas, DC, Venezuela Complemento: Estación del metro Los Dos Caminos Dias de Culto Dom 10:00 - Ter 18:30 (RJM Dom 10:00) Ministério Ancião HECTOR DAVID GÓMEZ TEIXEIRA Cooperador Ofício Ministerial Elvis José Barazarte Bastidas Diácono David de Jesus Batista Gomes Perneta Franky José Soto Hernandez Cooperador de Jovens e Menores Jose Angel Lara Mena Telefone(s) +58 (412) 025-6969"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0049",
+    "Nome": "Nueva Cabimas - Central",
+    "Logradouro": "Avenida 32, Sector 1",
+    "CEP": "Cidade: Cabimas, ZU, Venezuela",
+    "Cidade": "Cabimas, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.4009288,
+      "lon": -71.4382805
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Nueva Cabimas CENTRAL VE-01-0049 Localização Logradouro: Avenida 32, Sector 1 CEP: Cidade: Cabimas, ZU, Venezuela Complemento: Diagonal al Balancín de Los Médanos Dias de Culto Dom 10:00 - Qua 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Elduin Rafael Gomez Salas Telefone(s) +58 (424) 608-3930"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0068",
+    "Nome": "Nueva Valencia",
+    "Logradouro": "Calle San Andrés, Parcela nº 564",
+    "CEP": "Cidade: Tocuyito, CA, Venezuela",
+    "Cidade": "Tocuyito, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1062443,
+      "lon": -68.0942185
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Sexta-feira": "17:00"
+      },
+      "Obs": "Localidade Nueva Valencia VE-01-0068 Localização Logradouro: Calle San Andrés, Parcela nº 564 CEP: Cidade: Tocuyito, CA, Venezuela Dias de Culto Dom 10:00 - Sex 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Braulio Aguilar Telefone(s) +58 (241) 205-5301 +58 (424) 418-4029"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0003",
+    "Nome": "Paraman - Central",
+    "Logradouro": "Avenida Principal",
+    "CEP": "Cidade: Paraman, AN, Venezuela",
+    "Cidade": "Paraman, AN, Venezuela",
+    "Coordenadas": {
+      "lat": 9.5781534,
+      "lon": -63.9347112
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "17:00"
+      },
+      "Obs": "Localidade Paraman CENTRAL VE-01-0003 Localização Logradouro: Avenida Principal CEP: Cidade: Paraman, AN, Venezuela Complemento: Carretera Barcelona-Maturín - Frente a la entrada a Urica Dias de Culto Dom 10:00 - Ter 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Luis Rafael Bolívar Telefone(s) +58 (414) 768-1301"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0077",
+    "Nome": "Pozo Verde",
+    "Logradouro": "Asentamiento Campesino del Sector La Lajas de Minas Arriba",
+    "CEP": "Cidade: San Felix, BO, Venezuela",
+    "Cidade": "San Felix, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 8.3475408,
+      "lon": -62.6471342
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Pozo Verde VE-01-0077 Localização Logradouro: Asentamiento Campesino del Sector La Lajas de Minas Arriba CEP: Cidade: San Felix, BO, Venezuela Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Johan Jose Aray Yanez Telefone(s) +58 (426) 697-9293"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0023",
+    "Nome": "Pueblo Arriba - Central",
+    "Logradouro": "Calle Miranda, 32",
+    "CEP": "Cidade: Guarenas, MI, Venezuela",
+    "Cidade": "Guarenas, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.4692028,
+      "lon": -66.6133152
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Pueblo Arriba CENTRAL VE-01-0023 Localização Logradouro: Calle Miranda, 32 CEP: Cidade: Guarenas, MI, Venezuela Dias de Culto Dom 10:00 - Qua 18:00 (RJM Dom 10:00) Ministério Ancião YOWAR OMAR ARCHILA BLANCO Diácono Raul Alonso Landaeta Bermudez Telefone(s) +58 (212) 365-3364"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0006",
+    "Nome": "San Sebastián De Los Reyes - Central",
+    "Logradouro": "Calle Dr. Paúl, 12",
+    "CEP": "Cidade: San Sebastián de Los Reyes, AR, Venezuela",
+    "Cidade": "San Sebastián de Los Reyes, AR, Venezuela",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "17:00"
+      },
+      "Obs": "Localidade San Sebastián De Los Reyes CENTRAL VE-01-0006 Localização Logradouro: Calle Dr. Paúl, 12 CEP: Cidade: San Sebastián de Los Reyes, AR, Venezuela Dias de Culto Dom 10:00 - Qui 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Remigio Alfredo Bogado Tovar Telefone(s) +58 (246) 330-7167"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0005",
+    "Nome": "Santa Rosa - Central",
+    "Logradouro": "6ª Avenida, 53",
+    "CEP": "Cidade: Maracay, AR, Venezuela",
+    "Cidade": "Maracay, AR, Venezuela",
+    "Coordenadas": {
+      "lat": 10.2375144,
+      "lon": -67.5890216
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00",
+        "Sábado": "RJM 4º Sáb 10:00"
+      },
+      "Obs": "Localidade Santa Rosa CENTRAL VE-01-0005 Localização Logradouro: 6ª Avenida, 53 CEP: Cidade: Maracay, AR, Venezuela Dias de Culto Dom 10:00 - Qua 17:00 (RJM 4º Sáb 10:00) Ministério Ancião RANULFO EDUARDO CASTRO JORDÁN ISRAEL PÉREZ MOLINA Telefone(s) +58 (412) 894-0365"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0078",
+    "Nome": "Sector Bello Monte - Central",
+    "Logradouro": "Calle El Proyecto, Casa 10",
+    "CEP": "Cidade: El Baul, CO, Venezuela",
+    "Cidade": "El Baul, CO, Venezuela",
+    "Coordenadas": {
+      "lat": 8.9603136,
+      "lon": -68.2955728
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Sector Bello Monte CENTRAL VE-01-0078 Localização Logradouro: Calle El Proyecto, Casa 10 CEP: Cidade: El Baul, CO, Venezuela Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Franklin Trujillo Telefone(s) +58 (416) 540-1811"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0027",
+    "Nome": "Sector Campo Alegre - Central",
+    "Logradouro": "Vía Teresen",
+    "CEP": "Cidade: Caripe, MO, Venezuela",
+    "Cidade": "Caripe, MO, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1732063,
+      "lon": -63.5005691
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Sector Campo Alegre CENTRAL VE-01-0027 Localização Logradouro: Vía Teresen CEP: Cidade: Caripe, MO, Venezuela Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (416) 197-5303"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0046",
+    "Nome": "Sector El Gaitero - Barrio María Angélica de Lusinchi",
+    "Logradouro": "Avenida Principal, 128",
+    "CEP": "Cidade: Maracaibo, ZU, Venezuela",
+    "Cidade": "Maracaibo, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.6843837,
+      "lon": -71.652353
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Sector El Gaitero - Barrio María Angélica de Lusinchi VE-01-0046 Localização Logradouro: Avenida Principal, 128 CEP: Cidade: Maracaibo, ZU, Venezuela Dias de Culto Dom 10:00 - Qua 18:00 Ministério Ancião JUAN CARLOS CASTELLANO PÉREZ Telefone(s) +58 (414) 670-1070"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0055",
+    "Nome": "Sector El Terminal - Central",
+    "Logradouro": "Vía hacia Apurito",
+    "CEP": "Cidade: Achaguas, AP, Venezuela",
+    "Cidade": "Achaguas, AP, Venezuela",
+    "Coordenadas": {
+      "lat": 7.7862736,
+      "lon": -68.2227514
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "17:00"
+      },
+      "Obs": "Localidade Sector El Terminal CENTRAL VE-01-0055 Localização Logradouro: Vía hacia Apurito CEP: Cidade: Achaguas, AP, Venezuela Dias de Culto Dom 10:00 - Ter 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Cesar Rafael Rivas Rivas Telefone(s) +58 (412) 492-1102"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0081",
+    "Nome": "Sector Fabricio Ojeda - Central",
+    "Logradouro": "Avenida Principal",
+    "CEP": "Cidade: Barbacoa, AR, Venezuela",
+    "Cidade": "Barbacoa, AR, Venezuela",
+    "Coordenadas": {
+      "lat": 10.468492,
+      "lon": -66.8468582
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Sector Fabricio Ojeda CENTRAL VE-01-0081 Localização Logradouro: Avenida Principal CEP: Cidade: Barbacoa, AR, Venezuela Dias de Culto Sáb 10:00 Ministério Telefone(s) +58 (424) 810-8278"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0071",
+    "Nome": "Sector Guarico",
+    "Logradouro": "Carretera Nacional Guayabal - Miranda, Vía Cazorla",
+    "CEP": "Cidade: Guayabal, GU, Venezuela",
+    "Cidade": "Guayabal, GU, Venezuela",
+    "Coordenadas": {
+      "lat": 8.0009931,
+      "lon": -67.3972028
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "17:00"
+      },
+      "Obs": "Localidade Sector Guarico VE-01-0071 Localização Logradouro: Carretera Nacional Guayabal - Miranda, Vía Cazorla CEP: Cidade: Guayabal, GU, Venezuela Dias de Culto Dom 10:00 - Ter 17:00 Ministério Cooperador Ofício Ministerial Ramón Paez Telefone(s) +58 (424) 314-4775"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0024",
+    "Nome": "Sector La Estrella - Central",
+    "Logradouro": "Calle Vargas, 74 - Segunda calle",
+    "CEP": "Cidade: Los Teques, MI, Venezuela",
+    "Cidade": "Los Teques, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.3437382,
+      "lon": -67.0453091
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Sexta-feira": "18:30"
+      },
+      "Obs": "Localidade Sector La Estrella CENTRAL VE-01-0024 Localização Logradouro: Calle Vargas, 74 - Segunda calle CEP: Cidade: Los Teques, MI, Venezuela Complemento: Cerca de Plaza Miranda Dias de Culto Dom 10:00 - Sex 18:30 Ministério Cooperador Ofício Ministerial Antonio José Fuentes García Diácono Ramon Austerio Castro Hidalgo Telefone(s) +58 (414) 021-7734"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0022",
+    "Nome": "Sector La Hechicera - Central",
+    "Logradouro": "Avenida Alberto Carnevalli, 6-117",
+    "CEP": "Cidade: Merida, ME, Venezuela",
+    "Cidade": "Merida, ME, Venezuela",
+    "Coordenadas": {
+      "lat": 8.5816963,
+      "lon": -71.1658075
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Sector La Hechicera CENTRAL VE-01-0022 Localização Logradouro: Avenida Alberto Carnevalli, 6-117 CEP: Cidade: Merida, ME, Venezuela Dias de Culto Dom 10:00 - Qui 18:30 (RJM Dom 10:00) Ministério Ancião JOSÉ DAMIÁN PINO ARISMENDI RICHARD DAVID ROJAS UZCATEGUI Cooperador Ofício Ministerial Alonso Perez Deseo Diácono Luis Elias Dávilla Telefone(s) +58 (274) 244-0683"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0054",
+    "Nome": "Sector La Hidalguía",
+    "Logradouro": "Avenida Intercomunal San Fernando de Apure, bajada de la Charneca",
+    "CEP": "Cidade: San Fernando de Apure, AP, Venezuela",
+    "Cidade": "San Fernando de Apure, AP, Venezuela",
+    "Coordenadas": {
+      "lat": 7.8837668,
+      "lon": -67.4708615
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "17:00"
+      },
+      "Obs": "Localidade Sector La Hidalguía VE-01-0054 Localização Logradouro: Avenida Intercomunal San Fernando de Apure, bajada de la Charneca CEP: Cidade: San Fernando de Apure, AP, Venezuela Dias de Culto Dom 10:00 - Qui 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Walter Argenis Cordero Navas Telefone(s) +58 (426) 584-4176"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0070",
+    "Nome": "Sector La Trampita - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: San Casimiro, AR, Venezuela",
+    "Cidade": "San Casimiro, AR, Venezuela",
+    "Coordenadas": {
+      "lat": 10.0017805,
+      "lon": -67.0144451
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "15:30"
+      },
+      "Obs": "Localidade Sector La Trampita CENTRAL VE-01-0070 Localização Logradouro: CEP: Cidade: San Casimiro, AR, Venezuela Complemento: Pasando el puente colgante Dias de Culto Dom 10:00 - Ter 15:30 Ministério Cooperador Ofício Ministerial David Antonio Avilan Telefone(s) +58 (426) 467-3795"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0053",
+    "Nome": "Sector Las Cruces - Barrio Omar Baral - Central",
+    "Logradouro": "Avenida Principal",
+    "CEP": "Cidade: Santa Cruz de Mara, ZU, Venezuela",
+    "Cidade": "Santa Cruz de Mara, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.7885599,
+      "lon": -71.6893703
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "18:00",
+        "Sábado": "RJM 1º Sáb 10:00 - meses pares"
+      },
+      "Obs": "Localidade Sector Las Cruces - Barrio Omar Baral CENTRAL VE-01-0053 Localização Logradouro: Avenida Principal CEP: Cidade: Santa Cruz de Mara, ZU, Venezuela Dias de Culto Dom 10:00 - Qua 18:00 (RJM 1º Sáb 10:00 - meses pares) Ministério Cooperador Ofício Ministerial Gustavo Santiago Machado Gonzales Cooperador de Jovens e Menores Efrain Gonzalez Gonzalez Telefone(s) +58 (412) 673-1620"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0037",
+    "Nome": "Sector Las Piedritas - Central",
+    "Logradouro": "Avenida 3, Parte Baja",
+    "CEP": "Cidade: Nirgua, YA, Venezuela",
+    "Cidade": "Nirgua, YA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.1524823,
+      "lon": -68.5648854
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "17:00"
+      },
+      "Obs": "Localidade Sector Las Piedritas CENTRAL VE-01-0037 Localização Logradouro: Avenida 3, Parte Baja CEP: Cidade: Nirgua, YA, Venezuela Dias de Culto Dom 10:00 - Qui 17:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Cornelio Ramón Parra León Telefone(s) +58 (254) 572-1735"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0018",
+    "Nome": "Sector Las Viviendas - Central",
+    "Logradouro": "Calle La Policía",
+    "CEP": "Cidade: Yaracal, FA, Venezuela",
+    "Cidade": "Yaracal, FA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.974934,
+      "lon": -68.5452435
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "18:00"
+      },
+      "Obs": "Localidade Sector Las Viviendas CENTRAL VE-01-0018 Localização Logradouro: Calle La Policía CEP: Cidade: Yaracal, FA, Venezuela Dias de Culto Dom 10:00 - Qua 18:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (412) 412-2981"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0035",
+    "Nome": "Sector Limonar - Central",
+    "Logradouro": "Adentro, Vía Las Palomas",
+    "CEP": "Cidade: Limonar, SU, Venezuela",
+    "Cidade": "Limonar, SU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.3783837,
+      "lon": -63.7887313
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Sector Limonar CENTRAL VE-01-0035 Localização Logradouro: Adentro, Vía Las Palomas CEP: Cidade: Limonar, SU, Venezuela Dias de Culto Dom 10:00 - Qua 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Simón Bautista Paisan"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0062",
+    "Nome": "Sector Los Mangos",
+    "Logradouro": "Calle Los Próceres",
+    "CEP": "Cidade: Valencia, CA, Venezuela",
+    "Cidade": "Valencia, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.170026,
+      "lon": -68.0003987
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "18:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Sector Los Mangos VE-01-0062 Localização Logradouro: Calle Los Próceres CEP: Cidade: Valencia, CA, Venezuela Dias de Culto Dom 10:00 - Qua-Sáb 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial José Alberto Berrios Paiva Telefone(s) +58 (414) 462-0719"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0082",
+    "Nome": "Sector Manga Trés - Central",
+    "Logradouro": "Calle Esequibo",
+    "CEP": "Cidade: Temblador, MO, Venezuela",
+    "Cidade": "Temblador, MO, Venezuela",
+    "Coordenadas": {
+      "lat": 9.0076154,
+      "lon": -62.6399958
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Sector Manga Trés CENTRAL VE-01-0082 Localização Logradouro: Calle Esequibo CEP: Cidade: Temblador, MO, Venezuela Dias de Culto Sáb 10:00 Ministério"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0061",
+    "Nome": "Sector Manga de Coleo - Central",
+    "Logradouro": "Calle Libertad (al lado del cementerio)",
+    "CEP": "0002-317",
+    "Cidade": "Guayabal, GU, Venezuela",
+    "Coordenadas": {
+      "lat": 8.0009931,
+      "lon": -67.3972028
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Sector Manga de Coleo CENTRAL VE-01-0061 Localização Logradouro: Calle Libertad (al lado del cementerio) CEP: 0002-317 Cidade: Guayabal, GU, Venezuela Dias de Culto Dom 10:00 - Qua 17:00 Ministério Cooperador Ofício Ministerial Carlos Antonio Montero Telefone(s) +58 (424) 377-1432 +58 (416) 337-6027"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0031",
+    "Nome": "Sector Manzanillo - Central",
+    "Logradouro": "Avenida 31 de Julio",
+    "CEP": "Cidade: Manzanillo, NE, Venezuela",
+    "Cidade": "Manzanillo, NE, Venezuela",
+    "Coordenadas": {
+      "lat": 11.1419039,
+      "lon": -63.8664567
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "19:00"
+      },
+      "Obs": "Localidade Sector Manzanillo CENTRAL VE-01-0031 Localização Logradouro: Avenida 31 de Julio CEP: Cidade: Manzanillo, NE, Venezuela Dias de Culto Dom 10:00 - Qua 19:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial José del Valle Amarista Telefone(s) +58 (295) 249-1287"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0001",
+    "Nome": "Sector Monterrey - Central",
+    "Logradouro": "Calle Bolivia",
+    "CEP": "Cidade: Anaco, AN, Venezuela",
+    "Cidade": "Anaco, AN, Venezuela",
+    "Coordenadas": {
+      "lat": 9.4198262,
+      "lon": -64.4749097
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "18:30"
+      },
+      "Obs": "Localidade Sector Monterrey CENTRAL VE-01-0001 Localização Logradouro: Calle Bolivia CEP: Cidade: Anaco, AN, Venezuela Complemento: A 80 metros de la Via Principal de la U.D.O., Anaquito Dias de Culto Dom 10:00 - Qui 18:30 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Gever Eliut Rivas Rodríguez Telefone(s) +58 (282) 424-0357"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0060",
+    "Nome": "Sector Niño Jesús - Central",
+    "Logradouro": "Calle la Doña",
+    "CEP": "00003-103",
+    "Cidade": "Boconó, TR, Venezuela",
+    "Coordenadas": {
+      "lat": 9.2440996,
+      "lon": -70.2714058
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00"
+      },
+      "Obs": "Localidade Sector Niño Jesús CENTRAL VE-01-0060 Localização Logradouro: Calle la Doña CEP: 00003-103 Cidade: Boconó, TR, Venezuela Complemento: Urbanización La Elba Dias de Culto Dom 10:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (424) 754-3594"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0067",
+    "Nome": "Sector Santa Fé",
+    "Logradouro": "Vía las Playas, las parcelas",
+    "CEP": "Cidade: Santa Cruz de Mara, ZU, Venezuela",
+    "Cidade": "Santa Cruz de Mara, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.7885599,
+      "lon": -71.6893703
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Sector Santa Fé VE-01-0067 Localização Logradouro: Vía las Playas, las parcelas CEP: Cidade: Santa Cruz de Mara, ZU, Venezuela Complemento: al lado del Colegio Santa Fé Dias de Culto Sáb 10:00 Ministério Telefone(s) +58 (424) 624-8843"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0041",
+    "Nome": "Sector Santa María",
+    "Logradouro": "Calle 67 - Casa 28A-02",
+    "CEP": "Cidade: Maracaibo, ZU, Venezuela",
+    "Cidade": "Maracaibo, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.6498095,
+      "lon": -71.6443596
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sexta-feira"
+      ],
+      "Horarios": {
+        "Sexta-feira": "19:00"
+      },
+      "Obs": "Localidade Sector Santa María VE-01-0041 Localização Logradouro: Calle 67 - Casa 28A-02 CEP: Cidade: Maracaibo, ZU, Venezuela Complemento: Cerca de La Avenida La Limpia Dias de Culto Sex 19:00 Ministério Telefone(s) +58 (424) 637-2781"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0079",
+    "Nome": "Sector Tapicito",
+    "Logradouro": "Calle Principal (antes de la escuela)",
+    "CEP": "Cidade: Guayabal, GU, Venezuela",
+    "Cidade": "Guayabal, GU, Venezuela",
+    "Coordenadas": {
+      "lat": 8.0009931,
+      "lon": -67.3972028
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "16:30"
+      },
+      "Obs": "Localidade Sector Tapicito VE-01-0079 Localização Logradouro: Calle Principal (antes de la escuela) CEP: Cidade: Guayabal, GU, Venezuela Dias de Culto Dom 10:00 - Qui 16:30 Ministério Cooperador Ofício Ministerial Alexis Solórzano Telefone(s) +58 (424) 324-5613"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0019",
+    "Nome": "Sector Tierra Negra - Central",
+    "Logradouro": "Calle Pío Alvarado, Casa 137",
+    "CEP": "Cidade: Barquisimeto, LA, Venezuela",
+    "Cidade": "Barquisimeto, LA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.0774374,
+      "lon": -69.3222293
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30",
+        "Quinta-feira": "19:00"
+      },
+      "Obs": "Localidade Sector Tierra Negra CENTRAL VE-01-0019 Localização Logradouro: Calle Pío Alvarado, Casa 137 CEP: Cidade: Barquisimeto, LA, Venezuela Dias de Culto Dom 09:30 - Qui 19:00 Ministério Cooperador Ofício Ministerial Jorge Luis Cordero Telefone(s) +58 (412) 504-8259"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0011",
+    "Nome": "Sector Torre Norte - Central",
+    "Logradouro": "Vía Vigirima - Primera entrada del Sisal - Calle Terepaima, 2",
+    "CEP": "Cidade: Guacara, CA, Venezuela",
+    "Cidade": "Guacara, CA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.2172127,
+      "lon": -67.8836179
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "09:30 / RJM Dom 09:30",
+        "Terça-feira": "17:00"
+      },
+      "Obs": "Localidade Sector Torre Norte CENTRAL VE-01-0011 Localização Logradouro: Vía Vigirima - Primera entrada del Sisal - Calle Terepaima, 2 CEP: Cidade: Guacara, CA, Venezuela Dias de Culto Dom 09:30 - Ter 17:00 (RJM Dom 09:30) Ministério Diácono Carlos Augusto Aguirre Hernández Cooperador de Jovens e Menores Aquiles García Telefone(s) +58 (414) 942-8044"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0008",
+    "Nome": "UD 128 - Sector Río Claro",
+    "Logradouro": "Avenida Principal",
+    "CEP": "Cidade: San Felix, BO, Venezuela",
+    "Cidade": "San Felix, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 8.3475408,
+      "lon": -62.6471342
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quinta-feira": "18:00"
+      },
+      "Obs": "Localidade UD 128 - Sector Río Claro VE-01-0008 Localização Logradouro: Avenida Principal CEP: Cidade: San Felix, BO, Venezuela Complemento: La invasión 25 de Marzo Dias de Culto Dom 10:00 - Qui 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Franklin Nehomar Aray Yane Telefone(s) +58 (426) 697-9293"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0059",
+    "Nome": "Urbanización Campo Lindo",
+    "Logradouro": "Avenida Principal, Manzana 2, Casa 2",
+    "CEP": "Cidade: Carora, LA, Venezuela",
+    "Cidade": "Carora, LA, Venezuela",
+    "Coordenadas": {
+      "lat": 10.169534,
+      "lon": -70.0728483
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "18:00"
+      },
+      "Obs": "Localidade Urbanización Campo Lindo VE-01-0059 Localização Logradouro: Avenida Principal, Manzana 2, Casa 2 CEP: Cidade: Carora, LA, Venezuela Dias de Culto Dom 10:00 - Ter 18:00 Ministério Cooperador Ofício Ministerial Hipólito José Gonzalez Segovia Telefone(s) +58 (412) 051-3836"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0017",
+    "Nome": "Urbanización Cruz Verde - Central",
+    "Logradouro": "Bloque 10, Planta Baja, Local 01-02",
+    "CEP": "Cidade: Coro, FA, Venezuela",
+    "Cidade": "Coro, FA, Venezuela",
+    "Coordenadas": {
+      "lat": 11.4055796,
+      "lon": -69.6679115
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quarta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Quarta-feira": "17:00"
+      },
+      "Obs": "Localidade Urbanización Cruz Verde CENTRAL VE-01-0017 Localização Logradouro: Bloque 10, Planta Baja, Local 01-02 CEP: Cidade: Coro, FA, Venezuela Dias de Culto Dom 10:00 - Qua 17:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (412) 665-4963"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0051",
+    "Nome": "Urbanización El Araguaney - Central",
+    "Logradouro": "Punta de Piedras",
+    "CEP": "Cidade: Los Puertos de Altagracia, ZU, Venezuela",
+    "Cidade": "Los Puertos de Altagracia, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.669338,
+      "lon": -71.5273047
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Urbanización El Araguaney CENTRAL VE-01-0051 Localização Logradouro: Punta de Piedras CEP: Cidade: Los Puertos de Altagracia, ZU, Venezuela Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Guillermo Delgado Pérez Telefone(s) +58 (412) 661-0857 +58 (412) 072-6748"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0010",
+    "Nome": "Urbanización El Guayabal - Central",
+    "Logradouro": "Calle La Guacamaya",
+    "CEP": "Cidade: Santa Elena de Uairen, BO, Venezuela",
+    "Cidade": "Santa Elena de Uairen, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 4.5958694,
+      "lon": -61.1105854
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Sábado": "18:00"
+      },
+      "Obs": "Localidade Urbanización El Guayabal CENTRAL VE-01-0010 Localização Logradouro: Calle La Guacamaya CEP: Cidade: Santa Elena de Uairen, BO, Venezuela Complemento: Esquina con Calle La Orquídea - Fone Brasil (55 95) 9 9123-7118 Dias de Culto Dom 10:00 - Sáb 18:00 (RJM Dom 10:00) Ministério Cooperador Ofício Ministerial Iván Antonio Ricardo La Rosa Telefone(s) +58 (426) 411-9276"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0042",
+    "Nome": "Urbanización La Popular - Sector 16",
+    "Logradouro": "Calle 166 con Avenida 49, Casa nº 2",
+    "CEP": "Cidade: Maracaibo, ZU, Venezuela",
+    "Cidade": "Maracaibo, ZU, Venezuela",
+    "Coordenadas": {
+      "lat": 10.6498095,
+      "lon": -71.6443596
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado"
+      ],
+      "Horarios": {
+        "Terça-feira": "18:00",
+        "Sábado": "10:00"
+      },
+      "Obs": "Localidade Urbanización La Popular - Sector 16 VE-01-0042 Localização Logradouro: Calle 166 con Avenida 49, Casa nº 2 CEP: Cidade: Maracaibo, ZU, Venezuela Complemento: Municipio San Francisco Dias de Culto Ter 18:00 - Sáb 10:00 Ministério Telefone(s) +58 (424) 662-5510"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0043",
+    "Nome": "Urbanización Las Flores - Central",
+    "Logradouro": "Avenida Las Margaritas",
+    "CEP": "Cidade: Santa Teresa Del Tuy, MI, Venezuela",
+    "Cidade": "Santa Teresa Del Tuy, MI, Venezuela",
+    "Coordenadas": {
+      "lat": 10.2388567,
+      "lon": -66.6722608
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "10:00"
+      },
+      "Obs": "Localidade Urbanización Las Flores CENTRAL VE-01-0043 Localização Logradouro: Avenida Las Margaritas CEP: Cidade: Santa Teresa Del Tuy, MI, Venezuela Dias de Culto Dom 10:00 Ministério Cooperador Ofício Ministerial Alexander Enrique Moreno Gil Telefone(s) +58 (414) 108-1963"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0032",
+    "Nome": "Urbanización Villa Rosa - Central",
+    "Logradouro": "Final de la Calle nº 5",
+    "CEP": "Cidade: Villa Rosa, NE, Venezuela",
+    "Cidade": "Villa Rosa, NE, Venezuela",
+    "Coordenadas": {
+      "lat": 10.9478855,
+      "lon": -63.9278218
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Quinta-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Quinta-feira": "17:30"
+      },
+      "Obs": "Localidade Urbanización Villa Rosa CENTRAL VE-01-0032 Localização Logradouro: Final de la Calle nº 5 CEP: Cidade: Villa Rosa, NE, Venezuela Complemento: A una cuadra más arriba del Ambulatorio del S.S.O. Dias de Culto Dom 10:00 - Qui 17:30 Ministério Ancião JOSÉ TESALIO MONTILLA CÉSAR MIGUEL PERALTA BLANCO ANÍBAL RAFAEL SALAZAR GONZÁLEZ Diácono Eurídice José Marcano Hernandez Orlando Rafael Navarro Marcano Telefone(s) +58 (295) 263-4618"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0066",
+    "Nome": "Villa Gumilla - Sector Los Alacranes",
+    "Logradouro": "Calle Venezuela, Manzana 8, Terreno 11",
+    "CEP": "Cidade: San Felix, BO, Venezuela",
+    "Cidade": "San Felix, BO, Venezuela",
+    "Coordenadas": {
+      "lat": 8.3475408,
+      "lon": -62.6471342
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00",
+        "Terça-feira": "19:00"
+      },
+      "Obs": "Localidade Villa Gumilla - Sector Los Alacranes VE-01-0066 Localização Logradouro: Calle Venezuela, Manzana 8, Terreno 11 CEP: Cidade: San Felix, BO, Venezuela Dias de Culto Dom 10:00 - Ter 19:00 Ministério Cooperador Ofício Ministerial David Contreras Telefone(s) +58 (412) 083-1491"
+    }
+  },
+  {
+    "CodigoId": "VE-01-0064",
+    "Nome": "Villa Heroica Sur",
+    "Logradouro": "Calle Principal, Manzana 2",
+    "CEP": "Cidade: Maturín, MO, Venezuela",
+    "Cidade": "Maturín, MO, Venezuela",
+    "Coordenadas": {
+      "lat": 9.7840094,
+      "lon": -63.2009635
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo",
+        "Terça-feira"
+      ],
+      "Horarios": {
+        "Domingo": "10:00 / RJM Dom 10:00",
+        "Terça-feira": "18:00"
+      },
+      "Obs": "Localidade Villa Heroica Sur VE-01-0064 Localização Logradouro: Calle Principal, Manzana 2 CEP: Cidade: Maturín, MO, Venezuela Dias de Culto Dom 10:00 - Ter 18:00 (RJM Dom 10:00) Ministério Telefone(s) +58 (412) 987-2042"
+    }
+  }
+]

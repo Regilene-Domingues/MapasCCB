@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "GT-01-0003",
+    "Nome": "Colonia La Reinita",
+    "Logradouro": "23 Avenida B, Lote #482 - Zona 6",
+    "CEP": "Cidade: Ciudad de Guatemala, GUATEMALA, Guatemala",
+    "Cidade": "Ciudad de Guatemala, GUATEMALA, Guatemala",
+    "Coordenadas": {
+      "lat": 14.6297388,
+      "lon": -90.5112998
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Domingo"
+      ],
+      "Horarios": {
+        "Domingo": "16:00"
+      },
+      "Obs": "Localidade Colonia La Reinita GT-01-0003 Localização Logradouro: 23 Avenida B, Lote #482 - Zona 6 CEP: Cidade: Ciudad de Guatemala, GUATEMALA, Guatemala Dias de Culto 2º e 4º Dom 16:00 Ministério"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "CodigoId": "CI-01-0002",
+    "Nome": "Central - Central",
+    "Logradouro": "CEP:",
+    "CEP": "Cidade: Abidjan, LAGUNES, COSTA DO MARFIM (EE)",
+    "Cidade": "Abidjan, LAGUNES, COSTA DO MARFIM (EE)",
+    "Coordenadas": {
+      "lat": null,
+      "lon": null
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "DM"
+      ],
+      "Horarios": {
+        "DM": "DM"
+      },
+      "Obs": "Localidade Central CENTRAL CI-01-0002 Localização Logradouro: CEP: Cidade: Abidjan, LAGUNES, COSTA DO MARFIM (EE) Dias de Culto DM Ministério"
+    }
+  }
+]
