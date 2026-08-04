@@ -17,8 +17,8 @@ namespace CCB_Mapas_App
 		private readonly PaisService _paisService;
 		private bool mapLoaded = false;
 		private static readonly HttpClient _httpClient = new HttpClient { DefaultRequestHeaders = { { "User-Agent", "CCBMapasApp/1.0" } } };
-		private string ArquivoPaisAtual = "PT_Portugal.json";
 		private List<Pais> _paises = new();
+		private Pais? PaisAtual;
 
 		public MainPage(ChurchService churchService, PaisService paisService)
 		{
@@ -231,20 +231,7 @@ namespace CCB_Mapas_App
 			{
 				await LimparPesquisaNoMapaAsync();
 			}
-		}
-
-		private async Task CarregarPaisesAsync()
-		{
-			try
-			{
-				_paises = await _paisService.GetPaisesAsync();
-				Debug.WriteLine($"🌍 Países carregados: {_paises.Count}");
-			}
-			catch (Exception ex)
-			{
-				Debug.WriteLine($"❌ Erro ao carregar países: {ex.Message}");
-			}
-		}
+		}		
 
 		private async Task PesquisarLocalidadeAsync()
 		{
@@ -299,12 +286,50 @@ namespace CCB_Mapas_App
 
 			await MapWebView.EvaluateJavaScriptAsync("clearSearchLocation()");
 		}
+		private async Task CarregarPaisesAsync()
+		{
+			try
+			{
+				_paises = await _paisService.GetPaisesAsync();
+
+				Debug.WriteLine($"🌍 Países carregados: {_paises.Count}");
+
+				var pais = _paises.FirstOrDefault(p => p.Codigo == "PT");
+
+				if (pais != null)
+				{
+					await TrocarPaisAsync(pais);
+				}
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao carregar países: {ex.Message}");
+			}
+		}
+
+		private async Task TrocarPaisAsync(Pais pais)
+		{
+			PaisAtual = pais;
+
+			await EnviarDadosParaJS();
+
+			Debug.WriteLine($"🌍 País alterado para: {PaisAtual.Nome}");
+		}
+
+		private async void CountryButton_Clicked(object sender, EventArgs e)
+		{
+			await DisplayAlert(
+				"Seleção de país",
+				"Botão 🌍 funcionando!",
+				"OK");
+		}
+
 		private async Task EnviarDadosParaJS()
 		{
 			try
 			{
 				Debug.WriteLine("📦 Preparando dados JSON para enviar ao JavaScript...");
-				var churches = await _churchService.GetChurchesAsync(ArquivoPaisAtual);
+				var churches = await _churchService.GetChurchesAsync(PaisAtual!.Arquivo);
 				if (churches == null || churches.Count == 0) { Debug.WriteLine("⚠️ Nenhuma igreja retornada pelo ChurchService"); return; }
 				var json = System.Text.Json.JsonSerializer.Serialize(churches);
 				var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(json));
