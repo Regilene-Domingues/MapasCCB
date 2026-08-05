@@ -318,20 +318,23 @@ namespace CCB_Mapas_App
 
 		private async void CountryButton_Clicked(object sender, EventArgs e)
 		{
+			var opcoes = _paises
+				.Where(p => p.Ativo)
+				.Select(p => $"{p.Bandeira} {p.Nome}")
+				.ToArray();
+
 			var opcao = await DisplayActionSheet(
 				"Selecionar país",
 				"Cancelar",
 				null,
-				"🇵🇹 Portugal",
-				"🇪🇸 Espanha");
+				opcoes);
 
-			if (opcao == "🇵🇹 Portugal")
+			var pais = _paises.FirstOrDefault(p =>
+				p.Ativo && $"{p.Bandeira} {p.Nome}" == opcao);
+
+			if (pais != null)
 			{
-				await TrocarPaisAsync(_paises.First(p => p.Codigo == "PT"));
-			}
-			else if (opcao == "🇪🇸 Espanha")
-			{
-				await TrocarPaisAsync(_paises.First(p => p.Codigo == "ES"));
+				await TrocarPaisAsync(pais);
 			}
 		}
 
