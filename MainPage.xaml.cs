@@ -318,10 +318,21 @@ namespace CCB_Mapas_App
 
 		private async void CountryButton_Clicked(object sender, EventArgs e)
 		{
-			await DisplayAlert(
-				"Seleção de país",
-				"Botão 🌍 funcionando!",
-				"OK");
+			var opcao = await DisplayActionSheet(
+				"Selecionar país",
+				"Cancelar",
+				null,
+				"🇵🇹 Portugal",
+				"🇪🇸 Espanha");
+
+			if (opcao == "🇵🇹 Portugal")
+			{
+				await TrocarPaisAsync(_paises.First(p => p.Codigo == "PT"));
+			}
+			else if (opcao == "🇪🇸 Espanha")
+			{
+				await TrocarPaisAsync(_paises.First(p => p.Codigo == "ES"));
+			}
 		}
 
 		private async Task EnviarDadosParaJS()

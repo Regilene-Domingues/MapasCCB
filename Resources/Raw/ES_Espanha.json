@@ -1,13 +1,13 @@
 [
   {
     "CodigoId": "ES-08-0001",
-    "Nome": "A Coruña - Central",
+    "Nome": "A Coruña",
     "Logradouro": "Calle Mariscal Pardo de Cela, 5",
     "CEP": "15002",
     "Cidade": "Provincia de A Coruña, GA, Espanha",
     "Coordenadas": {
-      "lat": 43.3566819,
-      "lon": -8.4065967
+      "lat": 43.35662992032877,
+      "lon": -8.40663515881251
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -28,28 +28,30 @@
     "CEP": "28801",
     "Cidade": "Provincia de Madrid, MD, Espanha",
     "Coordenadas": {
-      "lat": 40.4148858,
-      "lon": -3.7059182
+      "lat": 40.479020448257586,
+      "lon": -3.369430943749954
     },
     "Agenda": {
       "DiasDeCulto": [
-        "Domingo"
+        "Domingo",
+        "Sexta-feira"
       ],
       "Horarios": {
-        "Domingo": "18:30 -Sex 20:30"
+        "Domingo": "18:30",
+        "Sexta-feira": "20:30"
       },
       "Obs": "Localidade Alcalá de Henares ES-11-0057 Localização Logradouro: Calle Rico Home, 5 - Local 2 CEP: 28801 Cidade: Provincia de Madrid, MD, Espanha Dias de Culto Dom 18:30 -Sex 20:30 Ministério Cooperador Ofício Ministerial Jaime Joven Mejía Telefone(s) +34 () 609 504 938"
     }
   },
   {
     "CodigoId": "ES-01-0002",
-    "Nome": "Algeciras - Central",
+    "Nome": "Algeciras",
     "Logradouro": "Calle Metalúrgicos, Bloque 5",
     "CEP": "11206",
     "Cidade": "Provincia de Cádiz, AN, Espanha",
     "Coordenadas": {
-      "lat": 36.1124845,
-      "lon": -5.4576272
+      "lat": 36.11237027618013,
+      "lon": -5.457536225804431
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -58,20 +60,20 @@
       ],
       "Horarios": {
         "Quinta-feira": "20:30",
-        "Domingo": "10:00"
+        "Domingo": "19:30 - RJM DOM 10:00"
       },
       "Obs": "Localidade Algeciras CENTRAL ES-01-0002 Localização Logradouro: Calle Metalúrgicos, Bloque 5 CEP: 11206 Cidade: Provincia de Cádiz, AN, Espanha Dias de Culto DN 5N (RJM-DM) Reunião de Jovens e Menores Domingo - 10:00 - es_ES Culto Oficial Domingo - 19:30 - es_ES Quinta-feira - 20:30 - es_ES Ministério Cooperador Ofício Ministerial Airton Teixeira Nunes Diácono Antônio Espinosa Mariano Cooperador de Jovens e Menores Otávio Lourenço de Souza Neto Telefone(s) +34 () 631 170 599"
     }
   },
   {
     "CodigoId": "ES-06-0001",
-    "Nome": "Alicante - Central",
+    "Nome": "Alicante",
     "Logradouro": "Calle Virgen de Fátima, 12",
     "CEP": "03006",
     "Cidade": "Provincia de Alicante, VC, Espanha",
     "Coordenadas": {
-      "lat": 38.3468125,
-      "lon": -0.5156624
+      "lat": 38.34654427507536,
+      "lon": -0.5156351000817428
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -94,8 +96,8 @@
     "CEP": "29200",
     "Cidade": "Provincia de Málaga, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.0179232,
-      "lon": -4.5652018
+      "lat": 37.01808227257674,
+      "lon": -4.564516979950026
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -106,20 +108,20 @@
       "Horarios": {
         "Quinta-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "11:00"
+        "Domingo": "19:30 / RJN - 11:00"
       },
       "Obs": "Localidade Antequera ES-01-0018 Localização Logradouro: Calle Bombeo, 1 CEP: 29200 Cidade: Provincia de Málaga, AN, Espanha Dias de Culto DN 5N SN (RJM-DM) Reunião de Jovens e Menores Domingo - 11:00 - es_ES Culto Oficial Domingo - 19:30 - es_ES Quinta-feira - 20:30 - es_ES Sábado - 19:30 - es_ES Ministério Ancião NÉLSON DE OLIVEIRA DAVID CLAUDINEI MARQUES CREPALDI Cooperador Ofício Ministerial Wesley Espinosa de Sousa Diácono Celso Turola Pereira Ruben Augusto Barbosa Cooperador de Jovens e Menores Marcos Denilson Pasini Telefone(s) +34 () 635 788 827"
     }
   },
   {
     "CodigoId": "ES-09-0062",
-    "Nome": "Arrecife - Central",
-    "Logradouro": "Calle Antonio, 15",
+    "Nome": "Arrecife",
+    "Logradouro": "Calle el Antonio, 15",
     "CEP": "35500",
     "Cidade": "Isla de Lanzarote, CN, Espanha",
     "Coordenadas": {
-      "lat": 35.8873418,
-      "lon": -5.3034288
+      "lat": 28.968590492434817,
+      "lon": -13.553203203982958
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -133,13 +135,13 @@
   },
   {
     "CodigoId": "ES-07-0001",
-    "Nome": "Badajoz - Central",
+    "Nome": "Badajoz",
     "Logradouro": "Calle Linares, 70-A",
     "CEP": "06010",
     "Cidade": "Provincia de Badajoz, EX, Espanha",
     "Coordenadas": {
-      "lat": 38.8662532,
-      "lon": -6.9765202
+      "lat": 38.865960426609895,
+      "lon": -6.976027165177167
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -150,20 +152,20 @@
       "Horarios": {
         "Quarta-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Badajoz CENTRAL ES-07-0001 Localização Logradouro: Calle Linares, 70-A CEP: 06010 Cidade: Provincia de Badajoz, EX, Espanha Dias de Culto Qua 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Ancião CHARLES SPECIAN SIMÃO Diácono Lucas Filipe Melo Aguiar Cooperador de Jovens e Menores Felipe Fontoura de Paula Telefone(s) +34 () 622 240 313"
     }
   },
   {
     "CodigoId": "ES-05-0005",
-    "Nome": "Barcelona - Poble Sec - Central",
+    "Nome": "Barcelona",
     "Logradouro": "Carrer de la França Xica, 29",
     "CEP": "08004",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.372086,
-      "lon": 2.1573075
+      "lat": 41.37203357094707,
+      "lon": 2.157301159619511
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -172,7 +174,7 @@
         "Sexta-feira"
       ],
       "Horarios": {
-        "Domingo": "18:30 / 16:00 (Catalão / RJM Dom 11:00",
+        "Domingo": "18:30 / Catalão 3º Dom 16:00  / RJM - 11:00",
         "Quarta-feira": "20:30",
         "Sexta-feira": "20:30"
       },
@@ -186,8 +188,8 @@
     "CEP": "08205",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.5361035,
-      "lon": 2.0983757
+      "lat": 41.53890970125092,
+      "lon": 2.097448497827503
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -203,13 +205,13 @@
   },
   {
     "CodigoId": "ES-10-0004",
-    "Nome": "Baztán - Central",
-    "Logradouro": "Carrer de Belate, s/nº -Polígono Industrial Zozaia - Nave 3",
+    "Nome": "Baztán",
+    "Logradouro": "Carretera de Belate, s/nº - Polígono Industrial Zozaia - Nave 3",
     "CEP": "31720",
     "Cidade": "Navarra, NC, Espanha",
     "Coordenadas": {
-      "lat": 43.1387954,
-      "lon": -1.6094304
+      "lat": 43.12292237320784,
+      "lon": -1.594720692044551
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -230,15 +232,15 @@
     "CEP": "08859",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.3338863,
-      "lon": 1.9177957
+      "lat": 41.33724495200188,
+      "lon": 1.917271155698614
     },
     "Agenda": {
       "DiasDeCulto": [
         "Sábado"
       ],
       "Horarios": {
-        "Sábado": "19:30"
+        "Sábado": "4º SAB 19:30"
       },
       "Obs": "Localidade Begues ES-05-0063 Localização Logradouro: Calle de Girona, 3 CEP: 08859 Cidade: Provincia de Barcelona, CT, Espanha Complemento: Reunião de Evangelização Dias de Culto 4º Sáb 19:30 Ministério Cooperador Ofício Ministerial Plínio Gabriel de Oliveira Telefone(s) +34 () 685 995 403"
     }
@@ -246,12 +248,12 @@
   {
     "CodigoId": "ES-08-0003",
     "Nome": "Bertamirans",
-    "Logradouro": "Plaza Horta de Baixo, 3 - Local 8",
+    "Logradouro": "Plaza Horta de Abaixo, 3 - Local 8",
     "CEP": "15220",
     "Cidade": "Provincia de A Coruña, GA, Espanha",
     "Coordenadas": {
-      "lat": 42.8664547,
-      "lon": -8.6349033
+      "lat": 42.86123662174967,
+      "lon": -8.649834988474614
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -269,13 +271,13 @@
   },
   {
     "CodigoId": "ES-14-0002",
-    "Nome": "Bilbao - Basauri - Central",
-    "Logradouro": "Avenida Agirre Lehendakaria Kalea, 30",
+    "Nome": "Bilbao",
+    "Logradouro": "Agirre Lehendakaria Kalea, 30",
     "CEP": "48970",
     "Cidade": "Provincia de Vizcaya, PV, Espanha",
     "Coordenadas": {
-      "lat": 43.2341239,
-      "lon": -2.884346
+      "lat": 43.23645410490307,
+      "lon": -2.8886468841263286
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -283,41 +285,41 @@
         "Sábado"
       ],
       "Horarios": {
-        "Quarta-feira": "19:30",
+        "Quarta-feira": "20:00",
         "Sábado": "19:30 / RJM 1º e 3º Sáb 17:00"
       },
-      "Obs": "Localidade Bilbao - Basauri CENTRAL ES-14-0002 Localização Logradouro: Avenida Agirre Lehendakaria Kalea, 30 CEP: 48970 Cidade: Provincia de Vizcaya, PV, Espanha Dias de Culto Qua 19:30 - Sáb 19:30 (RJM 1º e 3º Sáb 17:00) Ministério Cooperador Ofício Ministerial Gerson Fante Cooperador de Jovens e Menores Ricardo José Monteiro Ferreira Telefone(s) +34 () 688 816 837"
+      "Obs": "Localidade Bilbao - Basauri CENTRAL ES-14-0002 Localização Logradouro: Avenida Agirre Lehendakaria Kalea, 30 CEP: 48970 Cidade: Provincia de Vizcaya, PV, Espanha Dias de Culto Qua 20:00 - Sáb 19:30 (RJM 1º e 3º Sáb 17:00) Ministério Cooperador Ofício Ministerial Gerson Fante Cooperador de Jovens e Menores Ricardo José Monteiro Ferreira Telefone(s) +34 () 688 816 837"
     }
   },
   {
     "CodigoId": "ES-04-0005",
-    "Nome": "Burgos - Central",
+    "Nome": "Burgos",
     "Logradouro": "Pasaje Fernando de Rojas, 8",
-    "CEP": "0009-007",
+    "CEP": "09007",
     "Cidade": "Burgos, CL, Espanha",
     "Coordenadas": {
-      "lat": 42.3493357,
-      "lon": -3.666223
+      "lat": 42.34961405354707,
+      "lon": -3.6661771288841543
     },
     "Agenda": {
       "DiasDeCulto": [
         "Sábado"
       ],
       "Horarios": {
-        "Sábado": "19:30"
+        "Sábado": "2º e 4º Sáb 19:30"
       },
-      "Obs": "Localidade Burgos CENTRAL ES-04-0005 Localização Logradouro: Pasaje Fernando de Rojas, 8 CEP: 0009-007 Cidade: Burgos, CL, Espanha Dias de Culto 2º e 4º Sáb 19:30 Ministério Cooperador Ofício Ministerial Driejo Lira Rufino Telefone(s) +34 () 674 407 702"
+      "Obs": "Localidade Burgos CENTRAL ES-04-0005 Localização Logradouro: Pasaje Fernando de Rojas, 8 CEP: 09007 Cidade: Burgos, CL, Espanha Dias de Culto 2º e 4º Sáb 19:30 Ministério Cooperador Ofício Ministerial Driejo Lira Rufino Telefone(s) +34 () 674 407 702"
     }
   },
   {
     "CodigoId": "ES-05-0024",
-    "Nome": "Calafell - Segur de Calafell",
+    "Nome": "Segur de Calafell",
     "Logradouro": "Carrer Joan Maragall, 45",
     "CEP": "43882",
     "Cidade": "Provincia de Tarragona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.1904512,
-      "lon": 1.4652654
+      "lat": 41.196405987215954,
+      "lon": 1.6067528153701027
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -331,13 +333,13 @@
   },
   {
     "CodigoId": "ES-06-0003",
-    "Nome": "Castellón - Central",
+    "Nome": "Castellón",
     "Logradouro": "Avinguda de l'Alcorà, 181",
     "CEP": "12009",
     "Cidade": "Provincia de Castellón, VC, Espanha",
     "Coordenadas": {
-      "lat": 39.986054,
-      "lon": -0.0544458
+      "lat": 39.98779406143193,
+      "lon": -0.06433749722005705
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -360,8 +362,8 @@
     "CEP": "07011",
     "Cidade": "Illa de Mallorca, IB, Espanha",
     "Coordenadas": {
-      "lat": 39.182885,
-      "lon": 2.9623941
+      "lat": 39.47449567012053,
+      "lon": 3.1515146067238335
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -370,20 +372,40 @@
       ],
       "Horarios": {
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Felanitx ES-15-0002 Localização Logradouro: Paseo República Argentina, 17 - Bajos CEP: 07011 Cidade: Illa de Mallorca, IB, Espanha Dias de Culto Sab 19:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial Paulo Massuo Amemiya Cooperador de Jovens e Menores Roberto Mesquita Matias Telefone(s) +34 () 601 216 649"
     }
   },
   {
-    "CodigoId": "ES-05-0065",
-    "Nome": "Fogars de La Selva - Tordera",
-    "Logradouro": "Carrer Jaume Baumes, 34",
-    "CEP": "00008-495",
+    "CodigoId": "ES-05-0064",
+    "Nome": "Manresa",
+    "Logradouro": "Carrer de la Séquia, 30",
+    "CEP": "08242",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 42.9931315,
-      "lon": -6.2303252
+      "lat": 41.7309288340668,
+      "lon": 1.8299660248011165
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "19:30"
+      },
+      "Obs": "Localidade Manresa ES-05-0064 Localização Logradouro: Carrer de la Séquia, 30 CEP: 08242 Cidade: Provincia de Barcelona, CT, Espanha Dias de Culto SN Culto Oficial Sábado - 19:30 - es_ES Ministério Cooperador Ofício Ministerial Elissandro Cardozo Rodrigues +34 652 112 341"
+    }
+  },
+  {
+    "CodigoId": "ES-05-0065",
+    "Nome": "Fogars de La Selva (Tordera)",
+    "Logradouro": "Carrer Jaume Balmes, 34",
+    "CEP": "08495",
+    "Cidade": "Provincia de Barcelona, CT, Espanha",
+    "Coordenadas": {
+      "lat": 41.727869193099934,
+      "lon": 2.6781676045639813
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -397,33 +419,33 @@
   },
   {
     "CodigoId": "ES-05-0015",
-    "Nome": "Girona - Central",
+    "Nome": "Girona",
     "Logradouro": "Calle Montseny, 80 - Bajo 1",
     "CEP": "17006",
     "Cidade": "Provincia de Girona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.9756976,
-      "lon": 2.805465
+      "lat": 41.975604656891875,
+      "lon": 2.8023026561131443
     },
     "Agenda": {
       "DiasDeCulto": [
         "Domingo"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 16:00"
+        "Domingo": "18:30 / RJM - 16:00"
       },
       "Obs": "Localidade Girona CENTRAL ES-05-0015 Localização Logradouro: Calle Montseny, 80 - Bajo 1 CEP: 17006 Cidade: Provincia de Girona, CT, Espanha Complemento: Cerca de la Plaza del Barco Dias de Culto Dom 18:30 (RJM Dom 16:00) Ministério Cooperador Ofício Ministerial Paulo Cesar Pereira dos Santos Telefone(s) +34 () 665 737 547"
     }
   },
   {
     "CodigoId": "ES-01-0060",
-    "Nome": "Granada - Central",
+    "Nome": "Granada",
     "Logradouro": "Calle Artesano Molero, 3 - Bajo",
     "CEP": "18004",
     "Cidade": "Provincia de Granada, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.1809632,
-      "lon": -3.6148537
+      "lat": 37.181195071220344,
+      "lon": -3.61462048953544
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -437,13 +459,13 @@
   },
   {
     "CodigoId": "ES-11-0003",
-    "Nome": "Guadalajara - Central",
+    "Nome": "Guadalajara",
     "Logradouro": "Calle Zaragoza, 32",
     "CEP": "19005",
     "Cidade": "Provincia de Guadalajara, MD, Espanha",
     "Coordenadas": {
-      "lat": 40.3616051,
-      "lon": -3.357123
+      "lat": 40.636568123146624,
+      "lon": -3.1533181723885173
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -454,40 +476,40 @@
       "Horarios": {
         "Quarta-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Guadalajara CENTRAL ES-11-0003 Localização Logradouro: Calle Zaragoza, 32 CEP: 19005 Cidade: Provincia de Guadalajara, MD, Espanha Dias de Culto Qua 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial Edson Aparecido Soterio do Nascimento Cooperador de Jovens e Menores Josué Gonçalves Mairão Telefone(s) +34 () 620 807 200"
     }
   },
   {
     "CodigoId": "ES-01-0006",
-    "Nome": "Huelva - Central",
+    "Nome": "Huelva",
     "Logradouro": "Calle Marchena Colombo, 14",
     "CEP": "21004",
     "Cidade": "Provincia de Huelva, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.264806,
-      "lon": -6.9456244
+      "lat": 37.26478353339186,
+      "lon": -6.944464810515543
     },
     "Agenda": {
       "DiasDeCulto": [
         "Sábado"
       ],
       "Horarios": {
-        "Sábado": "19:30"
+        "Sábado": "1º e 3º SÁB 19:30"
       },
       "Obs": "Localidade Huelva CENTRAL ES-01-0006 Localização Logradouro: Calle Marchena Colombo, 14 CEP: 21004 Cidade: Provincia de Huelva, AN, Espanha Dias de Culto Sáb 19:30 Ministério Cooperador Ofício Ministerial Rogério de Araujo Carvalho Telefone(s) +34 () 645 333 748"
     }
   },
   {
     "CodigoId": "ES-15-0001",
-    "Nome": "Ibiza - Central",
+    "Nome": "Ibiza",
     "Logradouro": "Carrer del Doctor Fleming, 2º e 4º Bajos Izquierda",
     "CEP": "07800",
     "Cidade": "Illa de Eivissa, IB, Espanha",
     "Coordenadas": {
-      "lat": 38.8162723,
-      "lon": 1.403386
+      "lat": 38.91094852280247,
+      "lon": 1.427168014051579
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -503,13 +525,13 @@
   },
   {
     "CodigoId": "ES-05-0016",
-    "Nome": "La Seu d'Urgell - Central",
-    "Logradouro": "Calle Carrer del Bisbe Guitart, 31",
+    "Nome": "La Seu d'Urgell",
+    "Logradouro": "Carrer del Bisbe Guitart, 31",
     "CEP": "25700",
     "Cidade": "Provincia de Lleida, CT, Espanha",
     "Coordenadas": {
-      "lat": 42.3514092,
-      "lon": 1.4686079
+      "lat": 42.355194849940304,
+      "lon": 1.459505275792929
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -525,13 +547,13 @@
   },
   {
     "CodigoId": "ES-09-0002",
-    "Nome": "Las Palmas de Gran Canaria - Central",
+    "Nome": "Las Palmas de Gran Canaria",
     "Logradouro": "Avenida Guillermo Santana Rivero, 3 - L6",
-    "CEP": "35011",
+    "CEP": "35012",
     "Cidade": "Isla de Gran Canaria, CN, Espanha",
     "Coordenadas": {
-      "lat": 28.4072896,
-      "lon": -16.5428341
+      "lat": 28.10727528093926,
+      "lon": -15.444295779626826
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -546,12 +568,12 @@
   {
     "CodigoId": "ES-05-0025",
     "Nome": "Lleida",
-    "Logradouro": "Calle Jeroni Pujades, 2 - Bajo",
+    "Logradouro": "Carrer de Jeroni Pujades, 2 - Bajo",
     "CEP": "25005",
     "Cidade": "Provincia de Lleida, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.6291833,
-      "lon": 0.6309116
+      "lat": 41.621027495064375,
+      "lon": 0.6346987597733077
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -562,20 +584,20 @@
       "Horarios": {
         "Terça-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Lleida ES-05-0025 Localização Logradouro: Calle Jeroni Pujades, 2 - Bajo CEP: 25005 Cidade: Provincia de Lleida, CT, Espanha Dias de Culto Ter 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial Carlos José Miró León Cooperador de Jovens e Menores Abner Pereira Rodrigues Telefone(s) +34 () 698 892 460"
     }
   },
   {
     "CodigoId": "ES-11-0007",
-    "Nome": "Madrid - Central",
+    "Nome": "Madrid",
     "Logradouro": "Calle Julián Camarillo, 26 - Nave E7",
     "CEP": "28037",
     "Cidade": "Provincia de Madrid, MD, Espanha",
     "Coordenadas": {
-      "lat": 40.4148858,
-      "lon": -3.7059182
+      "lat": 40.434902895051614,
+      "lon": -3.6273338070020924
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -584,7 +606,7 @@
         "Sábado"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 11:00",
+        "Domingo": "18:30 / RJM - 11:00",
         "Quinta-feira": "20:30",
         "Sábado": "19:30"
       },
@@ -598,30 +620,30 @@
     "CEP": "29601",
     "Cidade": "Provincia de Málaga, AN, Espanha",
     "Coordenadas": {
-      "lat": 36.6586774,
-      "lon": -4.754171
+      "lat": 36.511226193786776,
+      "lon": -4.893810522712959
     },
     "Agenda": {
       "DiasDeCulto": [
         "Domingo",
-        "Terça-feira"
+        "Quarta-feira"
       ],
       "Horarios": {
         "Domingo": "19:30",
-        "Terça-feira": "20:30"
+        "Quarta-feira": "20:30"
       },
-      "Obs": "Localidade Marbella ES-01-0019 Localização Logradouro: Calle Jacinto Benavente, 39 bajo CEP: 29601 Cidade: Provincia de Málaga, AN, Espanha Dias de Culto Dom 19:30 - Ter 20:30 Ministério Cooperador Ofício Ministerial Diego Marinho de Abreu Telefone(s) +34 () 661 223 291"
+      "Obs": "Localidade Marbella ES-01-0019 Localização Logradouro: Calle Jacinto Benavente, 39 bajo CEP: 29601 Cidade: Provincia de Málaga, AN, Espanha Dias de Culto Dom 19:30 - Qua 20:30 Ministério Cooperador Ofício Ministerial Diego Marinho de Abreu Telefone(s) +34 () 661 223 291"
     }
   },
   {
     "CodigoId": "ES-05-0007",
     "Nome": "Mataró",
-    "Logradouro": "Ronda deis Paisos Catalans, 21",
-    "CEP": "0008-304",
+    "Logradouro": "Ronda dels Paisos Catalans, 21, Local 41",
+    "CEP": "08304",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.2743627,
-      "lon": 1.9726606
+      "lat": 41.554058270798755,
+      "lon": 2.4387915788119776
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -640,8 +662,8 @@
     "CEP": "08110",
     "Cidade": "Provincia de Barcelona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.5072483,
-      "lon": 2.3962173
+      "lat": 41.49558256700774,
+      "lon": 2.179458343427145
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -655,13 +677,13 @@
   },
   {
     "CodigoId": "ES-13-0001",
-    "Nome": "Murcia - Central",
-    "Logradouro": "Calle Leopoldo Augusto Cueto, 1 - Nave A",
-    "CEP": "030-160",
+    "Nome": "Murcia",
+    "Logradouro": "Calle Leopoldo Augusto de Cueto, 1 - Nave A",
+    "CEP": "30160",
     "Cidade": "Provincia de Murcia, MC, Espanha",
     "Coordenadas": {
-      "lat": 38.02653976904815,
-      "lon": -1.0888385994904817
+      "lat": 38.02946052514618,
+      "lon": -1.0890871517518657
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -675,13 +697,13 @@
   },
   {
     "CodigoId": "ES-01-0010",
-    "Nome": "Málaga - Central",
+    "Nome": "Málaga",
     "Logradouro": "Plaza Alcalde Enrique Gomes Rodrigues, local 2M",
     "CEP": "29006",
     "Cidade": "Provincia de Málaga, AN, Espanha",
     "Coordenadas": {
-      "lat": 36.7081504,
-      "lon": -4.4635303
+      "lat": 36.71001131794791,
+      "lon": -4.449776785076748
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -692,7 +714,7 @@
       "Horarios": {
         "Quarta-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Málaga CENTRAL ES-01-0010 Localização Logradouro: Plaza Alcalde Enrique Gomes Rodrigues, local 2M CEP: 29006 Cidade: Provincia de Málaga, AN, Espanha Dias de Culto Qua 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Ancião RICARDO SIONÉIA FANTE Cooperador Ofício Ministerial Abmael Romão Leme Cooperador de Jovens e Menores Marcelo Sidnei Martins Telefone(s) +34 () 602 481 216"
     }
@@ -700,12 +722,12 @@
   {
     "CodigoId": "ES-01-0068",
     "Nome": "Nerja",
-    "Logradouro": "CEP: 29780",
+    "Logradouro": "Tel: +34 624 700 178 Coop. João Felipe Martins",
     "CEP": "29780",
     "Cidade": "Provincia de Málaga, AN, Espanha",
     "Coordenadas": {
-      "lat": 36.719614,
-      "lon": -4.4320767
+      "lat": 36.75807903613707,
+      "lon": -3.872444628319472
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -724,8 +746,8 @@
     "CEP": "36340",
     "Cidade": "Provincia de Pontevedra, GA, Espanha",
     "Coordenadas": {
-      "lat": 42.4186721,
-      "lon": -8.6361341
+      "lat": 42.14591562373784,
+      "lon": -8.806736275500015
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -741,13 +763,13 @@
   },
   {
     "CodigoId": "ES-08-0021",
-    "Nome": "Oviedo - Siero - Central",
+    "Nome": "Astúrias (Oviedo)",
     "Logradouro": "Carretera Nacional 634, 78",
-    "CEP": "33-0199",
+    "CEP": "33199",
     "Cidade": "Provincia de Asturias, AS, Espanha",
     "Coordenadas": {
-      "lat": 43.0658791,
-      "lon": -6.1076553
+      "lat": 43.38312427657163,
+      "lon": -5.777436097744215
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -763,20 +785,20 @@
   },
   {
     "CodigoId": "ES-15-0003",
-    "Nome": "Palma de Mallorca - Central",
+    "Nome": "Palma de Mallorca",
     "Logradouro": "Carrer L'Heura, 22 - Bajos - Local 2",
-    "CEP": "07002",
+    "CEP": "07008",
     "Cidade": "Illa de Mallorca, IB, Espanha",
     "Coordenadas": {
-      "lat": 39.182885,
-      "lon": 2.9623941
+      "lat": 39.58649286113218,
+      "lon": 2.6773294429326406
     },
     "Agenda": {
       "DiasDeCulto": [
         "Domingo"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 16:00"
+        "Domingo": "18:30 / RJM - 16:00"
       },
       "Obs": "Localidade Palma de Mallorca CENTRAL ES-15-0003 Localização Logradouro: Carrer L'Heura, 22 - Bajos - Local 2 CEP: 07002 Cidade: Illa de Mallorca, IB, Espanha Dias de Culto Dom 18:30 (RJM Dom 16:00) Ministério Ancião ELI DA SILVA FERNANDES Diácono André Matias de Farias Telefone(s) +34 () 646 837 536"
     }
@@ -788,8 +810,8 @@
     "CEP": "28983",
     "Cidade": "Provincia de Madrid, MD, Espanha",
     "Coordenadas": {
-      "lat": 40.4148858,
-      "lon": -3.7059182
+      "lat": 40.2504524747586,
+      "lon": -3.764419073866531
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -800,7 +822,7 @@
       "Horarios": {
         "Terça-feira": "20:30",
         "Sábado": "19:30",
-        "Domingo": "RJM Dom 11:00"
+        "Domingo": "RJM - 11:00"
       },
       "Obs": "Localidade Parla ES-11-0002 Localização Logradouro: Calle Real, 120 - Nave 12 CEP: 28983 Cidade: Provincia de Madrid, MD, Espanha Dias de Culto Ter 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial José Carlos dos Santos Cooperador de Jovens e Menores Victor Felipe Santos Bighetti Telefone(s) +34 () 664 385 584"
     }
@@ -809,11 +831,11 @@
     "CodigoId": "ES-08-0009",
     "Nome": "Perillo",
     "Logradouro": "Plaza Atenea, 15",
-    "CEP": "15179",
+    "CEP": "15172",
     "Cidade": "Provincia de A Coruña, GA, Espanha",
     "Coordenadas": {
-      "lat": 43.3284104,
-      "lon": -8.3637092
+      "lat": 43.32840470557711,
+      "lon": -8.363890556740898
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -836,8 +858,8 @@
     "CEP": "36003",
     "Cidade": "Provincia de Pontevedra, GA, Espanha",
     "Coordenadas": {
-      "lat": 42.4290444,
-      "lon": -8.6464623
+      "lat": 42.42540827094212,
+      "lon": -8.651718933875232
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -854,14 +876,38 @@
     }
   },
   {
+    "CodigoId": "ES-08-0054",
+    "Nome": "Ponteareas",
+    "Logradouro": "Av. Sarmiento Rivera, 5",
+    "CEP": "36860",
+    "Cidade": "Provincia de Pontevedra, GA, Espanha",
+    "Coordenadas": {
+      "lat": 42.172774529187116,
+      "lon": -8.502133808653769
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Terça-feira",
+        "Sábado",
+        "Domingo"
+      ],
+      "Horarios": {
+        "Terça-feira": "20:30",
+        "Sábado": "19:30",
+        "Domingo": "RJM - 11:00"
+      },
+      "Obs": "Localidade Ponteareas ES-08-0054 Localização Logradouro: Av. Sarmiento Rivera, 5 CEP: 36860 Cidade: Provincia de Pontevedra, GA, Espanha Dias de Culto Ter 20:30 - Sáb 19:30 (RJM Dom 11:00) Ministério Ancião OSVALDO MEDINA NEVES Cooperador Ofício Ministerial Samuel Vieira Santos Costa Cooperador de Jovens e Menores Antônio Roberto Avila Telefone(s) +34 () 603 015 114"
+    }
+  },
+  {
     "CodigoId": "ES-05-0019",
-    "Nome": "Reus - Central",
+    "Nome": "Reus",
     "Logradouro": "Carrer Illes Medes, 4",
-    "CEP": "00043-203",
+    "CEP": "43203",
     "Cidade": "Provincia de Tarragona, CT, Espanha",
     "Coordenadas": {
-      "lat": 41.1569216,
-      "lon": 1.4228682
+      "lat": 41.16748109719743,
+      "lon": 1.126579402702484
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -877,31 +923,31 @@
     "CodigoId": "ES-01-0070",
     "Nome": "Roquetas de mar",
     "Logradouro": "Paseo de las Acacias, 9 - Local 6",
-    "CEP": "0004-720",
+    "CEP": "04720",
     "Cidade": "Provincia de Almería, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.2983144,
-      "lon": -2.1885065
+      "lat": 36.80868722250314,
+      "lon": -2.5729297102308566
     },
     "Agenda": {
       "DiasDeCulto": [
         "Sábado"
       ],
       "Horarios": {
-        "Sábado": "19:30"
+        "Sábado": "1º e 3º SÁB 19:30"
       },
-      "Obs": "Localidade Roquetas de mar ES-01-0070 Localização Logradouro: Paseo de las Acacias, 9 - Local 6 CEP: 0004-720 Cidade: Provincia de Almería, AN, Espanha Dias de Culto 1º e 3º Sáb 19:30 Ministério Cooperador Ofício Ministerial Fernando Roberto Machado Telefone(s) +34 () 681 941 855"
+      "Obs": "Localidade Roquetas de mar ES-01-0070 Localização Logradouro: Paseo de las Acacias, 9 - Local 6 CEP: 04720 Cidade: Provincia de Almería, AN, Espanha Dias de Culto 1º e 3º Sáb 19:30 Ministério Cooperador Ofício Ministerial Fernando Roberto Machado Telefone(s) +34 () 681 941 855"
     }
   },
   {
     "CodigoId": "ES-04-0004",
-    "Nome": "Salamanca - Central",
+    "Nome": "Salamanca",
     "Logradouro": "Calle Maestro Lleó, 7",
-    "CEP": "00037-008",
+    "CEP": "37008",
     "Cidade": "Salamanca, CL, Espanha",
     "Coordenadas": {
-      "lat": 40.9493675,
-      "lon": -5.6610348
+      "lat": 40.94943541400503,
+      "lon": -5.6610232505889995
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -917,22 +963,22 @@
   },
   {
     "CodigoId": "ES-15-0051",
-    "Nome": "San Francisco - Platja de Migjorn - Central",
+    "Nome": "Formentera",
     "Logradouro": "Vénda des Pí des Catalá, 2563",
-    "CEP": "00007-860",
+    "CEP": "07860",
     "Cidade": "Illa Formentera, IB, Espanha",
     "Coordenadas": {
-      "lat": 38.7062157,
-      "lon": 1.4334101
+      "lat": 38.69071302484257,
+      "lon": 1.4512948898233624
     },
     "Agenda": {
       "DiasDeCulto": [
         "Domingo"
       ],
       "Horarios": {
-        "Domingo": "16:30(inverno 01/11 al 31/03) Dom 18:30 (Verano 01/04 a 31/10"
+        "Domingo": "16:30(inverno 01/11 al 31/03) Dom 18:30 (Verano 01/04 a 31/10)"
       },
-      "Obs": "Localidade San Francisco - Platja de Migjorn CENTRAL ES-15-0051 Localização Logradouro: Vénda des Pí des Catalá, 2563 CEP: 00007-860 Cidade: Illa Formentera, IB, Espanha Dias de Culto Dom 16:30(inverno 01/11 al 31/03) Dom 18:30 (Verano 01/04 a 31/10) Ministério Cooperador Ofício Ministerial Luis Carlos de Jesus Telefone(s) +34 () 602 416 035"
+      "Obs": "Localidade Formentera CENTRAL ES-15-0051 Localização Logradouro: Vénda des Pí des Catalá, 2563 CEP: 07860 Cidade: Illa Formentera, IB, Espanha Dias de Culto Dom 16:30(inverno 01/11 al 31/03) Dom 18:30 (Verano 01/04 a 31/10) Ministério Cooperador Ofício Ministerial Luis Carlos de Jesus Telefone(s) +34 () 602 416 035"
     }
   },
   {
@@ -942,8 +988,8 @@
     "CEP": "41800",
     "Cidade": "Provincia de Sevilla, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.3870324,
-      "lon": -6.2066557
+      "lat": 37.39152759557702,
+      "lon": -6.205767428435119
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -959,13 +1005,13 @@
   },
   {
     "CodigoId": "ES-09-0001",
-    "Nome": "Santa Cruz de Tenerife - Central",
+    "Nome": "Santa Cruz de Tenerife",
     "Logradouro": "Calle Vallehermoso, 27 - Local Derecho",
     "CEP": "38108",
     "Cidade": "Isla de Tenerife, CN, Espanha",
     "Coordenadas": {
-      "lat": 28.2934654,
-      "lon": -16.3784573
+      "lat": 28.45062361718505,
+      "lon": -16.297923200004032
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -981,13 +1027,13 @@
   },
   {
     "CodigoId": "ES-01-0020",
-    "Nome": "Sevilla - Central",
+    "Nome": "Sevilla",
     "Logradouro": "Calle Cigüeña, 5",
-    "CEP": "41019",
+    "CEP": "41006",
     "Cidade": "Provincia de Sevilla, AN, Espanha",
     "Coordenadas": {
-      "lat": 37.3865708,
-      "lon": -5.9546055
+      "lat": 37.387029370965415,
+      "lon": -5.957736015829718
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -995,7 +1041,7 @@
         "Sexta-feira"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 11:00",
+        "Domingo": "18:30 / RJM - 11:00",
         "Sexta-feira": "20:30"
       },
       "Obs": "Localidade Sevilla CENTRAL ES-01-0020 Localização Logradouro: Calle Cigüeña, 5 CEP: 41019 Cidade: Provincia de Sevilla, AN, Espanha Complemento: Cerca del Comercial Los Arcos Dias de Culto Dom 18:30 - Sex 20:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial Fernando Justiniano Paz Telefone(s) +34 () 675 712 726"
@@ -1003,13 +1049,13 @@
   },
   {
     "CodigoId": "ES-06-0006",
-    "Nome": "Torrent - Central",
-    "Logradouro": "Calle Arcipreste Vicente Mengod, 18A",
+    "Nome": "Valencia",
+    "Logradouro": "Carrer de l'Arxipreste Vicente Mengod, 18, Torrent",
     "CEP": "46900",
     "Cidade": "Provincia de Valencia, VC, Espanha",
     "Coordenadas": {
-      "lat": 39.4349417,
-      "lon": -0.4695641
+      "lat": 39.43106424457838,
+      "lon": -0.4675444517975767
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1017,39 +1063,61 @@
         "Quarta-feira"
       ],
       "Horarios": {
-        "Domingo": "19:30 / RJM Dom 17:00",
+        "Domingo": "19:30 / RJM - 17:00",
         "Quarta-feira": "20:30"
       },
-      "Obs": "Localidade Torrent CENTRAL ES-06-0006 Localização Logradouro: Calle Arcipreste Vicente Mengod, 18A CEP: 46900 Cidade: Provincia de Valencia, VC, Espanha Dias de Culto Dom 19:30 - Qua 20:30 (RJM Dom 17:00) Ministério Ancião PAULO HENRIQUE FERRAO Cooperador Ofício Ministerial Ronaldo Ferreira Gonçalves Ribeiro Diácono Joel Ferrao Lopes Víctor Hugo Valdívia Orellana Cooperador de Jovens e Menores Quelison Estrela dos Santos Telefone(s) +34 () 692 965 754"
+      "Obs": "Localidade Valencia CENTRAL ES-06-0006 Localização Logradouro: Calle Arcipreste Vicente Mengod, 18A CEP: 46900 Cidade: Provincia de Valencia, VC, Espanha Dias de Culto Dom 19:30 - Qua 20:30 (RJM Dom 17:00) Ministério Ancião PAULO HENRIQUE FERRAO Cooperador Ofício Ministerial Ronaldo Ferreira Gonçalves Ribeiro Diácono Joel Ferrao Lopes Víctor Hugo Valdívia Orellana Cooperador de Jovens e Menores Quelison Estrela dos Santos Telefone(s) +34 () 692 965 754"
     }
   },
   {
     "CodigoId": "ES-10-0005",
-    "Nome": "Tudela - Central",
+    "Nome": "Tudela",
     "Logradouro": "Calle Domingo Gaztelu, Local 3",
-    "CEP": "00031-500",
+    "CEP": "31500",
     "Cidade": "Tudela, NC, Espanha",
     "Coordenadas": {
-      "lat": 42.078314,
-      "lon": -1.638662
+      "lat": 42.05178505920998,
+      "lon": -1.601084608026467
+    },
+    "Agenda": {
+      "DiasDeCulto": [
+        "Sábado"
+      ],
+      "Horarios": {
+        "Sábado": "2º e 4º Sáb 19:30"
+      },
+      "Obs": "Localidade Tudela CENTRAL ES-10-0005 Localização Logradouro: Calle Domingo Gaztelu, Local 3 CEP: 31500 Cidade: Tudela, NC, Espanha Dias de Culto 2º e 4º Sáb 19:30 Ministério Cooperador Ofício Ministerial Emerson Brito Silva"
+    }
+  },
+  {
+    "CodigoId": "ES-10-0001",
+    "Nome": "Pamplona",
+    "Logradouro": "Calle de Bartolomé de Carranza, 62 - Bajo (Entrada por la Calle Manuel Iribarren)",
+    "CEP": "31008",
+    "Cidade": "Pamplona, NC, Espanha",
+    "Coordenadas": {
+      "lat": 42.81208189089861,
+      "lon": -1.6717947530395691
     },
     "Agenda": {
       "DiasDeCulto": [
         "Domingo"
       ],
-      "Horarios": {},
-      "Obs": "Localidade Tudela CENTRAL ES-10-0005 Localização Logradouro: Calle Domingo Gaztelu, Local 3 CEP: 00031-500 Cidade: Tudela, NC, Espanha Dias de Culto 2º e 4º Sáb 19:30 Ministério Cooperador Ofício Ministerial Emerson Brito Silva"
+      "Horarios": {
+        "Domingo": "18:30"
+      },
+      "Obs": "Localidade Pamplona ES-10-0001 Localização Logradouro: Calle de Bartolomé de Carranza, 62 - Bajo (Entrada por la Calle Manuel Iribarren) CEP: 31008 Cidade: Pamplona, NC, Espanha Dias de Culto Domingo 18:30 Ministério Cooperador Ofício Ministerial Marcio Roberto"
     }
   },
   {
     "CodigoId": "ES-04-0003",
-    "Nome": "Valladolid - Central",
+    "Nome": "Valladolid",
     "Logradouro": "Calle Caballería, 42",
     "CEP": "47013",
     "Cidade": "Provincia de Valladolid, CL, Espanha",
     "Coordenadas": {
-      "lat": 41.6321303,
-      "lon": -4.7235151
+      "lat": 41.632119827271524,
+      "lon": -4.7235567772960145
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1059,7 +1127,7 @@
       ],
       "Horarios": {
         "Quarta-feira": "20:30",
-        "Sábado": "19:00",
+        "Sábado": "RJM - 19:00",
         "Domingo": "18:30"
       },
       "Obs": "Localidade Valladolid CENTRAL ES-04-0003 Localização Logradouro: Calle Caballería, 42 CEP: 47013 Cidade: Provincia de Valladolid, CL, Espanha Dias de Culto DN 4N (RJM-SN) Culto Oficial Domingo - 18:30 - es_ES Quarta-feira - 20:30 - es_ES Reunião de Jovens e Menores Sábado - 19:00 - es_ES Ministério Cooperador Ofício Ministerial Aldemir de Paiva Cooperador de Jovens e Menores Orlando Da Silva Telefone(s) +34 () 656 562 704"
@@ -1067,13 +1135,13 @@
   },
   {
     "CodigoId": "ES-08-0008",
-    "Nome": "Vigo - Central",
-    "Logradouro": "Rua Manoel Alvarez, 6 - Planta Baja",
-    "CEP": "36215",
+    "Nome": "Vigo",
+    "Logradouro": "Estrada Vella de Madrid, 73B",
+    "CEP": "36214",
     "Cidade": "Provincia de Pontevedra, GA, Espanha",
     "Coordenadas": {
-      "lat": 42.2259018,
-      "lon": -8.6774733
+      "lat": 42.21874140946899,
+      "lon": -8.691138616343444
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1081,7 +1149,7 @@
         "Quinta-feira"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 11:00",
+        "Domingo": "18:30 / RJM - 11:00",
         "Quinta-feira": "20:30"
       },
       "Obs": "Localidade Vigo CENTRAL ES-08-0008 Localização Logradouro: Rua Manoel Alvarez, 6 - Planta Baja CEP: 36215 Cidade: Provincia de Pontevedra, GA, Espanha Dias de Culto Dom 18:30 - Qui 20:30 (RJM Dom 11:00) Ministério Ancião ILÁRIO COSTADELLI HONORATO Cooperador Ofício Ministerial Silvano Lino Marques Diácono Matosalem Tavares da Rocha Cooperador de Jovens e Menores Samuel Bernardo da Silva Telefone(s) +34 () 651 642 934"
@@ -1089,13 +1157,13 @@
   },
   {
     "CodigoId": "ES-14-0063",
-    "Nome": "Vitoria - Central",
-    "Logradouro": "Calle Capelamendi, 16",
+    "Nome": "Vitoria - Gasteiz",
+    "Logradouro": "Kapelamendi Kalea, 16",
     "CEP": "01013",
     "Cidade": "Provincia de Álava, PV, Espanha",
     "Coordenadas": {
-      "lat": 42.8470972,
-      "lon": -2.6754758
+      "lat": 42.869914154421785,
+      "lon": -2.6433829100151836
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1104,7 +1172,7 @@
         "Sexta-feira"
       ],
       "Horarios": {
-        "Domingo": "18:30 / RJM Dom 11:00",
+        "Domingo": "18:30 / RJM - 11:00",
         "Terça-feira": "Ter",
         "Sexta-feira": "20:30"
       },
@@ -1118,8 +1186,8 @@
     "CEP": "29700",
     "Cidade": "Provincia de Málaga, AN, Espanha",
     "Coordenadas": {
-      "lat": 36.7829552,
-      "lon": -4.1045526
+      "lat": 36.78318178687163,
+      "lon": -4.103891294128962
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1127,7 +1195,7 @@
         "Quinta-feira"
       ],
       "Horarios": {
-        "Domingo": "19:30 / RJM Dom 11:00",
+        "Domingo": "19:30 / RJM - 11:00",
         "Quinta-feira": "20:30"
       },
       "Obs": "Localidade Vélez - Málaga ES-01-0009 Localização Logradouro: Calle Federico Macias, 1 CEP: 29700 Cidade: Provincia de Málaga, AN, Espanha Dias de Culto Dom 19:30 - Qui 20:30 (RJM Dom 11:00) Ministério Cooperador Ofício Ministerial Angimar Ramos da Silva Telefone(s) +34 () 688 338 497"
@@ -1135,13 +1203,13 @@
   },
   {
     "CodigoId": "ES-02-0002",
-    "Nome": "Zaragoza - Central",
+    "Nome": "Zaragoza",
     "Logradouro": "Calle Amapola, 8",
     "CEP": "50012",
     "Cidade": "Provincia de Zaragoza, AR, Espanha",
     "Coordenadas": {
-      "lat": 41.64095,
-      "lon": -0.9282521
+      "lat": 41.64094097288937,
+      "lon": -0.9281817448695749
     },
     "Agenda": {
       "DiasDeCulto": [
@@ -1150,7 +1218,7 @@
         "Domingo"
       ],
       "Horarios": {
-        "Quarta-feira": "20:30",
+        "Quarta-feira": "2ª e 4ª Qua 20:30",
         "Sábado": "19:30",
         "Domingo": "RJM 1º e 3º Dom 11:00"
       },
