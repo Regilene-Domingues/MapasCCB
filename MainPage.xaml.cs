@@ -311,6 +311,8 @@ namespace CCB_Mapas_App
 		{
 			PaisAtual = pais;
 
+			CountryButton.Text = $"{PaisAtual!.Bandeira} {PaisAtual.Nome} ▾";
+
 			await EnviarDadosParaJS();
 
 			Debug.WriteLine($"🌍 País alterado para: {PaisAtual.Nome}");
