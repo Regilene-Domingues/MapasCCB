@@ -15,18 +15,20 @@ namespace CCB_Mapas_App
 	{
 		private readonly ChurchService _churchService;
 		private readonly PaisService _paisService;
+		private readonly PreferenceService _preferenceService;
 		private bool mapLoaded = false;
 		private static readonly HttpClient _httpClient = new HttpClient { DefaultRequestHeaders = { { "User-Agent", "CCBMapasApp/1.0" } } };
 		private List<Pais> _paises = new();
 		private Pais? PaisAtual;
 
-		public MainPage(ChurchService churchService, PaisService paisService)
+		public MainPage(ChurchService churchService, PaisService paisService, PreferenceService preferenceService)
 		{
 			_churchService = churchService;
 			_paisService = paisService;
+			_preferenceService = preferenceService;
 
 			InitializeComponent();
-			_ = CarregarPaisesAsync();
+			_ = InicializarAplicativoAsync();			
 
 			MapWebView.Navigating += (s, e) =>
 			{
@@ -286,6 +288,50 @@ namespace CCB_Mapas_App
 
 			await MapWebView.EvaluateJavaScriptAsync("clearSearchLocation()");
 		}
+
+		private async Task InicializarAplicativoAsync()
+		{
+			await CarregarPaisesAsync();
+
+			if (_preferenceService.JaConfigurado())
+			{
+				Debug.WriteLine("✅ Usuário já configurou o aplicativo.");
+
+				var pais = _paises.FirstOrDefault(p => p.Codigo == "PT");
+
+				if (pais != null)
+					await TrocarPaisAsync(pais);
+			}
+			else
+			{
+				Debug.WriteLine("🆕 Primeira execução do aplicativo.");
+
+				var pais = _paises.FirstOrDefault(p => p.Codigo == "PT");
+
+				if (pais != null)
+					await TrocarPaisAsync(pais);
+
+				await MostrarEscolhaInicialAsync();
+			}
+		}
+
+		private async Task MostrarEscolhaInicialAsync()
+		{
+			var opcao = await DisplayActionSheet(
+			   "Visualizar Congregações",
+			   "Cancelar",
+			   null,
+			   "📍 Minha localização",
+			   "🌍 Escolher um país");
+
+			Debug.WriteLine($"Opção escolhida: {opcao}");
+
+			if (opcao == "🌍 Escolher um país")
+			{
+				await MostrarSeletorDePaisesAsync();
+			}
+		}
+
 		private async Task CarregarPaisesAsync()
 		{
 			try
@@ -293,13 +339,6 @@ namespace CCB_Mapas_App
 				_paises = await _paisService.GetPaisesAsync();
 
 				Debug.WriteLine($"🌍 Países carregados: {_paises.Count}");
-
-				var pais = _paises.FirstOrDefault(p => p.Codigo == "PT");
-
-				if (pais != null)
-				{
-					await TrocarPaisAsync(pais);
-				}
 			}
 			catch (Exception ex)
 			{
@@ -318,7 +357,7 @@ namespace CCB_Mapas_App
 			Debug.WriteLine($"🌍 País alterado para: {PaisAtual.Nome}");
 		}
 
-		private async void CountryButton_Clicked(object sender, EventArgs e)
+		private async Task MostrarSeletorDePaisesAsync()
 		{
 			var opcoes = _paises
 				.Where(p => p.Ativo)
@@ -338,6 +377,11 @@ namespace CCB_Mapas_App
 			{
 				await TrocarPaisAsync(pais);
 			}
+		}
+
+		private async void CountryButton_Clicked(object sender, EventArgs e)
+		{
+			await MostrarSeletorDePaisesAsync();
 		}
 
 		private async Task EnviarDadosParaJS()

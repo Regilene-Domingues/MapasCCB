@@ -22,6 +22,7 @@ public static class MauiProgram
 		builder.Services.AddSingleton<ChurchService>();
 		builder.Services.AddTransient<MainPage>();
 		builder.Services.AddSingleton<PaisService>();
+		builder.Services.AddSingleton<PreferenceService>();
 		// ================================================================
 
 #if DEBUG
