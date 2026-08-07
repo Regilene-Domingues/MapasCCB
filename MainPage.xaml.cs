@@ -413,9 +413,15 @@ namespace CCB_Mapas_App
 		{
 			try
 			{
+				if (!mapLoaded)
+				{
+					Debug.WriteLine("🗺️ Aguardando a WebView ficar pronta para enviar as congregações.");
+					return;
+				}
+
 				if (PaisAtual == null)
 				{
-					Debug.WriteLine("🌍 Nenhum país selecionado.");
+					Debug.WriteLine("🌍 Aguardando a seleção de um país para enviar as congregações.");
 					return;
 				}
 				Debug.WriteLine("📦 Preparando dados JSON para enviar ao JavaScript...");
