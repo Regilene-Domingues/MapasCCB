@@ -294,34 +294,38 @@ namespace CCB_Mapas_App
 
 		private async Task InicializarAplicativoAsync()
 		{
-#if DEBUG
-			_preferenceService.Limpar();
-#endif
 			await CarregarPaisesAsync();
 
-			if (_preferenceService.JaConfigurado())
+			if (!_preferenceService.JaConfigurado())
 			{
-				Debug.WriteLine("✅ Usuário já configurou o aplicativo.");
-
-				var modoVisualizacao = _preferenceService.GetModoVisualizacao();
-
-				if (modoVisualizacao == "Pais")
-				{
-					var codigoPais = _preferenceService.GetPaisSelecionado();
-
-					var pais = _paises.FirstOrDefault(p => p.Codigo == codigoPais);
-
-					if (pais != null)
-					{
-						await TrocarPaisAsync(pais);
-					}
-				}
-			}
-			else
-			{
-				Debug.WriteLine("🆕 Primeira execução do aplicativo.");				
-
+				Debug.WriteLine("🆕 Primeira execução do aplicativo.");
+				_preferenceService.Limpar();
 				await MostrarEscolhaInicialAsync();
+				return;
+			}
+
+			Debug.WriteLine("✅ Usuário já configurou o aplicativo.");
+
+			var modoVisualizacao = _preferenceService.GetModoVisualizacao();
+
+			if (modoVisualizacao == PreferenceService.ModoPais)
+			{
+				var codigoPais = _preferenceService.GetPaisSelecionado();
+				var pais = _paises.FirstOrDefault(p => p.Ativo && p.Codigo == codigoPais);
+
+				if (pais != null)
+				{
+					await TrocarPaisAsync(pais);
+					return;
+				}
+
+				Debug.WriteLine("⚠️ País persistido inválido ou indisponível.");
+				_preferenceService.Limpar();
+				await MostrarEscolhaInicialAsync();
+			}
+			else if (modoVisualizacao == PreferenceService.ModoLocalizacao)
+			{
+				Debug.WriteLine("📍 Modo de visualização por localização restaurado.");
 			}
 		}
 
@@ -338,10 +342,12 @@ namespace CCB_Mapas_App
 
 			Debug.WriteLine($"Opção escolhida: {opcao}");
 
-			if (opcao == "🌍 Escolher um país")
+			if (opcao == "📍 Minha localização")
 			{
-				_preferenceService.SetModoVisualizacao("Pais");
-
+				_preferenceService.SalvarConfiguracaoLocalizacao();
+			}
+			else if (opcao == "🌍 Escolher um país")
+			{
 				await MostrarSeletorDePaisesAsync();
 			}
 		}
@@ -364,7 +370,7 @@ namespace CCB_Mapas_App
 		{
 			PaisAtual = pais;
 
-			_preferenceService.SetPaisSelecionado(PaisAtual.Codigo);
+			_preferenceService.SalvarConfiguracaoPais(PaisAtual.Codigo);
 
 			CountryButton.Text = $"{PaisAtual.Bandeira} {PaisAtual.Nome} ▾";
 

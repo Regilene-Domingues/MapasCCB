@@ -4,6 +4,9 @@ namespace CCB_Mapas_App.Services
 {
 	public class PreferenceService
 	{
+		public const string ModoPais = "Pais";
+		public const string ModoLocalizacao = "Localizacao";
+
 		private const string ChaveModoVisualizacao = "ModoVisualizacao";
 		private const string ChavePaisSelecionado = "PaisSelecionado";
 
@@ -12,9 +15,10 @@ namespace CCB_Mapas_App.Services
 			return Preferences.Get(ChaveModoVisualizacao, string.Empty);
 		}
 
-		public void SetModoVisualizacao(string modo)
+		public void SalvarConfiguracaoLocalizacao()
 		{
-			Preferences.Set(ChaveModoVisualizacao, modo);
+			Preferences.Set(ChaveModoVisualizacao, ModoLocalizacao);
+			Preferences.Remove(ChavePaisSelecionado);
 		}
 
 		public string? GetPaisSelecionado()
@@ -22,14 +26,18 @@ namespace CCB_Mapas_App.Services
 			return Preferences.Get(ChavePaisSelecionado, string.Empty);
 		}
 
-		public void SetPaisSelecionado(string codigoPais)
+		public void SalvarConfiguracaoPais(string codigoPais)
 		{
 			Preferences.Set(ChavePaisSelecionado, codigoPais);
+			Preferences.Set(ChaveModoVisualizacao, ModoPais);
 		}
 
 		public bool JaConfigurado()
 		{
-			return !string.IsNullOrWhiteSpace(GetModoVisualizacao());
+			var modo = GetModoVisualizacao();
+
+			return modo == ModoLocalizacao ||
+				(modo == ModoPais && !string.IsNullOrWhiteSpace(GetPaisSelecionado()));
 		}
 
 		public void Limpar()
