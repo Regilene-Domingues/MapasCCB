@@ -101,7 +101,7 @@ namespace CCB_Mapas_App
 				_ = InicializarAplicativoAsync();
 			}
 
-			_ = MapWebView.EvaluateJavaScriptAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
+			_ = ExecutarJavaScriptQuandoMapaProntoAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
 		}
 
 		public void ForcarAtualizacao()
@@ -109,7 +109,7 @@ namespace CCB_Mapas_App
 			Dispatcher.Dispatch(async () =>
 			{
 				Debug.WriteLine("🔄 Forçando atualização dos pinos...");
-				await MapWebView.EvaluateJavaScriptAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
+				await ExecutarJavaScriptQuandoMapaProntoAsync("if (typeof atualizarCoresPinos === 'function') { atualizarCoresPinos(); }");
 			});
 		}
 
@@ -129,7 +129,7 @@ namespace CCB_Mapas_App
 				{
 					string lat = cachedLocation.Latitude.ToString(CultureInfo.InvariantCulture);
 					string lon = cachedLocation.Longitude.ToString(CultureInfo.InvariantCulture);
-					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
+					await ExecutarJavaScriptQuandoMapaProntoAsync($"centralizarNoUsuario({lat}, {lon})");
 				}
 
 				var request = new GeolocationRequest(GeolocationAccuracy.Default, TimeSpan.FromSeconds(30));
@@ -139,7 +139,7 @@ namespace CCB_Mapas_App
 				{
 					string lat = location.Latitude.ToString(CultureInfo.InvariantCulture);
 					string lon = location.Longitude.ToString(CultureInfo.InvariantCulture);
-					await MapWebView.EvaluateJavaScriptAsync($"centralizarNoUsuario({lat}, {lon})");
+					await ExecutarJavaScriptQuandoMapaProntoAsync($"centralizarNoUsuario({lat}, {lon})");
 				}
 			}
 			catch (Exception ex)
@@ -284,17 +284,12 @@ namespace CCB_Mapas_App
 		{
 			var lat = latitude.ToString(CultureInfo.InvariantCulture);
 			var lon = longitude.ToString(CultureInfo.InvariantCulture);
-			await MapWebView.EvaluateJavaScriptAsync($"setSearchLocation({lat}, {lon})");
+			await ExecutarJavaScriptQuandoMapaProntoAsync($"setSearchLocation({lat}, {lon})");
 		}
 
 		private async Task LimparPesquisaNoMapaAsync()
 		{
-			if (!mapLoaded)
-			{
-				return;
-			}
-
-			await MapWebView.EvaluateJavaScriptAsync("clearSearchLocation()");
+			await ExecutarJavaScriptQuandoMapaProntoAsync("clearSearchLocation()");
 		}
 
 		private async Task InicializarAplicativoAsync()
@@ -430,10 +425,29 @@ namespace CCB_Mapas_App
 				var json = System.Text.Json.JsonSerializer.Serialize(churches);
 				var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(json));
 				var script = $"(function(){{ try {{ if(typeof receiveDataFromMaui === 'function') {{ receiveDataFromMaui('{base64}'); return 'ok_receive'; }} if(typeof loadChurchesBase64 === 'function') {{ loadChurchesBase64('{base64}'); return 'ok_load'; }} return 'nofunc'; }} catch(e) {{ return 'err:' + e.message; }} }})();";
-				var res = await MapWebView.EvaluateJavaScriptAsync(script);
+				var res = await ExecutarJavaScriptQuandoMapaProntoAsync(script);
 				Debug.WriteLine("JS send result: " + (res ?? "(null)"));
 			}
 			catch (Exception ex) { Debug.WriteLine($"❌ Erro ao enviar dados: {ex.Message}"); }
+		}
+
+		private async Task<string?> ExecutarJavaScriptQuandoMapaProntoAsync(string script)
+		{
+			if (!mapLoaded)
+			{
+				Debug.WriteLine("🗺️ Aguardando a WebView ficar pronta para executar JavaScript.");
+				return null;
+			}
+
+			try
+			{
+				return await MapWebView.EvaluateJavaScriptAsync(script);
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao executar JavaScript: {ex.Message}");
+				return null;
+			}
 		}
 
 		private async Task TratarRota(string url)
