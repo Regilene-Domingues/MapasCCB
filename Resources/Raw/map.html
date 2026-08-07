@@ -88,6 +88,16 @@
     var hasUserLocation = (typeof hasUserLocation !== 'undefined') ? hasUserLocation : false;
     var userMarker = null;
     var userAccuracyCircle = null;
+    var mauiReadyNotified = false;
+
+    function notifyMauiWebViewReady() {
+      if (mauiReadyNotified) {
+        return;
+      }
+
+      mauiReadyNotified = true;
+      window.location.href = 'https://app.local/webviewReady';
+    }
 
     function initMap() {
       if (map || typeof L === 'undefined') {
@@ -111,6 +121,8 @@
         if (typeof hasUserLocation !== 'undefined' && hasUserLocation) {
           desenharPosicaoUsuario(lat, lon);
         }
+
+        notifyMauiWebViewReady();
     }
 
       function addLocateControl() {

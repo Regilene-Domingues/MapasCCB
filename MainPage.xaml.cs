@@ -34,7 +34,18 @@ namespace CCB_Mapas_App
 			{
 				if (e.Url != null)
 				{
-					if (e.Url.StartsWith("https://app.local/pegarLocalizacao"))
+					if (e.Url.StartsWith("https://app.local/webviewReady", StringComparison.OrdinalIgnoreCase))
+					{
+						e.Cancel = true;
+
+						if (!mapLoaded)
+						{
+							mapLoaded = true;
+							Debug.WriteLine("✅ WebView e mapa prontos.");
+							_ = EnviarDadosParaJS();
+						}
+					}
+					else if (e.Url.StartsWith("https://app.local/pegarLocalizacao"))
 					{
 						e.Cancel = true;
 						_ = ObterLocalizacaoEEnviarParaMapa();
@@ -74,16 +85,6 @@ namespace CCB_Mapas_App
                             }
 						}
 					}
-				}
-			};
-
-			MapWebView.Navigated += async (s, e) =>
-			{
-				if (!mapLoaded)
-				{
-					mapLoaded = true;
-                  await Task.Delay(500);
-					await EnviarDadosParaJS();
 				}
 			};
 
