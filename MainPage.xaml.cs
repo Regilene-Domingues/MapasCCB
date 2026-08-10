@@ -337,11 +337,109 @@ namespace CCB_Mapas_App
 
 			if (opcao == "📍 Minha localização")
 			{
+             // Mantém o comportamento de salvar a escolha do usuário
 				_preferenceService.SalvarConfiguracaoLocalizacao();
+				// Executa rotina segura: centraliza no usuário, tenta detectar país e pede confirmação antes de trocar
+				await SelecionarPorLocalizacaoAsync();
 			}
 			else if (opcao == "🌍 Escolher um país")
 			{
 				await MostrarSeletorDePaisesAsync();
+			}
+		}
+
+		private async Task SelecionarPorLocalizacaoAsync()
+		{
+			try
+			{
+          // Solicita permissão uma vez; se negada, oferece abrir configurações ou voltar ao menu
+			var status = await Permissions.RequestAsync<Permissions.LocationWhenInUse>();
+			if (status != PermissionStatus.Granted)
+			{
+				var escolha = await DisplayActionSheet("Permissão necessária", "Voltar ao menu", null, "Abrir configurações");
+				if (escolha == "Abrir configurações")
+				{
+					try
+					{
+						Microsoft.Maui.ApplicationModel.AppInfo.ShowSettingsUI();
+					}
+					catch (Exception ex)
+					{
+						Debug.WriteLine($"❌ Erro ao abrir configurações: {ex.Message}");
+					}
+					// Volta ao menu para o usuário escolher novamente após abrir configurações
+					await MostrarEscolhaInicialAsync();
+					return;
+				}
+				else
+				{
+					// Voltar ao menu inicial para o usuário escolher outra opção
+					await MostrarEscolhaInicialAsync();
+					return;
+				}
+			}
+
+				Location? location = null;
+				location = await Geolocation.Default.GetLastKnownLocationAsync();
+
+				if (location == null)
+				{
+					location = await Geolocation.Default.GetLocationAsync(new GeolocationRequest(GeolocationAccuracy.Medium, TimeSpan.FromSeconds(15)));
+				}
+
+				if (location == null)
+				{
+					await DisplayAlert("Localização", "Não foi possível obter sua localização.", "OK");
+					return;
+				}
+
+				double lat = location.Latitude;
+				double lon = location.Longitude;
+
+				// Centraliza e desenha o marcador no mapa (reaproveita JS existente)
+				await ExecutarJavaScriptQuandoMapaProntoAsync($"centralizarNoUsuario({lat.ToString(CultureInfo.InvariantCulture)}, {lon.ToString(CultureInfo.InvariantCulture)})");
+
+				try
+				{
+					var url = $"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat.ToString(CultureInfo.InvariantCulture)}&lon={lon.ToString(CultureInfo.InvariantCulture)}&zoom=3&addressdetails=1";
+					var json = await _httpClient.GetStringAsync(url);
+					using var doc = System.Text.Json.JsonDocument.Parse(json);
+					if (doc.RootElement.TryGetProperty("address", out var address))
+					{
+						if (address.TryGetProperty("country_code", out var countryCodeProp))
+						{
+							var countryCode = countryCodeProp.GetString();
+							if (!string.IsNullOrWhiteSpace(countryCode))
+							{
+								countryCode = countryCode.ToUpperInvariant();
+								var pais = _paises.FirstOrDefault(p => p.Ativo && string.Equals(p.Codigo, countryCode, StringComparison.OrdinalIgnoreCase));
+								if (pais == null)
+								{
+									await DisplayAlert("País não suportado", "Nenhum dado disponível para o país detectado.", "OK");
+									return;
+								}
+
+								var confirmar = await DisplayAlert("País detectado", $"Detectamos {pais.Bandeira} {pais.Nome}. Deseja carregar as congregações deste país?", "Sim", "Não");
+								if (confirmar)
+								{
+									await TrocarPaisAsync(pais);
+								}
+								return;
+							}
+						}
+					}
+					await DisplayAlert("País não detectado", "Não foi possível identificar o país a partir da sua localização.", "OK");
+				}
+				catch (Exception ex)
+				{
+					Debug.WriteLine($"❌ Erro no reverse geocoding: {ex.Message}");
+					await DisplayAlert("Erro", "Não foi possível identificar o país. Tente novamente mais tarde.", "OK");
+				}
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao selecionar por localização: {ex.Message}");
+				await DisplayAlert("Erro", "Ocorreu um erro ao obter a localização.", "OK");
 			}
 		}
 

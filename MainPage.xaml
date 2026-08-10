@@ -27,7 +27,7 @@
                         BorderColor="Transparent"
                         BorderWidth="0"
                         Text="País ▾"
-                        TextColor="Black"
+                        TextColor="Gray"
                         Clicked="CountryButton_Clicked"/>
 
                 <BoxView HeightRequest="1"
