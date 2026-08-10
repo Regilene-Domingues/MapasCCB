@@ -294,38 +294,31 @@ namespace CCB_Mapas_App
 
 		private async Task InicializarAplicativoAsync()
 		{
-			await CarregarPaisesAsync();
+            // Carrega países sempre que inicializamos
+			await CarregarPaisesAsync();			
 
-			if (!_preferenceService.JaConfigurado())
+			// NOVA LÓGICA: sempre mostrar o menu inicial em cada abertura do aplicativo.
+			// Não restauramos automaticamente a visualização anterior aqui.
+			Debug.WriteLine("📋 Exibindo menu inicial (execução padrão a cada abertura).");
+			await MostrarEscolhaInicialAsync();
+			return;
+		}
+
+		// Método público para que o App (lifecycle) possa solicitar a exibição do menu ao retornar do background.
+		public async Task MostrarEscolhaInicialPublicaAsync()
+		{
+			try
 			{
-				Debug.WriteLine("🆕 Primeira execução do aplicativo.");
-				_preferenceService.Limpar();
-				await MostrarEscolhaInicialAsync();
-				return;
-			}
-
-			Debug.WriteLine("✅ Usuário já configurou o aplicativo.");
-
-			var modoVisualizacao = _preferenceService.GetModoVisualizacao();
-
-			if (modoVisualizacao == PreferenceService.ModoPais)
-			{
-				var codigoPais = _preferenceService.GetPaisSelecionado();
-				var pais = _paises.FirstOrDefault(p => p.Ativo && p.Codigo == codigoPais);
-
-				if (pais != null)
+				// Garantir que os países estejam carregados antes de exibir o menu
+				if (_paises == null || _paises.Count == 0)
 				{
-					await TrocarPaisAsync(pais);
-					return;
+					await CarregarPaisesAsync();
 				}
-
-				Debug.WriteLine("⚠️ País persistido inválido ou indisponível.");
-				_preferenceService.Limpar();
 				await MostrarEscolhaInicialAsync();
 			}
-			else if (modoVisualizacao == PreferenceService.ModoLocalizacao)
+			catch (Exception ex)
 			{
-				Debug.WriteLine("📍 Modo de visualização por localização restaurado.");
+				Debug.WriteLine($"❌ Erro ao requisitar menu inicial: {ex.Message}");
 			}
 		}
 
