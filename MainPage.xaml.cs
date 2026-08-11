@@ -32,57 +32,100 @@ namespace CCB_Mapas_App
 
 			MapWebView.Navigating += (s, e) =>
 			{
-				if (e.Url != null)
+				if (e.Url == null) return;
+
+				// Priorizar sinais internos (app.local)
+				if (e.Url.StartsWith("https://app.local/webviewReady", StringComparison.OrdinalIgnoreCase))
 				{
-					if (e.Url.StartsWith("https://app.local/webviewReady", StringComparison.OrdinalIgnoreCase))
+					e.Cancel = true;
+					if (!mapLoaded)
 					{
-						e.Cancel = true;
+						mapLoaded = true;
+						Debug.WriteLine("✅ WebView e mapa prontos.");
+						_ = EnviarDadosParaJS();
+					}
+					return;
+				}
 
-						if (!mapLoaded)
+				if (e.Url.StartsWith("https://app.local/churchesLoaded", StringComparison.OrdinalIgnoreCase))
+				{
+					e.Cancel = true;
+					try
+					{
+						var uri = new Uri(e.Url);
+						int count = -1;
+						var query = uri.Query.TrimStart('?');
+						foreach (var part in query.Split('&', StringSplitOptions.RemoveEmptyEntries))
 						{
-							mapLoaded = true;
-							Debug.WriteLine("✅ WebView e mapa prontos.");
-							_ = EnviarDadosParaJS();
-						}
-					}
-					else if (e.Url.StartsWith("https://app.local/pegarLocalizacao"))
-					{
-						e.Cancel = true;
-						_ = ObterLocalizacaoEEnviarParaMapa();
-					}
-					else if (e.Url.StartsWith("https://app.local/rota"))
-					{
-						e.Cancel = true;
-						_ = TratarRota(e.Url);
-					}
-					else if (e.Url.StartsWith("http://") || e.Url.StartsWith("https://") || e.Url.StartsWith("google.navigation:") || e.Url.StartsWith("waze://"))
-					{
-						e.Cancel = true;
-						
-						string url = e.Url;
-
-						// Ajuste para busca, não rota
-						if (url.StartsWith("google.navigation:"))
-						{
-							url = url.Replace("google.navigation:q=", "https://www.google.com/maps/search/?api=1&query=");
+							var nv = part.Split('=');
+							if (nv.Length >= 2)
+							{
+								var key = Uri.UnescapeDataString(nv[0]);
+								var val = Uri.UnescapeDataString(nv[1]);
+								if (key == "count" && int.TryParse(val, out var v)) count = v;
+							}
 						}
 
-						try
+						Dispatcher.Dispatch(async () =>
 						{
-							_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(url));
-						}
-						catch (Exception)
+							HideLoading();
+							Debug.WriteLine($"✅ JS reported churches loaded: {count}");
+							if (count == 0)
+							{
+								await DisplayAlert("Nenhuma congregação", "Nenhuma congregação encontrada para o país selecionado.", "OK");
+							}
+						});
+					}
+					catch (Exception ex)
+					{
+						Debug.WriteLine($"❌ Erro ao processar churchesLoaded: {ex.Message}");
+						HideLoading();
+					}
+					return;
+				}
+
+				if (e.Url.StartsWith("https://app.local/pegarLocalizacao", StringComparison.OrdinalIgnoreCase))
+				{
+					e.Cancel = true;
+					_ = ObterLocalizacaoEEnviarParaMapa();
+					return;
+				}
+
+				if (e.Url.StartsWith("https://app.local/rota", StringComparison.OrdinalIgnoreCase))
+				{
+					e.Cancel = true;
+					_ = TratarRota(e.Url);
+					return;
+				}
+
+				// Links externos: ignore app.local
+				if ((e.Url.StartsWith("http://", StringComparison.OrdinalIgnoreCase) || e.Url.StartsWith("https://", StringComparison.OrdinalIgnoreCase)) &&
+					!e.Url.StartsWith("https://app.local", StringComparison.OrdinalIgnoreCase) || e.Url.StartsWith("google.navigation:") || e.Url.StartsWith("waze://"))
+				{
+					e.Cancel = true;
+					string url = e.Url;
+
+					// Ajuste para busca, não rota
+					if (url.StartsWith("google.navigation:", StringComparison.OrdinalIgnoreCase))
+					{
+						url = url.Replace("google.navigation:q=", "https://www.google.com/maps/search/?api=1&query=");
+					}
+
+					try
+					{
+						_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(url));
+					}
+					catch (Exception)
+					{
+						if (url.StartsWith("waze://", StringComparison.OrdinalIgnoreCase))
 						{
-                            if (url.StartsWith("waze://"))
-                            {
-                                var latLonMatch = System.Text.RegularExpressions.Regex.Match(url, @"ll=([^&]+)");
-                                if (latLonMatch.Success)
-                                {
-                                    string latLon = latLonMatch.Groups[1].Value;
-                                    string fallbackUrl = $"https://www.google.com/maps/search/?api=1&query={latLon}";
-                                    _ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(fallbackUrl));
-                                }
-                            }
+							var latLonMatch = System.Text.RegularExpressions.Regex.Match(url, @"ll=([^&]+)");
+							if (latLonMatch.Success)
+							{
+								string latLon = latLonMatch.Groups[1].Value;
+								string fallbackUrl = $"https://www.google.com/maps/search/?api=1&query={latLon}";
+								_ = Microsoft.Maui.ApplicationModel.Launcher.Default.OpenAsync(new Uri(fallbackUrl));
+							}
 						}
 					}
 				}
@@ -459,15 +502,57 @@ namespace CCB_Mapas_App
 
 		private async Task TrocarPaisAsync(Pais pais)
 		{
-			PaisAtual = pais;
+           PaisAtual = pais;
 
 			_preferenceService.SalvarConfiguracaoPais(PaisAtual.Codigo);
 
 			CountryButton.Text = $"{PaisAtual.Bandeira} {PaisAtual.Nome} ▾";
 
-			await EnviarDadosParaJS();
+			// Mostrar feedback visual enquanto carregamos as congregações
+			ShowLoading("Carregando congregações...");
+			try
+			{
+				await EnviarDadosParaJS();
+			}
+			finally
+			{
+				HideLoading();
+			}
 
 			Debug.WriteLine($"🌍 País alterado para: {PaisAtual.Nome}");
+		}
+
+		private void ShowLoading(string message)
+		{
+			try
+			{
+				Dispatcher.Dispatch(() =>
+				{
+					LoadingLabel.Text = message;
+					LoadingIndicator.IsRunning = true;
+					LoadingOverlay.IsVisible = true;
+				});
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao mostrar overlay de carregamento: {ex.Message}");
+			}
+		}
+
+		private void HideLoading()
+		{
+			try
+			{
+				Dispatcher.Dispatch(() =>
+				{
+					LoadingIndicator.IsRunning = false;
+					LoadingOverlay.IsVisible = false;
+				});
+			}
+			catch (Exception ex)
+			{
+				Debug.WriteLine($"❌ Erro ao esconder overlay de carregamento: {ex.Message}");
+			}
 		}
 
 		private async Task MostrarSeletorDePaisesAsync()
@@ -522,7 +607,7 @@ namespace CCB_Mapas_App
 				var json = System.Text.Json.JsonSerializer.Serialize(churches);
 				var base64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(json));
 				var script = $"(function(){{ try {{ if(typeof receiveDataFromMaui === 'function') {{ receiveDataFromMaui('{base64}'); return 'ok_receive'; }} if(typeof loadChurchesBase64 === 'function') {{ loadChurchesBase64('{base64}'); return 'ok_load'; }} return 'nofunc'; }} catch(e) {{ return 'err:' + e.message; }} }})();";
-				var res = await ExecutarJavaScriptQuandoMapaProntoAsync(script);
+                var res = await ExecutarJavaScriptQuandoMapaProntoAsync(script);
 				Debug.WriteLine("JS send result: " + (res ?? "(null)"));
 			}
 			catch (Exception ex) { Debug.WriteLine($"❌ Erro ao enviar dados: {ex.Message}"); }

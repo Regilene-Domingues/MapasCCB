@@ -474,6 +474,37 @@
       }
 
       console.log('churches loaded: ' + bounds.length);
+      try {
+        // Ajusta vista para os marcadores e avisa o host MAUI quando terminar
+        if (typeof fitToChurchBounds === 'function') {
+          fitToChurchBounds();
+        }
+      } catch (e) {
+        console.error('error while fitting bounds', e);
+      }
+
+      try {
+        // Sinaliza ao MAUI que o carregamento terminou, enviando a contagem
+        window.location.href = 'https://app.local/churchesLoaded?count=' + bounds.length;
+      } catch (e) {
+        console.error('error while notifying maui', e);
+      }
+    }
+
+    function fitToChurchBounds() {
+      try {
+        initMap();
+        if (!map || !churchLayer) return 'no_map';
+        var bounds = churchLayer.getBounds();
+        if (!bounds || (typeof bounds.isValid === 'function' && !bounds.isValid()) || (Array.isArray(bounds) && bounds.length === 0)) {
+          return 'no_bounds';
+        }
+        map.fitBounds(bounds, { padding: [24, 24] });
+        return 'ok';
+      } catch (e) {
+        console.error('fitToChurchBounds error', e);
+        return 'error';
+      }
     }
 
     function loadChurchesBase64(base64) {

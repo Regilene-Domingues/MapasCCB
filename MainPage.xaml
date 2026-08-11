@@ -32,7 +32,7 @@
 
                 <BoxView HeightRequest="1"
                          VerticalOptions="End"
-                         Color="#0D47A1"
+                         Color="#808080"
                          InputTransparent="True"/>
 
             </Grid>
@@ -43,6 +43,29 @@
                  Grid.Row="2"
                  HorizontalOptions="Fill"
                  VerticalOptions="Fill"/>
+
+        <!-- Overlay de carregamento -->
+        <Grid x:Name="LoadingOverlay"
+              Grid.RowSpan="3"
+              BackgroundColor="#80000000"
+              IsVisible="False"
+              InputTransparent="False"
+              HorizontalOptions="Fill"
+              VerticalOptions="Fill">
+
+            <Frame BackgroundColor="White"
+                   CornerRadius="8"
+                   Padding="16"
+                   HasShadow="True"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="8">
+                    <ActivityIndicator x:Name="LoadingIndicator" IsRunning="False" WidthRequest="48" HeightRequest="48" />
+                    <Label x:Name="LoadingLabel" Text="Carregando..." TextColor="Black" HorizontalTextAlignment="Center" />
+                </StackLayout>
+            </Frame>
+
+        </Grid>
 
     </Grid>
 
