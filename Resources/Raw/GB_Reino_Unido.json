@@ -706,29 +706,5 @@
       },
       "Obs": "Localidade Willesden (London) CENTRAL GB-01-0004 Localização Logradouro: Cullingworth Road CEP: NW10 1ET Cidade: Willesden, LND, Inglaterra (reino Unido) Complemento: Gladstone Park Primary School Dias de Culto Ter 20:00 (Inglês) - Sáb 19:00 (Português) 4º Sáb (Inglês) (RJM Dom 10:00 - Inglês) Ministério Cooperador Ofício Ministerial Rafael Theodoro de Souza Diácono Francisco Antonio Ferrari José Fernandes de Souza Neto Cooperador de Jovens e Menores Pedro Miguel Figueira Geraldes"
     }
-  },
-  {
-    "CodigoId": "TE-04-0001",
-    "Nome": "Pepper Memorial Building - Central",
-    "Logradouro": "260 Tandragee Road",
-    "CEP": "BT62 3RB",
-    "Cidade": "Portadown, ARM, IRLANDA DO NORTE (REINO UNIDO)",
-    "Coordenadas": {
-      "lat": 54.39935169631027,
-      "lon": -6.441258695914045
-    },
-    "Agenda": {
-      "DiasDeCulto": [
-        "Quarta-feira",
-        "Sábado",
-        "Domingo"
-      ],
-      "Horarios": {
-        "Quarta-feira": "20:00 (Português)",
-        "Sábado": "19:30 (Português",
-        "Domingo": "RJM Dom 10:30 - Inglês"
-      },
-      "Obs": "Localidade Pepper Memorial Building CENTRAL TE-04-0001 Localização Logradouro: 260 Tandragee Road CEP: BT62 3RB Cidade: Portadown, ARM, IRLANDA DO NORTE (REINO UNIDO) Dias de Culto Qua 20:00 (Português) - Sáb 19:30 (Português) (RJM Dom 10:30 - Inglês) Ministério Cooperador Ofício Ministerial Rogério da Silva de Lima Diácono Anderson de Oliveira Silva Cooperador de Jovens e Menores Jhonata Miclos Queiroz Telefone(s) +44 (77) 6293-7611"
-    }
   }
 ]

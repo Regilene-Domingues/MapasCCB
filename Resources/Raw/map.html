@@ -114,7 +114,8 @@
         attribution: '© OpenStreetMap'
       }).addTo(map);
 
-        churchLayer = L.layerGroup().addTo(map);
+        // Use a FeatureGroup so we can call getBounds() later
+        churchLayer = L.featureGroup().addTo(map);
         map.addControl(addLocateControl());
         console.log('map initialized at: ' + lat + ', ' + lon);
 
