@@ -456,11 +456,19 @@ namespace CCB_Mapas_App
 							{
 								countryCode = countryCode.ToUpperInvariant();
 								var pais = _paises.FirstOrDefault(p => p.Ativo && string.Equals(p.Codigo, countryCode, StringComparison.OrdinalIgnoreCase));
-								if (pais == null)
+                           if (pais == null)
+							{
+								// Mostrar mensagem mais útil e oferecer ao usuário abrir o seletor de países
+								string detectedName = null;
+								if (address.TryGetProperty("country", out var countryNameProp))
 								{
-									await DisplayAlert("País não suportado", "Nenhum dado disponível para o país detectado.", "OK");
-									return;
+									detectedName = countryNameProp.GetString();
 								}
+								if (string.IsNullOrWhiteSpace(detectedName)) detectedName = countryCode;
+								await DisplayAlert("País sem dados", $"Detectamos {detectedName}, mas não temos dados para esse país.", "Escolher país");
+								await MostrarSeletorDePaisesAsync();
+								return;
+							}
 
 								var confirmar = await DisplayAlert("País detectado", $"Detectamos {pais.Bandeira} {pais.Nome}. Deseja carregar as congregações deste país?", "Sim", "Não");
 								if (confirmar)
